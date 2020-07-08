@@ -1,0 +1,24 @@
+<map id="xmipp.viewer.windows.SaveJDialog" name="xmipp.viewer.windows.SaveJDialog">
+<area shape="rect" id="node2" href="$classxmipp_1_1utils_1_1XmippDialog.html" title="This class serve as a simple JDialog extension. " alt="" coords="884,188,1047,215"/>
+<area shape="rect" id="node36" href="$classxmipp_1_1utils_1_1QuickHelpJDialog.html" title="xmipp.utils.QuickHelpJDialog" alt="" coords="178,607,373,633"/>
+<area shape="rect" id="node13" href="$classxmipp_1_1viewer_1_1windows_1_1SaveJDialog_1_1BrowseField.html" title="xmipp.viewer.windows.Save\lJDialog.BrowseField" alt="" coords="181,29,369,70"/>
+<area shape="rect" id="node17" href="$classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html" title="This is the main frame used in showj. " alt="" coords="866,765,1065,806"/>
+<area shape="rect" id="node10" href="$classxmipp_1_1utils_1_1XmippFileChooser.html" title="Xmipp customization of the default XmippFileChooser. " alt="" coords="512,485,708,512"/>
+<area shape="rect" id="node15" href="$classxmipp_1_1viewer_1_1models_1_1GalleryData.html" title="This class will serve to store important data about the gallery. " alt="" coords="1238,915,1457,941"/>
+<area shape="rect" id="node21" href="$classxmipp_1_1viewer_1_1models_1_1ImageGalleryTableModel.html" title="xmipp.viewer.models.Image\lGalleryTableModel" alt="" coords="1605,1286,1791,1327"/>
+<area shape="rect" id="node19" href="$interfacexmipp_1_1viewer_1_1ctf_1_1iCTFGUI.html" title="xmipp.viewer.ctf.iCTFGUI" alt="" coords="523,899,697,925"/>
+<area shape="rect" id="node23" href="$classxmipp_1_1viewer_1_1models_1_1GalleryColumnModel.html" title="xmipp.viewer.models.Gallery\lColumnModel" alt="" coords="1252,1526,1443,1567"/>
+<area shape="rect" id="node25" href="$classxmipp_1_1utils_1_1Cache.html" title="xmipp.utils.Cache\&lt;\l String, xmipp.viewer.models.\lImageGalleryTableModel.ImageItem \&gt;" alt="" coords="1225,1344,1469,1400"/>
+<area shape="rect" id="node26" href="$classxmipp_1_1viewer_1_1ImageDimension.html" title="Simple class to store image dimensions. " alt="" coords="1247,1424,1448,1451"/>
+<area shape="rect" id="node27" href="$classxmipp_1_1viewer_1_1ImageItemRenderer.html" title="xmipp.viewer.ImageItemRenderer" alt="" coords="1238,1475,1457,1501"/>
+<area shape="rect" id="node31" href="$classxmipp_1_1viewer_1_1ctf_1_1TasksEngine.html" title="xmipp.viewer.ctf.TasksEngine" alt="" coords="511,599,709,625"/>
+<area shape="rect" id="node32" href="$interfacexmipp_1_1viewer_1_1ctf_1_1iTaskCompletionListener.html" title="xmipp.viewer.ctf.iTaskCompletion\lListener" alt="" coords="165,541,385,582"/>
+<area shape="rect" id="node34" href="$classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1GalleryMenu.html" title="xmipp.viewer.windows.Gallery\lJFrame.GalleryMenu" alt="" coords="511,666,709,707"/>
+<area shape="rect" id="node35" href="$classxmipp_1_1utils_1_1XmippMenuBarCreator.html" title="xmipp.utils.XmippMenuBar\lCreator" alt="" coords="186,666,365,707"/>
+<area shape="rect" id="node47" href="$classxmipp_1_1utils_1_1Params.html" title="xmipp.utils.Params" alt="" coords="898,901,1033,928"/>
+<area shape="rect" id="node38" href="$classxmipp_1_1viewer_1_1models_1_1ColumnInfo.html" title="This class will store info about how to display label on gallery. " alt="" coords="857,851,1073,877"/>
+<area shape="rect" id="node40" href="$classxmipp_1_1jni_1_1MetaData.html" title="Binding class for accessing C++ MetaData implementation. " alt="" coords="898,384,1033,411"/>
+<area shape="rect" id="node42" href="$classxmipp_1_1viewer_1_1models_1_1ClassInfo.html" title="Structure to store class info. " alt="" coords="863,1293,1068,1320"/>
+<area shape="rect" id="node43" href="$classxmipp_1_1utils_1_1ColorIcon.html" title="The ColoredRectangleIcon will paint a simple rectagle icon. " alt="" coords="537,1293,683,1320"/>
+<area shape="rect" id="node46" href="$enumxmipp_1_1viewer_1_1models_1_1GalleryData_1_1Mode.html" title="xmipp.viewer.models.Gallery\lData.Mode" alt="" coords="870,1177,1061,1218"/>
+</map>

@@ -1,3 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classCluster.html" title="Cluster" alt="" coords="5,5,69,32"/>
+<area shape="rect" id="node1" href="$classClassificationDataSet.html" title="ClassificationDataSet\l\&lt; FeatureVector, Label \&gt;" alt="" coords="5,15,172,57"/>
+<area shape="rect" id="node2" href="$classCodeBook.html" title="This class implements a codebook. " alt="" coords="257,31,340,57"/>
+<area shape="rect" id="node3" href="$classClassificationMap.html" title="This class implements a Map of the type used by Kohonen Algorithms. " alt="" coords="425,5,552,32"/>
+<area shape="rect" id="node4" href="$classFuzzyCodeBook.html" title="This class implements an specific Data Structure for Fuzzy algorithms. " alt="" coords="429,56,548,83"/>
+<area shape="rect" id="node5" href="$classFuzzyMap.html" title="This class implements a Fuzzy Map of the type used by Fuzzy mapping Algorithms. " alt="" coords="600,56,683,83"/>
+<area shape="rect" id="node6" href="$classClassificationTrainingSet.html" title="ClassificationTrainingSet\l\&lt; FeatureVector, Label \&gt;" alt="" coords="5,81,172,122"/>
+<area shape="rect" id="node7" href="$classClassicTrainingVectors.html" title="This class implements all the necessary functionality for classic training vectors. " alt="" coords="220,88,377,115"/>
 </map>

@@ -96,14 +96,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="xmipp__mpi_8h_source.html">xmipp_mpi.h</a>&gt;</code></p>
+<p>This class is another implementation of <a class="el" href="classParallelTaskDistributor.html" title="This class distributes dynamically N tasks between parallel workers. ">ParallelTaskDistributor</a> with MPI workers.  
+ <a href="classMpiTaskDistributor.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="xmipp__mpi_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/parallel/xmipp_mpi.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for MpiTaskDistributor:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMpiTaskDistributor__inherit__graph.png" border="0" usemap="#MpiTaskDistributor_inherit__map" alt="Inheritance graph"/></div>
 <map name="MpiTaskDistributor_inherit__map" id="MpiTaskDistributor_inherit__map">
-<area shape="rect" id="node2" href="classThreadTaskDistributor.html" title="ThreadTaskDistributor" alt="" coords="7,80,158,107"/>
-<area shape="rect" id="node3" href="classParallelTaskDistributor.html" title="ParallelTaskDistributor" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="classThreadTaskDistributor.html" title="This class is a concrete implementation of ParallelTaskDistributor for POSIX threads. " alt="" coords="7,80,158,107"/>
+<area shape="rect" id="node3" href="classParallelTaskDistributor.html" title="This class distributes dynamically N tasks between parallel workers. " alt="" coords="5,5,160,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -111,10 +114,10 @@ Collaboration diagram for MpiTaskDistributor:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMpiTaskDistributor__coll__graph.png" border="0" usemap="#MpiTaskDistributor_coll__map" alt="Collaboration graph"/></div>
 <map name="MpiTaskDistributor_coll__map" id="MpiTaskDistributor_coll__map">
-<area shape="rect" id="node2" href="classThreadTaskDistributor.html" title="ThreadTaskDistributor" alt="" coords="73,95,223,121"/>
-<area shape="rect" id="node3" href="classParallelTaskDistributor.html" title="ParallelTaskDistributor" alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node4" href="classMutex.html" title="Mutex" alt="" coords="184,5,243,32"/>
-<area shape="rect" id="node5" href="classMpiNode.html" title="MpiNode" alt="" coords="248,95,323,121"/>
+<area shape="rect" id="node2" href="classThreadTaskDistributor.html" title="This class is a concrete implementation of ParallelTaskDistributor for POSIX threads. " alt="" coords="73,95,223,121"/>
+<area shape="rect" id="node3" href="classParallelTaskDistributor.html" title="This class distributes dynamically N tasks between parallel workers. " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node4" href="classMutex.html" title="Class wrapping around the pthreads mutex. " alt="" coords="184,5,243,32"/>
+<area shape="rect" id="node5" href="classMpiNode.html" title="Class to wrapp some MPI common calls in an work node. " alt="" coords="248,95,323,121"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -123,6 +126,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a462f4319dcc924d105cac8d0c02c0a91"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMpiTaskDistributor.html#a462f4319dcc924d105cac8d0c02c0a91">MpiTaskDistributor</a> (size_t nTasks, size_t bSize, <a class="el" href="classMpiNode.html">MpiNode</a> *<a class="el" href="classMpiTaskDistributor.html#aeea9f51ab9332aeb2989ba6677be056d">node</a>)</td></tr>
 <tr class="separator:a462f4319dcc924d105cac8d0c02c0a91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4f97d5f7b051a9b40509fa3202b0050"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMpiTaskDistributor.html#ae4f97d5f7b051a9b40509fa3202b0050">wait</a> ()</td></tr>
+<tr class="memdesc:ae4f97d5f7b051a9b40509fa3202b0050"><td class="mdescLeft">&#160;</td><td class="mdescRight">All nodes wait until distribution is done.  <a href="#ae4f97d5f7b051a9b40509fa3202b0050">More...</a><br /></td></tr>
 <tr class="separator:ae4f97d5f7b051a9b40509fa3202b0050"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classThreadTaskDistributor"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classThreadTaskDistributor')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classThreadTaskDistributor.html">ThreadTaskDistributor</a></td></tr>
 <tr class="memitem:a647f7ec18360ffceb8de7942fb26eca9 inherit pub_methods_classThreadTaskDistributor"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classThreadTaskDistributor.html#a647f7ec18360ffceb8de7942fb26eca9">ThreadTaskDistributor</a> (size_t nTasks, size_t bSize)</td></tr>
@@ -133,16 +137,22 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a37cb784db60b1239f2d533799a8a538d inherit pub_methods_classThreadTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classParallelTaskDistributor"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classParallelTaskDistributor')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classParallelTaskDistributor.html">ParallelTaskDistributor</a></td></tr>
 <tr class="memitem:a55e2190917368e56d93c2ebfbde4fc58 inherit pub_methods_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a55e2190917368e56d93c2ebfbde4fc58">ParallelTaskDistributor</a> (size_t nTasks, size_t bSize)</td></tr>
+<tr class="memdesc:a55e2190917368e56d93c2ebfbde4fc58 inherit pub_methods_classParallelTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a55e2190917368e56d93c2ebfbde4fc58">More...</a><br /></td></tr>
 <tr class="separator:a55e2190917368e56d93c2ebfbde4fc58 inherit pub_methods_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad360a1d0c473bea6c372b8bb08d66e3e inherit pub_methods_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#ad360a1d0c473bea6c372b8bb08d66e3e">~ParallelTaskDistributor</a> ()</td></tr>
+<tr class="memdesc:ad360a1d0c473bea6c372b8bb08d66e3e inherit pub_methods_classParallelTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#ad360a1d0c473bea6c372b8bb08d66e3e">More...</a><br /></td></tr>
 <tr class="separator:ad360a1d0c473bea6c372b8bb08d66e3e inherit pub_methods_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a43c066204d2ba9b764cbac0495b29f1b inherit pub_methods_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a43c066204d2ba9b764cbac0495b29f1b">clear</a> ()</td></tr>
+<tr class="memdesc:a43c066204d2ba9b764cbac0495b29f1b inherit pub_methods_classParallelTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight">Restart the number of assigned tasks and distribution again.  <a href="#a43c066204d2ba9b764cbac0495b29f1b">More...</a><br /></td></tr>
 <tr class="separator:a43c066204d2ba9b764cbac0495b29f1b inherit pub_methods_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee19fdbf7e394c3d92d92483f3b65016 inherit pub_methods_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#aee19fdbf7e394c3d92d92483f3b65016">setBlockSize</a> (size_t bSize)</td></tr>
+<tr class="memdesc:aee19fdbf7e394c3d92d92483f3b65016 inherit pub_methods_classParallelTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the number of tasks assigned in each request.  <a href="#aee19fdbf7e394c3d92d92483f3b65016">More...</a><br /></td></tr>
 <tr class="separator:aee19fdbf7e394c3d92d92483f3b65016 inherit pub_methods_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a91c698255b7685a7caf7a39c7cd0ede4 inherit pub_methods_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a91c698255b7685a7caf7a39c7cd0ede4">getBlockSize</a> () const </td></tr>
+<tr class="memdesc:a91c698255b7685a7caf7a39c7cd0ede4 inherit pub_methods_classParallelTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the number of tasks assigned in each request.  <a href="#a91c698255b7685a7caf7a39c7cd0ede4">More...</a><br /></td></tr>
 <tr class="separator:a91c698255b7685a7caf7a39c7cd0ede4 inherit pub_methods_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a28f70bcc333b8b06d7571db06c67bdc3 inherit pub_methods_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a28f70bcc333b8b06d7571db06c67bdc3">getTasks</a> (size_t &amp;<a class="el" href="example_8cpp.html#a848f440bf07226576d4e883f552bec25">first</a>, size_t &amp;last)</td></tr>
+<tr class="memdesc:a28f70bcc333b8b06d7571db06c67bdc3 inherit pub_methods_classParallelTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets parallel tasks.  <a href="#a28f70bcc333b8b06d7571db06c67bdc3">More...</a><br /></td></tr>
 <tr class="separator:a28f70bcc333b8b06d7571db06c67bdc3 inherit pub_methods_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a62feecaf828ca1a57c44540f40e29561 inherit pub_methods_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a62feecaf828ca1a57c44540f40e29561">setAssignedTasks</a> (size_t tasks)</td></tr>
 <tr class="separator:a62feecaf828ca1a57c44540f40e29561 inherit pub_methods_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -163,7 +173,7 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:aeea9f51ab9332aeb2989ba6677be056d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classThreadTaskDistributor"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classThreadTaskDistributor')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classThreadTaskDistributor.html">ThreadTaskDistributor</a></td></tr>
 <tr class="memitem:a8cbc0ac52a24cf3004aad77f8cf4cd30 inherit pro_attribs_classThreadTaskDistributor"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classMutex.html">Mutex</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classThreadTaskDistributor.html#a8cbc0ac52a24cf3004aad77f8cf4cd30">mutex</a></td></tr>
-<tr class="memdesc:a8cbc0ac52a24cf3004aad77f8cf4cd30 inherit pro_attribs_classThreadTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classMutex.html">Mutex</a> to synchronize access to critical region.  <a href="#a8cbc0ac52a24cf3004aad77f8cf4cd30">More...</a><br /></td></tr>
+<tr class="memdesc:a8cbc0ac52a24cf3004aad77f8cf4cd30 inherit pro_attribs_classThreadTaskDistributor"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classMutex.html" title="Class wrapping around the pthreads mutex. ">Mutex</a> to synchronize access to critical region.  <a href="#a8cbc0ac52a24cf3004aad77f8cf4cd30">More...</a><br /></td></tr>
 <tr class="separator:a8cbc0ac52a24cf3004aad77f8cf4cd30 inherit pro_attribs_classThreadTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classParallelTaskDistributor"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classParallelTaskDistributor')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classParallelTaskDistributor.html">ParallelTaskDistributor</a></td></tr>
 <tr class="memitem:a07946da5f99cee0a11e8ede939335896 inherit pro_attribs_classParallelTaskDistributor"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a07946da5f99cee0a11e8ede939335896">blockSize</a></td></tr>
@@ -178,7 +188,8 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a421bc0b36ebb7294d09d1ddcc4a5a8c0 inherit pub_attribs_classParallelTaskDistributor"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>This class is another implementation of <a class="el" href="classParallelTaskDistributor.html">ParallelTaskDistributor</a> with MPI workers. It extends from <a class="el" href="classThreadTaskDistributor.html">ThreadTaskDistributor</a> and adds the MPI call for making the distribution and extra locking mechanisms among MPI nodes. </p>
+<div class="textblock"><p>This class is another implementation of <a class="el" href="classParallelTaskDistributor.html" title="This class distributes dynamically N tasks between parallel workers. ">ParallelTaskDistributor</a> with MPI workers. </p>
+<p>It extends from <a class="el" href="classThreadTaskDistributor.html" title="This class is a concrete implementation of ParallelTaskDistributor for POSIX threads. ">ThreadTaskDistributor</a> and adds the MPI call for making the distribution and extra locking mechanisms among MPI nodes. </p>
 
 <p>Definition at line <a class="el" href="xmipp__mpi_8h_source.html#l00089">89</a> of file <a class="el" href="xmipp__mpi_8h_source.html">xmipp_mpi.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -256,7 +267,7 @@ Additional Inherited Members</h2></td></tr>
 <p>Definition at line <a class="el" href="xmipp__mpi_8cpp_source.html#l00037">37</a> of file <a class="el" href="xmipp__mpi_8cpp_source.html">xmipp_mpi.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;{</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="classMpiTaskDistributor.html#aeea9f51ab9332aeb2989ba6677be056d">node</a>-&gt;<a class="code" href="classMpiNode.html#ae1fb9dff0cf844224962278252661dc3">isMaster</a>() ? distributeMaster() : distributeSlaves(<a class="code" href="numerical__recipes_8cpp.html#acaec38248b66cfba849985072bd311f6">first</a>, last);</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;}</div><div class="ttc" id="numerical__recipes_8cpp_html_acaec38248b66cfba849985072bd311f6"><div class="ttname"><a href="numerical__recipes_8cpp.html#acaec38248b66cfba849985072bd311f6">first</a></div><div class="ttdeci">glob_log first</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l05218">numerical_recipes.cpp:5218</a></div></div>
 <div class="ttc" id="classMpiTaskDistributor_html_aeea9f51ab9332aeb2989ba6677be056d"><div class="ttname"><a href="classMpiTaskDistributor.html#aeea9f51ab9332aeb2989ba6677be056d">MpiTaskDistributor::node</a></div><div class="ttdeci">MpiNode * node</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__mpi_8h_source.html#l00092">xmipp_mpi.h:92</a></div></div>
-<div class="ttc" id="classMpiNode_html_ae1fb9dff0cf844224962278252661dc3"><div class="ttname"><a href="classMpiNode.html#ae1fb9dff0cf844224962278252661dc3">MpiNode::isMaster</a></div><div class="ttdeci">bool isMaster() const </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__mpi_8cpp_source.html#l00164">xmipp_mpi.cpp:164</a></div></div>
+<div class="ttc" id="classMpiNode_html_ae1fb9dff0cf844224962278252661dc3"><div class="ttname"><a href="classMpiNode.html#ae1fb9dff0cf844224962278252661dc3">MpiNode::isMaster</a></div><div class="ttdeci">bool isMaster() const </div><div class="ttdoc">Check if the node is master. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__mpi_8cpp_source.html#l00164">xmipp_mpi.cpp:164</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -272,10 +283,12 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>All nodes wait until distribution is done. In particular, the master node should wait for the distribution thread. </p>
+
+<p>All nodes wait until distribution is done. </p>
+<p>In particular, the master node should wait for the distribution thread. </p>
 
 <p>Definition at line <a class="el" href="xmipp__mpi_8cpp_source.html#l00083">83</a> of file <a class="el" href="xmipp__mpi_8cpp_source.html">xmipp_mpi.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;{</div><div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    <a class="code" href="classMpiTaskDistributor.html#aeea9f51ab9332aeb2989ba6677be056d">node</a>-&gt;<a class="code" href="classMpiNode.html#a7470d68d501681a1838295d5e95694a3">barrierWait</a>();</div><div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;}</div><div class="ttc" id="classMpiNode_html_a7470d68d501681a1838295d5e95694a3"><div class="ttname"><a href="classMpiNode.html#a7470d68d501681a1838295d5e95694a3">MpiNode::barrierWait</a></div><div class="ttdeci">void barrierWait()</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__mpi_8cpp_source.html#l00169">xmipp_mpi.cpp:169</a></div></div>
+<div class="fragment"><div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;{</div><div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    <a class="code" href="classMpiTaskDistributor.html#aeea9f51ab9332aeb2989ba6677be056d">node</a>-&gt;<a class="code" href="classMpiNode.html#a7470d68d501681a1838295d5e95694a3">barrierWait</a>();</div><div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;}</div><div class="ttc" id="classMpiNode_html_a7470d68d501681a1838295d5e95694a3"><div class="ttname"><a href="classMpiNode.html#a7470d68d501681a1838295d5e95694a3">MpiNode::barrierWait</a></div><div class="ttdeci">void barrierWait()</div><div class="ttdoc">Wait on a barrier for the other MPI nodes. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__mpi_8cpp_source.html#l00169">xmipp_mpi.cpp:169</a></div></div>
 <div class="ttc" id="classMpiTaskDistributor_html_aeea9f51ab9332aeb2989ba6677be056d"><div class="ttname"><a href="classMpiTaskDistributor.html#aeea9f51ab9332aeb2989ba6677be056d">MpiTaskDistributor::node</a></div><div class="ttdeci">MpiNode * node</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__mpi_8h_source.html#l00092">xmipp_mpi.h:92</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -304,8 +317,8 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/parallel/<a class="el" href="xmipp__mpi_8h_source.html">xmipp_mpi.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/parallel/<a class="el" href="xmipp__mpi_8cpp_source.html">xmipp_mpi.cpp</a></li>
+<li>xmipp/libraries/parallel/<a class="el" href="xmipp__mpi_8h_source.html">xmipp_mpi.h</a></li>
+<li>xmipp/libraries/parallel/<a class="el" href="xmipp__mpi_8cpp_source.html">xmipp_mpi.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

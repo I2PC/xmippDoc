@@ -87,19 +87,25 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">Error handling</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>The error handling is performed in two different ways depending on the configuration selected for Xmipp in the file xmippConfiguration: a simple error management and a second method based on C++ exceptions.  
+<a href="#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classXmippError.html">XmippError</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Report error without any extra message.  <a href="classXmippError.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
 Macros</h2></td></tr>
 <tr class="memitem:ga8767825ad89d6e6ef72d3734a746e589"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__ErrorHandling.html#ga8767825ad89d6e6ef72d3734a746e589">XMIPP_TRY</a>&#160;&#160;&#160;try{</td></tr>
+<tr class="memdesc:ga8767825ad89d6e6ef72d3734a746e589"><td class="mdescLeft">&#160;</td><td class="mdescRight">MACROs that process XMIPP exceptions.  <a href="#ga8767825ad89d6e6ef72d3734a746e589">More...</a><br /></td></tr>
 <tr class="separator:ga8767825ad89d6e6ef72d3734a746e589"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga4aedac817d1b51736c32201b95099dbf"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__ErrorHandling.html#ga4aedac817d1b51736c32201b95099dbf">XMIPP_CATCH</a></td></tr>
 <tr class="separator:ga4aedac817d1b51736c32201b95099dbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga4ab7f9b2fd1ec4b9efcfba0c9b33052c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__ErrorHandling.html#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">REPORT_ERROR</a>(nerr,  ErrormMsg)&#160;&#160;&#160;throw <a class="el" href="classXmippError.html">XmippError</a>(nerr, ErrormMsg, __FILE__, __LINE__)</td></tr>
+<tr class="memdesc:ga4ab7f9b2fd1ec4b9efcfba0c9b33052c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Show message and throw exception.  <a href="#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">More...</a><br /></td></tr>
 <tr class="separator:ga4ab7f9b2fd1ec4b9efcfba0c9b33052c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
@@ -193,15 +199,17 @@ Enumerations</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ga04712b4b971c6a733b67e4b243eca4bf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__ErrorHandling.html#ga04712b4b971c6a733b67e4b243eca4bf">_Xmipp_error</a> (const <a class="el" href="group__ErrorHandling.html#gab0df38968e4f03a3f1f6d6df0f31f45a">ErrorType</a> nerr, const <a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a> &amp;what, const <a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a> &amp;file, const long line)</td></tr>
+<tr class="memdesc:ga04712b4b971c6a733b67e4b243eca4bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Show message and exit.  <a href="#ga04712b4b971c6a733b67e4b243eca4bf">More...</a><br /></td></tr>
 <tr class="separator:ga04712b4b971c6a733b67e4b243eca4bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga665d0601096fedced6de173b58082ad1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__ErrorHandling.html#ga665d0601096fedced6de173b58082ad1">reportWarning</a> (const <a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a> &amp;what)</td></tr>
+<tr class="memdesc:ga665d0601096fedced6de173b58082ad1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Print a report warning and continue the execution.  <a href="#ga665d0601096fedced6de173b58082ad1">More...</a><br /></td></tr>
 <tr class="separator:ga665d0601096fedced6de173b58082ad1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<p>The error handling is performed in two different ways depending on the configuration selected for Xmipp in the file xmippConfiguration: a simple error management and a second method based on C++ exceptions.</p>
+<p>The error handling is performed in two different ways depending on the configuration selected for Xmipp in the file xmippConfiguration: a simple error management and a second method based on C++ exceptions. </p>
 <p>The first method aborts the program with an error code (different for each error) while the second throws an exception which might be caught by an external routine or program.</p>
 <p>The prototype definitions in both cases are the same as they are based on some macros which change with the configuration. Here goes a programming example considering both implementations.</p>
-<div class="fragment"><div class="line"><span class="comment">// Class definition</span></div><div class="line"><span class="keyword">class </span>ReconstructingVolume :</div><div class="line">{</div><div class="line">...</div><div class="line">void write(<span class="keyword">const</span> <a class="code" href="classFileName.html">FileName</a>&amp; fn) <span class="keyword">const</span>;</div><div class="line">...</div><div class="line">};</div><div class="line"></div><div class="line"><span class="comment">// Class implementation</span></div><div class="line"><span class="keywordtype">void</span> ReconstructingVolume::write(<span class="keyword">const</span> <a class="code" href="classFileName.html">FileName</a>&amp; fn)<span class="keyword"> const</span></div><div class="line"><span class="keyword"></span>{</div><div class="line">...</div><div class="line">if (...)</div><div class="line">    <a class="code" href="group__ErrorHandling.html#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">REPORT_ERROR</a>(<a class="code" href="group__ErrorHandling.html#ggab0df38968e4f03a3f1f6d6df0f31f45aaba89018a8188da52ee900de49a93ed78">ERR_MULTIDIM_SIZE</a>, <span class="stringliteral">&quot;Volume too small to be stored&quot;</span>);</div><div class="line">...</div><div class="line">}</div><div class="line"></div><div class="line"><span class="comment">// Use of this class in an external program</span></div><div class="line"><span class="keyword">using</span> std::cout;</div><div class="line"><span class="keyword">using</span> std::endl;</div><div class="line">...</div><div class="line">#ifndef _NO_EXCEPTION</div><div class="line"><span class="keywordflow">try</span></div><div class="line">{</div><div class="line">    vol_blobs.write(fn_blobs);</div><div class="line">}</div><div class="line"><span class="keywordflow">catch</span> (<a class="code" href="classXmippError.html">XmippError</a> XE)</div><div class="line">{</div><div class="line">    std::cout &lt;&lt; XE;</div><div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;The reconstructed volume is too small to be saved in blobs&quot;</span>;</div><div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;So, there is no blob version of it at this iteration&quot;</span>;</div><div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;I go on processing&quot;</span> &lt;&lt; std::endl;</div><div class="line">}</div><div class="line"><span class="preprocessor">#else</span></div><div class="line">vol_blobs.write(fn_blobs);</div><div class="line"><span class="preprocessor">#endif</span></div><div class="line"><span class="preprocessor"> ...</span></div></div><!-- fragment --><p>You see that the routine implementation is the same in both cases but the external program varies from one to the other as in the exception case we can catch the exception and go on processing, while in the exit mode, the program always is aborted. If you don't put the routine in a try-catch structure and an exception is thrown then a core is generated and the program is automatically aborted. </p>
+<div class="fragment"><div class="line"><span class="comment">// Class definition</span></div><div class="line"><span class="keyword">class </span>ReconstructingVolume :</div><div class="line">{</div><div class="line">...</div><div class="line">void <a class="code" href="namespacepython_1_1tompy_1_1io.html#aef0f48d28574deb9e4f2df6aa17887d9">write</a>(<span class="keyword">const</span> <a class="code" href="classFileName.html">FileName</a>&amp; fn) <span class="keyword">const</span>;</div><div class="line">...</div><div class="line">};</div><div class="line"></div><div class="line"><span class="comment">// Class implementation</span></div><div class="line"><span class="keywordtype">void</span> <a class="code" href="namespacepython_1_1tompy_1_1io.html#aef0f48d28574deb9e4f2df6aa17887d9">ReconstructingVolume::write</a>(<span class="keyword">const</span> <a class="code" href="classFileName.html">FileName</a>&amp; fn)<span class="keyword"> const</span></div><div class="line"><span class="keyword"></span>{</div><div class="line">...</div><div class="line">if (...)</div><div class="line">    <a class="code" href="group__ErrorHandling.html#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">REPORT_ERROR</a>(<a class="code" href="group__ErrorHandling.html#ggab0df38968e4f03a3f1f6d6df0f31f45aaba89018a8188da52ee900de49a93ed78">ERR_MULTIDIM_SIZE</a>, <span class="stringliteral">&quot;Volume too small to be stored&quot;</span>);</div><div class="line">...</div><div class="line">}</div><div class="line"></div><div class="line"><span class="comment">// Use of this class in an external program</span></div><div class="line"><span class="keyword">using</span> std::cout;</div><div class="line"><span class="keyword">using</span> std::endl;</div><div class="line">...</div><div class="line">#ifndef _NO_EXCEPTION</div><div class="line"><span class="keywordflow">try</span></div><div class="line">{</div><div class="line">    vol_blobs.write(fn_blobs);</div><div class="line">}</div><div class="line"><span class="keywordflow">catch</span> (<a class="code" href="classXmippError.html">XmippError</a> XE)</div><div class="line">{</div><div class="line">    std::cout &lt;&lt; XE;</div><div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;The reconstructed volume is too small to be saved in blobs&quot;</span>;</div><div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;So, there is no blob version of it at this iteration&quot;</span>;</div><div class="line">    std::cout &lt;&lt; <span class="stringliteral">&quot;I go on processing&quot;</span> &lt;&lt; std::endl;</div><div class="line">}</div><div class="line"><span class="preprocessor">#else</span></div><div class="line">vol_blobs.write(fn_blobs);</div><div class="line"><span class="preprocessor">#endif</span></div><div class="line"><span class="preprocessor"> ...</span></div></div><!-- fragment --><p>You see that the routine implementation is the same in both cases but the external program varies from one to the other as in the exception case we can catch the exception and go on processing, while in the exit mode, the program always is aborted. If you don't put the routine in a try-catch structure and an exception is thrown then a core is generated and the program is automatically aborted. </p>
 <h2 class="groupheader">Macro Definition Documentation</h2>
 <a class="anchor" id="ga4ab7f9b2fd1ec4b9efcfba0c9b33052c"></a>
 <div class="memitem">
@@ -226,7 +234,8 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Show message and throw exception</p>
+
+<p>Show message and throw exception. </p>
 <p>This macro shows the given message and exits with the error code.</p>
 <div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;if (...)</div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;    REPORT_ERROR(ERR_DEBUG_TEST, &quot;Error 1&quot;);</div></div><!-- fragment --> 
 <p>Definition at line <a class="el" href="xmipp__error_8h_source.html#l00238">238</a> of file <a class="el" href="xmipp__error_8h_source.html">xmipp_error.h</a>.</p>
@@ -242,7 +251,7 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">}\</div><div class="line">    catch (<a class="code" href="classXmippError.html">XmippError</a> &amp;xe)\</div><div class="line">    {\</div><div class="line">        std::cerr &lt;&lt; xe;\</div><div class="line">        exit(-1);\</div><div class="line">    }</div><div class="ttc" id="classXmippError_html"><div class="ttname"><a href="classXmippError.html">XmippError</a></div><div class="ttdef"><b>Definition:</b> <a href="xmipp__error_8h_source.html#l00248">xmipp_error.h:248</a></div></div>
+<b>Value:</b><div class="fragment"><div class="line">}\</div><div class="line">    catch (<a class="code" href="classXmippError.html">XmippError</a> &amp;xe)\</div><div class="line">    {\</div><div class="line">        std::cerr &lt;&lt; xe;\</div><div class="line">        exit(-1);\</div><div class="line">    }</div><div class="ttc" id="classXmippError_html"><div class="ttname"><a href="classXmippError.html">XmippError</a></div><div class="ttdoc">Report error without any extra message. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__error_8h_source.html#l00248">xmipp_error.h:248</a></div></div>
 </div><!-- fragment -->
 <p>Definition at line <a class="el" href="xmipp__error_8h_source.html#l00211">211</a> of file <a class="el" href="xmipp__error_8h_source.html">xmipp_error.h</a>.</p>
 
@@ -257,7 +266,8 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>MACROs that process XMIPP exceptions </p>
+
+<p>MACROs that process XMIPP exceptions. </p>
 
 <p>Definition at line <a class="el" href="xmipp__error_8h_source.html#l00209">209</a> of file <a class="el" href="xmipp__error_8h_source.html">xmipp_error.h</a>.</p>
 
@@ -304,7 +314,7 @@ Functions</h2></td></tr>
 <p><a class="el" href="classGPU.html">GPU</a> memory related issues. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="ggab0df38968e4f03a3f1f6d6df0f31f45aa46a925e35f2dcf3e39696d62f9b19167"></a>ERR_GRID&#160;</td><td class="fielddoc">
-<p><a class="el" href="classGrid.html">Grid</a> general error. </p>
+<p><a class="el" href="classGrid.html" title="Complex Grids. ">Grid</a> general error. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="ggab0df38968e4f03a3f1f6d6df0f31f45aa558035bf1e9748ef3ca29528dd252061"></a>ERR_GRID_SIZE&#160;</td><td class="fielddoc">
 <p>Incorrect number of GRID volumes or shapes. </p>
@@ -373,10 +383,10 @@ Functions</h2></td></tr>
 <p>Problem with matrix size. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="ggab0df38968e4f03a3f1f6d6df0f31f45aa584c36e0995898617fe58f28e4baee2d"></a>ERR_MD&#160;</td><td class="fielddoc">
-<p><a class="el" href="classMetaData.html">MetaData</a> error. </p>
+<p><a class="el" href="classMetaData.html" title="Class to manage data files. ">MetaData</a> error. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="ggab0df38968e4f03a3f1f6d6df0f31f45aa472274d804c9917100c833e2062b81cd"></a>ERR_MD_NOACTIVE&#160;</td><td class="fielddoc">
-<p>No active object in <a class="el" href="classMetaData.html">MetaData</a>. </p>
+<p>No active object in <a class="el" href="classMetaData.html" title="Class to manage data files. ">MetaData</a>. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="ggab0df38968e4f03a3f1f6d6df0f31f45aad882a3245b98b92bc048c1fccff26df1"></a>ERR_MD_NOOBJ&#160;</td><td class="fielddoc">
 <p>No exist requested object. </p>
@@ -388,7 +398,7 @@ Functions</h2></td></tr>
 <p>Missing expected label. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="ggab0df38968e4f03a3f1f6d6df0f31f45aaea880e205bba41b19a588e89eb84c35f"></a>ERR_MD_SQL&#160;</td><td class="fielddoc">
-<p>Error in SQL of <a class="el" href="classMetaData.html">MetaData</a> operations. </p>
+<p>Error in SQL of <a class="el" href="classMetaData.html" title="Class to manage data files. ">MetaData</a> operations. </p>
 </td></tr>
 <tr><td class="fieldname"><a class="anchor" id="ggab0df38968e4f03a3f1f6d6df0f31f45aaa388385302a356a804e513dba1d8169f"></a>ERR_MD_OBJECTNUMBER&#160;</td><td class="fielddoc">
 <p>Incorrect number of objects in Metadata. </p>
@@ -574,11 +584,12 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Show message and exit</p>
+
+<p>Show message and exit. </p>
 <p>This is an internal function (not to be used by programmers) that shows the given message and exits with the error code. This function is called when no exceptions are allowed. </p>
 
 <p>Definition at line <a class="el" href="xmipp__error_8cpp_source.html#l00031">31</a> of file <a class="el" href="xmipp__error_8cpp_source.html">xmipp_error.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;{</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    <a class="code" href="classXmippError.html">XmippError</a> xe(nerr, what, file, line);</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    std::cerr &lt;&lt; xe &lt;&lt; std::endl;</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    <span class="comment">//std::cout &lt;&lt; nerr &lt;&lt; &quot;: &quot; &lt;&lt; what &lt;&lt; std::endl</span></div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="comment">//&lt;&lt; &quot;File: &quot; &lt;&lt; file &lt;&lt; &quot; line: &quot; &lt;&lt; line &lt;&lt; std::endl;</span></div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    exit(nerr);</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;}</div><div class="ttc" id="classXmippError_html"><div class="ttname"><a href="classXmippError.html">XmippError</a></div><div class="ttdef"><b>Definition:</b> <a href="xmipp__error_8h_source.html#l00248">xmipp_error.h:248</a></div></div>
+<div class="fragment"><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;{</div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    <a class="code" href="classXmippError.html">XmippError</a> xe(nerr, what, file, line);</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    std::cerr &lt;&lt; xe &lt;&lt; std::endl;</div><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;    <span class="comment">//std::cout &lt;&lt; nerr &lt;&lt; &quot;: &quot; &lt;&lt; what &lt;&lt; std::endl</span></div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="comment">//&lt;&lt; &quot;File: &quot; &lt;&lt; file &lt;&lt; &quot; line: &quot; &lt;&lt; line &lt;&lt; std::endl;</span></div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    exit(nerr);</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;}</div><div class="ttc" id="classXmippError_html"><div class="ttname"><a href="classXmippError.html">XmippError</a></div><div class="ttdoc">Report error without any extra message. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__error_8h_source.html#l00248">xmipp_error.h:248</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -595,13 +606,14 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
 <p>Print a report warning and continue the execution. </p>
 
 <p>Definition at line <a class="el" href="xmipp__error_8cpp_source.html#l00241">241</a> of file <a class="el" href="xmipp__error_8cpp_source.html">xmipp_error.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;{</div><div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;    <a class="code" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a> <a class="code" href="tools_8cpp.html#a42c6b1edc1bd763019f0eb5edce18793">error</a> = <a class="code" href="group__StringUtilities.html#gaa405c9a5b808e428554e540028085dd3">formatString</a>(<span class="stringliteral">&quot;=== XMIPP_WARNING ===\n%s&quot;</span>, what.c_str());</div><div class="line"><a name="l00244"></a><span class="lineno">  244</span>&#160;    std::cerr &lt;&lt; <a class="code" href="xmipp__color_8cpp.html#ace52376114569bd52923dd16289ad118">colorString</a>(error.c_str(), <a class="code" href="xmipp__color_8h.html#a2e946f8d99fb70ae87d47743c17c7457a56926c820ad72d0977e7ee44d9916e62">MAGENTA</a>) &lt;&lt; std::endl;</div><div class="line"><a name="l00245"></a><span class="lineno">  245</span>&#160;}</div><div class="ttc" id="xmipp__color_8cpp_html_ace52376114569bd52923dd16289ad118"><div class="ttname"><a href="xmipp__color_8cpp.html#ace52376114569bd52923dd16289ad118">colorString</a></div><div class="ttdeci">String colorString(const char *msg, int color, int attribute, int bgcolor)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__color_8cpp_source.html#l00037">xmipp_color.cpp:37</a></div></div>
 <div class="ttc" id="tools_8cpp_html_a42c6b1edc1bd763019f0eb5edce18793"><div class="ttname"><a href="tools_8cpp.html#a42c6b1edc1bd763019f0eb5edce18793">error</a></div><div class="ttdeci">void error(char *s)</div><div class="ttdef"><b>Definition:</b> <a href="tools_8cpp_source.html#l00107">tools.cpp:107</a></div></div>
 <div class="ttc" id="xmipp__strings_8h_html_afbeda3fd1bdc8c37d01bdf9f5c8274ff"><div class="ttname"><a href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a></div><div class="ttdeci">std::string String</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__strings_8h_source.html#l00034">xmipp_strings.h:34</a></div></div>
-<div class="ttc" id="group__StringUtilities_html_gaa405c9a5b808e428554e540028085dd3"><div class="ttname"><a href="group__StringUtilities.html#gaa405c9a5b808e428554e540028085dd3">formatString</a></div><div class="ttdeci">String formatString(const char *format,...)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__strings_8cpp_source.html#l00610">xmipp_strings.cpp:610</a></div></div>
+<div class="ttc" id="group__StringUtilities_html_gaa405c9a5b808e428554e540028085dd3"><div class="ttname"><a href="group__StringUtilities.html#gaa405c9a5b808e428554e540028085dd3">formatString</a></div><div class="ttdeci">String formatString(const char *format,...)</div><div class="ttdoc">Obtain an string from a format in the way of printf works Example: formatString(&quot;vectorHeader@%s&quot;,fn_out.c_str()) </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__strings_8cpp_source.html#l00610">xmipp_strings.cpp:610</a></div></div>
 <div class="ttc" id="xmipp__color_8h_html_a2e946f8d99fb70ae87d47743c17c7457a56926c820ad72d0977e7ee44d9916e62"><div class="ttname"><a href="xmipp__color_8h.html#a2e946f8d99fb70ae87d47743c17c7457a56926c820ad72d0977e7ee44d9916e62">MAGENTA</a></div><div class="ttdef"><b>Definition:</b> <a href="xmipp__color_8h_source.html#l00049">xmipp_color.h:49</a></div></div>
 </div><!-- fragment -->
 </div>

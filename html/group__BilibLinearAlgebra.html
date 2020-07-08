@@ -102,6 +102,7 @@ Functions</h2></td></tr>
 <tr class="memitem:gaf0ddab0180d0883ef923aba47448393d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gaf0ddab0180d0883ef923aba47448393d">FreeVector</a> (double *(<a class="el" href="classVector.html">Vector</a>[]))</td></tr>
 <tr class="separator:gaf0ddab0180d0883ef923aba47448393d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga7426e4da36a81baecbe07c9c235b0e73"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga7426e4da36a81baecbe07c9c235b0e73">FrobeniusNorm</a> (double *A, double *Norm, long Lines, long Columns)</td></tr>
+<tr class="memdesc:ga7426e4da36a81baecbe07c9c235b0e73"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute the Frobenius norm of the matrix A.  <a href="#ga7426e4da36a81baecbe07c9c235b0e73">More...</a><br /></td></tr>
 <tr class="separator:ga7426e4da36a81baecbe07c9c235b0e73"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gac72e0fbc17049fc9794ed815400d63ec"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gac72e0fbc17049fc9794ed815400d63ec">GetIdentitySquareMatrix</a> (double *A, long Size)</td></tr>
 <tr class="separator:gac72e0fbc17049fc9794ed815400d63ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -110,14 +111,18 @@ Functions</h2></td></tr>
 <tr class="memitem:gad71ee7562ac0774877a07dab1157955a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gad71ee7562ac0774877a07dab1157955a">MatrixAdd</a> (double *A, double *B, double *X, long Lines, long Columns)</td></tr>
 <tr class="separator:gad71ee7562ac0774877a07dab1157955a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga9e1a150507da281b31401fd5666c25c0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga9e1a150507da281b31401fd5666c25c0">MatrixConditionNumber</a> (double *A, long Lines, long Columns, double *ConditionNumber, double Tolerance, long MaxIterations, int *Status)</td></tr>
+<tr class="memdesc:ga9e1a150507da281b31401fd5666c25c0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute the condition number of the matrix A.  <a href="#ga9e1a150507da281b31401fd5666c25c0">More...</a><br /></td></tr>
 <tr class="separator:ga9e1a150507da281b31401fd5666c25c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gac19aff9b5531e1132476ef4e5c819abd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gac19aff9b5531e1132476ef4e5c819abd">MatrixGramSchmidtOrthonormalize</a> (double *A, double *B, long Lines, long Columns, double Tolerance)</td></tr>
+<tr class="memdesc:gac19aff9b5531e1132476ef4e5c819abd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Orthonormalize a matrix.  <a href="#gac19aff9b5531e1132476ef4e5c819abd">More...</a><br /></td></tr>
 <tr class="separator:gac19aff9b5531e1132476ef4e5c819abd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gae7cb006ae9ae73e009b77f155b9fcfdf"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gae7cb006ae9ae73e009b77f155b9fcfdf">MatrixMinor</a> (double *A, double *B, long Lines, long Columns, long <a class="el" href="project__crystal_8cpp.html#acb559820d9ca11295b4500f179ef6392">i</a>, long <a class="el" href="project__crystal_8cpp.html#aae82a1338cf72eb9a1cc7043f569537e">j</a>)</td></tr>
+<tr class="memdesc:gae7cb006ae9ae73e009b77f155b9fcfdf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extract a minor matrix B from the major matrix A.  <a href="#gae7cb006ae9ae73e009b77f155b9fcfdf">More...</a><br /></td></tr>
 <tr class="separator:gae7cb006ae9ae73e009b77f155b9fcfdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga5e91e09b9be7fb47bde5ab3a4c0b0b8a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga5e91e09b9be7fb47bde5ab3a4c0b0b8a">MatrixMultiply</a> (double *A, double *B, double *X, long Lines, long CommonSize, long Columns)</td></tr>
 <tr class="separator:ga5e91e09b9be7fb47bde5ab3a4c0b0b8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gab9d0ab3e7dddfbcf2ca489a11721daba"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gab9d0ab3e7dddfbcf2ca489a11721daba">MatrixRank</a> (double *A, long Lines, long Columns, long *Rank, double Tolerance, long MaxIterations, int *Status)</td></tr>
+<tr class="memdesc:gab9d0ab3e7dddfbcf2ca489a11721daba"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute the rank of the matrix A.  <a href="#gab9d0ab3e7dddfbcf2ca489a11721daba">More...</a><br /></td></tr>
 <tr class="separator:gab9d0ab3e7dddfbcf2ca489a11721daba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga03d2a81974739ca6bff43200c234cd2c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga03d2a81974739ca6bff43200c234cd2c">MatrixSubtract</a> (double *A, double *B, double *X, long Lines, long Columns)</td></tr>
 <tr class="separator:ga03d2a81974739ca6bff43200c234cd2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -126,12 +131,14 @@ Functions</h2></td></tr>
 <tr class="memitem:gae7e096bf0d3d2b3408d1a59a884a1d64"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gae7e096bf0d3d2b3408d1a59a884a1d64">MatrixTranspose</a> (double *A, double *At, long Lines, long Columns)</td></tr>
 <tr class="separator:gae7e096bf0d3d2b3408d1a59a884a1d64"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gab77cea0959c97ba7a417f8954a45e3ae"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gab77cea0959c97ba7a417f8954a45e3ae">multiply_3Matrices</a> (double *A, double *B, double *C, double *X, long Lines, long CommonSizeH, long CommonSizeW, long Columns)</td></tr>
+<tr class="memdesc:gab77cea0959c97ba7a417f8954a45e3ae"><td class="mdescLeft">&#160;</td><td class="mdescRight">Multiply 3 Matrices.  <a href="#gab77cea0959c97ba7a417f8954a45e3ae">More...</a><br /></td></tr>
 <tr class="separator:gab77cea0959c97ba7a417f8954a45e3ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga8db7c7279555b5353a5ca85d9e8ab86f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga8db7c7279555b5353a5ca85d9e8ab86f">multiply_4Matrices</a> (double *A, double *B, double *C, double *D, double *X, long Lines, long CommonSizeH1, long CommonSizeW1, long CommonSizeW2, long Columns)</td></tr>
 <tr class="separator:ga8db7c7279555b5353a5ca85d9e8ab86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga934ecc13bf2e079c4210ef2b857c2771"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga934ecc13bf2e079c4210ef2b857c2771">multiply_5Matrices</a> (double *A, double *B, double *C, double *D, double *E, double *X, long Lines, long CommonSizeH1, long CommonSizeW1, long CommonSizeW2, long CommonSizeH2, long Columns)</td></tr>
 <tr class="separator:ga934ecc13bf2e079c4210ef2b857c2771"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga73cc366e2e4fd53daef6a125a151396c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga73cc366e2e4fd53daef6a125a151396c">QRdecomposition</a> (double *Q, double *R, long Lines, long Columns, double Tolerance, int *Status)</td></tr>
+<tr class="memdesc:ga73cc366e2e4fd53daef6a125a151396c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Decompose the (Lines x Columns) input matrix Q into an orthonormal.  <a href="#ga73cc366e2e4fd53daef6a125a151396c">More...</a><br /></td></tr>
 <tr class="separator:ga73cc366e2e4fd53daef6a125a151396c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gaf0100ed3218bbed4798000771ff9ee09"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gaf0100ed3218bbed4798000771ff9ee09">SingularValueBackSubstitution</a> (double *U, double W[], double *V, long Lines, long Columns, double B[], double X[], int *Status)</td></tr>
 <tr class="separator:gaf0100ed3218bbed4798000771ff9ee09"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -142,16 +149,20 @@ Functions</h2></td></tr>
 <tr class="memitem:ga1e9b419155b109484d323fba36bb6827"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga1e9b419155b109484d323fba36bb6827">SquareMatrixInvertGauss</a> (double *Direct, double *Inverse, long Size, double Tolerance, int *Status)</td></tr>
 <tr class="separator:ga1e9b419155b109484d323fba36bb6827"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga7cebd6a637a3ea80673a4c9c358a09bd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga7cebd6a637a3ea80673a4c9c358a09bd">SquareMatrixSquareRoot</a> (double *A, double *B, long Size, double Tolerance, long MaxIterations, int *Status)</td></tr>
+<tr class="memdesc:ga7cebd6a637a3ea80673a4c9c358a09bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute one out of the 2^Size square roots B of a matrix A such that B.B = A.  <a href="#ga7cebd6a637a3ea80673a4c9c358a09bd">More...</a><br /></td></tr>
 <tr class="separator:ga7cebd6a637a3ea80673a4c9c358a09bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gae4e50046aec87ba611476d8969675848"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gae4e50046aec87ba611476d8969675848">SquareMatrixTrace</a> (double *A, double *Trace, long Size)</td></tr>
+<tr class="memdesc:gae4e50046aec87ba611476d8969675848"><td class="mdescLeft">&#160;</td><td class="mdescRight">Perform the vector cross product X = A x B.  <a href="#gae4e50046aec87ba611476d8969675848">More...</a><br /></td></tr>
 <tr class="separator:gae4e50046aec87ba611476d8969675848"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga16198f1c0cdc989f8ad1567773f801f9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga16198f1c0cdc989f8ad1567773f801f9">Vector3DcrossProduct</a> (double A[], double B[], double X[])</td></tr>
 <tr class="separator:ga16198f1c0cdc989f8ad1567773f801f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gab0037228860aefcbcecaabb7490081d5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gab0037228860aefcbcecaabb7490081d5">VectorAdd</a> (double A[], double B[], double X[], long Lines)</td></tr>
 <tr class="separator:gab0037228860aefcbcecaabb7490081d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga00c7dc2616f2f7346f6edf8177414faa"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga00c7dc2616f2f7346f6edf8177414faa">VectorAngle</a> (double A[], double B[], double *Angle, long Lines, double Tolerance)</td></tr>
+<tr class="memdesc:ga00c7dc2616f2f7346f6edf8177414faa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute the angle between two vectors *(n-D).  <a href="#ga00c7dc2616f2f7346f6edf8177414faa">More...</a><br /></td></tr>
 <tr class="separator:ga00c7dc2616f2f7346f6edf8177414faa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga3367a176aba981c1cfd1bbf9ce8cb3f0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#ga3367a176aba981c1cfd1bbf9ce8cb3f0">VectorHomogenize</a> (double A[], double X[], long Lines, double Tolerance)</td></tr>
+<tr class="memdesc:ga3367a176aba981c1cfd1bbf9ce8cb3f0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a vector from non-homogenous to homogenous coordinates.  <a href="#ga3367a176aba981c1cfd1bbf9ce8cb3f0">More...</a><br /></td></tr>
 <tr class="separator:ga3367a176aba981c1cfd1bbf9ce8cb3f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gab1dd2769ab55ab3ef6ed7d550817ff6e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibLinearAlgebra.html#gab1dd2769ab55ab3ef6ed7d550817ff6e">VectorNorm</a> (double A[], double *Norm, long Lines)</td></tr>
 <tr class="separator:gab1dd2769ab55ab3ef6ed7d550817ff6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -318,7 +329,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute the Frobenius norm of the matrix A. The size of A is (Lines x Columns). success: return(!ERROR); failure: return(ERROR) </p>
+
+<p>Compute the Frobenius norm of the matrix A. </p>
+<p>The size of A is (Lines x Columns). success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
 </div>
@@ -501,7 +514,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute the condition number of the matrix A. The size of A is (Lines x Columns). ConditionNumber = -1.0 indicates a singular matrix.</p>
+
+<p>Compute the condition number of the matrix A. </p>
+<p>The size of A is (Lines x Columns). ConditionNumber = -1.0 indicates a singular matrix.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -547,7 +562,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Orthonormalize a matrix. The size of A and B is (Lines x Columns). The orthogonalization proceeds row-wise.</p>
+
+<p>Orthonormalize a matrix. </p>
+<p>The size of A and B is (Lines x Columns). The orthogonalization proceeds row-wise.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -599,7 +616,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Extract a minor matrix B from the major matrix A. The size of A is (Lines x Columns). The size of B is ((Lines - 1) x (Columns - 1)). The line to delete is i (indexing starts from 0). The column to delete is j (indexing starts from 0).</p>
+
+<p>Extract a minor matrix B from the major matrix A. </p>
+<p>The size of A is (Lines x Columns). The size of B is ((Lines - 1) x (Columns - 1)). The line to delete is i (indexing starts from 0). The column to delete is j (indexing starts from 0).</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -707,7 +726,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute the rank of the matrix A. The size of A is (Lines x Columns).</p>
+
+<p>Compute the rank of the matrix A. </p>
+<p>The size of A is (Lines x Columns).</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -897,7 +918,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Multiply 3 Matrices. X=A*B*C; A is of size Lines x CommonSizeH, B is of size CommonSizeH x CommonSizeW, C is of size CommonSizeW x Columns. Finally, X is of size Lines x Columns. </p>
+
+<p>Multiply 3 Matrices. </p>
+<p>X=A*B*C; A is of size Lines x CommonSizeH, B is of size CommonSizeH x CommonSizeW, C is of size CommonSizeW x Columns. Finally, X is of size Lines x Columns. </p>
 
 </div>
 </div>
@@ -1108,7 +1131,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Decompose the (Lines x Columns) input matrix Q into an orthonormal. Output matrix Q of same size (Lines x Columns) and an upper-diagonal. Square matrix R of size (Columns x Columns), such that the matrix. Product (Q * R) gives the input matrix, and such that the matrix. Product (Q^T * Q) gives the identity.</p>
+
+<p>Decompose the (Lines x Columns) input matrix Q into an orthonormal. </p>
+<p>Output matrix Q of same size (Lines x Columns) and an upper-diagonal. Square matrix R of size (Columns x Columns), such that the matrix. Product (Q * R) gives the input matrix, and such that the matrix. Product (Q^T * Q) gives the identity.</p>
 <p>requirement: Columns &lt;= Lines</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
@@ -1361,7 +1386,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute one out of the 2^Size square roots B of a matrix A such that B.B = A. The size of the matrices A and B is (Size x Size). B must provide an initial solution.</p>
+
+<p>Compute one out of the 2^Size square roots B of a matrix A such that B.B = A. </p>
+<p>The size of the matrices A and B is (Size x Size). B must provide an initial solution.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -1395,7 +1422,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Perform the vector cross product X = A x B. The size of A is (Size x Size)</p>
+
+<p>Perform the vector cross product X = A x B. </p>
+<p>The size of A is (Size x Size)</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -1511,7 +1540,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute the angle between two vectors *(n-D). The size of A and B is (Lines x 1). The angle unit is radian.</p>
+
+<p>Compute the angle between two vectors *(n-D). </p>
+<p>The size of A and B is (Lines x 1). The angle unit is radian.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -1551,7 +1582,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Convert a vector from non-homogenous to homogenous coordinates. Satisfy (Vout = a * Vin) such that (Vout[last] = 1.0). The size of A and X is (Lines x 1).</p>
+
+<p>Convert a vector from non-homogenous to homogenous coordinates. </p>
+<p>Satisfy (Vout = a * Vin) such that (Vout[last] = 1.0). The size of A and X is (Lines x 1).</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>

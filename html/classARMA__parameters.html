@@ -96,14 +96,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="ctf__estimate__psd__with__arma_8h_source.html">ctf_estimate_psd_with_arma.h</a>&gt;</code></p>
+<p>Class to perform the ARMA estimate of the PSD from the command line.  
+ <a href="classARMA__parameters.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="ctf__estimate__psd__with__arma_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/ctf_estimate_psd_with_arma.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for ARMA_parameters:</div>
 <div class="dyncontent">
 <div class="center"><img src="classARMA__parameters__coll__graph.png" border="0" usemap="#ARMA__parameters_coll__map" alt="Collaboration graph"/></div>
 <map name="ARMA__parameters_coll__map" id="ARMA__parameters_coll__map">
 <area shape="rect" id="node2" href="classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="5,81,169,108"/>
-<area shape="rect" id="node3" href="classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="21,5,153,32"/>
+<area shape="rect" id="node3" href="classMultidimArrayBase.html" title="Template class for Xmipp arrays. " alt="" coords="21,5,153,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -137,7 +140,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a9bbf66bb5fb73b13838606ffc1e42d63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Class to perform the ARMA estimate of the PSD from the command line </p>
+<div class="textblock"><p>Class to perform the ARMA estimate of the PSD from the command line. </p>
 
 <p>Definition at line <a class="el" href="ctf__estimate__psd__with__arma_8h_source.html#l00040">40</a> of file <a class="el" href="ctf__estimate__psd__with__arma_8h_source.html">ctf_estimate_psd_with_arma.h</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
@@ -166,7 +169,7 @@ Public Attributes</h2></td></tr>
 <p>Define parameters. </p>
 
 <p>Definition at line <a class="el" href="ctf__estimate__psd__with__arma_8cpp_source.html#l00042">42</a> of file <a class="el" href="ctf__estimate__psd__with__arma_8cpp_source.html">ctf_estimate_psd_with_arma.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;{</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;==++ ARMA models&quot;</span>);</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--N_AR &lt;N=24&gt;]    : N order of the AR model&quot;</span>);</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--M_AR &lt;N=24&gt;]    : M order of the AR model&quot;</span>);</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--N_MA &lt;N=20&gt;]    : N order of the MA model&quot;</span>);</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--M_MA &lt;N=20&gt;]    : M order of the MA model&quot;</span>);</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;}</div><div class="ttc" id="classXmippProgram_html_aaeb37f0bac83f5d2a605aaa0e5c4b6ef"><div class="ttname"><a href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">XmippProgram::addParamsLine</a></div><div class="ttdeci">void addParamsLine(const String &amp;line)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00361">xmipp_program.cpp:361</a></div></div>
+<div class="fragment"><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;{</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;==++ ARMA models&quot;</span>);</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--N_AR &lt;N=24&gt;]    : N order of the AR model&quot;</span>);</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--M_AR &lt;N=24&gt;]    : M order of the AR model&quot;</span>);</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--N_MA &lt;N=20&gt;]    : N order of the MA model&quot;</span>);</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [--M_MA &lt;N=20&gt;]    : M order of the MA model&quot;</span>);</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;}</div><div class="ttc" id="classXmippProgram_html_aaeb37f0bac83f5d2a605aaa0e5c4b6ef"><div class="ttname"><a href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">XmippProgram::addParamsLine</a></div><div class="ttdeci">void addParamsLine(const String &amp;line)</div><div class="ttdoc">Add a params definition line. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00361">xmipp_program.cpp:361</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -295,8 +298,8 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="ctf__estimate__psd__with__arma_8h_source.html">ctf_estimate_psd_with_arma.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="ctf__estimate__psd__with__arma_8cpp_source.html">ctf_estimate_psd_with_arma.cpp</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="ctf__estimate__psd__with__arma_8h_source.html">ctf_estimate_psd_with_arma.h</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="ctf__estimate__psd__with__arma_8cpp_source.html">ctf_estimate_psd_with_arma.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

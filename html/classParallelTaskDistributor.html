@@ -97,30 +97,39 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="xmipp__threads_8h_source.html">xmipp_threads.h</a>&gt;</code></p>
+<p>This class distributes dynamically N tasks between parallel workers.  
+ <a href="classParallelTaskDistributor.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="xmipp__threads_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/xmipp_threads.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for ParallelTaskDistributor:</div>
 <div class="dyncontent">
 <div class="center"><img src="classParallelTaskDistributor__inherit__graph.png" border="0" usemap="#ParallelTaskDistributor_inherit__map" alt="Inheritance graph"/></div>
 <map name="ParallelTaskDistributor_inherit__map" id="ParallelTaskDistributor_inherit__map">
-<area shape="rect" id="node2" href="classThreadTaskDistributor.html" title="ThreadTaskDistributor" alt="" coords="7,80,158,107"/>
-<area shape="rect" id="node3" href="classMpiTaskDistributor.html" title="MpiTaskDistributor" alt="" coords="17,155,149,181"/>
+<area shape="rect" id="node2" href="classThreadTaskDistributor.html" title="This class is a concrete implementation of ParallelTaskDistributor for POSIX threads. " alt="" coords="7,80,158,107"/>
+<area shape="rect" id="node3" href="classMpiTaskDistributor.html" title="This class is another implementation of ParallelTaskDistributor with MPI workers. ..." alt="" coords="17,155,149,181"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a55e2190917368e56d93c2ebfbde4fc58"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a55e2190917368e56d93c2ebfbde4fc58">ParallelTaskDistributor</a> (size_t nTasks, size_t bSize)</td></tr>
+<tr class="memdesc:a55e2190917368e56d93c2ebfbde4fc58"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a55e2190917368e56d93c2ebfbde4fc58">More...</a><br /></td></tr>
 <tr class="separator:a55e2190917368e56d93c2ebfbde4fc58"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad360a1d0c473bea6c372b8bb08d66e3e"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#ad360a1d0c473bea6c372b8bb08d66e3e">~ParallelTaskDistributor</a> ()</td></tr>
+<tr class="memdesc:ad360a1d0c473bea6c372b8bb08d66e3e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#ad360a1d0c473bea6c372b8bb08d66e3e">More...</a><br /></td></tr>
 <tr class="separator:ad360a1d0c473bea6c372b8bb08d66e3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a43c066204d2ba9b764cbac0495b29f1b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a43c066204d2ba9b764cbac0495b29f1b">clear</a> ()</td></tr>
+<tr class="memdesc:a43c066204d2ba9b764cbac0495b29f1b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Restart the number of assigned tasks and distribution again.  <a href="#a43c066204d2ba9b764cbac0495b29f1b">More...</a><br /></td></tr>
 <tr class="separator:a43c066204d2ba9b764cbac0495b29f1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee19fdbf7e394c3d92d92483f3b65016"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#aee19fdbf7e394c3d92d92483f3b65016">setBlockSize</a> (size_t bSize)</td></tr>
+<tr class="memdesc:aee19fdbf7e394c3d92d92483f3b65016"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the number of tasks assigned in each request.  <a href="#aee19fdbf7e394c3d92d92483f3b65016">More...</a><br /></td></tr>
 <tr class="separator:aee19fdbf7e394c3d92d92483f3b65016"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a91c698255b7685a7caf7a39c7cd0ede4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a91c698255b7685a7caf7a39c7cd0ede4">getBlockSize</a> () const </td></tr>
+<tr class="memdesc:a91c698255b7685a7caf7a39c7cd0ede4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the number of tasks assigned in each request.  <a href="#a91c698255b7685a7caf7a39c7cd0ede4">More...</a><br /></td></tr>
 <tr class="separator:a91c698255b7685a7caf7a39c7cd0ede4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a28f70bcc333b8b06d7571db06c67bdc3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a28f70bcc333b8b06d7571db06c67bdc3">getTasks</a> (size_t &amp;<a class="el" href="example_8cpp.html#a848f440bf07226576d4e883f552bec25">first</a>, size_t &amp;last)</td></tr>
+<tr class="memdesc:a28f70bcc333b8b06d7571db06c67bdc3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets parallel tasks.  <a href="#a28f70bcc333b8b06d7571db06c67bdc3">More...</a><br /></td></tr>
 <tr class="separator:a28f70bcc333b8b06d7571db06c67bdc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a62feecaf828ca1a57c44540f40e29561"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classParallelTaskDistributor.html#a62feecaf828ca1a57c44540f40e29561">setAssignedTasks</a> (size_t tasks)</td></tr>
 <tr class="separator:a62feecaf828ca1a57c44540f40e29561"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -147,7 +156,7 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a50f2d34d971bb7a461e4bf5b91d5f961"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>This class distributes dynamically N tasks between parallel workers.</p>
+<div class="textblock"><p>This class distributes dynamically N tasks between parallel workers. </p>
 <p>This class is a generalization of a common task in a parallel environment of dynamically distribute N tasks between workers(threads or mpi process). Each worker will ask for a group of tasks, process it and ask for more tasks until there is not more task to process.</p>
 <p>This class is abstract and only serves as base for concrete implementations, which will provides the specific lock mechanisms and the way of distribution. </p>
 
@@ -176,10 +185,12 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Constructor. The number of jobs and block size should be provided.Constructor for Master node. </p>
+
+<p>Constructor. </p>
+<p>The number of jobs and block size should be provided.Constructor for Master node. </p>
 
 <p>Definition at line <a class="el" href="xmipp__threads_8cpp_source.html#l00289">289</a> of file <a class="el" href="xmipp__threads_8cpp_source.html">xmipp_threads.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160;{</div><div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;    <span class="keywordflow">if</span> (!(nTasks &amp;&amp; bSize &amp;&amp; bSize &lt;= nTasks))</div><div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;        <a class="code" href="group__ErrorHandling.html#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">REPORT_ERROR</a>(<a class="code" href="group__ErrorHandling.html#ggab0df38968e4f03a3f1f6d6df0f31f45aa99ae519fb00e32cc6e716cc01d21cadf">ERR_ARG_INCORRECT</a>, <span class="stringliteral">&quot;nTasks and bSize should be &gt; 0, also bSize &lt;= nTasks&quot;</span>);</div><div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;</div><div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a421bc0b36ebb7294d09d1ddcc4a5a8c0">numberOfTasks</a> = nTasks;</div><div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a07946da5f99cee0a11e8ede939335896">blockSize</a> = bSize;</div><div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a50f2d34d971bb7a461e4bf5b91d5f961">assignedTasks</a> = 0;</div><div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;}</div><div class="ttc" id="group__ErrorHandling_html_ga4ab7f9b2fd1ec4b9efcfba0c9b33052c"><div class="ttname"><a href="group__ErrorHandling.html#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">REPORT_ERROR</a></div><div class="ttdeci">#define REPORT_ERROR(nerr, ErrormMsg)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__error_8h_source.html#l00238">xmipp_error.h:238</a></div></div>
+<div class="fragment"><div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160;{</div><div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;    <span class="keywordflow">if</span> (!(nTasks &amp;&amp; bSize &amp;&amp; bSize &lt;= nTasks))</div><div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;        <a class="code" href="group__ErrorHandling.html#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">REPORT_ERROR</a>(<a class="code" href="group__ErrorHandling.html#ggab0df38968e4f03a3f1f6d6df0f31f45aa99ae519fb00e32cc6e716cc01d21cadf">ERR_ARG_INCORRECT</a>, <span class="stringliteral">&quot;nTasks and bSize should be &gt; 0, also bSize &lt;= nTasks&quot;</span>);</div><div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;</div><div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a421bc0b36ebb7294d09d1ddcc4a5a8c0">numberOfTasks</a> = nTasks;</div><div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a07946da5f99cee0a11e8ede939335896">blockSize</a> = bSize;</div><div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a50f2d34d971bb7a461e4bf5b91d5f961">assignedTasks</a> = 0;</div><div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;}</div><div class="ttc" id="group__ErrorHandling_html_ga4ab7f9b2fd1ec4b9efcfba0c9b33052c"><div class="ttname"><a href="group__ErrorHandling.html#ga4ab7f9b2fd1ec4b9efcfba0c9b33052c">REPORT_ERROR</a></div><div class="ttdeci">#define REPORT_ERROR(nerr, ErrormMsg)</div><div class="ttdoc">Show message and throw exception. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__error_8h_source.html#l00238">xmipp_error.h:238</a></div></div>
 <div class="ttc" id="group__ErrorHandling_html_ggab0df38968e4f03a3f1f6d6df0f31f45aa99ae519fb00e32cc6e716cc01d21cadf"><div class="ttname"><a href="group__ErrorHandling.html#ggab0df38968e4f03a3f1f6d6df0f31f45aa99ae519fb00e32cc6e716cc01d21cadf">ERR_ARG_INCORRECT</a></div><div class="ttdoc">Incorrect argument received. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__error_8h_source.html#l00118">xmipp_error.h:118</a></div></div>
 <div class="ttc" id="classParallelTaskDistributor_html_a50f2d34d971bb7a461e4bf5b91d5f961"><div class="ttname"><a href="classParallelTaskDistributor.html#a50f2d34d971bb7a461e4bf5b91d5f961">ParallelTaskDistributor::assignedTasks</a></div><div class="ttdeci">size_t assignedTasks</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__threads_8h_source.html#l00372">xmipp_threads.h:372</a></div></div>
 <div class="ttc" id="classParallelTaskDistributor_html_a07946da5f99cee0a11e8ede939335896"><div class="ttname"><a href="classParallelTaskDistributor.html#a07946da5f99cee0a11e8ede939335896">ParallelTaskDistributor::blockSize</a></div><div class="ttdeci">size_t blockSize</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__threads_8h_source.html#l00370">xmipp_threads.h:370</a></div></div>
@@ -207,6 +218,7 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
 <p>Destructor. </p>
 
 <p>Definition at line <a class="el" href="xmipp__threads_8h_source.html#l00386">386</a> of file <a class="el" href="xmipp__threads_8h_source.html">xmipp_threads.h</a>.</p>
@@ -226,7 +238,9 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Restart the number of assigned tasks and distribution again. This method should only be called in the main thread before start distributing the tasks between the workers threads. </p>
+
+<p>Restart the number of assigned tasks and distribution again. </p>
+<p>This method should only be called in the main thread before start distributing the tasks between the workers threads. </p>
 
 <p>Definition at line <a class="el" href="xmipp__threads_8cpp_source.html#l00299">299</a> of file <a class="el" href="xmipp__threads_8cpp_source.html">xmipp_threads.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00300"></a><span class="lineno">  300</span>&#160;{</div><div class="line"><a name="l00301"></a><span class="lineno">  301</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a3459a83f03d3a0e3b6080c767d7c5f41">lock</a>();</div><div class="line"><a name="l00302"></a><span class="lineno">  302</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a50f2d34d971bb7a461e4bf5b91d5f961">assignedTasks</a> = 0;</div><div class="line"><a name="l00303"></a><span class="lineno">  303</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#af00cf040dc6a041e423ed2cdf2388e17">unlock</a>();</div><div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;}</div><div class="ttc" id="classParallelTaskDistributor_html_a50f2d34d971bb7a461e4bf5b91d5f961"><div class="ttname"><a href="classParallelTaskDistributor.html#a50f2d34d971bb7a461e4bf5b91d5f961">ParallelTaskDistributor::assignedTasks</a></div><div class="ttdeci">size_t assignedTasks</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__threads_8h_source.html#l00372">xmipp_threads.h:372</a></div></div>
@@ -283,7 +297,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Return the number of tasks assigned in each request </p>
+
+<p>Return the number of tasks assigned in each request. </p>
 
 <p>Definition at line <a class="el" href="xmipp__threads_8cpp_source.html#l00313">313</a> of file <a class="el" href="xmipp__threads_8cpp_source.html">xmipp_threads.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00314"></a><span class="lineno">  314</span>&#160;{</div><div class="line"><a name="l00315"></a><span class="lineno">  315</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="classParallelTaskDistributor.html#a07946da5f99cee0a11e8ede939335896">blockSize</a>;</div><div class="line"><a name="l00316"></a><span class="lineno">  316</span>&#160;}</div><div class="ttc" id="classParallelTaskDistributor_html_a07946da5f99cee0a11e8ede939335896"><div class="ttname"><a href="classParallelTaskDistributor.html#a07946da5f99cee0a11e8ede939335896">ParallelTaskDistributor::blockSize</a></div><div class="ttdeci">size_t blockSize</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__threads_8h_source.html#l00370">xmipp_threads.h:370</a></div></div>
@@ -313,13 +328,15 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Gets parallel tasks.</p>
+
+<p>Gets parallel tasks. </p>
 <p>This function will be called by workers for asking tasks until there are not more tasks to process. Example: </p><div class="fragment"><div class="line"><span class="comment">//...</span></div><div class="line"><a class="code" href="classParallelTaskDistributor.html">ParallelTaskDistributor</a> * td = <span class="keyword">new</span> <a class="code" href="classThreadTaskDistributor.html">ThreadTaskDistributor</a>(1000, 100);</div><div class="line"><span class="comment">//...</span></div><div class="line"><span class="comment">//function to perform some operation</span></div><div class="line"><span class="comment">//to N images executed in parellel</span></div><div class="line"><span class="keywordtype">void</span> processSeveralImages()</div><div class="line">{</div><div class="line">    <span class="keywordtype">size_t</span> firstImage, lastImage;</div><div class="line">    <span class="keywordflow">while</span> (td-&gt;<a class="code" href="classParallelTaskDistributor.html#a28f70bcc333b8b06d7571db06c67bdc3">getTasks</a>(firstImage, lastImage))</div><div class="line">        <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> image = firstImage; image &lt;= lastImage; ++image)</div><div class="line">        {</div><div class="line">            <span class="comment">//...</span></div><div class="line">            processOneImage(image);</div><div class="line">            <span class="comment">//...</span></div><div class="line">        }</div><div class="line">}</div></div><!-- fragment --> 
 <p>Definition at line <a class="el" href="xmipp__threads_8cpp_source.html#l00318">318</a> of file <a class="el" href="xmipp__threads_8cpp_source.html">xmipp_threads.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00319"></a><span class="lineno">  319</span>&#160;{</div><div class="line"><a name="l00320"></a><span class="lineno">  320</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a3459a83f03d3a0e3b6080c767d7c5f41">lock</a>();</div><div class="line"><a name="l00321"></a><span class="lineno">  321</span>&#160;    <span class="keywordtype">bool</span> result = <a class="code" href="classParallelTaskDistributor.html#add8c2dc42615999c05e128e9eb311a3b">distribute</a>(<a class="code" href="numerical__recipes_8cpp.html#acaec38248b66cfba849985072bd311f6">first</a>, last);</div><div class="line"><a name="l00322"></a><span class="lineno">  322</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#af00cf040dc6a041e423ed2cdf2388e17">unlock</a>();</div><div class="line"><a name="l00323"></a><span class="lineno">  323</span>&#160;    <span class="keywordflow">return</span> result;</div><div class="line"><a name="l00324"></a><span class="lineno">  324</span>&#160;}</div><div class="ttc" id="classParallelTaskDistributor_html_add8c2dc42615999c05e128e9eb311a3b"><div class="ttname"><a href="classParallelTaskDistributor.html#add8c2dc42615999c05e128e9eb311a3b">ParallelTaskDistributor::distribute</a></div><div class="ttdeci">virtual bool distribute(size_t &amp;first, size_t &amp;last)=0</div></div>
+<div class="fragment"><div class="line"><a name="l00319"></a><span class="lineno">  319</span>&#160;{</div><div class="line"><a name="l00320"></a><span class="lineno">  320</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a3459a83f03d3a0e3b6080c767d7c5f41">lock</a>();</div><div class="line"><a name="l00321"></a><span class="lineno">  321</span>&#160;    <span class="keywordtype">bool</span> <a class="code" href="namespacetests_1_1test.html#a921060f2246ba63bc4bcf601ce7fe9a2">result</a> = <a class="code" href="classParallelTaskDistributor.html#add8c2dc42615999c05e128e9eb311a3b">distribute</a>(<a class="code" href="numerical__recipes_8cpp.html#acaec38248b66cfba849985072bd311f6">first</a>, last);</div><div class="line"><a name="l00322"></a><span class="lineno">  322</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#af00cf040dc6a041e423ed2cdf2388e17">unlock</a>();</div><div class="line"><a name="l00323"></a><span class="lineno">  323</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="namespacetests_1_1test.html#a921060f2246ba63bc4bcf601ce7fe9a2">result</a>;</div><div class="line"><a name="l00324"></a><span class="lineno">  324</span>&#160;}</div><div class="ttc" id="classParallelTaskDistributor_html_add8c2dc42615999c05e128e9eb311a3b"><div class="ttname"><a href="classParallelTaskDistributor.html#add8c2dc42615999c05e128e9eb311a3b">ParallelTaskDistributor::distribute</a></div><div class="ttdeci">virtual bool distribute(size_t &amp;first, size_t &amp;last)=0</div></div>
 <div class="ttc" id="numerical__recipes_8cpp_html_acaec38248b66cfba849985072bd311f6"><div class="ttname"><a href="numerical__recipes_8cpp.html#acaec38248b66cfba849985072bd311f6">first</a></div><div class="ttdeci">glob_log first</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l05218">numerical_recipes.cpp:5218</a></div></div>
 <div class="ttc" id="classParallelTaskDistributor_html_af00cf040dc6a041e423ed2cdf2388e17"><div class="ttname"><a href="classParallelTaskDistributor.html#af00cf040dc6a041e423ed2cdf2388e17">ParallelTaskDistributor::unlock</a></div><div class="ttdeci">virtual void unlock()=0</div></div>
 <div class="ttc" id="classParallelTaskDistributor_html_a3459a83f03d3a0e3b6080c767d7c5f41"><div class="ttname"><a href="classParallelTaskDistributor.html#a3459a83f03d3a0e3b6080c767d7c5f41">ParallelTaskDistributor::lock</a></div><div class="ttdeci">virtual void lock()=0</div></div>
+<div class="ttc" id="namespacetests_1_1test_html_a921060f2246ba63bc4bcf601ce7fe9a2"><div class="ttname"><a href="namespacetests_1_1test.html#a921060f2246ba63bc4bcf601ce7fe9a2">tests.test.result</a></div><div class="ttdeci">result</div><div class="ttdef"><b>Definition:</b> <a href="test_8py_source.html#l00369">test.py:369</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -383,7 +400,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Set the number of tasks assigned in each request </p>
+
+<p>Set the number of tasks assigned in each request. </p>
 
 <p>Definition at line <a class="el" href="xmipp__threads_8cpp_source.html#l00306">306</a> of file <a class="el" href="xmipp__threads_8cpp_source.html">xmipp_threads.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160;{</div><div class="line"><a name="l00308"></a><span class="lineno">  308</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a3459a83f03d3a0e3b6080c767d7c5f41">lock</a>();</div><div class="line"><a name="l00309"></a><span class="lineno">  309</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#a07946da5f99cee0a11e8ede939335896">blockSize</a> = bSize;</div><div class="line"><a name="l00310"></a><span class="lineno">  310</span>&#160;    <a class="code" href="classParallelTaskDistributor.html#af00cf040dc6a041e423ed2cdf2388e17">unlock</a>();</div><div class="line"><a name="l00311"></a><span class="lineno">  311</span>&#160;}</div><div class="ttc" id="classParallelTaskDistributor_html_af00cf040dc6a041e423ed2cdf2388e17"><div class="ttname"><a href="classParallelTaskDistributor.html#af00cf040dc6a041e423ed2cdf2388e17">ParallelTaskDistributor::unlock</a></div><div class="ttdeci">virtual void unlock()=0</div></div>
@@ -477,8 +495,8 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="xmipp__threads_8h_source.html">xmipp_threads.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="xmipp__threads_8cpp_source.html">xmipp_threads.cpp</a></li>
+<li>xmippCore/core/<a class="el" href="xmipp__threads_8h_source.html">xmipp_threads.h</a></li>
+<li>xmippCore/core/<a class="el" href="xmipp__threads_8cpp_source.html">xmipp_threads.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

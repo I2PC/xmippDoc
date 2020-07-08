@@ -88,10 +88,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:gaef8e4def282b419223c257e290eae50d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibGradient.html#gaef8e4def282b419223c257e290eae50d">LinearGradient</a> (double InputData[], double OutputGradient[], long SignalLength, long Degree, enum <a class="el" href="tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9">TBoundaryConvention</a> Convention, double Tolerance, int *Status)</td></tr>
+<tr class="memdesc:gaef8e4def282b419223c257e290eae50d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute the gradient of 1D data.  <a href="#gaef8e4def282b419223c257e290eae50d">More...</a><br /></td></tr>
 <tr class="separator:gaef8e4def282b419223c257e290eae50d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga48d1563faf81ea602e6211f99a4f061f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibGradient.html#ga48d1563faf81ea602e6211f99a4f061f">PlanarGradient</a> (float *<a class="el" href="classInputImage.html">InputImage</a>, float *OutputGradient[], long Nx, long Ny, long Degree, enum <a class="el" href="tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9">TBoundaryConvention</a> Convention, double Tolerance, int *Status)</td></tr>
+<tr class="memdesc:ga48d1563faf81ea602e6211f99a4f061f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute the gradient of 2D data.  <a href="#ga48d1563faf81ea602e6211f99a4f061f">More...</a><br /></td></tr>
 <tr class="separator:ga48d1563faf81ea602e6211f99a4f061f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga3b62ec2d4a081eede7416e0071b5e46d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__BilibGradient.html#ga3b62ec2d4a081eede7416e0071b5e46d">VolumetricGradient</a> (float *InputVolume, float *OutputGradient[], long Nx, long Ny, long Nz, long Degree, enum <a class="el" href="tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9">TBoundaryConvention</a> Convention, double Tolerance, int *Status)</td></tr>
+<tr class="memdesc:ga3b62ec2d4a081eede7416e0071b5e46d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compute the gradient of 3D data.  <a href="#ga3b62ec2d4a081eede7416e0071b5e46d">More...</a><br /></td></tr>
 <tr class="separator:ga3b62ec2d4a081eede7416e0071b5e46d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -149,7 +152,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute the gradient of 1D data. InputData and OutputGradient have size SignalLength.</p>
+
+<p>Compute the gradient of 1D data. </p>
+<p>InputData and OutputGradient have size SignalLength.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -213,7 +218,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute the gradient of 2D data. <a class="el" href="classInputImage.html">InputImage</a> has size (Nx x Ny). OutputGradient is an array of two elements. Each element of OutputGradient is a (float *) pointer to an image. Each element has size (Nx x Ny). The first element is the gradient along x. The second element is the gradient along y.</p>
+
+<p>Compute the gradient of 2D data. </p>
+<p><a class="el" href="classInputImage.html">InputImage</a> has size (Nx x Ny). OutputGradient is an array of two elements. Each element of OutputGradient is a (float *) pointer to an image. Each element has size (Nx x Ny). The first element is the gradient along x. The second element is the gradient along y.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -283,7 +290,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Compute the gradient of 3D data. InputVolume has size (Nx x Ny x Nz). OutputGradient is an array of three elements. Each element of OutputGradient is a (float *) pointer to a volume. Each element of OutputGradient has size (Nx x Ny x Nz). The first element is the gradient along x. The second element is the gradient along y. The third element is the gradient along z.</p>
+
+<p>Compute the gradient of 3D data. </p>
+<p>InputVolume has size (Nx x Ny x Nz). OutputGradient is an array of three elements. Each element of OutputGradient is a (float *) pointer to a volume. Each element of OutputGradient has size (Nx x Ny x Nz). The first element is the gradient along x. The second element is the gradient along y. The third element is the gradient along z.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>

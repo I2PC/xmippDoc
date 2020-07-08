@@ -6,10 +6,11 @@ var searchData=
   ['qn',['qn',['../structalglib__impl_1_1autogkinternalstate.html#a28eb4be2f2dac8f3826811c7aba0348e',1,'alglib_impl::autogkinternalstate']]],
   ['qprep',['qprep',['../structalglib__impl_1_1minlmstate.html#a31d54f41c1fdfebde56a19216b73d316',1,'alglib_impl::minlmstate']]],
   ['qpstate',['qpstate',['../structalglib__impl_1_1minlmstate.html#a471a7c2c2e09d611fc9993e030355fd1',1,'alglib_impl::minlmstate']]],
-  ['quadrant',['quadrant',['../classMask.html#a6476c01cb2d09a425d037919bfb97bf3',1,'Mask::quadrant()'],['../structTTraceLine.html#a64490aa0b63efe151c8000fbb6299a21',1,'TTraceLine::Quadrant()']]],
+  ['quadrant',['Quadrant',['../structTTraceLine.html#a64490aa0b63efe151c8000fbb6299a21',1,'TTraceLine::Quadrant()'],['../classMask.html#a6476c01cb2d09a425d037919bfb97bf3',1,'Mask::quadrant()']]],
   ['quadraticmodel',['quadraticmodel',['../structalglib__impl_1_1minlmstate.html#a26a22603ae8f7ba32a3b17b7bebad4d9',1,'alglib_impl::minlmstate']]],
   ['quality',['quality',['../classPointQuality.html#a8e8391e34ed85bcad50bed475045c79c',1,'PointQuality']]],
   ['query',['query',['../structMDQueryObject.html#ae1fd66e25dc880c617eabfdb4796f11d',1,'MDQueryObject']]],
   ['quickhack',['quickHack',['../CNLSolver_8cpp.html#a7b4e25cddde24417f340bc92350138ab',1,'CNLSolver.cpp']]],
+  ['quickhelpdlg',['quickhelpdlg',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1GalleryMenu.html#a27e964ecf4fe5772a8004f33ae8368a2',1,'xmipp::viewer::windows::GalleryJFrame::GalleryMenu']]],
   ['quiet',['quiet',['../classProgAngularContinuousAssign.html#afcfb7c9d18378bbd764a29c230d7dcc4',1,'ProgAngularContinuousAssign']]]
 ];

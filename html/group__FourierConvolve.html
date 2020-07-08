@@ -88,12 +88,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:gad2854b04092ec6d43045093d495bb3d0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__FourierConvolve.html#gad2854b04092ec6d43045093d495bb3d0">ManyConvolveFourier</a> (double Data[], double KernelDht[], double CaS[], double *ScratchBuffer, long SignalLength, double Shift)</td></tr>
+<tr class="memdesc:gad2854b04092ec6d43045093d495bb3d0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fourier convolution with any kernel.  <a href="#gad2854b04092ec6d43045093d495bb3d0">More...</a><br /></td></tr>
 <tr class="separator:gad2854b04092ec6d43045093d495bb3d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gad72d72a0441768d908817d563172d9fb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__FourierConvolve.html#gad72d72a0441768d908817d563172d9fb">ManyConvolveFourierSymmetricKernel</a> (double Data[], double KernelDht[], double CaS[], double *ScratchBuffer, long SignalLength, double Shift)</td></tr>
+<tr class="memdesc:gad72d72a0441768d908817d563172d9fb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fourier convolution with a symmetric kernel.  <a href="#gad72d72a0441768d908817d563172d9fb">More...</a><br /></td></tr>
 <tr class="separator:gad72d72a0441768d908817d563172d9fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga06f9d5164d84623e143a52954a2d0f0d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__FourierConvolve.html#ga06f9d5164d84623e143a52954a2d0f0d">OneConvolveFourier</a> (double Data[], double <a class="el" href="classKernel.html">Kernel</a>[], long SignalLength, double Shift, int *Status)</td></tr>
+<tr class="memdesc:ga06f9d5164d84623e143a52954a2d0f0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fourier convolution 1D.  <a href="#ga06f9d5164d84623e143a52954a2d0f0d">More...</a><br /></td></tr>
 <tr class="separator:ga06f9d5164d84623e143a52954a2d0f0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga42f1e9c7eb88a7ac9c0d2793bf5a9f49"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__FourierConvolve.html#ga42f1e9c7eb88a7ac9c0d2793bf5a9f49">OneConvolveFourierSymmetricKernel</a> (double Data[], double SymmetricKernel[], long SignalLength, double Shift, int *Status)</td></tr>
+<tr class="memdesc:ga42f1e9c7eb88a7ac9c0d2793bf5a9f49"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fourier convolution with a symmetrical kernel.  <a href="#ga42f1e9c7eb88a7ac9c0d2793bf5a9f49">More...</a><br /></td></tr>
 <tr class="separator:ga42f1e9c7eb88a7ac9c0d2793bf5a9f49"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -145,7 +149,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Fourier convolution with any kernel. Same conventions as for OneConvolveFourier. Preprocessing steps have to be carrried out elsewhere.</p>
+
+<p>Fourier convolution with any kernel. </p>
+<p>Same conventions as for OneConvolveFourier. Preprocessing steps have to be carrried out elsewhere.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -197,7 +203,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Fourier convolution with a symmetric kernel. Same conventions as for OneConvolveFourierSymmetricKernel. Preprocessing steps have to be carrried out elsewhere</p>
+
+<p>Fourier convolution with a symmetric kernel. </p>
+<p>Same conventions as for OneConvolveFourierSymmetricKernel. Preprocessing steps have to be carrried out elsewhere</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -243,7 +251,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Fourier convolution 1D. Fourier convolution with any kernel. The kernel has an infinite, periodic (SignalLength) support. The kernel origin (hot spot) is at index [0].</p>
+
+<p>Fourier convolution 1D. </p>
+<p>Fourier convolution with any kernel. The kernel has an infinite, periodic (SignalLength) support. The kernel origin (hot spot) is at index [0].</p>
 <p>The highest coordinate (SignalLength-2)/2 is at index [(SignalLength-2)/2] for SignalLength even. The highest coordinate (SignalLength-1)/2 is at index [(SignalLength-1)/2] for SignalLength odd.</p>
 <p>The lowest coordinate -SignalLength/2 is at index [SignalLength/2] for SignalLength even. The lowest coordinate -(SignalLength-1)/2 is at index [(SignalLength+1)/2] for SignalLength odd.</p>
 <p>The coordinate -1 is at index [SignalLength-1] for SignalLength even or odd.</p>
@@ -294,7 +304,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Fourier convolution with a symmetrical kernel. The kernel has an infinite, periodic (SignalLength) support. The kernel origin (hot spot) is at index [0]. The highest coordinate (SignalLength-2)/2 is at index [(SignalLength-2)/2] for SignalLength even. For symmetry, kernel[(SignalLength-2)/2] = 0 for SignalLength even.</p>
+
+<p>Fourier convolution with a symmetrical kernel. </p>
+<p>The kernel has an infinite, periodic (SignalLength) support. The kernel origin (hot spot) is at index [0]. The highest coordinate (SignalLength-2)/2 is at index [(SignalLength-2)/2] for SignalLength even. For symmetry, kernel[(SignalLength-2)/2] = 0 for SignalLength even.</p>
 <p>The highest coordinate (SignalLength-1)/2 is at index [(SignalLength-1)/2] for SignalLength odd. No special symmetry requirement for SignalLength odd.</p>
 <p>The lowest coordinate -SignalLength/2 is at index [SignalLength/2] for SignalLength even. The lowest coordinate -(SignalLength-1)/2 is at index [(SignalLength+1)/2] for SignalLength odd.</p>
 <p>The coordinate -1 is at index [SignalLength-1] for SignalLength even or odd.</p>

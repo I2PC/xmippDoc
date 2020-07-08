@@ -1,4 +1,4 @@
 <map id="ProgMPIXrayProject" name="ProgMPIXrayProject">
-<area shape="rect" id="node2" href="$classProgXrayProject.html" title="ProgXrayProject" alt="" coords="17,80,135,107"/>
-<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="22,5,130,32"/>
+<area shape="rect" id="node2" href="$classProgXrayProject.html" title="Program class for the project program. " alt="" coords="17,80,135,107"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="This class represent an Xmipp Program. " alt="" coords="22,5,130,32"/>
 </map>

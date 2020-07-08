@@ -1,4 +1,4 @@
 <map id="ProgAngularProjectionMatching" name="ProgAngularProjectionMatching">
-<area shape="rect" id="node3" href="$classMpiProgAngularProjectionMatching.html" title="MpiProgAngularProjection\lMatching" alt="" coords="21,155,193,196"/>
-<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="53,5,161,32"/>
+<area shape="rect" id="node3" href="$classMpiProgAngularProjectionMatching.html" title="Program to parallelize the ML 2D alignment program. " alt="" coords="21,155,193,196"/>
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="This class represent an Xmipp Program. " alt="" coords="53,5,161,32"/>
 </map>

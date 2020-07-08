@@ -1,19 +1,14 @@
 var searchData=
 [
-  ['x_5fmatrix',['x_matrix',['../structalglib__impl_1_1x__matrix.html',1,'alglib_impl']]],
-  ['x_5fstring',['x_string',['../structalglib__impl_1_1x__string.html',1,'alglib_impl']]],
-  ['x_5fvector',['x_vector',['../structalglib__impl_1_1x__vector.html',1,'alglib_impl']]],
-  ['xmippdim3',['XmippDim3',['../classXmippDim3.html',1,'']]],
-  ['xmipperror',['XmippError',['../classXmippError.html',1,'']]],
-  ['xmippfilter',['XmippFilter',['../classXmippFilter.html',1,'']]],
-  ['xmipph5file',['XmippH5File',['../classXmippH5File.html',1,'']]],
-  ['xmipplog',['XmippLog',['../classXmippLog.html',1,'']]],
-  ['xmipplogblock',['XmippLogBlock',['../classXmippLogBlock.html',1,'']]],
-  ['xmippmetadataprogram',['XmippMetadataProgram',['../classXmippMetadataProgram.html',1,'']]],
-  ['xmippmpiprogram',['XmippMpiProgram',['../classXmippMpiProgram.html',1,'']]],
-  ['xmippprogram',['XmippProgram',['../classXmippProgram.html',1,'']]],
-  ['xmippprogramgeneric',['XmippProgramGeneric',['../classXmippProgramGeneric.html',1,'']]],
-  ['xrayprojphantom',['XrayProjPhantom',['../classXrayProjPhantom.html',1,'']]],
-  ['xraypsf',['XRayPSF',['../classXRayPSF.html',1,'']]],
-  ['xraythreadargument',['XrayThreadArgument',['../structXrayThreadArgument.html',1,'']]]
+  ['waveletfilter',['WaveletFilter',['../classWaveletFilter.html',1,'']]],
+  ['wavelettests',['WaveletTests',['../classWaveletTests.html',1,'']]],
+  ['wbpinfo',['WBPInfo',['../structWBPInfo.html',1,'']]],
+  ['wedge',['Wedge',['../classpython_1_1tompy_1_1filter_1_1Wedge.html',1,'python::tompy::filter']]],
+  ['wedgesolver',['WedgeSolver',['../classWedgeSolver.html',1,'']]],
+  ['weightedleastsquareshelper',['WeightedLeastSquaresHelper',['../classWeightedLeastSquaresHelper.html',1,'']]],
+  ['wikiprinter',['WikiPrinter',['../classWikiPrinter.html',1,'']]],
+  ['withparaminterface',['WithParamInterface',['../classtesting_1_1WithParamInterface.html',1,'testing']]],
+  ['worker',['Worker',['../classxmipp_1_1viewer_1_1windows_1_1Worker.html',1,'xmipp::viewer::windows']]],
+  ['worker',['Worker',['../classxmipp_1_1test_1_1MetadataTest_1_1Worker.html',1,'xmipp::test::MetadataTest']]],
+  ['writeimagecback',['WriteImageCBack',['../classdeepDenoising_1_1unet_1_1WriteImageCBack.html',1,'deepDenoising::unet']]]
 ];

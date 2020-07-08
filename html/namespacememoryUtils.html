@@ -120,11 +120,14 @@ Functions</h2></td></tr>
 <tr class="memitem:a2188ab27cff5b9f2f33366277e2c7f20"><td class="memTemplItemLeft" align="right" valign="top">constexpr T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacememoryUtils.html#a2188ab27cff5b9f2f33366277e2c7f20">GB</a> (T bytes)</td></tr>
 <tr class="separator:a2188ab27cff5b9f2f33366277e2c7f20"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8d10ea5496d76e21b36d7a214668bcbd"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacememoryUtils.html#a8d10ea5496d76e21b36d7a214668bcbd">alignmentOf</a> (uintptr_t ptr)</td></tr>
+<tr class="memdesc:a8d10ea5496d76e21b36d7a214668bcbd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the current alignment of the ptr.  <a href="#a8d10ea5496d76e21b36d7a214668bcbd">More...</a><br /></td></tr>
 <tr class="separator:a8d10ea5496d76e21b36d7a214668bcbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6e6d19f7cb30ba66fd0ecf3e12d56792"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacememoryUtils.html#a6e6d19f7cb30ba66fd0ecf3e12d56792">alignmentOf</a> (void *ptr)</td></tr>
+<tr class="memdesc:a6e6d19f7cb30ba66fd0ecf3e12d56792"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convenience shortcut for <a class="el" href="namespacememoryUtils.html#a8d10ea5496d76e21b36d7a214668bcbd" title="Returns the current alignment of the ptr. ">alignmentOf(uintptr_t)</a>.  <a href="#a6e6d19f7cb30ba66fd0ecf3e12d56792">More...</a><br /></td></tr>
 <tr class="separator:a6e6d19f7cb30ba66fd0ecf3e12d56792"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea128c2af69b8c15b94182cb932fd1ca"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:aea128c2af69b8c15b94182cb932fd1ca"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespacememoryUtils.html#aea128c2af69b8c15b94182cb932fd1ca">align</a> (T number, uint32_t alignment)</td></tr>
+<tr class="memdesc:aea128c2af69b8c15b94182cb932fd1ca"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return number + N, where N is the smallest non-negative number required to make number have given alignment.  <a href="#aea128c2af69b8c15b94182cb932fd1ca">More...</a><br /></td></tr>
 <tr class="separator:aea128c2af69b8c15b94182cb932fd1ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
@@ -161,7 +164,9 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Return number + N, where N is the smallest non-negative number required to make number have given alignment. Example: align(13, 8) = 16 </p>
+
+<p>Return number + N, where N is the smallest non-negative number required to make number have given alignment. </p>
+<p>Example: align(13, 8) = 16 </p>
 
 <p>Definition at line <a class="el" href="memory__utils_8h_source.html#l00111">111</a> of file <a class="el" href="memory__utils_8h_source.html">memory_utils.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;                                                 {</div><div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;        T off = number % alignment;</div><div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;        <span class="keywordflow">if</span> (off == 0) {</div><div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;            <span class="keywordflow">return</span> number;</div><div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;        } <span class="keywordflow">else</span> {</div><div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;            <span class="keywordflow">return</span> number + alignment - off;</div><div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;        }</div><div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;    }</div></div><!-- fragment -->
@@ -188,7 +193,9 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Returns the current alignment of the ptr. Essentially just counts the amount of LSB zeros. Returns 2^31 for ptr == 0. </p>
+
+<p>Returns the current alignment of the ptr. </p>
+<p>Essentially just counts the amount of LSB zeros. Returns 2^31 for ptr == 0. </p>
 
 <p>Definition at line <a class="el" href="memory__utils_8h_source.html#l00093">93</a> of file <a class="el" href="memory__utils_8h_source.html">memory_utils.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;                                               {</div><div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;        <span class="keywordflow">for</span> (uint32_t alignPower = 0; alignPower &lt; 32; alignPower++) {</div><div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;            <span class="keyword">const</span> uint32_t alignment = 1<a class="code" href="numerical__recipes_8cpp.html#a6277e2a7446059985dc9bcf0a4ac1a8f">u</a> &lt;&lt; alignPower;</div><div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;            <span class="keywordflow">if</span> ((ptr &amp; alignment) != 0) {</div><div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;                <span class="keywordflow">return</span> alignment;</div><div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;            }</div><div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;        }</div><div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;        <span class="keywordflow">return</span> 1<a class="code" href="numerical__recipes_8cpp.html#a6277e2a7446059985dc9bcf0a4ac1a8f">u</a> &lt;&lt; 31<a class="code" href="numerical__recipes_8cpp.html#a6277e2a7446059985dc9bcf0a4ac1a8f">u</a>;</div><div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;    }</div><div class="ttc" id="numerical__recipes_8cpp_html_a6277e2a7446059985dc9bcf0a4ac1a8f"><div class="ttname"><a href="numerical__recipes_8cpp.html#a6277e2a7446059985dc9bcf0a4ac1a8f">u</a></div><div class="ttdeci">doublereal * u</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l02247">numerical_recipes.cpp:2247</a></div></div>
@@ -216,10 +223,11 @@ template&lt;typename T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Convenience shortcut for <a class="el" href="namespacememoryUtils.html#a8d10ea5496d76e21b36d7a214668bcbd">alignmentOf(uintptr_t)</a>. </p>
+
+<p>Convenience shortcut for <a class="el" href="namespacememoryUtils.html#a8d10ea5496d76e21b36d7a214668bcbd" title="Returns the current alignment of the ptr. ">alignmentOf(uintptr_t)</a>. </p>
 
 <p>Definition at line <a class="el" href="memory__utils_8h_source.html#l00104">104</a> of file <a class="el" href="memory__utils_8h_source.html">memory_utils.h</a>.</p>
-<div class="fragment"><div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;                                            {</div><div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="namespacememoryUtils.html#a6e6d19f7cb30ba66fd0ecf3e12d56792">alignmentOf</a>((<span class="keywordtype">size_t</span>) ptr);</div><div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;    }</div><div class="ttc" id="namespacememoryUtils_html_a6e6d19f7cb30ba66fd0ecf3e12d56792"><div class="ttname"><a href="namespacememoryUtils.html#a6e6d19f7cb30ba66fd0ecf3e12d56792">memoryUtils::alignmentOf</a></div><div class="ttdeci">uint32_t alignmentOf(void *ptr)</div><div class="ttdef"><b>Definition:</b> <a href="memory__utils_8h_source.html#l00104">memory_utils.h:104</a></div></div>
+<div class="fragment"><div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;                                            {</div><div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="namespacememoryUtils.html#a6e6d19f7cb30ba66fd0ecf3e12d56792">alignmentOf</a>((<span class="keywordtype">size_t</span>) ptr);</div><div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;    }</div><div class="ttc" id="namespacememoryUtils_html_a6e6d19f7cb30ba66fd0ecf3e12d56792"><div class="ttname"><a href="namespacememoryUtils.html#a6e6d19f7cb30ba66fd0ecf3e12d56792">memoryUtils::alignmentOf</a></div><div class="ttdeci">uint32_t alignmentOf(void *ptr)</div><div class="ttdoc">Convenience shortcut for alignmentOf(uintptr_t). </div><div class="ttdef"><b>Definition:</b> <a href="memory__utils_8h_source.html#l00104">memory_utils.h:104</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>

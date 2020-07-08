@@ -49,6 +49,7 @@ var searchData=
   ['_5fnleqreport_5fowner',['_nleqreport_owner',['../classalglib_1_1__nleqreport__owner.html',1,'alglib']]],
   ['_5fnleqstate_5fowner',['_nleqstate_owner',['../classalglib_1_1__nleqstate__owner.html',1,'alglib']]],
   ['_5fnormestimatorstate_5fowner',['_normestimatorstate_owner',['../classalglib_1_1__normestimatorstate__owner.html',1,'alglib']]],
+  ['_5fobject',['_object',['../classswig__frm_1_1__object.html',1,'swig_frm']]],
   ['_5fobjective',['_objective',['../struct__objective.html',1,'']]],
   ['_5fodesolverreport_5fowner',['_odesolverreport_owner',['../classalglib_1_1__odesolverreport__owner.html',1,'alglib']]],
   ['_5fodesolverstate_5fowner',['_odesolverstate_owner',['../classalglib_1_1__odesolverstate__owner.html',1,'alglib']]],

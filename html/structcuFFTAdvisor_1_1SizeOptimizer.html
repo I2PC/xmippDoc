@@ -100,7 +100,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="sizeOptimizer_8h_source.html">sizeOptimizer.h</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="sizeOptimizer_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/cuFFTAdvisor/sizeOptimizer.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for cuFFTAdvisor::SizeOptimizer:</div>
 <div class="dyncontent">
@@ -214,7 +214,8 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="sizeOptimizer_8cpp_source.html#l00036">36</a> of file <a class="el" href="sizeOptimizer_8cpp_source.html">sizeOptimizer.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;                                                                   {</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;  std::vector&lt;GeneralTransform&gt; preoptimized;</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;  <span class="keywordflow">for</span> (<span class="keyword">auto</span> <a class="code" href="image__find__center_8cpp.html#a26aeebe75887b4360c73659342f5dc61">in</a> : input) {</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    std::vector&lt;GeneralTransform&gt; *tmp =</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        optimizeXYZ(<a class="code" href="image__find__center_8cpp.html#a26aeebe75887b4360c73659342f5dc61">in</a>, nBest, maxPercIncrease, squareOnly, crop);</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    preoptimized.insert(preoptimized.end(), tmp-&gt;begin(), tmp-&gt;end());</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    <span class="keyword">delete</span> tmp;</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;  }</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;  <span class="keywordflow">return</span> optimizeN(&amp;preoptimized, maxMemMB, nBest);</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;}</div><div class="ttc" id="image__find__center_8cpp_html_a26aeebe75887b4360c73659342f5dc61"><div class="ttname"><a href="image__find__center_8cpp.html#a26aeebe75887b4360c73659342f5dc61">in</a></div><div class="ttdeci">int in</div><div class="ttdef"><b>Definition:</b> <a href="image__find__center_8cpp_source.html#l00053">image_find_center.cpp:53</a></div></div>
+<div class="fragment"><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;                                                                   {</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;  std::vector&lt;GeneralTransform&gt; preoptimized;</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;  <span class="keywordflow">for</span> (<span class="keyword">auto</span> <a class="code" href="image__find__center_8cpp.html#a26aeebe75887b4360c73659342f5dc61">in</a> : input) {</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    std::vector&lt;GeneralTransform&gt; *tmp =</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        optimizeXYZ(<a class="code" href="image__find__center_8cpp.html#a26aeebe75887b4360c73659342f5dc61">in</a>, nBest, maxPercIncrease, squareOnly, <a class="code" href="namespacebatch__particle__boxsize.html#a7c941581cf8123e026ee4b718daad80c">crop</a>);</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    preoptimized.insert(preoptimized.end(), tmp-&gt;begin(), tmp-&gt;end());</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    <span class="keyword">delete</span> tmp;</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;  }</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;  <span class="keywordflow">return</span> optimizeN(&amp;preoptimized, maxMemMB, nBest);</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;}</div><div class="ttc" id="image__find__center_8cpp_html_a26aeebe75887b4360c73659342f5dc61"><div class="ttname"><a href="image__find__center_8cpp.html#a26aeebe75887b4360c73659342f5dc61">in</a></div><div class="ttdeci">int in</div><div class="ttdef"><b>Definition:</b> <a href="image__find__center_8cpp_source.html#l00053">image_find_center.cpp:53</a></div></div>
+<div class="ttc" id="namespacebatch__particle__boxsize_html_a7c941581cf8123e026ee4b718daad80c"><div class="ttname"><a href="namespacebatch__particle__boxsize.html#a7c941581cf8123e026ee4b718daad80c">batch_particle_boxsize.crop</a></div><div class="ttdeci">def crop(x, output_shape, shifts_)</div><div class="ttdef"><b>Definition:</b> <a href="batch__particle__boxsize_8py_source.html#l00037">batch_particle_boxsize.py:37</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -234,8 +235,8 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/cuFFTAdvisor/<a class="el" href="sizeOptimizer_8cpp_source.html">sizeOptimizer.cpp</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/cuFFTAdvisor/<a class="el" href="sizeOptimizer_8h_source.html">sizeOptimizer.h</a></li>
+<li>cuFFTAdvisor/<a class="el" href="sizeOptimizer_8cpp_source.html">sizeOptimizer.cpp</a></li>
+<li>cuFFTAdvisor/<a class="el" href="sizeOptimizer_8h_source.html">sizeOptimizer.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

@@ -1,12 +1,12 @@
-<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/ml_refine3d.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/ml_refine3d.h">
-<area shape="rect" id="node2" href="$ml__refine3d__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/ml\l_refine3d/ml_refine3d_main.cpp" alt="" coords="112,139,319,224"/>
-<area shape="rect" id="node3" href="$mlf__refine3d__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/mlf\l_refine3d/mlf_refine3d_main.cpp" alt="" coords="343,139,554,224"/>
-<area shape="rect" id="node4" href="$mpi__ml__align2d_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/parallel/mpi\l_ml_align2d.h" alt="" coords="579,139,743,224"/>
-<area shape="rect" id="node11" href="$ml__refine3d_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/reconstruction\l/ml_refine3d.cpp" alt="" coords="767,139,931,224"/>
-<area shape="rect" id="node5" href="$mpi__ml__align2d__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/mpi\l_ml_align2d/mpi_ml_align2d\l_main.cpp" alt="" coords="5,272,191,372"/>
-<area shape="rect" id="node6" href="$mpi__ml__refine3d__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/mpi\l_ml_refine3d/mpi_ml_refine3d\l_main.cpp" alt="" coords="215,272,410,372"/>
-<area shape="rect" id="node7" href="$mpi__ml__tomo__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/mpi\l_ml_tomo/mpi_ml_tomo_main.cpp" alt="" coords="434,279,655,365"/>
-<area shape="rect" id="node8" href="$mpi__mlf__align2d__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/mpi\l_mlf_align2d/mpi_mlf_align2d\l_main.cpp" alt="" coords="680,272,873,372"/>
-<area shape="rect" id="node9" href="$mpi__mlf__refine3d__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/mpi\l_mlf_refine3d/mpi_mlf_refine3d\l_main.cpp" alt="" coords="898,272,1101,372"/>
-<area shape="rect" id="node10" href="$mpi__ml__align2d_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/parallel/mpi\l_ml_align2d.cpp" alt="" coords="1125,279,1289,365"/>
+<map id="xmipp/libraries/reconstruction/ml_refine3d.h" name="xmipp/libraries/reconstruction/ml_refine3d.h">
+<area shape="rect" id="node2" href="$ml__refine3d__main_8cpp.html" title="xmipp/applications\l/programs/ml_refine3d\l/ml_refine3d_main.cpp" alt="" coords="157,95,310,151"/>
+<area shape="rect" id="node3" href="$mlf__refine3d__main_8cpp.html" title="xmipp/applications\l/programs/mlf_refine3d\l/mlf_refine3d_main.cpp" alt="" coords="335,95,492,151"/>
+<area shape="rect" id="node4" href="$mpi__ml__align2d_8h.html" title="xmipp/libraries/parallel\l/mpi_ml_align2d.h" alt="" coords="517,102,667,143"/>
+<area shape="rect" id="node11" href="$ml__refine3d_8cpp.html" title="xmipp/libraries/reconstruction\l/ml_refine3d.cpp" alt="" coords="692,102,884,143"/>
+<area shape="rect" id="node5" href="$mpi__ml__align2d__main_8cpp.html" title="xmipp/applications\l/programs/mpi_ml_align2d\l/mpi_ml_align2d_main.cpp" alt="" coords="5,199,181,255"/>
+<area shape="rect" id="node6" href="$mpi__ml__refine3d__main_8cpp.html" title="xmipp/applications\l/programs/mpi_ml_refine3d\l/mpi_ml_refine3d_main.cpp" alt="" coords="205,199,387,255"/>
+<area shape="rect" id="node7" href="$mpi__ml__tomo__main_8cpp.html" title="xmipp/applications\l/programs/mpi_ml_tomo\l/mpi_ml_tomo_main.cpp" alt="" coords="411,199,575,255"/>
+<area shape="rect" id="node8" href="$mpi__mlf__align2d__main_8cpp.html" title="xmipp/applications\l/programs/mpi_mlf_align2d\l/mpi_mlf_align2d_main.cpp" alt="" coords="599,199,779,255"/>
+<area shape="rect" id="node9" href="$mpi__mlf__refine3d__main_8cpp.html" title="xmipp/applications\l/programs/mpi_mlf_refine3d\l/mpi_mlf_refine3d_main.cpp" alt="" coords="803,199,989,255"/>
+<area shape="rect" id="node10" href="$mpi__ml__align2d_8cpp.html" title="xmipp/libraries/parallel\l/mpi_ml_align2d.cpp" alt="" coords="1013,206,1163,247"/>
 </map>

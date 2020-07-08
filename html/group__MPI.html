@@ -90,12 +90,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMpiNode.html">MpiNode</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class to wrapp some MPI common calls in an work node.  <a href="classMpiNode.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMpiTaskDistributor.html">MpiTaskDistributor</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class is another implementation of <a class="el" href="classParallelTaskDistributor.html" title="This class distributes dynamically N tasks between parallel workers. ">ParallelTaskDistributor</a> with MPI workers.  <a href="classMpiTaskDistributor.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMpiFileMutex.html">MpiFileMutex</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classMutex.html" title="Class wrapping around the pthreads mutex. ">Mutex</a> on files.  <a href="classMpiFileMutex.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classXmippMpiProgram.html">XmippMpiProgram</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This class represent an Xmipp MPI Program.  <a href="classXmippMpiProgram.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMpiMetadataProgram.html">MpiMetadataProgram</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -113,11 +117,13 @@ Macros</h2></td></tr>
 <tr class="memitem:ga72a3d6c730c44609165f47d7f33c1102"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__MPI.html#ga72a3d6c730c44609165f47d7f33c1102">TAG_WORK_RESPONSE</a>&#160;&#160;&#160;101</td></tr>
 <tr class="separator:ga72a3d6c730c44609165f47d7f33c1102"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga8b681ebcfbdaf76bc75d16ef7de87396"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__MPI.html#ga8b681ebcfbdaf76bc75d16ef7de87396">CREATE_MPI_METADATA_PROGRAM</a>(baseClassName,  mpiClassName)</td></tr>
+<tr class="memdesc:ga8b681ebcfbdaf76bc75d16ef7de87396"><td class="mdescLeft">&#160;</td><td class="mdescRight">Macro to define a simple MPI parallelization of a program based on XmippMetaDataProgram.  <a href="#ga8b681ebcfbdaf76bc75d16ef7de87396">More...</a><br /></td></tr>
 <tr class="separator:ga8b681ebcfbdaf76bc75d16ef7de87396"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ga1bcaff3acf66bc036659e31c4b512a02"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__MPI.html#ga1bcaff3acf66bc036659e31c4b512a02">xmipp_MPI_Reduce</a> (void *send_data, void *recv_data, size_t count, MPI_Datatype datatype, MPI_Op op, int root, MPI_Comm communicator, size_t blockSize=1048576)</td></tr>
+<tr class="memdesc:ga1bcaff3acf66bc036659e31c4b512a02"><td class="mdescLeft">&#160;</td><td class="mdescRight">MPI Reduce with memory constraint.  <a href="#ga1bcaff3acf66bc036659e31c4b512a02">More...</a><br /></td></tr>
 <tr class="separator:ga1bcaff3acf66bc036659e31c4b512a02"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -145,7 +151,8 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Macro to define a simple MPI parallelization of a program based on XmippMetaDataProgram </p>
+
+<p>Macro to define a simple MPI parallelization of a program based on XmippMetaDataProgram. </p>
 
 <p>Definition at line <a class="el" href="xmipp__mpi_8h_source.html#l00218">218</a> of file <a class="el" href="xmipp__mpi_8h_source.html">xmipp_mpi.h</a>.</p>
 
@@ -281,7 +288,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>MPI Reduce with memory constraint. MPI_Reduce may give a segmentation fault when sharing large objects </p>
+
+<p>MPI Reduce with memory constraint. </p>
+<p>MPI_Reduce may give a segmentation fault when sharing large objects </p>
 
 <p>Definition at line <a class="el" href="xmipp__mpi_8cpp_source.html#l00344">344</a> of file <a class="el" href="xmipp__mpi_8cpp_source.html">xmipp_mpi.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;{</div><div class="line"><a name="l00354"></a><span class="lineno">  354</span>&#160;    <span class="keywordtype">int</span> type_size;</div><div class="line"><a name="l00355"></a><span class="lineno">  355</span>&#160;    MPI_Type_size(datatype,&amp;type_size);</div><div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160;    <span class="keywordtype">size_t</span> quotient=count/blockSize;</div><div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;    <span class="keywordflow">if</span> (quotient&gt;0)</div><div class="line"><a name="l00358"></a><span class="lineno">  358</span>&#160;    {</div><div class="line"><a name="l00359"></a><span class="lineno">  359</span>&#160;        <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> <a class="code" href="numerical__recipes_8cpp.html#ae0323a9039add2978bf5b49550572c7c">c</a>=0; <a class="code" href="numerical__recipes_8cpp.html#ae0323a9039add2978bf5b49550572c7c">c</a>&lt;quotient; <a class="code" href="numerical__recipes_8cpp.html#ae0323a9039add2978bf5b49550572c7c">c</a>++)</div><div class="line"><a name="l00360"></a><span class="lineno">  360</span>&#160;            MPI_Reduce((<span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>*)(send_data)+<a class="code" href="numerical__recipes_8cpp.html#ae0323a9039add2978bf5b49550572c7c">c</a>*blockSize*<span class="keywordtype">size_t</span>(type_size),</div><div class="line"><a name="l00361"></a><span class="lineno">  361</span>&#160;                       (<span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>*)(recv_data)+<a class="code" href="numerical__recipes_8cpp.html#ae0323a9039add2978bf5b49550572c7c">c</a>*blockSize*<span class="keywordtype">size_t</span>(type_size),</div><div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160;                       blockSize,datatype,op,root,communicator);</div><div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160;    }</div><div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160;    <span class="keywordtype">size_t</span> remainder=count%blockSize;</div><div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;    <span class="keywordflow">if</span> (remainder&gt;0)</div><div class="line"><a name="l00366"></a><span class="lineno">  366</span>&#160;        MPI_Reduce((<span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>*)(send_data)+quotient*blockSize*<span class="keywordtype">size_t</span>(type_size),</div><div class="line"><a name="l00367"></a><span class="lineno">  367</span>&#160;                   (<span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>*)(recv_data)+quotient*blockSize*<span class="keywordtype">size_t</span>(type_size),</div><div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;                   remainder,datatype,op,root,communicator);</div><div class="line"><a name="l00369"></a><span class="lineno">  369</span>&#160;}</div><div class="ttc" id="numerical__recipes_8cpp_html_ae0323a9039add2978bf5b49550572c7c"><div class="ttname"><a href="numerical__recipes_8cpp.html#ae0323a9039add2978bf5b49550572c7c">c</a></div><div class="ttdeci">doublereal * c</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l02247">numerical_recipes.cpp:2247</a></div></div>

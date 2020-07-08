@@ -94,14 +94,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="metadata__sql_8h_source.html">metadata_sql.h</a>&gt;</code></p>
+<p>Query if <a class="el" href="classMetaData.html" title="Class to manage data files. ">MetaData</a> column values are distint than some specific value.  
+ <a href="classMDValueNE.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="metadata__sql_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/metadata_sql.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for MDValueNE:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMDValueNE__inherit__graph.png" border="0" usemap="#MDValueNE_inherit__map" alt="Inheritance graph"/></div>
 <map name="MDValueNE_inherit__map" id="MDValueNE_inherit__map">
-<area shape="rect" id="node2" href="classMDValueRelational.html" title="MDValueRelational" alt="" coords="5,80,140,107"/>
-<area shape="rect" id="node3" href="classMDQuery.html" title="MDQuery" alt="" coords="33,5,112,32"/>
+<area shape="rect" id="node2" href="classMDValueRelational.html" title="Subclass of MDQuery and base for all relational queries. " alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="classMDQuery.html" title="This is the base class for queries on MetaData. " alt="" coords="33,5,112,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -109,8 +112,8 @@ Collaboration diagram for MDValueNE:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMDValueNE__coll__graph.png" border="0" usemap="#MDValueNE_coll__map" alt="Collaboration graph"/></div>
 <map name="MDValueNE_coll__map" id="MDValueNE_coll__map">
-<area shape="rect" id="node2" href="classMDValueRelational.html" title="MDValueRelational" alt="" coords="5,80,140,107"/>
-<area shape="rect" id="node3" href="classMDQuery.html" title="MDQuery" alt="" coords="33,5,112,32"/>
+<area shape="rect" id="node2" href="classMDValueRelational.html" title="Subclass of MDQuery and base for all relational queries. " alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="classMDQuery.html" title="This is the base class for queries on MetaData. " alt="" coords="33,5,112,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -130,20 +133,26 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aa06882093332973b807c117bd61a1b02 inherit pub_methods_classMDValueRelational"><td class="memItemLeft" align="right" valign="top"><a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDValueRelational.html#aa06882093332973b807c117bd61a1b02">opString</a> () const </td></tr>
 <tr class="separator:aa06882093332973b807c117bd61a1b02 inherit pub_methods_classMDValueRelational"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a09157ff53b6f683d5b286b3f95fe1d3a inherit pub_methods_classMDValueRelational"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDValueRelational.html#a09157ff53b6f683d5b286b3f95fe1d3a">queryStringFunc</a> () const </td></tr>
+<tr class="memdesc:a09157ff53b6f683d5b286b3f95fe1d3a inherit pub_methods_classMDValueRelational"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the query string, should be overrided in subclasses.  <a href="#a09157ff53b6f683d5b286b3f95fe1d3a">More...</a><br /></td></tr>
 <tr class="separator:a09157ff53b6f683d5b286b3f95fe1d3a inherit pub_methods_classMDValueRelational"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aad8f8c9728be0db95d1ab4f3b25526a4 inherit pub_methods_classMDValueRelational"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:aad8f8c9728be0db95d1ab4f3b25526a4 inherit pub_methods_classMDValueRelational"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classMDValueRelational.html#aad8f8c9728be0db95d1ab4f3b25526a4">setValue</a> (T &amp;value)</td></tr>
 <tr class="separator:aad8f8c9728be0db95d1ab4f3b25526a4 inherit pub_methods_classMDValueRelational"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classMDQuery"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classMDQuery')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classMDQuery.html">MDQuery</a></td></tr>
 <tr class="memitem:a695a59763140bb2b5de87777135c237f inherit pub_methods_classMDQuery"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDQuery.html#a695a59763140bb2b5de87777135c237f">MDQuery</a> (int <a class="el" href="classMDQuery.html#a31eda74477a72f5498f97063aaa46271">limit</a>=-1, int <a class="el" href="classMDQuery.html#ab0790d9dea7a88a63cae5e44643b2859">offset</a>=0, <a class="el" href="group__MetaData.html#ga7a6f95c8cfb46e6dfb2689b5cabd3f78">MDLabel</a> <a class="el" href="classMDQuery.html#a9bd33fb79892c2ee2646862b198413db">orderLabel</a>=<a class="el" href="group__MetaData.html#gga7a6f95c8cfb46e6dfb2689b5cabd3f78abc23e37e52ac8babc4c6e7520c34a0c6">MDL_OBJID</a>, bool <a class="el" href="classMDQuery.html#a2e2c256e093af4f7343f9b3e45f3d937">asc</a>=true)</td></tr>
+<tr class="memdesc:a695a59763140bb2b5de87777135c237f inherit pub_methods_classMDQuery"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a695a59763140bb2b5de87777135c237f">More...</a><br /></td></tr>
 <tr class="separator:a695a59763140bb2b5de87777135c237f inherit pub_methods_classMDQuery"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab40d9e37325c3b5ebaadcb88b0e65c88 inherit pub_methods_classMDQuery"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDQuery.html#ab40d9e37325c3b5ebaadcb88b0e65c88">~MDQuery</a> ()</td></tr>
+<tr class="memdesc:ab40d9e37325c3b5ebaadcb88b0e65c88 inherit pub_methods_classMDQuery"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#ab40d9e37325c3b5ebaadcb88b0e65c88">More...</a><br /></td></tr>
 <tr class="separator:ab40d9e37325c3b5ebaadcb88b0e65c88 inherit pub_methods_classMDQuery"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac9fbe09ff1e11768fd236badde3c359f inherit pub_methods_classMDQuery"><td class="memItemLeft" align="right" valign="top"><a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDQuery.html#ac9fbe09ff1e11768fd236badde3c359f">orderByString</a> () const </td></tr>
+<tr class="memdesc:ac9fbe09ff1e11768fd236badde3c359f inherit pub_methods_classMDQuery"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the ORDER BY string to be used in SQL query.  <a href="#ac9fbe09ff1e11768fd236badde3c359f">More...</a><br /></td></tr>
 <tr class="separator:ac9fbe09ff1e11768fd236badde3c359f inherit pub_methods_classMDQuery"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a700fd37e8f8519737685282d4370a3a0 inherit pub_methods_classMDQuery"><td class="memItemLeft" align="right" valign="top"><a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDQuery.html#a700fd37e8f8519737685282d4370a3a0">limitString</a> () const </td></tr>
+<tr class="memdesc:a700fd37e8f8519737685282d4370a3a0 inherit pub_methods_classMDQuery"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the LIMIT string to be used in SQL.  <a href="#a700fd37e8f8519737685282d4370a3a0">More...</a><br /></td></tr>
 <tr class="separator:a700fd37e8f8519737685282d4370a3a0 inherit pub_methods_classMDQuery"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a62f8e92944a60fa3babb795ac3faed21 inherit pub_methods_classMDQuery"><td class="memItemLeft" align="right" valign="top"><a class="el" href="xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff">String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDQuery.html#a62f8e92944a60fa3babb795ac3faed21">whereString</a> () const </td></tr>
+<tr class="memdesc:a62f8e92944a60fa3babb795ac3faed21 inherit pub_methods_classMDQuery"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the WHERE string to be used in SQL query.  <a href="#a62f8e92944a60fa3babb795ac3faed21">More...</a><br /></td></tr>
 <tr class="separator:a62f8e92944a60fa3babb795ac3faed21 inherit pub_methods_classMDQuery"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
@@ -162,7 +171,8 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:a2e2c256e093af4f7343f9b3e45f3d937 inherit pub_attribs_classMDQuery"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Query if <a class="el" href="classMetaData.html">MetaData</a> column values are distint than some specific value. </p><dl class="section see"><dt>See also</dt><dd><a class="el" href="classMDValueEQ.html">MDValueEQ</a> <a class="el" href="numerical__recipes_8cpp.html#a8b9eb702eb3f9bcba3923532d1e801db">for</a> examples of use. </dd></dl>
+<div class="textblock"><p>Query if <a class="el" href="classMetaData.html" title="Class to manage data files. ">MetaData</a> column values are distint than some specific value. </p>
+<dl class="section see"><dt>See also</dt><dd><a class="el" href="classMDValueEQ.html" title="Query if MetaData column values are equal to some specific value. ">MDValueEQ</a> <a class="el" href="numerical__recipes_8cpp.html#a8b9eb702eb3f9bcba3923532d1e801db">for</a> examples of use. </dd></dl>
 
 <p>Definition at line <a class="el" href="metadata__sql_8h_source.html#l00477">477</a> of file <a class="el" href="metadata__sql_8h_source.html">metadata_sql.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -219,16 +229,17 @@ template&lt;class T &gt; </div>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="metadata__sql_8h_source.html#l00481">481</a> of file <a class="el" href="metadata__sql_8h_source.html">metadata_sql.h</a>.</p>
-<div class="fragment"><div class="line"><a name="l00482"></a><span class="lineno">  482</span>&#160;            :<a class="code" href="classMDValueRelational.html#afeeead19bccc2a8ac98137800a49497f">MDValueRelational</a>(label, value, <a class="code" href="metadata__sql_8h.html#af9a1b34d50cc496bf2d2a99d4bf28de6a4d3f872f5054b256b01ee4f2c8cf51db">NE</a>, <a class="code" href="classMDQuery.html#a31eda74477a72f5498f97063aaa46271">limit</a>, <a class="code" href="classMDQuery.html#ab0790d9dea7a88a63cae5e44643b2859">offset</a>, <a class="code" href="classMDQuery.html#a9bd33fb79892c2ee2646862b198413db">orderLabel</a>)</div><div class="line"><a name="l00483"></a><span class="lineno">  483</span>&#160;    {}</div><div class="ttc" id="classMDQuery_html_a31eda74477a72f5498f97063aaa46271"><div class="ttname"><a href="classMDQuery.html#a31eda74477a72f5498f97063aaa46271">MDQuery::limit</a></div><div class="ttdeci">int limit</div><div class="ttdoc">If distint of -1 the results will be limited to this value. </div><div class="ttdef"><b>Definition:</b> <a href="metadata__sql_8h_source.html#l00328">metadata_sql.h:328</a></div></div>
+<div class="fragment"><div class="line"><a name="l00482"></a><span class="lineno">  482</span>&#160;            :<a class="code" href="classMDValueRelational.html#afeeead19bccc2a8ac98137800a49497f">MDValueRelational</a>(<a class="code" href="namespacetar.html#a2ec7e9f666688494f76e69a2513bcaf9">label</a>, value, <a class="code" href="metadata__sql_8h.html#af9a1b34d50cc496bf2d2a99d4bf28de6a4d3f872f5054b256b01ee4f2c8cf51db">NE</a>, <a class="code" href="classMDQuery.html#a31eda74477a72f5498f97063aaa46271">limit</a>, <a class="code" href="classMDQuery.html#ab0790d9dea7a88a63cae5e44643b2859">offset</a>, <a class="code" href="classMDQuery.html#a9bd33fb79892c2ee2646862b198413db">orderLabel</a>)</div><div class="line"><a name="l00483"></a><span class="lineno">  483</span>&#160;    {}</div><div class="ttc" id="classMDQuery_html_a31eda74477a72f5498f97063aaa46271"><div class="ttname"><a href="classMDQuery.html#a31eda74477a72f5498f97063aaa46271">MDQuery::limit</a></div><div class="ttdeci">int limit</div><div class="ttdoc">If distint of -1 the results will be limited to this value. </div><div class="ttdef"><b>Definition:</b> <a href="metadata__sql_8h_source.html#l00328">metadata_sql.h:328</a></div></div>
 <div class="ttc" id="classMDQuery_html_a9bd33fb79892c2ee2646862b198413db"><div class="ttname"><a href="classMDQuery.html#a9bd33fb79892c2ee2646862b198413db">MDQuery::orderLabel</a></div><div class="ttdeci">MDLabel orderLabel</div><div class="ttdoc">Label to which apply sort of the results. </div><div class="ttdef"><b>Definition:</b> <a href="metadata__sql_8h_source.html#l00330">metadata_sql.h:330</a></div></div>
 <div class="ttc" id="classMDQuery_html_ab0790d9dea7a88a63cae5e44643b2859"><div class="ttname"><a href="classMDQuery.html#ab0790d9dea7a88a63cae5e44643b2859">MDQuery::offset</a></div><div class="ttdeci">int offset</div><div class="ttdoc">If distint of 0, offset elements will be discarded. </div><div class="ttdef"><b>Definition:</b> <a href="metadata__sql_8h_source.html#l00329">metadata_sql.h:329</a></div></div>
 <div class="ttc" id="classMDValueRelational_html_afeeead19bccc2a8ac98137800a49497f"><div class="ttname"><a href="classMDValueRelational.html#afeeead19bccc2a8ac98137800a49497f">MDValueRelational::MDValueRelational</a></div><div class="ttdeci">MDValueRelational(MDLabel label, const T &amp;value, RelationalOp op, int limit=-1, int offset=0, MDLabel orderLabel=MDL_OBJID)</div><div class="ttdef"><b>Definition:</b> <a href="metadata__sql_8h_source.html#l00404">metadata_sql.h:404</a></div></div>
+<div class="ttc" id="namespacetar_html_a2ec7e9f666688494f76e69a2513bcaf9"><div class="ttname"><a href="namespacetar.html#a2ec7e9f666688494f76e69a2513bcaf9">tar.label</a></div><div class="ttdeci">label</div><div class="ttdef"><b>Definition:</b> <a href="tar_8py_source.html#l00126">tar.py:126</a></div></div>
 <div class="ttc" id="metadata__sql_8h_html_af9a1b34d50cc496bf2d2a99d4bf28de6a4d3f872f5054b256b01ee4f2c8cf51db"><div class="ttname"><a href="metadata__sql_8h.html#af9a1b34d50cc496bf2d2a99d4bf28de6a4d3f872f5054b256b01ee4f2c8cf51db">NE</a></div><div class="ttdoc">Not equal. </div><div class="ttdef"><b>Definition:</b> <a href="metadata__sql_8h_source.html#l00385">metadata_sql.h:385</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="metadata__sql_8h_source.html">metadata_sql.h</a></li>
+<li>xmippCore/core/<a class="el" href="metadata__sql_8h_source.html">metadata_sql.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

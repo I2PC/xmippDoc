@@ -95,15 +95,18 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="cuda__gpu__reconstruct__fourier_8h_source.html">cuda_gpu_reconstruct_fourier.h</a>&gt;</code></p>
+<p>This struct simplifies work with pointers on <a class="el" href="classGPU.html">GPU</a> It holds a copy both in <a class="el" href="classCPU.html">CPU</a> and <a class="el" href="classGPU.html">GPU</a> memory space.  
+ <a href="structFRecBufferDataGPUWrapper.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="cuda__gpu__reconstruct__fourier_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction_cuda/cuda_gpu_reconstruct_fourier.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for FRecBufferDataGPUWrapper:</div>
 <div class="dyncontent">
 <div class="center"><img src="structFRecBufferDataGPUWrapper__coll__graph.png" border="0" usemap="#FRecBufferDataGPUWrapper_coll__map" alt="Collaboration graph"/></div>
 <map name="FRecBufferDataGPUWrapper_coll__map" id="FRecBufferDataGPUWrapper_coll__map">
-<area shape="rect" id="node2" href="structRecFourierBufferDataGPU.html" title="RecFourierBufferDataGPU" alt="" coords="13,380,192,407"/>
-<area shape="rect" id="node3" href="structRecFourierBufferData.html" title="RecFourierBufferData" alt="" coords="28,304,177,331"/>
-<area shape="rect" id="node4" href="structRecFourierProjectionTraverseSpace.html" title="RecFourierProjectionTraverse\lSpace" alt="" coords="5,200,200,241"/>
+<area shape="rect" id="node2" href="structRecFourierBufferDataGPU.html" title="Structure for buffer data on GPU Adds some utility methods for copying data to GPU and device specifi..." alt="" coords="13,380,192,407"/>
+<area shape="rect" id="node3" href="structRecFourierBufferData.html" title="Struct holding data for calculating Fourier Reconstruction. " alt="" coords="28,304,177,331"/>
+<area shape="rect" id="node4" href="structRecFourierProjectionTraverseSpace.html" title="Struct describing a how to best traverse a single projection during the Fourier Reconstruction. " alt="" coords="5,200,200,241"/>
 <area shape="rect" id="node5" href="classPoint3D.html" title="Point3D\&lt; float \&gt;" alt="" coords="43,81,162,108"/>
 <area shape="rect" id="node6" href="structPoint.html" title="Point" alt="" coords="77,5,129,32"/>
 </map>
@@ -116,8 +119,10 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aee37f5594477cf38dbb5a27dcdb6926a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structFRecBufferDataGPUWrapper.html#aee37f5594477cf38dbb5a27dcdb6926a">~FRecBufferDataGPUWrapper</a> ()</td></tr>
 <tr class="separator:aee37f5594477cf38dbb5a27dcdb6926a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a96826170c7f3586e97d731171be46f41"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structFRecBufferDataGPUWrapper.html#a96826170c7f3586e97d731171be46f41">copyFrom</a> (<a class="el" href="structRecFourierBufferData.html">RecFourierBufferData</a> *orig, int stream)</td></tr>
+<tr class="memdesc:a96826170c7f3586e97d731171be46f41"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copy the content of the 'orig' buffer to new object Original buffer can be cleaned after.  <a href="#a96826170c7f3586e97d731171be46f41">More...</a><br /></td></tr>
 <tr class="separator:a96826170c7f3586e97d731171be46f41"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a81724784f808d51b2bac2e12ae8a5d78"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structFRecBufferDataGPUWrapper.html#a81724784f808d51b2bac2e12ae8a5d78">copyToDevice</a> (int stream)</td></tr>
+<tr class="memdesc:a81724784f808d51b2bac2e12ae8a5d78"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copy <a class="el" href="classCPU.html">CPU</a> version to <a class="el" href="classGPU.html">GPU</a>, asynchronously on given stream.  <a href="#a81724784f808d51b2bac2e12ae8a5d78">More...</a><br /></td></tr>
 <tr class="separator:a81724784f808d51b2bac2e12ae8a5d78"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
@@ -128,7 +133,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a457828c8b13a1cfac2072b836f3a2497"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>This struct simplifies work with pointers on <a class="el" href="classGPU.html">GPU</a> It holds a copy both in <a class="el" href="classCPU.html">CPU</a> and <a class="el" href="classGPU.html">GPU</a> memory space </p>
+<div class="textblock"><p>This struct simplifies work with pointers on <a class="el" href="classGPU.html">GPU</a> It holds a copy both in <a class="el" href="classCPU.html">CPU</a> and <a class="el" href="classGPU.html">GPU</a> memory space. </p>
 
 <p>Definition at line <a class="el" href="cuda__gpu__reconstruct__fourier_8h_source.html#l00042">42</a> of file <a class="el" href="cuda__gpu__reconstruct__fourier_8h_source.html">cuda_gpu_reconstruct_fourier.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -149,7 +154,7 @@ Public Attributes</h2></td></tr>
 <p>Definition at line <a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00319">319</a> of file <a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html">cuda_gpu_reconstruct_fourier.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00319"></a><span class="lineno">  319</span>&#160;                                                                             {</div><div class="line"><a name="l00320"></a><span class="lineno">  320</span>&#160;    <span class="keywordtype">void</span>* ptr;</div><div class="line"><a name="l00321"></a><span class="lineno">  321</span>&#160;    cudaMallocHost(&amp;ptr, <span class="keyword">sizeof</span>(<a class="code" href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a>)); <span class="comment">// allocate page-locked</span></div><div class="line"><a name="l00322"></a><span class="lineno">  322</span>&#160;    <a class="code" href="structFRecBufferDataGPUWrapper.html#a2c0cb2d3ef870d94fffc928387968414">cpuCopy</a> = (<a class="code" href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a>*)ptr;</div><div class="line"><a name="l00323"></a><span class="lineno">  323</span>&#160;    <a class="code" href="structFRecBufferDataGPUWrapper.html#a2c0cb2d3ef870d94fffc928387968414">cpuCopy</a>-&gt;<a class="code" href="structRecFourierBufferDataGPU.html#ad8dc4b0371d9c33594309639445effd9">create</a>(orig);</div><div class="line"><a name="l00324"></a><span class="lineno">  324</span>&#160;    <a class="code" href="structFRecBufferDataGPUWrapper.html#a457828c8b13a1cfac2072b836f3a2497">gpuCopy</a> = NULL;</div><div class="line"><a name="l00325"></a><span class="lineno">  325</span>&#160;}</div><div class="ttc" id="structRecFourierBufferDataGPU_html_ad8dc4b0371d9c33594309639445effd9"><div class="ttname"><a href="structRecFourierBufferDataGPU.html#ad8dc4b0371d9c33594309639445effd9">RecFourierBufferDataGPU::create</a></div><div class="ttdeci">void create(RecFourierBufferData *orig)</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00217">cuda_gpu_reconstruct_fourier.cpp:217</a></div></div>
 <div class="ttc" id="structFRecBufferDataGPUWrapper_html_a2c0cb2d3ef870d94fffc928387968414"><div class="ttname"><a href="structFRecBufferDataGPUWrapper.html#a2c0cb2d3ef870d94fffc928387968414">FRecBufferDataGPUWrapper::cpuCopy</a></div><div class="ttdeci">RecFourierBufferDataGPU * cpuCopy</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8h_source.html#l00059">cuda_gpu_reconstruct_fourier.h:59</a></div></div>
-<div class="ttc" id="structRecFourierBufferDataGPU_html"><div class="ttname"><a href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a></div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00211">cuda_gpu_reconstruct_fourier.cpp:211</a></div></div>
+<div class="ttc" id="structRecFourierBufferDataGPU_html"><div class="ttname"><a href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a></div><div class="ttdoc">Structure for buffer data on GPU Adds some utility methods for copying data to GPU and device specifi...</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00211">cuda_gpu_reconstruct_fourier.cpp:211</a></div></div>
 <div class="ttc" id="structFRecBufferDataGPUWrapper_html_a457828c8b13a1cfac2072b836f3a2497"><div class="ttname"><a href="structFRecBufferDataGPUWrapper.html#a457828c8b13a1cfac2072b836f3a2497">FRecBufferDataGPUWrapper::gpuCopy</a></div><div class="ttdeci">RecFourierBufferDataGPU * gpuCopy</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8h_source.html#l00062">cuda_gpu_reconstruct_fourier.h:62</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -199,11 +204,13 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Copy the content of the 'orig' buffer to new object Original buffer can be cleaned after. Works asynchronously on given stream </p>
+
+<p>Copy the content of the 'orig' buffer to new object Original buffer can be cleaned after. </p>
+<p>Works asynchronously on given stream </p>
 
 <p>Definition at line <a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00334">334</a> of file <a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html">cuda_gpu_reconstruct_fourier.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00334"></a><span class="lineno">  334</span>&#160;                                                                              {</div><div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160;    <a class="code" href="structFRecBufferDataGPUWrapper.html#a2c0cb2d3ef870d94fffc928387968414">cpuCopy</a>-&gt;<a class="code" href="structRecFourierBufferDataGPU.html#a94b4ee93226f806868f0147ef7c21e4a">copyDataFrom</a>(orig, stream);</div><div class="line"><a name="l00336"></a><span class="lineno">  336</span>&#160;}</div><div class="ttc" id="structFRecBufferDataGPUWrapper_html_a2c0cb2d3ef870d94fffc928387968414"><div class="ttname"><a href="structFRecBufferDataGPUWrapper.html#a2c0cb2d3ef870d94fffc928387968414">FRecBufferDataGPUWrapper::cpuCopy</a></div><div class="ttdeci">RecFourierBufferDataGPU * cpuCopy</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8h_source.html#l00059">cuda_gpu_reconstruct_fourier.h:59</a></div></div>
-<div class="ttc" id="structRecFourierBufferDataGPU_html_a94b4ee93226f806868f0147ef7c21e4a"><div class="ttname"><a href="structRecFourierBufferDataGPU.html#a94b4ee93226f806868f0147ef7c21e4a">RecFourierBufferDataGPU::copyDataFrom</a></div><div class="ttdeci">void copyDataFrom(RecFourierBufferData *orig, int stream)</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00259">cuda_gpu_reconstruct_fourier.cpp:259</a></div></div>
+<div class="ttc" id="structRecFourierBufferDataGPU_html_a94b4ee93226f806868f0147ef7c21e4a"><div class="ttname"><a href="structRecFourierBufferDataGPU.html#a94b4ee93226f806868f0147ef7c21e4a">RecFourierBufferDataGPU::copyDataFrom</a></div><div class="ttdeci">void copyDataFrom(RecFourierBufferData *orig, int stream)</div><div class="ttdoc">Method copies data from buffer. </div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00259">cuda_gpu_reconstruct_fourier.cpp:259</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -220,13 +227,14 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Copy <a class="el" href="classCPU.html">CPU</a> version to <a class="el" href="classGPU.html">GPU</a>, asynchronously on given stream </p>
+
+<p>Copy <a class="el" href="classCPU.html">CPU</a> version to <a class="el" href="classGPU.html">GPU</a>, asynchronously on given stream. </p>
 
 <p>Definition at line <a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00338">338</a> of file <a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html">cuda_gpu_reconstruct_fourier.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;                                                      {</div><div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;    <span class="keywordflow">if</span> (NULL == <a class="code" href="structFRecBufferDataGPUWrapper.html#a457828c8b13a1cfac2072b836f3a2497">gpuCopy</a>) {</div><div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;        cudaMalloc((<span class="keywordtype">void</span> **) &amp;<a class="code" href="structFRecBufferDataGPUWrapper.html#a457828c8b13a1cfac2072b836f3a2497">gpuCopy</a>, <span class="keyword">sizeof</span>(<a class="code" href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a>));</div><div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;        <a class="code" href="cuda__asserts_8h.html#a4999e963d2fd78aaab4b2bfde89c656f">gpuErrchk</a>( cudaPeekAtLastError() );</div><div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;    }</div><div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;    cudaMemcpyAsync(<a class="code" href="structFRecBufferDataGPUWrapper.html#a457828c8b13a1cfac2072b836f3a2497">gpuCopy</a>, <a class="code" href="structFRecBufferDataGPUWrapper.html#a2c0cb2d3ef870d94fffc928387968414">cpuCopy</a>, <span class="keyword">sizeof</span>(<a class="code" href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a>), cudaMemcpyHostToDevice, <a class="code" href="cuda__gpu__reconstruct__fourier_8cpp.html#a0bf27533c025df9eb1aa7deb98a6fd02">streams</a>[stream]);</div><div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;    <a class="code" href="cuda__asserts_8h.html#a4999e963d2fd78aaab4b2bfde89c656f">gpuErrchk</a>( cudaPeekAtLastError() );</div><div class="line"><a name="l00345"></a><span class="lineno">  345</span>&#160;}</div><div class="ttc" id="cuda__asserts_8h_html_a4999e963d2fd78aaab4b2bfde89c656f"><div class="ttname"><a href="cuda__asserts_8h.html#a4999e963d2fd78aaab4b2bfde89c656f">gpuErrchk</a></div><div class="ttdeci">#define gpuErrchk(code)</div><div class="ttdef"><b>Definition:</b> <a href="cuda__asserts_8h_source.html#l00031">cuda_asserts.h:31</a></div></div>
 <div class="ttc" id="structFRecBufferDataGPUWrapper_html_a2c0cb2d3ef870d94fffc928387968414"><div class="ttname"><a href="structFRecBufferDataGPUWrapper.html#a2c0cb2d3ef870d94fffc928387968414">FRecBufferDataGPUWrapper::cpuCopy</a></div><div class="ttdeci">RecFourierBufferDataGPU * cpuCopy</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8h_source.html#l00059">cuda_gpu_reconstruct_fourier.h:59</a></div></div>
 <div class="ttc" id="cuda__gpu__reconstruct__fourier_8cpp_html_a0bf27533c025df9eb1aa7deb98a6fd02"><div class="ttname"><a href="cuda__gpu__reconstruct__fourier_8cpp.html#a0bf27533c025df9eb1aa7deb98a6fd02">streams</a></div><div class="ttdeci">cudaStream_t * streams</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00044">cuda_gpu_reconstruct_fourier.cpp:44</a></div></div>
-<div class="ttc" id="structRecFourierBufferDataGPU_html"><div class="ttname"><a href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a></div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00211">cuda_gpu_reconstruct_fourier.cpp:211</a></div></div>
+<div class="ttc" id="structRecFourierBufferDataGPU_html"><div class="ttname"><a href="structRecFourierBufferDataGPU.html">RecFourierBufferDataGPU</a></div><div class="ttdoc">Structure for buffer data on GPU Adds some utility methods for copying data to GPU and device specifi...</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8cpp_source.html#l00211">cuda_gpu_reconstruct_fourier.cpp:211</a></div></div>
 <div class="ttc" id="structFRecBufferDataGPUWrapper_html_a457828c8b13a1cfac2072b836f3a2497"><div class="ttname"><a href="structFRecBufferDataGPUWrapper.html#a457828c8b13a1cfac2072b836f3a2497">FRecBufferDataGPUWrapper::gpuCopy</a></div><div class="ttdeci">RecFourierBufferDataGPU * gpuCopy</div><div class="ttdef"><b>Definition:</b> <a href="cuda__gpu__reconstruct__fourier_8h_source.html#l00062">cuda_gpu_reconstruct_fourier.h:62</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -261,8 +269,8 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this struct was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction_cuda/<a class="el" href="cuda__gpu__reconstruct__fourier_8h_source.html">cuda_gpu_reconstruct_fourier.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction_cuda/<a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html">cuda_gpu_reconstruct_fourier.cpp</a></li>
+<li>xmipp/libraries/reconstruction_cuda/<a class="el" href="cuda__gpu__reconstruct__fourier_8h_source.html">cuda_gpu_reconstruct_fourier.h</a></li>
+<li>xmipp/libraries/reconstruction_cuda/<a class="el" href="cuda__gpu__reconstruct__fourier_8cpp_source.html">cuda_gpu_reconstruct_fourier.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

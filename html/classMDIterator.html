@@ -97,37 +97,51 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="metadata_8h_source.html">metadata.h</a>&gt;</code></p>
+<p>Iterates over metadatas.  
+ <a href="classMDIterator.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="metadata_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/metadata.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a264afb02169c6ab4e66c1ca6c3a1c74d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">init</a> (const <a class="el" href="classMetaData.html">MetaData</a> &amp;md, const <a class="el" href="classMDQuery.html">MDQuery</a> *pQuery=NULL)</td></tr>
+<tr class="memdesc:a264afb02169c6ab4e66c1ca6c3a1c74d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Internal function to initialize the iterator.  <a href="#a264afb02169c6ab4e66c1ca6c3a1c74d">More...</a><br /></td></tr>
 <tr class="separator:a264afb02169c6ab4e66c1ca6c3a1c74d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae43f5703fd81f3a59382362d449d6335"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#ae43f5703fd81f3a59382362d449d6335">MDIterator</a> ()</td></tr>
+<tr class="memdesc:ae43f5703fd81f3a59382362d449d6335"><td class="mdescLeft">&#160;</td><td class="mdescRight">Empty constructor.  <a href="#ae43f5703fd81f3a59382362d449d6335">More...</a><br /></td></tr>
 <tr class="separator:ae43f5703fd81f3a59382362d449d6335"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7b133403066201743411204553467bb9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#a7b133403066201743411204553467bb9">MDIterator</a> (const <a class="el" href="classMetaData.html">MetaData</a> &amp;md)</td></tr>
+<tr class="memdesc:a7b133403066201743411204553467bb9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Empty constructor, creates an iterator from metadata.  <a href="#a7b133403066201743411204553467bb9">More...</a><br /></td></tr>
 <tr class="separator:a7b133403066201743411204553467bb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af040dbaa2453ab2d47959196b0e67dc6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#af040dbaa2453ab2d47959196b0e67dc6">MDIterator</a> (const <a class="el" href="classMetaData.html">MetaData</a> &amp;md, const <a class="el" href="classMDQuery.html">MDQuery</a> &amp;query)</td></tr>
+<tr class="memdesc:af040dbaa2453ab2d47959196b0e67dc6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Same as before but iterating over a query.  <a href="#af040dbaa2453ab2d47959196b0e67dc6">More...</a><br /></td></tr>
 <tr class="separator:af040dbaa2453ab2d47959196b0e67dc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d4a3a17c8704fd3d55483d708aa7908"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#a6d4a3a17c8704fd3d55483d708aa7908">~MDIterator</a> ()</td></tr>
+<tr class="memdesc:a6d4a3a17c8704fd3d55483d708aa7908"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#a6d4a3a17c8704fd3d55483d708aa7908">More...</a><br /></td></tr>
 <tr class="separator:a6d4a3a17c8704fd3d55483d708aa7908"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a452d53d0937ad977d0cd06ad0ca8675a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#a452d53d0937ad977d0cd06ad0ca8675a">moveNext</a> ()</td></tr>
+<tr class="memdesc:a452d53d0937ad977d0cd06ad0ca8675a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Function to move to next element.  <a href="#a452d53d0937ad977d0cd06ad0ca8675a">More...</a><br /></td></tr>
 <tr class="separator:a452d53d0937ad977d0cd06ad0ca8675a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0500a7300fb44d805c5c90f46c4127ef"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#a0500a7300fb44d805c5c90f46c4127ef">hasNext</a> ()</td></tr>
+<tr class="memdesc:a0500a7300fb44d805c5c90f46c4127ef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Function to check if exist next element.  <a href="#a0500a7300fb44d805c5c90f46c4127ef">More...</a><br /></td></tr>
 <tr class="separator:a0500a7300fb44d805c5c90f46c4127ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a06f2870551f99c46048d0d10e551c00b"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">objId</a></td></tr>
+<tr class="memdesc:a06f2870551f99c46048d0d10e551c00b"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is the object ID in the metadata, usually starts at 1.  <a href="#a06f2870551f99c46048d0d10e551c00b">More...</a><br /></td></tr>
 <tr class="separator:a06f2870551f99c46048d0d10e551c00b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac201848eda04e0ea681d130505100d4f"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a></td></tr>
+<tr class="memdesc:ac201848eda04e0ea681d130505100d4f"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is the index of the object, starts at 0.  <a href="#ac201848eda04e0ea681d130505100d4f">More...</a><br /></td></tr>
 <tr class="separator:ac201848eda04e0ea681d130505100d4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:ad8a8581e15c98af914c5d69f348acc96"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#ad8a8581e15c98af914c5d69f348acc96">clear</a> ()</td></tr>
+<tr class="memdesc:ad8a8581e15c98af914c5d69f348acc96"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clear internal values to be used again.  <a href="#ad8a8581e15c98af914c5d69f348acc96">More...</a><br /></td></tr>
 <tr class="separator:ad8a8581e15c98af914c5d69f348acc96"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4e3ff2d6e18674630dc47e90e7a1f8f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a> ()</td></tr>
+<tr class="memdesc:a4e3ff2d6e18674630dc47e90e7a1f8f6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize internal values to NULL.  <a href="#a4e3ff2d6e18674630dc47e90e7a1f8f6">More...</a><br /></td></tr>
 <tr class="separator:a4e3ff2d6e18674630dc47e90e7a1f8f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
@@ -138,7 +152,7 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a442cf3b1db9aa1a6204c80a8d39606e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Iterates over metadatas </p>
+<div class="textblock"><p>Iterates over metadatas. </p>
 
 <p>Definition at line <a class="el" href="metadata_8h_source.html#l00157">157</a> of file <a class="el" href="metadata_8h_source.html">metadata.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -154,10 +168,11 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Empty constructor </p>
+
+<p>Empty constructor. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02456">2456</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l02457"></a><span class="lineno"> 2457</span>&#160;{</div><div class="line"><a name="l02458"></a><span class="lineno"> 2458</span>&#160;    <a class="code" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a>();</div><div class="line"><a name="l02459"></a><span class="lineno"> 2459</span>&#160;}</div><div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
+<div class="fragment"><div class="line"><a name="l02457"></a><span class="lineno"> 2457</span>&#160;{</div><div class="line"><a name="l02458"></a><span class="lineno"> 2458</span>&#160;    <a class="code" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a>();</div><div class="line"><a name="l02459"></a><span class="lineno"> 2459</span>&#160;}</div><div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdoc">Initialize internal values to NULL. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -174,11 +189,12 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Empty constructor, creates an iterator from metadata </p>
+
+<p>Empty constructor, creates an iterator from metadata. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02461">2461</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l02462"></a><span class="lineno"> 2462</span>&#160;{</div><div class="line"><a name="l02463"></a><span class="lineno"> 2463</span>&#160;    <a class="code" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a>();</div><div class="line"><a name="l02464"></a><span class="lineno"> 2464</span>&#160;    <a class="code" href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">init</a>(md);</div><div class="line"><a name="l02465"></a><span class="lineno"> 2465</span>&#160;}</div><div class="ttc" id="classMDIterator_html_a264afb02169c6ab4e66c1ca6c3a1c74d"><div class="ttname"><a href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">MDIterator::init</a></div><div class="ttdeci">void init(const MetaData &amp;md, const MDQuery *pQuery=NULL)</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02418">metadata.cpp:2418</a></div></div>
-<div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
+<div class="fragment"><div class="line"><a name="l02462"></a><span class="lineno"> 2462</span>&#160;{</div><div class="line"><a name="l02463"></a><span class="lineno"> 2463</span>&#160;    <a class="code" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a>();</div><div class="line"><a name="l02464"></a><span class="lineno"> 2464</span>&#160;    <a class="code" href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">init</a>(md);</div><div class="line"><a name="l02465"></a><span class="lineno"> 2465</span>&#160;}</div><div class="ttc" id="classMDIterator_html_a264afb02169c6ab4e66c1ca6c3a1c74d"><div class="ttname"><a href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">MDIterator::init</a></div><div class="ttdeci">void init(const MetaData &amp;md, const MDQuery *pQuery=NULL)</div><div class="ttdoc">Internal function to initialize the iterator. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02418">metadata.cpp:2418</a></div></div>
+<div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdoc">Initialize internal values to NULL. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -205,11 +221,12 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Same as before but iterating over a query </p>
+
+<p>Same as before but iterating over a query. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02467">2467</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l02468"></a><span class="lineno"> 2468</span>&#160;{</div><div class="line"><a name="l02469"></a><span class="lineno"> 2469</span>&#160;    <a class="code" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a>();</div><div class="line"><a name="l02470"></a><span class="lineno"> 2470</span>&#160;    <a class="code" href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">init</a>(md, &amp;query);</div><div class="line"><a name="l02471"></a><span class="lineno"> 2471</span>&#160;}</div><div class="ttc" id="classMDIterator_html_a264afb02169c6ab4e66c1ca6c3a1c74d"><div class="ttname"><a href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">MDIterator::init</a></div><div class="ttdeci">void init(const MetaData &amp;md, const MDQuery *pQuery=NULL)</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02418">metadata.cpp:2418</a></div></div>
-<div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
+<div class="fragment"><div class="line"><a name="l02468"></a><span class="lineno"> 2468</span>&#160;{</div><div class="line"><a name="l02469"></a><span class="lineno"> 2469</span>&#160;    <a class="code" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a>();</div><div class="line"><a name="l02470"></a><span class="lineno"> 2470</span>&#160;    <a class="code" href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">init</a>(md, &amp;query);</div><div class="line"><a name="l02471"></a><span class="lineno"> 2471</span>&#160;}</div><div class="ttc" id="classMDIterator_html_a264afb02169c6ab4e66c1ca6c3a1c74d"><div class="ttname"><a href="classMDIterator.html#a264afb02169c6ab4e66c1ca6c3a1c74d">MDIterator::init</a></div><div class="ttdeci">void init(const MetaData &amp;md, const MDQuery *pQuery=NULL)</div><div class="ttdoc">Internal function to initialize the iterator. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02418">metadata.cpp:2418</a></div></div>
+<div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdoc">Initialize internal values to NULL. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -225,7 +242,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Destructor </p>
+
+<p>Destructor. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02473">2473</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l02474"></a><span class="lineno"> 2474</span>&#160;{</div><div class="line"><a name="l02475"></a><span class="lineno"> 2475</span>&#160;    <span class="keyword">delete</span> [] <a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a>;</div><div class="line"><a name="l02476"></a><span class="lineno"> 2476</span>&#160;}</div><div class="ttc" id="classMDIterator_html_ad7a24eb8d507a4fe9dcf550101d811fe"><div class="ttname"><a href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">MDIterator::objects</a></div><div class="ttdeci">size_t * objects</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00160">metadata.h:160</a></div></div>
@@ -253,11 +271,12 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Clear internal values to be used again </p>
+
+<p>Clear internal values to be used again. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02440">2440</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l02441"></a><span class="lineno"> 2441</span>&#160;{</div><div class="line"><a name="l02442"></a><span class="lineno"> 2442</span>&#160;    <span class="keyword">delete</span> [] <a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a>;</div><div class="line"><a name="l02443"></a><span class="lineno"> 2443</span>&#160;    <a class="code" href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">reset</a>();</div><div class="line"><a name="l02444"></a><span class="lineno"> 2444</span>&#160;}</div><div class="ttc" id="classMDIterator_html_ad7a24eb8d507a4fe9dcf550101d811fe"><div class="ttname"><a href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">MDIterator::objects</a></div><div class="ttdeci">size_t * objects</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00160">metadata.h:160</a></div></div>
-<div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
+<div class="ttc" id="classMDIterator_html_a4e3ff2d6e18674630dc47e90e7a1f8f6"><div class="ttname"><a href="classMDIterator.html#a4e3ff2d6e18674630dc47e90e7a1f8f6">MDIterator::reset</a></div><div class="ttdeci">void reset()</div><div class="ttdoc">Initialize internal values to NULL. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02446">metadata.cpp:2446</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -273,12 +292,13 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Function to check if exist next element </p>
+
+<p>Function to check if exist next element. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02493">2493</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l02494"></a><span class="lineno"> 2494</span>&#160;{</div><div class="line"><a name="l02495"></a><span class="lineno"> 2495</span>&#160;    <span class="keywordflow">return</span> (<a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a> != NULL &amp;&amp; <a class="code" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a> &lt; <a class="code" href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">size</a>);</div><div class="line"><a name="l02496"></a><span class="lineno"> 2496</span>&#160;}</div><div class="ttc" id="classMDIterator_html_ad7a24eb8d507a4fe9dcf550101d811fe"><div class="ttname"><a href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">MDIterator::objects</a></div><div class="ttdeci">size_t * objects</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00160">metadata.h:160</a></div></div>
 <div class="ttc" id="classMDIterator_html_a442cf3b1db9aa1a6204c80a8d39606e1"><div class="ttname"><a href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">MDIterator::size</a></div><div class="ttdeci">size_t size</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00161">metadata.h:161</a></div></div>
-<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
+<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdoc">This is the index of the object, starts at 0. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -305,16 +325,17 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Internal function to initialize the iterator </p>
+
+<p>Internal function to initialize the iterator. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02418">2418</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l02419"></a><span class="lineno"> 2419</span>&#160;{</div><div class="line"><a name="l02420"></a><span class="lineno"> 2420</span>&#160;    <a class="code" href="classMDIterator.html#ad8a8581e15c98af914c5d69f348acc96">clear</a>();</div><div class="line"><a name="l02421"></a><span class="lineno"> 2421</span>&#160;</div><div class="line"><a name="l02422"></a><span class="lineno"> 2422</span>&#160;    std::vector&lt;size_t&gt; objectsVector;</div><div class="line"><a name="l02423"></a><span class="lineno"> 2423</span>&#160;    md.<a class="code" href="classMetaData.html#a44c78897ac2ce43b85c832cafcf09cf1">myMDSql</a>-&gt;selectObjects(objectsVector, pQuery);</div><div class="line"><a name="l02424"></a><span class="lineno"> 2424</span>&#160;    <a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a> = NULL;</div><div class="line"><a name="l02425"></a><span class="lineno"> 2425</span>&#160;    <a class="code" href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">objId</a> = <a class="code" href="group__MetaData.html#gacd8a20702dfe3ca603cc290a9fe72dc9">BAD_OBJID</a>;</div><div class="line"><a name="l02426"></a><span class="lineno"> 2426</span>&#160;    <a class="code" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a> = <a class="code" href="group__MetaData.html#ga2a50e6bd9dc9f25b4c104802f76ad2ae">BAD_INDEX</a>;</div><div class="line"><a name="l02427"></a><span class="lineno"> 2427</span>&#160;    <a class="code" href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">size</a> = objectsVector.size();</div><div class="line"><a name="l02428"></a><span class="lineno"> 2428</span>&#160;</div><div class="line"><a name="l02429"></a><span class="lineno"> 2429</span>&#160;</div><div class="line"><a name="l02430"></a><span class="lineno"> 2430</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">size</a> &gt; 0)</div><div class="line"><a name="l02431"></a><span class="lineno"> 2431</span>&#160;    {</div><div class="line"><a name="l02432"></a><span class="lineno"> 2432</span>&#160;        <a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a> = <span class="keyword">new</span> <span class="keywordtype">size_t</span>[<a class="code" href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">size</a>];</div><div class="line"><a name="l02433"></a><span class="lineno"> 2433</span>&#160;        <span class="keywordtype">size_t</span> * objPtr = &amp;(objectsVector[0]);</div><div class="line"><a name="l02434"></a><span class="lineno"> 2434</span>&#160;        memcpy(<a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a>, objPtr, <span class="keyword">sizeof</span>(<span class="keywordtype">size_t</span>) * <a class="code" href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">size</a>);<span class="comment">//copy objects id&#39;s</span></div><div class="line"><a name="l02435"></a><span class="lineno"> 2435</span>&#160;        <a class="code" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a> = 0;</div><div class="line"><a name="l02436"></a><span class="lineno"> 2436</span>&#160;        <a class="code" href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">objId</a> = <a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a>[0];</div><div class="line"><a name="l02437"></a><span class="lineno"> 2437</span>&#160;    }</div><div class="line"><a name="l02438"></a><span class="lineno"> 2438</span>&#160;}</div><div class="ttc" id="group__MetaData_html_ga2a50e6bd9dc9f25b4c104802f76ad2ae"><div class="ttname"><a href="group__MetaData.html#ga2a50e6bd9dc9f25b4c104802f76ad2ae">BAD_INDEX</a></div><div class="ttdeci">#define BAD_INDEX</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00050">metadata.h:50</a></div></div>
-<div class="ttc" id="classMDIterator_html_ad8a8581e15c98af914c5d69f348acc96"><div class="ttname"><a href="classMDIterator.html#ad8a8581e15c98af914c5d69f348acc96">MDIterator::clear</a></div><div class="ttdeci">void clear()</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02440">metadata.cpp:2440</a></div></div>
+<div class="ttc" id="classMDIterator_html_ad8a8581e15c98af914c5d69f348acc96"><div class="ttname"><a href="classMDIterator.html#ad8a8581e15c98af914c5d69f348acc96">MDIterator::clear</a></div><div class="ttdeci">void clear()</div><div class="ttdoc">Clear internal values to be used again. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8cpp_source.html#l02440">metadata.cpp:2440</a></div></div>
 <div class="ttc" id="classMDIterator_html_ad7a24eb8d507a4fe9dcf550101d811fe"><div class="ttname"><a href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">MDIterator::objects</a></div><div class="ttdeci">size_t * objects</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00160">metadata.h:160</a></div></div>
-<div class="ttc" id="classMDIterator_html_a06f2870551f99c46048d0d10e551c00b"><div class="ttname"><a href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">MDIterator::objId</a></div><div class="ttdeci">size_t objId</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00181">metadata.h:181</a></div></div>
+<div class="ttc" id="classMDIterator_html_a06f2870551f99c46048d0d10e551c00b"><div class="ttname"><a href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">MDIterator::objId</a></div><div class="ttdeci">size_t objId</div><div class="ttdoc">This is the object ID in the metadata, usually starts at 1. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00181">metadata.h:181</a></div></div>
 <div class="ttc" id="classMDIterator_html_a442cf3b1db9aa1a6204c80a8d39606e1"><div class="ttname"><a href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">MDIterator::size</a></div><div class="ttdeci">size_t size</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00161">metadata.h:161</a></div></div>
-<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
-<div class="ttc" id="classMetaData_html_a44c78897ac2ce43b85c832cafcf09cf1"><div class="ttname"><a href="classMetaData.html#a44c78897ac2ce43b85c832cafcf09cf1">MetaData::myMDSql</a></div><div class="ttdeci">MDSql * myMDSql</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00271">metadata.h:271</a></div></div>
+<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdoc">This is the index of the object, starts at 0. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
+<div class="ttc" id="classMetaData_html_a44c78897ac2ce43b85c832cafcf09cf1"><div class="ttname"><a href="classMetaData.html#a44c78897ac2ce43b85c832cafcf09cf1">MetaData::myMDSql</a></div><div class="ttdeci">MDSql * myMDSql</div><div class="ttdoc">This variables should only be used by MDSql for handling db status of metadata. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00271">metadata.h:271</a></div></div>
 <div class="ttc" id="group__MetaData_html_gacd8a20702dfe3ca603cc290a9fe72dc9"><div class="ttname"><a href="group__MetaData.html#gacd8a20702dfe3ca603cc290a9fe72dc9">BAD_OBJID</a></div><div class="ttdeci">#define BAD_OBJID</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00049">metadata.h:49</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -331,14 +352,16 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Function to move to next element. return false if there aren't more elements to iterate. </p>
+
+<p>Function to move to next element. </p>
+<p>return false if there aren't more elements to iterate. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02478">2478</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l02479"></a><span class="lineno"> 2479</span>&#160;{</div><div class="line"><a name="l02480"></a><span class="lineno"> 2480</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a> == NULL)</div><div class="line"><a name="l02481"></a><span class="lineno"> 2481</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div><div class="line"><a name="l02482"></a><span class="lineno"> 2482</span>&#160;</div><div class="line"><a name="l02483"></a><span class="lineno"> 2483</span>&#160;    <span class="keywordflow">if</span> (++<a class="code" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a> &lt; <a class="code" href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">size</a>)</div><div class="line"><a name="l02484"></a><span class="lineno"> 2484</span>&#160;    {</div><div class="line"><a name="l02485"></a><span class="lineno"> 2485</span>&#160;        <a class="code" href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">objId</a> = <a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a>[<a class="code" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a>];</div><div class="line"><a name="l02486"></a><span class="lineno"> 2486</span>&#160;        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div><div class="line"><a name="l02487"></a><span class="lineno"> 2487</span>&#160;    }</div><div class="line"><a name="l02488"></a><span class="lineno"> 2488</span>&#160;    <a class="code" href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">objId</a> = <a class="code" href="group__MetaData.html#gacd8a20702dfe3ca603cc290a9fe72dc9">BAD_OBJID</a>;</div><div class="line"><a name="l02489"></a><span class="lineno"> 2489</span>&#160;    <a class="code" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a> = <a class="code" href="group__MetaData.html#ga2a50e6bd9dc9f25b4c104802f76ad2ae">BAD_INDEX</a>;</div><div class="line"><a name="l02490"></a><span class="lineno"> 2490</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div><div class="line"><a name="l02491"></a><span class="lineno"> 2491</span>&#160;</div><div class="line"><a name="l02492"></a><span class="lineno"> 2492</span>&#160;}</div><div class="ttc" id="group__MetaData_html_ga2a50e6bd9dc9f25b4c104802f76ad2ae"><div class="ttname"><a href="group__MetaData.html#ga2a50e6bd9dc9f25b4c104802f76ad2ae">BAD_INDEX</a></div><div class="ttdeci">#define BAD_INDEX</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00050">metadata.h:50</a></div></div>
 <div class="ttc" id="classMDIterator_html_ad7a24eb8d507a4fe9dcf550101d811fe"><div class="ttname"><a href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">MDIterator::objects</a></div><div class="ttdeci">size_t * objects</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00160">metadata.h:160</a></div></div>
-<div class="ttc" id="classMDIterator_html_a06f2870551f99c46048d0d10e551c00b"><div class="ttname"><a href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">MDIterator::objId</a></div><div class="ttdeci">size_t objId</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00181">metadata.h:181</a></div></div>
+<div class="ttc" id="classMDIterator_html_a06f2870551f99c46048d0d10e551c00b"><div class="ttname"><a href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">MDIterator::objId</a></div><div class="ttdeci">size_t objId</div><div class="ttdoc">This is the object ID in the metadata, usually starts at 1. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00181">metadata.h:181</a></div></div>
 <div class="ttc" id="classMDIterator_html_a442cf3b1db9aa1a6204c80a8d39606e1"><div class="ttname"><a href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">MDIterator::size</a></div><div class="ttdeci">size_t size</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00161">metadata.h:161</a></div></div>
-<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
+<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdoc">This is the index of the object, starts at 0. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
 <div class="ttc" id="group__MetaData_html_gacd8a20702dfe3ca603cc290a9fe72dc9"><div class="ttname"><a href="group__MetaData.html#gacd8a20702dfe3ca603cc290a9fe72dc9">BAD_OBJID</a></div><div class="ttdeci">#define BAD_OBJID</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00049">metadata.h:49</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -363,14 +386,15 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Initialize internal values to NULL </p>
+
+<p>Initialize internal values to NULL. </p>
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02446">2446</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l02447"></a><span class="lineno"> 2447</span>&#160;{</div><div class="line"><a name="l02448"></a><span class="lineno"> 2448</span>&#160;    <a class="code" href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">objects</a> = NULL;</div><div class="line"><a name="l02449"></a><span class="lineno"> 2449</span>&#160;    <a class="code" href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">objId</a> = <a class="code" href="group__MetaData.html#gacd8a20702dfe3ca603cc290a9fe72dc9">BAD_OBJID</a>;</div><div class="line"><a name="l02450"></a><span class="lineno"> 2450</span>&#160;    <a class="code" href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">objIndex</a> = <a class="code" href="group__MetaData.html#ga2a50e6bd9dc9f25b4c104802f76ad2ae">BAD_INDEX</a>;</div><div class="line"><a name="l02451"></a><span class="lineno"> 2451</span>&#160;    <a class="code" href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">size</a> = 0;</div><div class="line"><a name="l02452"></a><span class="lineno"> 2452</span>&#160;}</div><div class="ttc" id="group__MetaData_html_ga2a50e6bd9dc9f25b4c104802f76ad2ae"><div class="ttname"><a href="group__MetaData.html#ga2a50e6bd9dc9f25b4c104802f76ad2ae">BAD_INDEX</a></div><div class="ttdeci">#define BAD_INDEX</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00050">metadata.h:50</a></div></div>
 <div class="ttc" id="classMDIterator_html_ad7a24eb8d507a4fe9dcf550101d811fe"><div class="ttname"><a href="classMDIterator.html#ad7a24eb8d507a4fe9dcf550101d811fe">MDIterator::objects</a></div><div class="ttdeci">size_t * objects</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00160">metadata.h:160</a></div></div>
-<div class="ttc" id="classMDIterator_html_a06f2870551f99c46048d0d10e551c00b"><div class="ttname"><a href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">MDIterator::objId</a></div><div class="ttdeci">size_t objId</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00181">metadata.h:181</a></div></div>
+<div class="ttc" id="classMDIterator_html_a06f2870551f99c46048d0d10e551c00b"><div class="ttname"><a href="classMDIterator.html#a06f2870551f99c46048d0d10e551c00b">MDIterator::objId</a></div><div class="ttdeci">size_t objId</div><div class="ttdoc">This is the object ID in the metadata, usually starts at 1. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00181">metadata.h:181</a></div></div>
 <div class="ttc" id="classMDIterator_html_a442cf3b1db9aa1a6204c80a8d39606e1"><div class="ttname"><a href="classMDIterator.html#a442cf3b1db9aa1a6204c80a8d39606e1">MDIterator::size</a></div><div class="ttdeci">size_t size</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00161">metadata.h:161</a></div></div>
-<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
+<div class="ttc" id="classMDIterator_html_ac201848eda04e0ea681d130505100d4f"><div class="ttname"><a href="classMDIterator.html#ac201848eda04e0ea681d130505100d4f">MDIterator::objIndex</a></div><div class="ttdeci">size_t objIndex</div><div class="ttdoc">This is the index of the object, starts at 0. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00183">metadata.h:183</a></div></div>
 <div class="ttc" id="group__MetaData_html_gacd8a20702dfe3ca603cc290a9fe72dc9"><div class="ttname"><a href="group__MetaData.html#gacd8a20702dfe3ca603cc290a9fe72dc9">BAD_OBJID</a></div><div class="ttdeci">#define BAD_OBJID</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00049">metadata.h:49</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -407,7 +431,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>This is the object ID in the metadata, usually starts at 1 </p>
+
+<p>This is the object ID in the metadata, usually starts at 1. </p>
 
 <p>Definition at line <a class="el" href="metadata_8h_source.html#l00181">181</a> of file <a class="el" href="metadata_8h_source.html">metadata.h</a>.</p>
 
@@ -422,7 +447,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>This is the index of the object, starts at 0 </p>
+
+<p>This is the index of the object, starts at 0. </p>
 
 <p>Definition at line <a class="el" href="metadata_8h_source.html#l00183">183</a> of file <a class="el" href="metadata_8h_source.html">metadata.h</a>.</p>
 
@@ -451,8 +477,8 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="metadata_8h_source.html">metadata.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="metadata_8cpp_source.html">metadata.cpp</a></li>
+<li>xmippCore/core/<a class="el" href="metadata_8h_source.html">metadata.h</a></li>
+<li>xmippCore/core/<a class="el" href="metadata_8cpp_source.html">metadata.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

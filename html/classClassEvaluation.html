@@ -98,20 +98,24 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <p>Class containing evaluators.  
  <a href="classClassEvaluation.html#details">More...</a></p>
 
-<p><code>#include &lt;<a class="el" href="classify__evaluate__classes_8h_source.html">classify_evaluate_classes.h</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="classify__evaluate__classes_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/classify_evaluate_classes.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ac5d60cabf90d740642f4bddd0f5e0a48"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassEvaluation.html#ac5d60cabf90d740642f4bddd0f5e0a48">ClassEvaluation</a> ()</td></tr>
+<tr class="memdesc:ac5d60cabf90d740642f4bddd0f5e0a48"><td class="mdescLeft">&#160;</td><td class="mdescRight">Empty constructor.  <a href="#ac5d60cabf90d740642f4bddd0f5e0a48">More...</a><br /></td></tr>
 <tr class="separator:ac5d60cabf90d740642f4bddd0f5e0a48"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a0bf55fbfb65b3d9871c8d62f3dc4b2b8"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassEvaluation.html#a0bf55fbfb65b3d9871c8d62f3dc4b2b8">FRC_05</a></td></tr>
+<tr class="memdesc:a0bf55fbfb65b3d9871c8d62f3dc4b2b8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Digital frequency &lt;0.5) at which the Fourier Ring Correlation drops below 0.5.  <a href="#a0bf55fbfb65b3d9871c8d62f3dc4b2b8">More...</a><br /></td></tr>
 <tr class="separator:a0bf55fbfb65b3d9871c8d62f3dc4b2b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4403946933e85fc063fd2375f1ae35bd"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassEvaluation.html#a4403946933e85fc063fd2375f1ae35bd">DPR_05</a></td></tr>
+<tr class="memdesc:a4403946933e85fc063fd2375f1ae35bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Differential phase residual at the frequency at which FRC=0.5.  <a href="#a4403946933e85fc063fd2375f1ae35bd">More...</a><br /></td></tr>
 <tr class="separator:a4403946933e85fc063fd2375f1ae35bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3843afd64654f32bdc54ebcf6f3704fd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassEvaluation.html#a3843afd64654f32bdc54ebcf6f3704fd">overfitting</a></td></tr>
+<tr class="memdesc:a3843afd64654f32bdc54ebcf6f3704fd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Possible overfitting.  <a href="#a3843afd64654f32bdc54ebcf6f3704fd">More...</a><br /></td></tr>
 <tr class="separator:a3843afd64654f32bdc54ebcf6f3704fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -131,12 +135,13 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Empty constructor </p>
+
+<p>Empty constructor. </p>
 
 <p>Definition at line <a class="el" href="classify__evaluate__classes_8cpp_source.html#l00029">29</a> of file <a class="el" href="classify__evaluate__classes_8cpp_source.html">classify_evaluate_classes.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;{</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    <a class="code" href="classClassEvaluation.html#a0bf55fbfb65b3d9871c8d62f3dc4b2b8">FRC_05</a>=<a class="code" href="classClassEvaluation.html#a4403946933e85fc063fd2375f1ae35bd">DPR_05</a>=0;</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    <a class="code" href="classClassEvaluation.html#a3843afd64654f32bdc54ebcf6f3704fd">overfitting</a>=<span class="keyword">false</span>;</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;}</div><div class="ttc" id="classClassEvaluation_html_a3843afd64654f32bdc54ebcf6f3704fd"><div class="ttname"><a href="classClassEvaluation.html#a3843afd64654f32bdc54ebcf6f3704fd">ClassEvaluation::overfitting</a></div><div class="ttdeci">bool overfitting</div><div class="ttdef"><b>Definition:</b> <a href="classify__evaluate__classes_8h_source.html#l00046">classify_evaluate_classes.h:46</a></div></div>
-<div class="ttc" id="classClassEvaluation_html_a4403946933e85fc063fd2375f1ae35bd"><div class="ttname"><a href="classClassEvaluation.html#a4403946933e85fc063fd2375f1ae35bd">ClassEvaluation::DPR_05</a></div><div class="ttdeci">double DPR_05</div><div class="ttdef"><b>Definition:</b> <a href="classify__evaluate__classes_8h_source.html#l00043">classify_evaluate_classes.h:43</a></div></div>
-<div class="ttc" id="classClassEvaluation_html_a0bf55fbfb65b3d9871c8d62f3dc4b2b8"><div class="ttname"><a href="classClassEvaluation.html#a0bf55fbfb65b3d9871c8d62f3dc4b2b8">ClassEvaluation::FRC_05</a></div><div class="ttdeci">double FRC_05</div><div class="ttdef"><b>Definition:</b> <a href="classify__evaluate__classes_8h_source.html#l00040">classify_evaluate_classes.h:40</a></div></div>
+<div class="fragment"><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;{</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;    <a class="code" href="classClassEvaluation.html#a0bf55fbfb65b3d9871c8d62f3dc4b2b8">FRC_05</a>=<a class="code" href="classClassEvaluation.html#a4403946933e85fc063fd2375f1ae35bd">DPR_05</a>=0;</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;    <a class="code" href="classClassEvaluation.html#a3843afd64654f32bdc54ebcf6f3704fd">overfitting</a>=<span class="keyword">false</span>;</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;}</div><div class="ttc" id="classClassEvaluation_html_a3843afd64654f32bdc54ebcf6f3704fd"><div class="ttname"><a href="classClassEvaluation.html#a3843afd64654f32bdc54ebcf6f3704fd">ClassEvaluation::overfitting</a></div><div class="ttdeci">bool overfitting</div><div class="ttdoc">Possible overfitting. </div><div class="ttdef"><b>Definition:</b> <a href="classify__evaluate__classes_8h_source.html#l00046">classify_evaluate_classes.h:46</a></div></div>
+<div class="ttc" id="classClassEvaluation_html_a4403946933e85fc063fd2375f1ae35bd"><div class="ttname"><a href="classClassEvaluation.html#a4403946933e85fc063fd2375f1ae35bd">ClassEvaluation::DPR_05</a></div><div class="ttdeci">double DPR_05</div><div class="ttdoc">Differential phase residual at the frequency at which FRC=0.5. </div><div class="ttdef"><b>Definition:</b> <a href="classify__evaluate__classes_8h_source.html#l00043">classify_evaluate_classes.h:43</a></div></div>
+<div class="ttc" id="classClassEvaluation_html_a0bf55fbfb65b3d9871c8d62f3dc4b2b8"><div class="ttname"><a href="classClassEvaluation.html#a0bf55fbfb65b3d9871c8d62f3dc4b2b8">ClassEvaluation::FRC_05</a></div><div class="ttdeci">double FRC_05</div><div class="ttdoc">Digital frequency &lt;0.5) at which the Fourier Ring Correlation drops below 0.5. </div><div class="ttdef"><b>Definition:</b> <a href="classify__evaluate__classes_8h_source.html#l00040">classify_evaluate_classes.h:40</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -150,7 +155,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Differential phase residual at the frequency at which FRC=0.5 </p>
+
+<p>Differential phase residual at the frequency at which FRC=0.5. </p>
 
 <p>Definition at line <a class="el" href="classify__evaluate__classes_8h_source.html#l00043">43</a> of file <a class="el" href="classify__evaluate__classes_8h_source.html">classify_evaluate_classes.h</a>.</p>
 
@@ -165,7 +171,8 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Digital frequency &lt;0.5) at which the Fourier Ring Correlation drops below 0.5 </p>
+
+<p>Digital frequency &lt;0.5) at which the Fourier Ring Correlation drops below 0.5. </p>
 
 <p>Definition at line <a class="el" href="classify__evaluate__classes_8h_source.html#l00040">40</a> of file <a class="el" href="classify__evaluate__classes_8h_source.html">classify_evaluate_classes.h</a>.</p>
 
@@ -180,15 +187,16 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Possible overfitting </p>
+
+<p>Possible overfitting. </p>
 
 <p>Definition at line <a class="el" href="classify__evaluate__classes_8h_source.html#l00046">46</a> of file <a class="el" href="classify__evaluate__classes_8h_source.html">classify_evaluate_classes.h</a>.</p>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="classify__evaluate__classes_8h_source.html">classify_evaluate_classes.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="classify__evaluate__classes_8cpp_source.html">classify_evaluate_classes.cpp</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="classify__evaluate__classes_8h_source.html">classify_evaluate_classes.h</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="classify__evaluate__classes_8cpp_source.html">classify_evaluate_classes.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

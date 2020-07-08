@@ -19,7 +19,7 @@ var searchData=
   ['statsstruct',['statsStruct',['../classClassicTrainingVectors.html#a160e8bf0c5261ebc12a7e44d34ed3f47',1,'ClassicTrainingVectors']]],
   ['statstruct',['StatStruct',['../namespacetesting_1_1internal_1_1posix.html#a8eb9f08d3af29941c2d2a964cfff3ecb',1,'testing::internal::posix']]],
   ['strategyfunction',['StrategyFunction',['../numerical__tools_8h.html#abadd761e31313e94ffd9ba1334c0efa2',1,'numerical_tools.h']]],
-  ['string',['String',['../xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff',1,'String():&#160;xmipp_strings.h'],['../namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111',1,'testing::internal::string()']]],
+  ['string',['string',['../namespacetesting_1_1internal.html#a8e8ff5b11e64078831112677156cb111',1,'testing::internal::string()'],['../xmipp__strings_8h.html#afbeda3fd1bdc8c37d01bdf9f5c8274ff',1,'String():&#160;xmipp_strings.h']]],
   ['strings',['Strings',['../namespacetesting_1_1internal.html#a7706b17f05f4b49e351b052ae4e05073',1,'testing::internal']]],
   ['stringvector',['StringVector',['../argsparser_8h.html#ab7db7f89faba290ac54cc52f052795e7',1,'StringVector():&#160;argsparser.h'],['../xmipp__strings_8h.html#ab7db7f89faba290ac54cc52f052795e7',1,'StringVector():&#160;xmipp_strings.h']]],
   ['swig_5fcast_5finfo',['swig_cast_info',['../frm__wrap_8cpp.html#a9a04e6e78de723759e5450cd29429d1f',1,'frm_wrap.cpp']]],

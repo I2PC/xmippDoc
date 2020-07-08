@@ -14,6 +14,7 @@ var searchData=
   ['antimirroronbounds',['AntiMirrorOnBounds',['../tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9a26dfbc7f89fe660e09880f7836a031d0',1,'tboundaryconvention.h']]],
   ['arma',['ARMA',['../classProgCTFEstimateFromMicrograph.html#a560ac772d51f62fc3018587cdcf72668abf12f9e63ff8f18c3daaf1c9a2ada4de',1,'ProgCTFEstimateFromMicrograph']]],
   ['art',['ART',['../classBasicARTParameters.html#a69792cca4b1fd1a00975a7c9c1bcdf02a641b658fb5131f7609f1469e2c3de8f4',1,'BasicARTParameters']]],
+  ['automatic',['Automatic',['../enumxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1Mode.html#a4df3a3d067aaa08935959d2fe7123eb8',1,'xmipp::viewer::particlepicker::training::model::Mode']]],
   ['axisx',['axisX',['../classEuler.html#aa78ad6f8199156c615add31915e83877aa7616d31a0edd862c33b7d5deb5aa97e',1,'Euler']]],
   ['axisy',['axisY',['../classEuler.html#aa78ad6f8199156c615add31915e83877ab5114fc3658385df95f21d08fc7f8948',1,'Euler']]],
   ['axisz',['axisZ',['../classEuler.html#aa78ad6f8199156c615add31915e83877afb85f629edf6b216532fcf009bb104ae',1,'Euler']]]

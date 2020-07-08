@@ -96,13 +96,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>&gt;</code></p>
+<p>This is the parent class for all algorithms that can be trained and applied in order to classify a set of data.  
+ <a href="classClassificationAlgorithm.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="base__algorithm_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/classification/base_algorithm.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for ClassificationAlgorithm&lt; DSClass &gt;:</div>
 <div class="dyncontent">
 <div class="center"><img src="classClassificationAlgorithm__coll__graph.png" border="0" usemap="#ClassificationAlgorithm_3_01DSClass_01_4_coll__map" alt="Collaboration graph"/></div>
 <map name="ClassificationAlgorithm_3_01DSClass_01_4_coll__map" id="ClassificationAlgorithm_3_01DSClass_01_4_coll__map">
-<area shape="rect" id="node2" href="classBaseListener.html" title="BaseListener" alt="" coords="34,5,133,32"/>
+<area shape="rect" id="node2" href="classBaseListener.html" title="BaseListener. " alt="" coords="34,5,133,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -116,22 +119,31 @@ Public Types</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a227b7071f5b1998cde3e1a1ea1b8f5b5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#a227b7071f5b1998cde3e1a1ea1b8f5b5">ClassificationAlgorithm</a> (const std::string &amp;_ID=&quot;&quot;)</td></tr>
+<tr class="memdesc:a227b7071f5b1998cde3e1a1ea1b8f5b5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a227b7071f5b1998cde3e1a1ea1b8f5b5">More...</a><br /></td></tr>
 <tr class="separator:a227b7071f5b1998cde3e1a1ea1b8f5b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a94bc960989f7310d9a1e08b3a99c7ee6"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#a94bc960989f7310d9a1e08b3a99c7ee6">~ClassificationAlgorithm</a> ()</td></tr>
+<tr class="memdesc:a94bc960989f7310d9a1e08b3a99c7ee6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#a94bc960989f7310d9a1e08b3a99c7ee6">More...</a><br /></td></tr>
 <tr class="separator:a94bc960989f7310d9a1e08b3a99c7ee6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adcdad5d09ed21128a4681ead56ec8758"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#adcdad5d09ed21128a4681ead56ec8758">train</a> (<a class="el" href="classClassificationAlgorithm.html#a99f89ebe78de09a36935bd209d52b8b8">DS</a> &amp;_ds, const <a class="el" href="classClassificationAlgorithm.html#a5b3c94f7d2362fb9be31e56bc15a9794">TS</a> &amp;_examples) const </td></tr>
+<tr class="memdesc:adcdad5d09ed21128a4681ead56ec8758"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method to train the algorithm.  <a href="#adcdad5d09ed21128a4681ead56ec8758">More...</a><br /></td></tr>
 <tr class="separator:adcdad5d09ed21128a4681ead56ec8758"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a66e59abf35e695ab925f2f874f845e59"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#a66e59abf35e695ab925f2f874f845e59">train</a> (<a class="el" href="classClassificationAlgorithm.html#a99f89ebe78de09a36935bd209d52b8b8">DS</a> &amp;_ds, <a class="el" href="classClassificationAlgorithm.html#a5b3c94f7d2362fb9be31e56bc15a9794">TS</a> &amp;_examples) const </td></tr>
+<tr class="memdesc:a66e59abf35e695ab925f2f874f845e59"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method to train the algorithm.  <a href="#a66e59abf35e695ab925f2f874f845e59">More...</a><br /></td></tr>
 <tr class="separator:a66e59abf35e695ab925f2f874f845e59"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4e9aee97ca717bd6faa2562edaeda89b"><td class="memItemLeft" align="right" valign="top">virtual double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#a4e9aee97ca717bd6faa2562edaeda89b">test</a> (const <a class="el" href="classClassificationAlgorithm.html#a99f89ebe78de09a36935bd209d52b8b8">DS</a> &amp;_ds, const <a class="el" href="classClassificationAlgorithm.html#a5b3c94f7d2362fb9be31e56bc15a9794">TS</a> &amp;_examples) const =0</td></tr>
+<tr class="memdesc:a4e9aee97ca717bd6faa2562edaeda89b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method to test the algorithm.  <a href="#a4e9aee97ca717bd6faa2562edaeda89b">More...</a><br /></td></tr>
 <tr class="separator:a4e9aee97ca717bd6faa2562edaeda89b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae840744b18fcc882aa8682f9179cfe13"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#ae840744b18fcc882aa8682f9179cfe13">printSelf</a> (std::ostream &amp;_os) const </td></tr>
+<tr class="memdesc:ae840744b18fcc882aa8682f9179cfe13"><td class="mdescLeft">&#160;</td><td class="mdescRight">Print itself on standard output.  <a href="#ae840744b18fcc882aa8682f9179cfe13">More...</a><br /></td></tr>
 <tr class="separator:ae840744b18fcc882aa8682f9179cfe13"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5219ae33f219f8450cb15eb443e61a1"><td class="memItemLeft" align="right" valign="top">virtual const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#af5219ae33f219f8450cb15eb443e61a1">setID</a> () const </td></tr>
+<tr class="memdesc:af5219ae33f219f8450cb15eb443e61a1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set ID (returns a const reference to the ID)  <a href="#af5219ae33f219f8450cb15eb443e61a1">More...</a><br /></td></tr>
 <tr class="separator:af5219ae33f219f8450cb15eb443e61a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9d9818d60cc746d5b6af25fdc6efff01"><td class="memItemLeft" align="right" valign="top">virtual std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#a9d9818d60cc746d5b6af25fdc6efff01">setID</a> ()</td></tr>
+<tr class="memdesc:a9d9818d60cc746d5b6af25fdc6efff01"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set ID (returns a non-const reference to the ID)  <a href="#a9d9818d60cc746d5b6af25fdc6efff01">More...</a><br /></td></tr>
 <tr class="separator:a9d9818d60cc746d5b6af25fdc6efff01"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a95352f4706128424473dbe8f5e958bfd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationAlgorithm.html#a95352f4706128424473dbe8f5e958bfd">setListener</a> (<a class="el" href="classBaseListener.html">BaseListener</a> *_listener)</td></tr>
+<tr class="memdesc:a95352f4706128424473dbe8f5e958bfd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Defines Listener class.  <a href="#a95352f4706128424473dbe8f5e958bfd">More...</a><br /></td></tr>
 <tr class="separator:a95352f4706128424473dbe8f5e958bfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
@@ -145,7 +157,8 @@ Protected Attributes</h2></td></tr>
 <div class="textblock"><h3>template&lt;class DSClass&gt;<br />
 class ClassificationAlgorithm&lt; DSClass &gt;</h3>
 
-<p>This is the parent class for all algorithms that can be trained and applied in order to classify a set of data. A xmipp Algorithm object must have: 1) a train method that accepts a set of examples 2) an apply method that accepts an example and classifies it </p>
+<p>This is the parent class for all algorithms that can be trained and applied in order to classify a set of data. </p>
+<p>A xmipp Algorithm object must have: 1) a train method that accepts a set of examples 2) an apply method that accepts an example and classifies it </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00054">54</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
@@ -205,7 +218,9 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Constructor. Parameter: _ID an ID string unique for each algorithm class </p>
+
+<p>Constructor. </p>
+<p>Parameter: _ID an ID string unique for each algorithm class </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00065">65</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;                                                      : <a class="code" href="classClassificationAlgorithm.html#a00786d519f617da6d6fc7f2329319b67">ID</a>(_ID)</div><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    {};</div><div class="ttc" id="classClassificationAlgorithm_html_a00786d519f617da6d6fc7f2329319b67"><div class="ttname"><a href="classClassificationAlgorithm.html#a00786d519f617da6d6fc7f2329319b67">ClassificationAlgorithm::ID</a></div><div class="ttdeci">std::string ID</div><div class="ttdef"><b>Definition:</b> <a href="base__algorithm_8h_source.html#l00132">base_algorithm.h:132</a></div></div>
@@ -234,7 +249,9 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Destructor. The default destructor </p>
+
+<p>Destructor. </p>
+<p>The default destructor </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00072">72</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    {};</div></div><!-- fragment -->
@@ -264,7 +281,8 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Print itself on standard output </p>
+
+<p>Print itself on standard output. </p>
 
 <p>Reimplemented in <a class="el" href="classSOM.html#afb39c869d960e2b7d691d9cf99672eca">SOM</a>, and <a class="el" href="classFuzzyCMeans.html#a41f17c6b4134beb8079a160a00ca650e">FuzzyCMeans</a>.</p>
 
@@ -295,6 +313,7 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+
 <p>Set ID (returns a const reference to the ID) </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00114">114</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
@@ -324,6 +343,7 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+
 <p>Set ID (returns a non-const reference to the ID) </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00121">121</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
@@ -354,7 +374,8 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Defines Listener class </p>
+
+<p>Defines Listener class. </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00129">129</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    {</div><div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;        <a class="code" href="classClassificationAlgorithm.html#afb5e1dca55d78af9a0315f803ef11871">listener</a> = _listener;</div><div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;    };</div><div class="ttc" id="classClassificationAlgorithm_html_afb5e1dca55d78af9a0315f803ef11871"><div class="ttname"><a href="classClassificationAlgorithm.html#afb5e1dca55d78af9a0315f803ef11871">ClassificationAlgorithm::listener</a></div><div class="ttdeci">BaseListener * listener</div><div class="ttdef"><b>Definition:</b> <a href="base__algorithm_8h_source.html#l00136">base_algorithm.h:136</a></div></div>
@@ -394,7 +415,9 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Method to test the algorithm. Note that this method is pure virtual, so it must be defined in every xmipp descendant class. Parameter: _ds Data structure to train. Const because its not affected by test Parameter: _examples A training set with the training examples. </p><dl class="section return"><dt>Returns</dt><dd>The test error, that is, error obtained for the test file. Might be MSE error, or success in classification error, or whatever; just be consistent for each algorithm </dd></dl>
+
+<p>Method to test the algorithm. </p>
+<p>Note that this method is pure virtual, so it must be defined in every xmipp descendant class. Parameter: _ds Data structure to train. Const because its not affected by test Parameter: _examples A training set with the training examples. </p><dl class="section return"><dt>Returns</dt><dd>The test error, that is, error obtained for the test file. Might be MSE error, or success in classification error, or whatever; just be consistent for each algorithm </dd></dl>
 
 </div>
 </div>
@@ -431,7 +454,9 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Method to train the algorithm. Note that this method is pure virtual, so it ust be defined in every xmipp descendant class. Parameter: _ds Data structure to train Parameter: _examples A training set with the training examples. </p>
+
+<p>Method to train the algorithm. </p>
+<p>Note that this method is pure virtual, so it ust be defined in every xmipp descendant class. Parameter: _ds Data structure to train Parameter: _examples A training set with the training examples. </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00081">81</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;        {};</div></div><!-- fragment -->
@@ -470,7 +495,9 @@ template&lt;class DSClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Method to train the algorithm. Note that this method is pure virtual, so it ust be defined in every xmipp descendant class. Parameter: _ds Data structure to train Parameter: _examples A training set with the training examples. </p>
+
+<p>Method to train the algorithm. </p>
+<p>Note that this method is pure virtual, so it ust be defined in every xmipp descendant class. Parameter: _ds Data structure to train Parameter: _examples A training set with the training examples. </p>
 
 <p>Definition at line <a class="el" href="base__algorithm_8h_source.html#l00090">90</a> of file <a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;        {};</div></div><!-- fragment -->
@@ -526,7 +553,7 @@ template&lt;class DSClass&gt; </div>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/classification/<a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a></li>
+<li>xmipp/libraries/classification/<a class="el" href="base__algorithm_8h_source.html">base_algorithm.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

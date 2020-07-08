@@ -1,5 +1,5 @@
-<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/external/delaunay/delaunay.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/external/delaunay/delaunay.h">
-<area shape="rect" id="node2" href="$delaunay_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/external/delaunay/delaunay.cpp" alt="" coords="5,131,215,202"/>
-<area shape="rect" id="node3" href="$triangulation_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/external/delaunay/triangulation.cpp" alt="" coords="239,131,466,202"/>
-<area shape="rect" id="node4" href="$image__assignment__tilt__pair_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/reconstruction\l/image_assignment_tilt_pair.cpp" alt="" coords="491,124,700,209"/>
+<map id="xmipp/external/delaunay/delaunay.h" name="xmipp/external/delaunay/delaunay.h">
+<area shape="rect" id="node2" href="$delaunay_8cpp.html" title="xmipp/external/delaunay\l/delaunay.cpp" alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$triangulation_8cpp.html" title="xmipp/external/delaunay\l/triangulation.cpp" alt="" coords="192,95,355,136"/>
+<area shape="rect" id="node4" href="$image__assignment__tilt__pair_8cpp.html" title="xmipp/libraries/reconstruction\l/image_assignment_tilt_pair.cpp" alt="" coords="379,95,589,136"/>
 </map>

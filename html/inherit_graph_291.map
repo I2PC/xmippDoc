@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classExtremaFinder_1_1ExtremaFinderSettings.html" title="ExtremaFinder::ExtremaFinder\lSettings" alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node1" href="$classdoubleFunction.html" title="A double&#45;returning function. " alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node2" href="$classAtomValueFunc.html" title="Atom projection profile &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;—. " alt="" coords="164,5,279,32"/>
+<area shape="rect" id="node3" href="$classRomberg.html" title="More accurate integration. " alt="" coords="184,56,259,83"/>
+<area shape="rect" id="node4" href="$classTrapeze.html" title="Fast integration routine. " alt="" coords="187,107,256,133"/>
 </map>

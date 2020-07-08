@@ -95,14 +95,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="lltsa_8h_source.html">lltsa.h</a>&gt;</code></p>
+<p>Class for making a <a class="el" href="classLLTSA.html" title="Class for making a LLTSA dimensionality reduction. ">LLTSA</a> dimensionality reduction.  
+ <a href="classLLTSA.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="lltsa_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/dimred/lltsa.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for LLTSA:</div>
 <div class="dyncontent">
 <div class="center"><img src="classLLTSA__inherit__graph.png" border="0" usemap="#LLTSA_inherit__map" alt="Inheritance graph"/></div>
 <map name="LLTSA_inherit__map" id="LLTSA_inherit__map">
-<area shape="rect" id="node2" href="classLTSA.html" title="LTSA" alt="" coords="41,80,95,107"/>
-<area shape="rect" id="node3" href="classDimRedAlgorithm.html" title="DimRedAlgorithm" alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node2" href="classLTSA.html" title="Class for making a LTSA dimensionality reduction. " alt="" coords="41,80,95,107"/>
+<area shape="rect" id="node3" href="classDimRedAlgorithm.html" title="Generic class for dimensionality reduction. " alt="" coords="5,5,131,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -110,10 +113,10 @@ Collaboration diagram for LLTSA:</div>
 <div class="dyncontent">
 <div class="center"><img src="classLLTSA__coll__graph.png" border="0" usemap="#LLTSA_coll__map" alt="Collaboration graph"/></div>
 <map name="LLTSA_coll__map" id="LLTSA_coll__map">
-<area shape="rect" id="node2" href="classLTSA.html" title="LTSA" alt="" coords="120,289,175,316"/>
-<area shape="rect" id="node3" href="classDimRedAlgorithm.html" title="DimRedAlgorithm" alt="" coords="111,200,237,227"/>
+<area shape="rect" id="node2" href="classLTSA.html" title="Class for making a LTSA dimensionality reduction. " alt="" coords="120,289,175,316"/>
+<area shape="rect" id="node3" href="classDimRedAlgorithm.html" title="Generic class for dimensionality reduction. " alt="" coords="111,200,237,227"/>
 <area shape="rect" id="node4" href="classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="5,81,143,108"/>
-<area shape="rect" id="node5" href="classFileName.html" title="FileName" alt="" coords="167,81,245,108"/>
+<area shape="rect" id="node5" href="classFileName.html" title="Filenames. " alt="" coords="167,81,245,108"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -172,7 +175,7 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:af238a242536a161b966808cb3d1d9871 inherit pro_methods_classLTSA"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Class for making a <a class="el" href="classLLTSA.html">LLTSA</a> dimensionality reduction </p>
+<div class="textblock"><p>Class for making a <a class="el" href="classLLTSA.html" title="Class for making a LLTSA dimensionality reduction. ">LLTSA</a> dimensionality reduction. </p>
 
 <p>Definition at line <a class="el" href="lltsa_8h_source.html#l00037">37</a> of file <a class="el" href="lltsa_8h_source.html">lltsa.h</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
@@ -204,17 +207,17 @@ Additional Inherited Members</h2></td></tr>
 <p>Definition at line <a class="el" href="lltsa_8cpp_source.html#l00035">35</a> of file <a class="el" href="lltsa_8cpp_source.html">lltsa.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;{</div><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <a class="code" href="classMatrix2D.html">Matrix2D&lt;double&gt;</a> B, XtBX, XtX;</div><div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;    <a class="code" href="classLTSA.html#af238a242536a161b966808cb3d1d9871">computeAlignmentMatrix</a>(B);</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;</div><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    <a class="code" href="classMatrix1D.html">Matrix1D&lt;double&gt;</a> DEigs;</div><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    <a class="code" href="group__Matrices.html#gab0b66c453466f2a6eba8722d887a42bf">matrixOperation_AtB</a>(*<a class="code" href="classDimRedAlgorithm.html#a8fe30ae8f773842494cd8e05381a7640">X</a>, B, XtBX);</div><div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <a class="code" href="group__Matrices.html#ga937463fbe2c3bd7e87a9f78b6ed80274">matrixOperation_AtA</a>(*<a class="code" href="classDimRedAlgorithm.html#a8fe30ae8f773842494cd8e05381a7640">X</a>, XtX);</div><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    XtBX = XtBX * (*X);</div><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    <a class="code" href="group__Matrices.html#gaa46bfc3ac5eb3f35e21f9fea78af6b92">generalizedEigs</a>(XtBX, XtX, DEigs, <a class="code" href="classLLTSA.html#a6734d2a66d522f0454d0a3d02b061577">A</a>);</div><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    <a class="code" href="lltsa_8cpp.html#abf2444638c19ebcc4e7bcf4f617703b7">eraseLastNColumns</a>(<a class="code" href="classLLTSA.html#a6734d2a66d522f0454d0a3d02b061577">A</a>, <a class="code" href="group__Matrices.html#gacd5c6ac63f21fdbbd4343a9caf1ee9c6">MAT_XSIZE</a>(<a class="code" href="classLLTSA.html#a6734d2a66d522f0454d0a3d02b061577">A</a>) - <a class="code" href="classDimRedAlgorithm.html#a6cbfebd44c2f1efe3508fe7fcc4e5143">outputDim</a>);</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    <a class="code" href="classDimRedAlgorithm.html#a78d67d1638ad2e4a566071e812208115">Y</a> = *X * <a class="code" href="classLLTSA.html#a6734d2a66d522f0454d0a3d02b061577">A</a>;</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="classDimRedAlgorithm.html#a246b2cfb42faed4c807b0bc6125cd655">fnMapping</a>!=<span class="stringliteral">&quot;&quot;</span>)</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;        A.<a class="code" href="classMatrix2D.html#ac44680cd094472fa740ddd8ba2a8cbc5">write</a>(<a class="code" href="classDimRedAlgorithm.html#a246b2cfb42faed4c807b0bc6125cd655">fnMapping</a>);</div><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;}</div><div class="ttc" id="classDimRedAlgorithm_html_a78d67d1638ad2e4a566071e812208115"><div class="ttname"><a href="classDimRedAlgorithm.html#a78d67d1638ad2e4a566071e812208115">DimRedAlgorithm::Y</a></div><div class="ttdeci">Matrix2D&lt; double &gt; Y</div><div class="ttdoc">Output data. </div><div class="ttdef"><b>Definition:</b> <a href="dimred__tools_8h_source.html#l00146">dimred_tools.h:146</a></div></div>
 <div class="ttc" id="classDimRedAlgorithm_html_a8fe30ae8f773842494cd8e05381a7640"><div class="ttname"><a href="classDimRedAlgorithm.html#a8fe30ae8f773842494cd8e05381a7640">DimRedAlgorithm::X</a></div><div class="ttdeci">Matrix2D&lt; double &gt; * X</div><div class="ttdoc">Pointer to input data. </div><div class="ttdef"><b>Definition:</b> <a href="dimred__tools_8h_source.html#l00140">dimred_tools.h:140</a></div></div>
-<div class="ttc" id="classMatrix2D_html_ac44680cd094472fa740ddd8ba2a8cbc5"><div class="ttname"><a href="classMatrix2D.html#ac44680cd094472fa740ddd8ba2a8cbc5">Matrix2D::write</a></div><div class="ttdeci">void write(const FileName &amp;fn) const </div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8h_source.html#l01248">matrix2d.h:1248</a></div></div>
+<div class="ttc" id="classMatrix2D_html_ac44680cd094472fa740ddd8ba2a8cbc5"><div class="ttname"><a href="classMatrix2D.html#ac44680cd094472fa740ddd8ba2a8cbc5">Matrix2D::write</a></div><div class="ttdeci">void write(const FileName &amp;fn) const </div><div class="ttdoc">Write this matrix to file. </div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8h_source.html#l01248">matrix2d.h:1248</a></div></div>
 <div class="ttc" id="classLLTSA_html_a6734d2a66d522f0454d0a3d02b061577"><div class="ttname"><a href="classLLTSA.html#a6734d2a66d522f0454d0a3d02b061577">LLTSA::A</a></div><div class="ttdeci">Matrix2D&lt; double &gt; A</div><div class="ttdef"><b>Definition:</b> <a href="lltsa_8h_source.html#l00041">lltsa.h:41</a></div></div>
-<div class="ttc" id="group__Matrices_html_ga937463fbe2c3bd7e87a9f78b6ed80274"><div class="ttname"><a href="group__Matrices.html#ga937463fbe2c3bd7e87a9f78b6ed80274">matrixOperation_AtA</a></div><div class="ttdeci">void matrixOperation_AtA(const Matrix2D&lt; double &gt; &amp;A, Matrix2D&lt; double &gt; &amp;B)</div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8cpp_source.html#l00569">matrix2d.cpp:569</a></div></div>
+<div class="ttc" id="group__Matrices_html_ga937463fbe2c3bd7e87a9f78b6ed80274"><div class="ttname"><a href="group__Matrices.html#ga937463fbe2c3bd7e87a9f78b6ed80274">matrixOperation_AtA</a></div><div class="ttdeci">void matrixOperation_AtA(const Matrix2D&lt; double &gt; &amp;A, Matrix2D&lt; double &gt; &amp;B)</div><div class="ttdoc">Matrix operation: B=A^t*A. </div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8cpp_source.html#l00569">matrix2d.cpp:569</a></div></div>
 <div class="ttc" id="lltsa_8cpp_html_abf2444638c19ebcc4e7bcf4f617703b7"><div class="ttname"><a href="lltsa_8cpp.html#abf2444638c19ebcc4e7bcf4f617703b7">eraseLastNColumns</a></div><div class="ttdeci">void eraseLastNColumns(Matrix2D&lt; double &gt; &amp;A, int N)</div><div class="ttdef"><b>Definition:</b> <a href="lltsa_8cpp_source.html#l00026">lltsa.cpp:26</a></div></div>
 <div class="ttc" id="classDimRedAlgorithm_html_a6cbfebd44c2f1efe3508fe7fcc4e5143"><div class="ttname"><a href="classDimRedAlgorithm.html#a6cbfebd44c2f1efe3508fe7fcc4e5143">DimRedAlgorithm::outputDim</a></div><div class="ttdeci">size_t outputDim</div><div class="ttdoc">Output dim. </div><div class="ttdef"><b>Definition:</b> <a href="dimred__tools_8h_source.html#l00143">dimred_tools.h:143</a></div></div>
 <div class="ttc" id="classMatrix2D_html"><div class="ttname"><a href="classMatrix2D.html">Matrix2D&lt; double &gt;</a></div></div>
-<div class="ttc" id="group__Matrices_html_gab0b66c453466f2a6eba8722d887a42bf"><div class="ttname"><a href="group__Matrices.html#gab0b66c453466f2a6eba8722d887a42bf">matrixOperation_AtB</a></div><div class="ttdeci">void matrixOperation_AtB(const Matrix2D&lt; double &gt; &amp;A, const Matrix2D&lt; double &gt; &amp;B, Matrix2D&lt; double &gt; &amp;C)</div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8cpp_source.html#l00608">matrix2d.cpp:608</a></div></div>
-<div class="ttc" id="group__Matrices_html_gaa46bfc3ac5eb3f35e21f9fea78af6b92"><div class="ttname"><a href="group__Matrices.html#gaa46bfc3ac5eb3f35e21f9fea78af6b92">generalizedEigs</a></div><div class="ttdeci">void generalizedEigs(const Matrix2D&lt; double &gt; &amp;A, const Matrix2D&lt; double &gt; &amp;B, Matrix1D&lt; double &gt; &amp;D, Matrix2D&lt; double &gt; &amp;P)</div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8cpp_source.html#l00400">matrix2d.cpp:400</a></div></div>
+<div class="ttc" id="group__Matrices_html_gab0b66c453466f2a6eba8722d887a42bf"><div class="ttname"><a href="group__Matrices.html#gab0b66c453466f2a6eba8722d887a42bf">matrixOperation_AtB</a></div><div class="ttdeci">void matrixOperation_AtB(const Matrix2D&lt; double &gt; &amp;A, const Matrix2D&lt; double &gt; &amp;B, Matrix2D&lt; double &gt; &amp;C)</div><div class="ttdoc">Matrix operation: C=A^t*B. </div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8cpp_source.html#l00608">matrix2d.cpp:608</a></div></div>
+<div class="ttc" id="group__Matrices_html_gaa46bfc3ac5eb3f35e21f9fea78af6b92"><div class="ttname"><a href="group__Matrices.html#gaa46bfc3ac5eb3f35e21f9fea78af6b92">generalizedEigs</a></div><div class="ttdeci">void generalizedEigs(const Matrix2D&lt; double &gt; &amp;A, const Matrix2D&lt; double &gt; &amp;B, Matrix1D&lt; double &gt; &amp;D, Matrix2D&lt; double &gt; &amp;P)</div><div class="ttdoc">Generalized eigenvector decomposition. </div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8cpp_source.html#l00400">matrix2d.cpp:400</a></div></div>
 <div class="ttc" id="classMatrix1D_html"><div class="ttname"><a href="classMatrix1D.html">Matrix1D&lt; double &gt;</a></div></div>
 <div class="ttc" id="classDimRedAlgorithm_html_a246b2cfb42faed4c807b0bc6125cd655"><div class="ttname"><a href="classDimRedAlgorithm.html#a246b2cfb42faed4c807b0bc6125cd655">DimRedAlgorithm::fnMapping</a></div><div class="ttdeci">FileName fnMapping</div><div class="ttdoc">Save mapping. </div><div class="ttdef"><b>Definition:</b> <a href="dimred__tools_8h_source.html#l00152">dimred_tools.h:152</a></div></div>
-<div class="ttc" id="group__Matrices_html_gacd5c6ac63f21fdbbd4343a9caf1ee9c6"><div class="ttname"><a href="group__Matrices.html#gacd5c6ac63f21fdbbd4343a9caf1ee9c6">MAT_XSIZE</a></div><div class="ttdeci">#define MAT_XSIZE(m)</div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8h_source.html#l00121">matrix2d.h:121</a></div></div>
+<div class="ttc" id="group__Matrices_html_gacd5c6ac63f21fdbbd4343a9caf1ee9c6"><div class="ttname"><a href="group__Matrices.html#gacd5c6ac63f21fdbbd4343a9caf1ee9c6">MAT_XSIZE</a></div><div class="ttdeci">#define MAT_XSIZE(m)</div><div class="ttdoc">X dimension of the matrix. </div><div class="ttdef"><b>Definition:</b> <a href="matrix2d_8h_source.html#l00121">matrix2d.h:121</a></div></div>
 <div class="ttc" id="classLTSA_html_af238a242536a161b966808cb3d1d9871"><div class="ttname"><a href="classLTSA.html#af238a242536a161b966808cb3d1d9871">LTSA::computeAlignmentMatrix</a></div><div class="ttdeci">void computeAlignmentMatrix(Matrix2D&lt; double &gt; &amp;B)</div><div class="ttdoc">Common part. </div><div class="ttdef"><b>Definition:</b> <a href="ltsa_8cpp_source.html#l00056">ltsa.cpp:56</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -235,8 +238,8 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/dimred/<a class="el" href="lltsa_8h_source.html">lltsa.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/dimred/<a class="el" href="lltsa_8cpp_source.html">lltsa.cpp</a></li>
+<li>xmipp/libraries/dimred/<a class="el" href="lltsa_8h_source.html">lltsa.h</a></li>
+<li>xmipp/libraries/dimred/<a class="el" href="lltsa_8cpp_source.html">lltsa.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

@@ -1,5 +1,5 @@
 <map id="MpiProgNMA" name="MpiProgNMA">
-<area shape="rect" id="node2" href="$classProgNmaAlignment.html" title="ProgNmaAlignment" alt="" coords="19,155,154,181"/>
-<area shape="rect" id="node3" href="$classXmippMetadataProgram.html" title="XmippMetadataProgram" alt="" coords="5,80,168,107"/>
-<area shape="rect" id="node4" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="33,5,141,32"/>
+<area shape="rect" id="node2" href="$classProgNmaAlignment.html" title="NMA Alignment Parameters. " alt="" coords="19,155,154,181"/>
+<area shape="rect" id="node3" href="$classXmippMetadataProgram.html" title="Special class of XmippProgram that performs some operation related with processing images..." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node4" href="$classXmippProgram.html" title="This class represent an Xmipp Program. " alt="" coords="33,5,141,32"/>
 </map>

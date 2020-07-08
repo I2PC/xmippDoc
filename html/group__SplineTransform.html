@@ -88,8 +88,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:gad4cce844a559980aaff41300094618a4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SplineTransform.html#gad4cce844a559980aaff41300094618a4">ChangeBasis</a> (double InputData[], double OutputData[], long SignalLength, enum <a class="el" href="tsplinebasis_8h.html#ad96eae98eadf5f9a917db20a01f3adcf">TSplineBasis</a> FromBasis, enum <a class="el" href="tsplinebasis_8h.html#ad96eae98eadf5f9a917db20a01f3adcf">TSplineBasis</a> ToBasis, long Degree, enum <a class="el" href="tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9">TBoundaryConvention</a> Convention, double Tolerance, int *Status)</td></tr>
+<tr class="memdesc:gad4cce844a559980aaff41300094618a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Spline transform 1D.  <a href="#gad4cce844a559980aaff41300094618a4">More...</a><br /></td></tr>
 <tr class="separator:gad4cce844a559980aaff41300094618a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:gaf907a9485caaa67d3acdd3589027b997"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SplineTransform.html#gaf907a9485caaa67d3acdd3589027b997">ChangeBasisVolume</a> (double *VolumeSource, double *VolumeDestination, long Nx, long Ny, long Nz, enum <a class="el" href="tsplinebasis_8h.html#ad96eae98eadf5f9a917db20a01f3adcf">TSplineBasis</a> FromBasis, enum <a class="el" href="tsplinebasis_8h.html#ad96eae98eadf5f9a917db20a01f3adcf">TSplineBasis</a> ToBasis, long Degree, enum <a class="el" href="tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9">TBoundaryConvention</a> Convention, double Tolerance, int *Status)</td></tr>
+<tr class="memdesc:gaf907a9485caaa67d3acdd3589027b997"><td class="mdescLeft">&#160;</td><td class="mdescRight">Spline transform 3D.  <a href="#gaf907a9485caaa67d3acdd3589027b997">More...</a><br /></td></tr>
 <tr class="separator:gaf907a9485caaa67d3acdd3589027b997"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -159,7 +161,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Spline transform 1D. Change spline coefficients from a source basis into a destination basis. InputData is a (double)vector array of size SignalLength. OutputData is a (double)vector array of size SignalLength.</p>
+
+<p>Spline transform 1D. </p>
+<p>Change spline coefficients from a source basis into a destination basis. InputData is a (double)vector array of size SignalLength. OutputData is a (double)vector array of size SignalLength.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -241,7 +245,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Spline transform 3D. Change a volume of spline coefficients from a source basis into a destination basis. VolumeSource is a (double)volume of size (Nx x Ny x Nz). OutputData is a (double)volume of size (Nx x Ny x Nz).</p>
+
+<p>Spline transform 3D. </p>
+<p>Change a volume of spline coefficients from a source basis into a destination basis. VolumeSource is a (double)volume of size (Nx x Ny x Nz). OutputData is a (double)volume of size (Nx x Ny x Nz).</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>

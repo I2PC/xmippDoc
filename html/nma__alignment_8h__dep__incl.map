@@ -1,6 +1,6 @@
-<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/nma_alignment.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/nma_alignment.h">
-<area shape="rect" id="node2" href="$nma__alignment__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/nma\l_alignment/nma_alignment_main.cpp" alt="" coords="5,139,243,224"/>
-<area shape="rect" id="node3" href="$mpi__nma__alignment_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/parallel/mpi\l_nma_alignment.cpp" alt="" coords="267,139,431,224"/>
-<area shape="rect" id="node5" href="$nma__alignment_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/reconstruction\l/nma_alignment.cpp" alt="" coords="455,139,619,224"/>
-<area shape="rect" id="node4" href="$mpi__nma__alignment__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/mpi\l_nma_alignment/mpi_nma_alignment\l_main.cpp" alt="" coords="231,272,468,372"/>
+<map id="xmipp/libraries/reconstruction/nma_alignment.h" name="xmipp/libraries/reconstruction/nma_alignment.h">
+<area shape="rect" id="node2" href="$nma__alignment__main_8cpp.html" title="xmipp/applications\l/programs/nma_alignment\l/nma_alignment_main.cpp" alt="" coords="5,95,180,151"/>
+<area shape="rect" id="node3" href="$mpi__nma__alignment_8cpp.html" title="xmipp/libraries/parallel\l/mpi_nma_alignment.cpp" alt="" coords="204,102,371,143"/>
+<area shape="rect" id="node5" href="$nma__alignment_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment.cpp" alt="" coords="395,102,587,143"/>
+<area shape="rect" id="node4" href="$mpi__nma__alignment__main_8cpp.html" title="xmipp/applications\l/programs/mpi_nma_alignment\l/mpi_nma_alignment_main.cpp" alt="" coords="186,199,389,255"/>
 </map>

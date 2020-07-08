@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1CenterParticleTask.html" title="xmipp.viewer.particlepicker.training.model.\lCenterParticleTask" alt="" coords="171,5,440,47"/>
+<area shape="rect" id="node3" href="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1ParticleToTemplatesTask.html" title="xmipp.viewer.particlepicker.training.model.\lParticleToTemplatesTask" alt="" coords="171,71,440,112"/>
+<area shape="rect" id="node4" href="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1SupervisedParticlePicker_1_1UpdateTemplatesTask.html" title="xmipp.viewer.particlepicker.training.model.\lSupervisedParticlePicker.UpdateTemplatesTask" alt="" coords="153,136,457,177"/>
+</map>

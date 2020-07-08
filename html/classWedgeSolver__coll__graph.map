@@ -1,5 +1,5 @@
 <map id="WedgeSolver" name="WedgeSolver">
-<area shape="rect" id="node2" href="$classDESolver.html" title="DESolver" alt="" coords="5,81,84,108"/>
+<area shape="rect" id="node2" href="$classDESolver.html" title="Differential evolution class. " alt="" coords="5,81,84,108"/>
 <area shape="rect" id="node3" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="108,81,272,108"/>
-<area shape="rect" id="node4" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="124,5,256,32"/>
+<area shape="rect" id="node4" href="$classMultidimArrayBase.html" title="Template class for Xmipp arrays. " alt="" coords="124,5,256,32"/>
 </map>

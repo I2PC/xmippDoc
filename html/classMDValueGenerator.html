@@ -95,15 +95,18 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="metadata_8h_source.html">metadata.h</a>&gt;</code></p>
+<p>Class to generate values for columns of a metadata.  
+ <a href="classMDValueGenerator.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="metadata_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/metadata.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for MDValueGenerator:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMDValueGenerator__inherit__graph.png" border="0" usemap="#MDValueGenerator_inherit__map" alt="Inheritance graph"/></div>
 <map name="MDValueGenerator_inherit__map" id="MDValueGenerator_inherit__map">
-<area shape="rect" id="node2" href="classMDConstGenerator.html" title="MDConstGenerator" alt="" coords="5,80,140,107"/>
-<area shape="rect" id="node3" href="classMDLinealGenerator.html" title="MDLinealGenerator" alt="" coords="164,80,299,107"/>
-<area shape="rect" id="node4" href="classMDRandGenerator.html" title="MDRandGenerator" alt="" coords="323,80,454,107"/>
+<area shape="rect" id="node2" href="classMDConstGenerator.html" title="Class to fill columns with constant values. " alt="" coords="5,80,140,107"/>
+<area shape="rect" id="node3" href="classMDLinealGenerator.html" title="Class to fill columns with a lineal serie. " alt="" coords="164,80,299,107"/>
+<area shape="rect" id="node4" href="classMDRandGenerator.html" title="MDGenerator to generate random values on columns. " alt="" coords="323,80,454,107"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -122,7 +125,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a1435491a6450dfe9f391a9ff72fad463"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Class to generate values for columns of a metadata </p>
+<div class="textblock"><p>Class to generate values for columns of a metadata. </p>
 
 <p>Definition at line <a class="el" href="metadata_8h_source.html#l01176">1176</a> of file <a class="el" href="metadata_8h_source.html">metadata.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -167,7 +170,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="metadata_8cpp_source.html#l02625">2625</a> of file <a class="el" href="metadata_8cpp_source.html">metadata.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l02626"></a><span class="lineno"> 2626</span>&#160;{</div><div class="line"><a name="l02627"></a><span class="lineno"> 2627</span>&#160;    <a class="code" href="group__MetaData.html#ga85652b971edca3acc93a9f1bef2f17f6">FOR_ALL_OBJECTS_IN_METADATA</a>(md)</div><div class="line"><a name="l02628"></a><span class="lineno"> 2628</span>&#160;    {</div><div class="line"><a name="l02629"></a><span class="lineno"> 2629</span>&#160;        <a class="code" href="classMDValueGenerator.html#a9ae4d1f7caced555ebce775c33f4c61d">fillValue</a>(md, __iter.objId);</div><div class="line"><a name="l02630"></a><span class="lineno"> 2630</span>&#160;    }</div><div class="line"><a name="l02631"></a><span class="lineno"> 2631</span>&#160;}</div><div class="ttc" id="group__MetaData_html_ga85652b971edca3acc93a9f1bef2f17f6"><div class="ttname"><a href="group__MetaData.html#ga85652b971edca3acc93a9f1bef2f17f6">FOR_ALL_OBJECTS_IN_METADATA</a></div><div class="ttdeci">#define FOR_ALL_OBJECTS_IN_METADATA(__md)</div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00081">metadata.h:81</a></div></div>
+<div class="fragment"><div class="line"><a name="l02626"></a><span class="lineno"> 2626</span>&#160;{</div><div class="line"><a name="l02627"></a><span class="lineno"> 2627</span>&#160;    <a class="code" href="group__MetaData.html#ga85652b971edca3acc93a9f1bef2f17f6">FOR_ALL_OBJECTS_IN_METADATA</a>(md)</div><div class="line"><a name="l02628"></a><span class="lineno"> 2628</span>&#160;    {</div><div class="line"><a name="l02629"></a><span class="lineno"> 2629</span>&#160;        <a class="code" href="classMDValueGenerator.html#a9ae4d1f7caced555ebce775c33f4c61d">fillValue</a>(md, __iter.objId);</div><div class="line"><a name="l02630"></a><span class="lineno"> 2630</span>&#160;    }</div><div class="line"><a name="l02631"></a><span class="lineno"> 2631</span>&#160;}</div><div class="ttc" id="group__MetaData_html_ga85652b971edca3acc93a9f1bef2f17f6"><div class="ttname"><a href="group__MetaData.html#ga85652b971edca3acc93a9f1bef2f17f6">FOR_ALL_OBJECTS_IN_METADATA</a></div><div class="ttdeci">#define FOR_ALL_OBJECTS_IN_METADATA(__md)</div><div class="ttdoc">Iterate over all elements in MetaData. </div><div class="ttdef"><b>Definition:</b> <a href="metadata_8h_source.html#l00081">metadata.h:81</a></div></div>
 <div class="ttc" id="classMDValueGenerator_html_a9ae4d1f7caced555ebce775c33f4c61d"><div class="ttname"><a href="classMDValueGenerator.html#a9ae4d1f7caced555ebce775c33f4c61d">MDValueGenerator::fillValue</a></div><div class="ttdeci">virtual void fillValue(MetaData &amp;md, size_t objId)=0</div></div>
 </div><!-- fragment -->
 </div>
@@ -224,8 +227,8 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="metadata_8h_source.html">metadata.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="metadata_8cpp_source.html">metadata.cpp</a></li>
+<li>xmippCore/core/<a class="el" href="metadata_8h_source.html">metadata.h</a></li>
+<li>xmippCore/core/<a class="el" href="metadata_8cpp_source.html">metadata.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

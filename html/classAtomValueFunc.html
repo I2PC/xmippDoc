@@ -94,12 +94,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">AtomValueFunc Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p><a class="el" href="classAtom.html" title="Atom class. ">Atom</a> projection profile ---------------------------------------------&mdash;.  
+ <a href="classAtomValueFunc.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for AtomValueFunc:</div>
 <div class="dyncontent">
 <div class="center"><img src="classAtomValueFunc__inherit__graph.png" border="0" usemap="#AtomValueFunc_inherit__map" alt="Inheritance graph"/></div>
 <map name="AtomValueFunc_inherit__map" id="AtomValueFunc_inherit__map">
-<area shape="rect" id="node2" href="classdoubleFunction.html" title="doubleFunction" alt="" coords="7,5,118,32"/>
+<area shape="rect" id="node2" href="classdoubleFunction.html" title="A double&#45;returning function. " alt="" coords="7,5,118,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -107,9 +110,9 @@ Collaboration diagram for AtomValueFunc:</div>
 <div class="dyncontent">
 <div class="center"><img src="classAtomValueFunc__coll__graph.png" border="0" usemap="#AtomValueFunc_coll__map" alt="Collaboration graph"/></div>
 <map name="AtomValueFunc_coll__map" id="AtomValueFunc_coll__map">
-<area shape="rect" id="node2" href="classdoubleFunction.html" title="doubleFunction" alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node2" href="classdoubleFunction.html" title="A double&#45;returning function. " alt="" coords="5,81,116,108"/>
 <area shape="rect" id="node3" href="classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="140,81,304,108"/>
-<area shape="rect" id="node4" href="classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="156,5,288,32"/>
+<area shape="rect" id="node4" href="classMultidimArrayBase.html" title="Template class for Xmipp arrays. " alt="" coords="156,5,288,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -133,7 +136,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:ae910deea911de10b749aa2cfc63ba515"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p><a class="el" href="classAtom.html">Atom</a> projection profile ---------------------------------------------&mdash; </p>
+<div class="textblock"><p><a class="el" href="classAtom.html" title="Atom class. ">Atom</a> projection profile ---------------------------------------------&mdash;. </p>
 
 <p>Definition at line <a class="el" href="pdb_8cpp_source.html#l00873">873</a> of file <a class="el" href="pdb_8cpp_source.html">pdb.cpp</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
@@ -163,12 +166,12 @@ Public Attributes</h2></td></tr>
 <p>Definition at line <a class="el" href="pdb_8cpp_source.html#l00879">879</a> of file <a class="el" href="pdb_8cpp_source.html">pdb.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00880"></a><span class="lineno">  880</span>&#160;    {</div><div class="line"><a name="l00881"></a><span class="lineno">  881</span>&#160;        <span class="keywordtype">double</span> r=<a class="code" href="classAtomValueFunc.html#a42b6b56497f6fe09064d15a289782202">M</a>*<a class="code" href="image__operate_8cpp.html#aba02a4405b44e10470c7af98477800a9">sqrt</a>(<a class="code" href="classAtomValueFunc.html#a02f10206324ad21105d410c8e25c00a2">r0_2</a>+<a class="code" href="classAtomValueFunc.html#aa27aa05d374b83212bc080e04f9b114b">z</a>*<a class="code" href="classAtomValueFunc.html#aa27aa05d374b83212bc080e04f9b114b">z</a>);</div><div class="line"><a name="l00882"></a><span class="lineno">  882</span>&#160;        <span class="keywordflow">if</span> (<a class="code" href="group__Macros.html#ga996f7be338ccb40d1a2a5abc1ad61759">ABS</a>(r)&gt;<a class="code" href="group__MultidimensionalArrays.html#ga494f0325c3fd49f368cad0e45e6a386a">FINISHINGX</a>(*<a class="code" href="classAtomValueFunc.html#ae910deea911de10b749aa2cfc63ba515">profileCoefficients</a>))</div><div class="line"><a name="l00883"></a><span class="lineno">  883</span>&#160;            <span class="keywordflow">return</span> 0;</div><div class="line"><a name="l00884"></a><span class="lineno">  884</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="classAtomValueFunc.html#ae910deea911de10b749aa2cfc63ba515">profileCoefficients</a>-&gt;<a class="code" href="classMultidimArray.html#ab9d6c1a95849f7d2533ebe0ceb37de4f">interpolatedElementBSpline1D</a>(r,3);</div><div class="line"><a name="l00885"></a><span class="lineno">  885</span>&#160;    }</div><div class="ttc" id="classAtomValueFunc_html_aa27aa05d374b83212bc080e04f9b114b"><div class="ttname"><a href="classAtomValueFunc.html#aa27aa05d374b83212bc080e04f9b114b">AtomValueFunc::z</a></div><div class="ttdeci">double z</div><div class="ttdef"><b>Definition:</b> <a href="pdb_8cpp_source.html#l00877">pdb.cpp:877</a></div></div>
 <div class="ttc" id="image__operate_8cpp_html_aba02a4405b44e10470c7af98477800a9"><div class="ttname"><a href="image__operate_8cpp.html#aba02a4405b44e10470c7af98477800a9">sqrt</a></div><div class="ttdeci">void sqrt(Image&lt; double &gt; &amp;op)</div><div class="ttdef"><b>Definition:</b> <a href="image__operate_8cpp_source.html#l00207">image_operate.cpp:207</a></div></div>
-<div class="ttc" id="group__MultidimensionalArrays_html_ga494f0325c3fd49f368cad0e45e6a386a"><div class="ttname"><a href="group__MultidimensionalArrays.html#ga494f0325c3fd49f368cad0e45e6a386a">FINISHINGX</a></div><div class="ttdeci">#define FINISHINGX(v)</div><div class="ttdef"><b>Definition:</b> <a href="multidim__array_8h_source.html#l00065">multidim_array.h:65</a></div></div>
+<div class="ttc" id="group__MultidimensionalArrays_html_ga494f0325c3fd49f368cad0e45e6a386a"><div class="ttname"><a href="group__MultidimensionalArrays.html#ga494f0325c3fd49f368cad0e45e6a386a">FINISHINGX</a></div><div class="ttdeci">#define FINISHINGX(v)</div><div class="ttdoc">Returns the last X valid logical index. </div><div class="ttdef"><b>Definition:</b> <a href="multidim__array_8h_source.html#l00065">multidim_array.h:65</a></div></div>
 <div class="ttc" id="classAtomValueFunc_html_a02f10206324ad21105d410c8e25c00a2"><div class="ttname"><a href="classAtomValueFunc.html#a02f10206324ad21105d410c8e25c00a2">AtomValueFunc::r0_2</a></div><div class="ttdeci">double r0_2</div><div class="ttdef"><b>Definition:</b> <a href="pdb_8cpp_source.html#l00877">pdb.cpp:877</a></div></div>
-<div class="ttc" id="group__Macros_html_ga996f7be338ccb40d1a2a5abc1ad61759"><div class="ttname"><a href="group__Macros.html#ga996f7be338ccb40d1a2a5abc1ad61759">ABS</a></div><div class="ttdeci">#define ABS(x)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00142">xmipp_macros.h:142</a></div></div>
+<div class="ttc" id="group__Macros_html_ga996f7be338ccb40d1a2a5abc1ad61759"><div class="ttname"><a href="group__Macros.html#ga996f7be338ccb40d1a2a5abc1ad61759">ABS</a></div><div class="ttdeci">#define ABS(x)</div><div class="ttdoc">Absolute value. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00142">xmipp_macros.h:142</a></div></div>
 <div class="ttc" id="classAtomValueFunc_html_ae910deea911de10b749aa2cfc63ba515"><div class="ttname"><a href="classAtomValueFunc.html#ae910deea911de10b749aa2cfc63ba515">AtomValueFunc::profileCoefficients</a></div><div class="ttdeci">const MultidimArray&lt; double &gt; * profileCoefficients</div><div class="ttdef"><b>Definition:</b> <a href="pdb_8cpp_source.html#l00878">pdb.cpp:878</a></div></div>
 <div class="ttc" id="classAtomValueFunc_html_a42b6b56497f6fe09064d15a289782202"><div class="ttname"><a href="classAtomValueFunc.html#a42b6b56497f6fe09064d15a289782202">AtomValueFunc::M</a></div><div class="ttdeci">int M</div><div class="ttdef"><b>Definition:</b> <a href="pdb_8cpp_source.html#l00876">pdb.cpp:876</a></div></div>
-<div class="ttc" id="classMultidimArray_html_ab9d6c1a95849f7d2533ebe0ceb37de4f"><div class="ttname"><a href="classMultidimArray.html#ab9d6c1a95849f7d2533ebe0ceb37de4f">MultidimArray::interpolatedElementBSpline1D</a></div><div class="ttdeci">T interpolatedElementBSpline1D(double x, int SplineDegree=3) const </div><div class="ttdef"><b>Definition:</b> <a href="multidim__array_8h_source.html#l03018">multidim_array.h:3018</a></div></div>
+<div class="ttc" id="classMultidimArray_html_ab9d6c1a95849f7d2533ebe0ceb37de4f"><div class="ttname"><a href="classMultidimArray.html#ab9d6c1a95849f7d2533ebe0ceb37de4f">MultidimArray::interpolatedElementBSpline1D</a></div><div class="ttdeci">T interpolatedElementBSpline1D(double x, int SplineDegree=3) const </div><div class="ttdoc">Interpolates the value of the nth 1D vector M at the point (x) knowing that this vector is a set of B...</div><div class="ttdef"><b>Definition:</b> <a href="multidim__array_8h_source.html#l03018">multidim_array.h:3018</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -230,7 +233,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/data/<a class="el" href="pdb_8cpp_source.html">pdb.cpp</a></li>
+<li>xmipp/libraries/data/<a class="el" href="pdb_8cpp_source.html">pdb.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

@@ -95,13 +95,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="filters_8h_source.html">filters.h</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="filters_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/data/filters.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for MedianFilter:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMedianFilter__inherit__graph.png" border="0" usemap="#MedianFilter_inherit__map" alt="Inheritance graph"/></div>
 <map name="MedianFilter_inherit__map" id="MedianFilter_inherit__map">
-<area shape="rect" id="node2" href="classXmippFilter.html" title="XmippFilter" alt="" coords="8,5,96,32"/>
+<area shape="rect" id="node2" href="classXmippFilter.html" title="Abstract class that will be the base for all filters. " alt="" coords="8,5,96,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -109,25 +109,30 @@ Collaboration diagram for MedianFilter:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMedianFilter__coll__graph.png" border="0" usemap="#MedianFilter_coll__map" alt="Collaboration graph"/></div>
 <map name="MedianFilter_coll__map" id="MedianFilter_coll__map">
-<area shape="rect" id="node2" href="classXmippFilter.html" title="XmippFilter" alt="" coords="8,5,96,32"/>
+<area shape="rect" id="node2" href="classXmippFilter.html" title="Abstract class that will be the base for all filters. " alt="" coords="8,5,96,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a26e3d59a96eff4e0c942c428b5728e13"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMedianFilter.html#a26e3d59a96eff4e0c942c428b5728e13">readParams</a> (<a class="el" href="classXmippProgram.html">XmippProgram</a> *program)</td></tr>
+<tr class="memdesc:a26e3d59a96eff4e0c942c428b5728e13"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read from program command line.  <a href="#a26e3d59a96eff4e0c942c428b5728e13">More...</a><br /></td></tr>
 <tr class="separator:a26e3d59a96eff4e0c942c428b5728e13"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8159d771f80e42467ac16c37d8fbb94"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMedianFilter.html#ac8159d771f80e42467ac16c37d8fbb94">apply</a> (<a class="el" href="classMultidimArray.html">MultidimArray</a>&lt; double &gt; &amp;img)</td></tr>
+<tr class="memdesc:ac8159d771f80e42467ac16c37d8fbb94"><td class="mdescLeft">&#160;</td><td class="mdescRight">Apply the filter to an image or volume.  <a href="#ac8159d771f80e42467ac16c37d8fbb94">More...</a><br /></td></tr>
 <tr class="separator:ac8159d771f80e42467ac16c37d8fbb94"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classXmippFilter"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classXmippFilter')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classXmippFilter.html">XmippFilter</a></td></tr>
 <tr class="memitem:a1c6baa2e2751aaeedaeda2318c647211 inherit pub_methods_classXmippFilter"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classXmippFilter.html#a1c6baa2e2751aaeedaeda2318c647211">~XmippFilter</a> ()</td></tr>
+<tr class="memdesc:a1c6baa2e2751aaeedaeda2318c647211 inherit pub_methods_classXmippFilter"><td class="mdescLeft">&#160;</td><td class="mdescRight">Virtual destructor.  <a href="#a1c6baa2e2751aaeedaeda2318c647211">More...</a><br /></td></tr>
 <tr class="separator:a1c6baa2e2751aaeedaeda2318c647211 inherit pub_methods_classXmippFilter"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0bc2f60610e15409d684354107cb9007 inherit pub_methods_classXmippFilter"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classXmippFilter.html#a0bc2f60610e15409d684354107cb9007">show</a> ()</td></tr>
+<tr class="memdesc:a0bc2f60610e15409d684354107cb9007 inherit pub_methods_classXmippFilter"><td class="mdescLeft">&#160;</td><td class="mdescRight">Show some info before running.  <a href="#a0bc2f60610e15409d684354107cb9007">More...</a><br /></td></tr>
 <tr class="separator:a0bc2f60610e15409d684354107cb9007 inherit pub_methods_classXmippFilter"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a2d91cc5fb2bbe26b6c7135bfa7b27d12"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMedianFilter.html#a2d91cc5fb2bbe26b6c7135bfa7b27d12">defineParams</a> (<a class="el" href="classXmippProgram.html">XmippProgram</a> *program)</td></tr>
+<tr class="memdesc:a2d91cc5fb2bbe26b6c7135bfa7b27d12"><td class="mdescLeft">&#160;</td><td class="mdescRight">Define the parameters for use inside an Xmipp program.  <a href="#a2d91cc5fb2bbe26b6c7135bfa7b27d12">More...</a><br /></td></tr>
 <tr class="separator:a2d91cc5fb2bbe26b6c7135bfa7b27d12"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -155,13 +160,14 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Apply the filter to an image or volume </p>
+
+<p>Apply the filter to an image or volume. </p>
 
 <p>Implements <a class="el" href="classXmippFilter.html#aa1326516af8d944b94bcea584bc0137f">XmippFilter</a>.</p>
 
 <p>Definition at line <a class="el" href="filters_8cpp_source.html#l03585">3585</a> of file <a class="el" href="filters_8cpp_source.html">filters.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l03586"></a><span class="lineno"> 3586</span>&#160;{</div><div class="line"><a name="l03587"></a><span class="lineno"> 3587</span>&#160;    <span class="keyword">static</span> <a class="code" href="classMultidimArray.html">MultidimArray&lt;double&gt;</a> tmp;</div><div class="line"><a name="l03588"></a><span class="lineno"> 3588</span>&#160;    tmp = img;</div><div class="line"><a name="l03589"></a><span class="lineno"> 3589</span>&#160;    <a class="code" href="group__Filters.html#ga879cec5ab86ea8c47829ed9c3c12c133">medianFilter3x3</a>(tmp, img);</div><div class="line"><a name="l03590"></a><span class="lineno"> 3590</span>&#160;}</div><div class="ttc" id="classMultidimArray_html"><div class="ttname"><a href="classMultidimArray.html">MultidimArray&lt; double &gt;</a></div></div>
-<div class="ttc" id="group__Filters_html_ga879cec5ab86ea8c47829ed9c3c12c133"><div class="ttname"><a href="group__Filters.html#ga879cec5ab86ea8c47829ed9c3c12c133">medianFilter3x3</a></div><div class="ttdeci">void medianFilter3x3(MultidimArray&lt; T &gt; &amp;m, MultidimArray&lt; T &gt; &amp;out)</div><div class="ttdef"><b>Definition:</b> <a href="filters_8h_source.html#l01138">filters.h:1138</a></div></div>
+<div class="ttc" id="group__Filters_html_ga879cec5ab86ea8c47829ed9c3c12c133"><div class="ttname"><a href="group__Filters.html#ga879cec5ab86ea8c47829ed9c3c12c133">medianFilter3x3</a></div><div class="ttdeci">void medianFilter3x3(MultidimArray&lt; T &gt; &amp;m, MultidimArray&lt; T &gt; &amp;out)</div><div class="ttdoc">Median_filter with a 3x3 selfWindow. </div><div class="ttdef"><b>Definition:</b> <a href="filters_8h_source.html#l01138">filters.h:1138</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -186,10 +192,11 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Define the parameters for use inside an Xmipp program </p>
+
+<p>Define the parameters for use inside an Xmipp program. </p>
 
 <p>Definition at line <a class="el" href="filters_8cpp_source.html#l03572">3572</a> of file <a class="el" href="filters_8cpp_source.html">filters.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l03573"></a><span class="lineno"> 3573</span>&#160;{</div><div class="line"><a name="l03574"></a><span class="lineno"> 3574</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;== Median ==&quot;</span>);</div><div class="line"><a name="l03575"></a><span class="lineno"> 3575</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [ --median ]            : Use median filter.&quot;</span>);</div><div class="line"><a name="l03576"></a><span class="lineno"> 3576</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;         alias -m; &quot;</span>);</div><div class="line"><a name="l03577"></a><span class="lineno"> 3577</span>&#160;}</div><div class="ttc" id="classXmippProgram_html_aaeb37f0bac83f5d2a605aaa0e5c4b6ef"><div class="ttname"><a href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">XmippProgram::addParamsLine</a></div><div class="ttdeci">void addParamsLine(const String &amp;line)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00361">xmipp_program.cpp:361</a></div></div>
+<div class="fragment"><div class="line"><a name="l03573"></a><span class="lineno"> 3573</span>&#160;{</div><div class="line"><a name="l03574"></a><span class="lineno"> 3574</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;== Median ==&quot;</span>);</div><div class="line"><a name="l03575"></a><span class="lineno"> 3575</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;  [ --median ]            : Use median filter.&quot;</span>);</div><div class="line"><a name="l03576"></a><span class="lineno"> 3576</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;         alias -m; &quot;</span>);</div><div class="line"><a name="l03577"></a><span class="lineno"> 3577</span>&#160;}</div><div class="ttc" id="classXmippProgram_html_aaeb37f0bac83f5d2a605aaa0e5c4b6ef"><div class="ttname"><a href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">XmippProgram::addParamsLine</a></div><div class="ttdeci">void addParamsLine(const String &amp;line)</div><div class="ttdoc">Add a params definition line. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00361">xmipp_program.cpp:361</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -214,7 +221,8 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Read from program command line </p>
+
+<p>Read from program command line. </p>
 
 <p>Reimplemented from <a class="el" href="classXmippFilter.html#a69f1a84112f275da861b60d7c2e9340e">XmippFilter</a>.</p>
 
@@ -223,8 +231,8 @@ Static Public Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/data/<a class="el" href="filters_8h_source.html">filters.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/data/<a class="el" href="filters_8cpp_source.html">filters.cpp</a></li>
+<li>xmipp/libraries/data/<a class="el" href="filters_8h_source.html">filters.h</a></li>
+<li>xmipp/libraries/data/<a class="el" href="filters_8cpp_source.html">filters.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

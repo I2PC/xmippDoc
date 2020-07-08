@@ -95,7 +95,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="mpi__classify__CLTomo_8h_source.html">mpi_classify_CLTomo.h</a>&gt;</code></p>
+<p>AssignedImage.  
+ <a href="classCL3DAssignment.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="mpi__classify__CLTomo_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/parallel/mpi_classify_CLTomo.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -129,7 +132,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a039a44b7a149b11dd8c2f00351681948"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>AssignedImage </p>
+<div class="textblock"><p>AssignedImage. </p>
 
 <p>Definition at line <a class="el" href="mpi__classify__CLTomo_8h_source.html#l00046">46</a> of file <a class="el" href="mpi__classify__CLTomo_8h_source.html">mpi_classify_CLTomo.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -208,11 +211,11 @@ Public Attributes</h2></td></tr>
 <p>Definition at line <a class="el" href="mpi__classify__CLTomo__prog_8cpp_source.html#l00062">62</a> of file <a class="el" href="mpi__classify__CLTomo__prog_8cpp_source.html">mpi_classify_CLTomo_prog.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;{</div><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;    <span class="keywordtype">double</span> scale;</div><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    <span class="keywordtype">bool</span> flip;</div><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    <a class="code" href="group__GeometricalTransformations.html#ga8d2783cc5053c7ed71d61a5044e16abd">transformationMatrix2Parameters3D</a>(M, flip, scale, <a class="code" href="classCL3DAssignment.html#a7af44eb3ce90658ccaacee160538614c">shiftx</a>, <a class="code" href="classCL3DAssignment.html#a9b0c3e8498cd9ef3e9a06ca20a295bbb">shifty</a>, <a class="code" href="classCL3DAssignment.html#a912faf31333d7e92eeb3143239159a5f">shiftz</a>, <a class="code" href="classCL3DAssignment.html#afbd6d8d3b0a27aaf49f65baa79fb5ce9">rot</a>, <a class="code" href="classCL3DAssignment.html#a2087f71a664b0bfe08afc1aabd2a80c4">tilt</a>, <a class="code" href="classCL3DAssignment.html#a048e65241a5cf2cc4783f42d9f5d5b93">psi</a>);</div><div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <a class="code" href="classCL3DAssignment.html#afbd6d8d3b0a27aaf49f65baa79fb5ce9">rot</a>=<a class="code" href="group__Macros.html#ga25935c2309abe02cff60809c4d7d9b9e">realWRAP</a>(<a class="code" href="classCL3DAssignment.html#afbd6d8d3b0a27aaf49f65baa79fb5ce9">rot</a>,-180,180);</div><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <a class="code" href="classCL3DAssignment.html#a2087f71a664b0bfe08afc1aabd2a80c4">tilt</a>=<a class="code" href="group__Macros.html#ga25935c2309abe02cff60809c4d7d9b9e">realWRAP</a>(<a class="code" href="classCL3DAssignment.html#a2087f71a664b0bfe08afc1aabd2a80c4">tilt</a>,-180,180);</div><div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    <a class="code" href="classCL3DAssignment.html#a048e65241a5cf2cc4783f42d9f5d5b93">psi</a>=<a class="code" href="group__Macros.html#ga25935c2309abe02cff60809c4d7d9b9e">realWRAP</a>(<a class="code" href="classCL3DAssignment.html#a048e65241a5cf2cc4783f42d9f5d5b93">psi</a>,-180,180);</div><div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;}</div><div class="ttc" id="classCL3DAssignment_html_a9b0c3e8498cd9ef3e9a06ca20a295bbb"><div class="ttname"><a href="classCL3DAssignment.html#a9b0c3e8498cd9ef3e9a06ca20a295bbb">CL3DAssignment::shifty</a></div><div class="ttdeci">double shifty</div><div class="ttdef"><b>Definition:</b> <a href="mpi__classify__CLTomo_8h_source.html#l00051">mpi_classify_CLTomo.h:51</a></div></div>
 <div class="ttc" id="classCL3DAssignment_html_a048e65241a5cf2cc4783f42d9f5d5b93"><div class="ttname"><a href="classCL3DAssignment.html#a048e65241a5cf2cc4783f42d9f5d5b93">CL3DAssignment::psi</a></div><div class="ttdeci">double psi</div><div class="ttdef"><b>Definition:</b> <a href="mpi__classify__CLTomo_8h_source.html#l00053">mpi_classify_CLTomo.h:53</a></div></div>
-<div class="ttc" id="group__GeometricalTransformations_html_ga8d2783cc5053c7ed71d61a5044e16abd"><div class="ttname"><a href="group__GeometricalTransformations.html#ga8d2783cc5053c7ed71d61a5044e16abd">transformationMatrix2Parameters3D</a></div><div class="ttdeci">void transformationMatrix2Parameters3D(const Matrix2D&lt; double &gt; &amp;A, bool &amp;flip, double &amp;scale, double &amp;shiftX, double &amp;shiftY, double &amp;shiftZ, double &amp;rot, double &amp;tilt, double &amp;psi)</div><div class="ttdef"><b>Definition:</b> <a href="transformations_8cpp_source.html#l00146">transformations.cpp:146</a></div></div>
+<div class="ttc" id="group__GeometricalTransformations_html_ga8d2783cc5053c7ed71d61a5044e16abd"><div class="ttname"><a href="group__GeometricalTransformations.html#ga8d2783cc5053c7ed71d61a5044e16abd">transformationMatrix2Parameters3D</a></div><div class="ttdeci">void transformationMatrix2Parameters3D(const Matrix2D&lt; double &gt; &amp;A, bool &amp;flip, double &amp;scale, double &amp;shiftX, double &amp;shiftY, double &amp;shiftZ, double &amp;rot, double &amp;tilt, double &amp;psi)</div><div class="ttdoc">Retrieve the geometry transformations from matrix for D. </div><div class="ttdef"><b>Definition:</b> <a href="transformations_8cpp_source.html#l00146">transformations.cpp:146</a></div></div>
 <div class="ttc" id="classCL3DAssignment_html_afbd6d8d3b0a27aaf49f65baa79fb5ce9"><div class="ttname"><a href="classCL3DAssignment.html#afbd6d8d3b0a27aaf49f65baa79fb5ce9">CL3DAssignment::rot</a></div><div class="ttdeci">double rot</div><div class="ttdef"><b>Definition:</b> <a href="mpi__classify__CLTomo_8h_source.html#l00055">mpi_classify_CLTomo.h:55</a></div></div>
 <div class="ttc" id="classCL3DAssignment_html_a7af44eb3ce90658ccaacee160538614c"><div class="ttname"><a href="classCL3DAssignment.html#a7af44eb3ce90658ccaacee160538614c">CL3DAssignment::shiftx</a></div><div class="ttdeci">double shiftx</div><div class="ttdef"><b>Definition:</b> <a href="mpi__classify__CLTomo_8h_source.html#l00050">mpi_classify_CLTomo.h:50</a></div></div>
 <div class="ttc" id="classCL3DAssignment_html_a912faf31333d7e92eeb3143239159a5f"><div class="ttname"><a href="classCL3DAssignment.html#a912faf31333d7e92eeb3143239159a5f">CL3DAssignment::shiftz</a></div><div class="ttdeci">double shiftz</div><div class="ttdef"><b>Definition:</b> <a href="mpi__classify__CLTomo_8h_source.html#l00052">mpi_classify_CLTomo.h:52</a></div></div>
-<div class="ttc" id="group__Macros_html_ga25935c2309abe02cff60809c4d7d9b9e"><div class="ttname"><a href="group__Macros.html#ga25935c2309abe02cff60809c4d7d9b9e">realWRAP</a></div><div class="ttdeci">#define realWRAP(x, x0, xF)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00304">xmipp_macros.h:304</a></div></div>
+<div class="ttc" id="group__Macros_html_ga25935c2309abe02cff60809c4d7d9b9e"><div class="ttname"><a href="group__Macros.html#ga25935c2309abe02cff60809c4d7d9b9e">realWRAP</a></div><div class="ttdeci">#define realWRAP(x, x0, xF)</div><div class="ttdoc">Wrapping for real numbers. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00304">xmipp_macros.h:304</a></div></div>
 <div class="ttc" id="classCL3DAssignment_html_a2087f71a664b0bfe08afc1aabd2a80c4"><div class="ttname"><a href="classCL3DAssignment.html#a2087f71a664b0bfe08afc1aabd2a80c4">CL3DAssignment::tilt</a></div><div class="ttdeci">double tilt</div><div class="ttdef"><b>Definition:</b> <a href="mpi__classify__CLTomo_8h_source.html#l00054">mpi_classify_CLTomo.h:54</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -331,8 +334,8 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/parallel/<a class="el" href="mpi__classify__CLTomo_8h_source.html">mpi_classify_CLTomo.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/parallel/<a class="el" href="mpi__classify__CLTomo__prog_8cpp_source.html">mpi_classify_CLTomo_prog.cpp</a></li>
+<li>xmipp/libraries/parallel/<a class="el" href="mpi__classify__CLTomo_8h_source.html">mpi_classify_CLTomo.h</a></li>
+<li>xmipp/libraries/parallel/<a class="el" href="mpi__classify__CLTomo__prog_8cpp_source.html">mpi_classify_CLTomo_prog.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

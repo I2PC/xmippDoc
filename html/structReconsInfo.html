@@ -94,23 +94,26 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="basic__art_8h_source.html">basic_art.h</a>&gt;</code></p>
+<p>Reconstruction information.  
+ <a href="structReconsInfo.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="basic__art_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/basic_art.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for ReconsInfo:</div>
 <div class="dyncontent">
 <div class="center"><img src="structReconsInfo__coll__graph.png" border="0" usemap="#ReconsInfo_coll__map" alt="Collaboration graph"/></div>
 <map name="ReconsInfo_coll__map" id="ReconsInfo_coll__map">
-<area shape="rect" id="node2" href="classMDRow.html" title="MDRow" alt="" coords="14,184,85,211"/>
-<area shape="rect" id="node3" href="classMDObject.html" title="MDObject" alt="" coords="9,95,90,121"/>
-<area shape="rect" id="node4" href="unionObjectData.html" title="ObjectData" alt="" coords="5,5,93,32"/>
-<area shape="rect" id="node5" href="classFileName.html" title="FileName" alt="" coords="109,184,187,211"/>
+<area shape="rect" id="node2" href="classMDRow.html" title="Class for holding an entire row of posible MDObject. " alt="" coords="14,184,85,211"/>
+<area shape="rect" id="node3" href="classMDObject.html" title="Class to hold the labels values and type. " alt="" coords="9,95,90,121"/>
+<area shape="rect" id="node4" href="unionObjectData.html" title="Union to store values. " alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node5" href="classFileName.html" title="Filenames. " alt="" coords="109,184,187,211"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:abbc653add64864603e019653b39c2ac5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classFileName.html">FileName</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structReconsInfo.html#abbc653add64864603e019653b39c2ac5">fn_proj</a></td></tr>
-<tr class="memdesc:abbc653add64864603e019653b39c2ac5"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classProjection.html">Projection</a> filename.  <a href="#abbc653add64864603e019653b39c2ac5">More...</a><br /></td></tr>
+<tr class="memdesc:abbc653add64864603e019653b39c2ac5"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classProjection.html" title="Projection class. ">Projection</a> filename.  <a href="#abbc653add64864603e019653b39c2ac5">More...</a><br /></td></tr>
 <tr class="separator:abbc653add64864603e019653b39c2ac5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a132a03af67407059f320c676af34904d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classMDRow.html">MDRow</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structReconsInfo.html#a132a03af67407059f320c676af34904d">row</a></td></tr>
 <tr class="memdesc:a132a03af67407059f320c676af34904d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Header information of projection.  <a href="#a132a03af67407059f320c676af34904d">More...</a><br /></td></tr>
@@ -128,12 +131,15 @@ Public Attributes</h2></td></tr>
 <tr class="memdesc:aea44811123efefce13b1addf6139a849"><td class="mdescLeft">&#160;</td><td class="mdescRight">Psi angle.  <a href="#aea44811123efefce13b1addf6139a849">More...</a><br /></td></tr>
 <tr class="separator:aea44811123efefce13b1addf6139a849"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a51bce2fd189ce3d68b7eb6252f47dae5"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structReconsInfo.html#a51bce2fd189ce3d68b7eb6252f47dae5">sym</a></td></tr>
+<tr class="memdesc:a51bce2fd189ce3d68b7eb6252f47dae5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Symmetry number.  <a href="#a51bce2fd189ce3d68b7eb6252f47dae5">More...</a><br /></td></tr>
 <tr class="separator:a51bce2fd189ce3d68b7eb6252f47dae5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac8ec4120cffab0d404aa427b2e0f8b3e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structReconsInfo.html#ac8ec4120cffab0d404aa427b2e0f8b3e">seed</a></td></tr>
+<tr class="memdesc:ac8ec4120cffab0d404aa427b2e0f8b3e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Random seed.  <a href="#ac8ec4120cffab0d404aa427b2e0f8b3e">More...</a><br /></td></tr>
 <tr class="separator:ac8ec4120cffab0d404aa427b2e0f8b3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Reconstruction information. This structure contains information for all projections which are going to participate in the reconstruction. This structure has also got information for the symmetry implementation. If there is any symmetry then an entry in this table is created using the same projection name but different symmetry matrices (only the matrix index is annotated in this structure). The <a class="el" href="classEuler.html">Euler</a> angles stored for the symmetrized image are the final ones, ie, the original <a class="el" href="classEuler.html">Euler</a> angles symmetrized according to the symmetry matrix. Then the symmetry identificator kept in this structure is only used to keep some track of what matrix was used to symmetrize. </p>
+<div class="textblock"><p>Reconstruction information. </p>
+<p>This structure contains information for all projections which are going to participate in the reconstruction. This structure has also got information for the symmetry implementation. If there is any symmetry then an entry in this table is created using the same projection name but different symmetry matrices (only the matrix index is annotated in this structure). The <a class="el" href="classEuler.html" title="Routines for computing Euler angles following different approaches. ">Euler</a> angles stored for the symmetrized image are the final ones, ie, the original <a class="el" href="classEuler.html" title="Routines for computing Euler angles following different approaches. ">Euler</a> angles symmetrized according to the symmetry matrix. Then the symmetry identificator kept in this structure is only used to keep some track of what matrix was used to symmetrize. </p>
 
 <p>Definition at line <a class="el" href="basic__art_8h_source.html#l00055">55</a> of file <a class="el" href="basic__art_8h_source.html">basic_art.h</a>.</p>
 </div><h2 class="groupheader">Member Data Documentation</h2>
@@ -163,7 +169,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p><a class="el" href="classProjection.html">Projection</a> filename. </p>
+<p><a class="el" href="classProjection.html" title="Projection class. ">Projection</a> filename. </p>
 
 <p>Definition at line <a class="el" href="basic__art_8h_source.html#l00058">58</a> of file <a class="el" href="basic__art_8h_source.html">basic_art.h</a>.</p>
 
@@ -226,7 +232,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Random seed. For the reconstruction of pure noise for VSSNR, all images coming from the same projection by symmetry relationships should have the same random seed. </p>
+
+<p>Random seed. </p>
+<p>For the reconstruction of pure noise for VSSNR, all images coming from the same projection by symmetry relationships should have the same random seed. </p>
 
 <p>Definition at line <a class="el" href="basic__art_8h_source.html#l00078">78</a> of file <a class="el" href="basic__art_8h_source.html">basic_art.h</a>.</p>
 
@@ -241,7 +249,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Symmetry number. This number express to which symmetry matrix this projection is related to (-1: without symmetry, 0: using symmetry matrix 0, 1: using symmetry matrix 1 ...) </p>
+
+<p>Symmetry number. </p>
+<p>This number express to which symmetry matrix this projection is related to (-1: without symmetry, 0: using symmetry matrix 0, 1: using symmetry matrix 1 ...) </p>
 
 <p>Definition at line <a class="el" href="basic__art_8h_source.html#l00073">73</a> of file <a class="el" href="basic__art_8h_source.html">basic_art.h</a>.</p>
 
@@ -264,7 +274,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this struct was generated from the following file:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="basic__art_8h_source.html">basic_art.h</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="basic__art_8h_source.html">basic_art.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

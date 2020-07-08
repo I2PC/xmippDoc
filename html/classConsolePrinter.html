@@ -97,13 +97,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="argsprinter_8h_source.html">argsprinter.h</a>&gt;</code></p>
+<p>Just print to out stream.  
+ <a href="classConsolePrinter.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="argsprinter_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/argsprinter.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for ConsolePrinter:</div>
 <div class="dyncontent">
 <div class="center"><img src="classConsolePrinter__inherit__graph.png" border="0" usemap="#ConsolePrinter_inherit__map" alt="Inheritance graph"/></div>
 <map name="ConsolePrinter_inherit__map" id="ConsolePrinter_inherit__map">
-<area shape="rect" id="node2" href="classPrinter.html" title="Printer" alt="" coords="29,5,89,32"/>
+<area shape="rect" id="node2" href="classPrinter.html" title="Define printers to show the arguments definitions. " alt="" coords="29,5,89,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -111,13 +114,14 @@ Collaboration diagram for ConsolePrinter:</div>
 <div class="dyncontent">
 <div class="center"><img src="classConsolePrinter__coll__graph.png" border="0" usemap="#ConsolePrinter_coll__map" alt="Collaboration graph"/></div>
 <map name="ConsolePrinter_coll__map" id="ConsolePrinter_coll__map">
-<area shape="rect" id="node2" href="classPrinter.html" title="Printer" alt="" coords="29,5,89,32"/>
+<area shape="rect" id="node2" href="classPrinter.html" title="Define printers to show the arguments definitions. " alt="" coords="29,5,89,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a87b484abd014d64f09c32c9ca743ccbd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classConsolePrinter.html#a87b484abd014d64f09c32c9ca743ccbd">ConsolePrinter</a> (std::ostream &amp;out=std::cout, bool <a class="el" href="classConsolePrinter.html#ad0e5e33e6a9c4162bccfac4baea0ddae">color</a>=true)</td></tr>
+<tr class="memdesc:a87b484abd014d64f09c32c9ca743ccbd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a87b484abd014d64f09c32c9ca743ccbd">More...</a><br /></td></tr>
 <tr class="separator:a87b484abd014d64f09c32c9ca743ccbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4e1fb962e6fa9ef35ddb07a3e5837ffb"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classConsolePrinter.html#a4e1fb962e6fa9ef35ddb07a3e5837ffb">printProgram</a> (const <a class="el" href="classProgramDef.html">ProgramDef</a> &amp;program, int v=0)</td></tr>
 <tr class="separator:a4e1fb962e6fa9ef35ddb07a3e5837ffb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -151,7 +155,7 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a44e110af13b6d266c5eaece3c3862530"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Just print to out stream </p>
+<div class="textblock"><p>Just print to out stream. </p>
 
 <p>Definition at line <a class="el" href="argsprinter_8h_source.html#l00052">52</a> of file <a class="el" href="argsprinter_8h_source.html">argsprinter.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -178,7 +182,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Constructor </p>
+
+<p>Constructor. </p>
 
 <p>Definition at line <a class="el" href="argsprinter_8cpp_source.html#l00044">44</a> of file <a class="el" href="argsprinter_8cpp_source.html">argsprinter.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;{</div><div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    this-&gt;<a class="code" href="classConsolePrinter.html#a44e110af13b6d266c5eaece3c3862530">pOut</a> = &amp;out;</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    this-&gt;<a class="code" href="classConsolePrinter.html#ad0e5e33e6a9c4162bccfac4baea0ddae">color</a> = <a class="code" href="classConsolePrinter.html#ad0e5e33e6a9c4162bccfac4baea0ddae">color</a>;</div><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;}</div><div class="ttc" id="classConsolePrinter_html_a44e110af13b6d266c5eaece3c3862530"><div class="ttname"><a href="classConsolePrinter.html#a44e110af13b6d266c5eaece3c3862530">ConsolePrinter::pOut</a></div><div class="ttdeci">std::ostream * pOut</div><div class="ttdef"><b>Definition:</b> <a href="argsprinter_8h_source.html#l00055">argsprinter.h:55</a></div></div>
@@ -496,8 +501,8 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="argsprinter_8h_source.html">argsprinter.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmippCore/core/<a class="el" href="argsprinter_8cpp_source.html">argsprinter.cpp</a></li>
+<li>xmippCore/core/<a class="el" href="argsprinter_8h_source.html">argsprinter.h</a></li>
+<li>xmippCore/core/<a class="el" href="argsprinter_8cpp_source.html">argsprinter.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

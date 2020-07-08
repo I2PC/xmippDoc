@@ -1,4 +1,4 @@
 <map id="ProgTomoExtractSubvolume" name="ProgTomoExtractSubvolume">
-<area shape="rect" id="node2" href="$classXmippMetadataProgram.html" title="XmippMetadataProgram" alt="" coords="19,80,181,107"/>
-<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="46,5,154,32"/>
+<area shape="rect" id="node2" href="$classXmippMetadataProgram.html" title="Special class of XmippProgram that performs some operation related with processing images..." alt="" coords="19,80,181,107"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="This class represent an Xmipp Program. " alt="" coords="46,5,154,32"/>
 </map>

@@ -88,6 +88,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ga93b65e3e8d1d0cad133b686744e59046"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__HartleyTransform.html#ga93b65e3e8d1d0cad133b686744e59046">DiscreteHartleyTransform</a> (double Data[], double *ScratchBuffer, double CaS[], long SignalLength, int Forward)</td></tr>
+<tr class="memdesc:ga93b65e3e8d1d0cad133b686744e59046"><td class="mdescLeft">&#160;</td><td class="mdescRight">Discrete Hartley transform of a real signal.  <a href="#ga93b65e3e8d1d0cad133b686744e59046">More...</a><br /></td></tr>
 <tr class="separator:ga93b65e3e8d1d0cad133b686744e59046"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -133,7 +134,8 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Discrete Hartley transform of a real signal.</p>
+
+<p>Discrete Hartley transform of a real signal. </p>
 <p>The input signal is given by Data (double). The computation is in-place (the output replaces the input).</p>
 <p>ScratchBuffer is a pre-allocated workspace of size SignalLength. The values returned in ScratchBuffer are meaningless.</p>
 <p>CaS is an input array of coefficients of size SignalLength (see GetCaS function). CaS is modified internally, but is restored when DHT returns.</p>

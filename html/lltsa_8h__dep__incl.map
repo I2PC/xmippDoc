@@ -1,10 +1,10 @@
-<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/dimred/lltsa.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/dimred/lltsa.h">
-<area shape="rect" id="node2" href="$test__dimred__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/tests/function\l_tests/test_dimred_main.cpp" alt="" coords="5,124,196,209"/>
-<area shape="rect" id="node3" href="$lltsa_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/dimred/lltsa.cpp" alt="" coords="220,131,387,202"/>
-<area shape="rect" id="node4" href="$matrix__dimred_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/dimred/matrix\l_dimred.h" alt="" coords="411,124,575,209"/>
-<area shape="rect" id="node5" href="$matrix__dimred__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/matrix\l_dimred/matrix_dimred_main.cpp" alt="" coords="172,257,387,343"/>
-<area shape="rect" id="node6" href="$matrix__dimred_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/dimred/matrix\l_dimred.cpp" alt="" coords="411,257,575,343"/>
-<area shape="rect" id="node7" href="$transform__dimred_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/dimred/transform\l_dimred.h" alt="" coords="599,257,773,343"/>
-<area shape="rect" id="node8" href="$transform__dimred__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/transform\l_dimred/transform_dimred_main.cpp" alt="" coords="455,391,688,476"/>
-<area shape="rect" id="node9" href="$transform__dimred_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/dimred/transform\l_dimred.cpp" alt="" coords="713,391,886,476"/>
+<map id="xmipp/libraries/dimred/lltsa.h" name="xmipp/libraries/dimred/lltsa.h">
+<area shape="rect" id="node2" href="$test__dimred__main_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_dimred_main.cpp" alt="" coords="5,95,160,151"/>
+<area shape="rect" id="node3" href="$lltsa_8cpp.html" title="xmipp/libraries/dimred\l/lltsa.cpp" alt="" coords="184,102,333,143"/>
+<area shape="rect" id="node4" href="$matrix__dimred_8h.html" title="xmipp/libraries/dimred\l/matrix_dimred.h" alt="" coords="357,102,507,143"/>
+<area shape="rect" id="node5" href="$matrix__dimred__main_8cpp.html" title="xmipp/applications\l/programs/matrix_dimred\l/matrix_dimred_main.cpp" alt="" coords="165,199,333,255"/>
+<area shape="rect" id="node6" href="$matrix__dimred_8cpp.html" title="xmipp/libraries/dimred\l/matrix_dimred.cpp" alt="" coords="357,206,507,247"/>
+<area shape="rect" id="node7" href="$transform__dimred_8h.html" title="xmipp/libraries/dimred\l/transform_dimred.h" alt="" coords="531,206,680,247"/>
+<area shape="rect" id="node8" href="$transform__dimred__main_8cpp.html" title="xmipp/applications\l/programs/transform\l_dimred/transform_dimred\l_main.cpp" alt="" coords="425,303,599,373"/>
+<area shape="rect" id="node9" href="$transform__dimred_8cpp.html" title="xmipp/libraries/dimred\l/transform_dimred.cpp" alt="" coords="623,317,775,359"/>
 </map>

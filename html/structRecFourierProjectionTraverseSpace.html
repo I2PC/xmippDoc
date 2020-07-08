@@ -95,7 +95,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html">reconstruct_fourier_projection_traverse_space.h</a>&gt;</code></p>
+<p>Struct describing a how to best traverse a single projection during the Fourier Reconstruction.  
+ <a href="structRecFourierProjectionTraverseSpace.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/reconstruct_fourier_projection_traverse_space.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for RecFourierProjectionTraverseSpace:</div>
 <div class="dyncontent">
@@ -133,8 +136,10 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:adedcf4799ae5452524b00a9aaa856107"><td class="memItemLeft" align="right" valign="top">enum <a class="el" href="structRecFourierProjectionTraverseSpace.html#a324bb1ce446cc8864074625aeb26be8f">RecFourierProjectionTraverseSpace::Direction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRecFourierProjectionTraverseSpace.html#adedcf4799ae5452524b00a9aaa856107">dir</a></td></tr>
 <tr class="separator:adedcf4799ae5452524b00a9aaa856107"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa9b9b0338e790c86745a09435f2242e4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPoint3D.html">Point3D</a>&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRecFourierProjectionTraverseSpace.html#aa9b9b0338e790c86745a09435f2242e4">unitNormal</a></td></tr>
+<tr class="memdesc:aa9b9b0338e790c86745a09435f2242e4"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classProjection.html" title="Projection class. ">Projection</a> itself is a plane (with/without some thickness) somehow oriented in the AABB.  <a href="#aa9b9b0338e790c86745a09435f2242e4">More...</a><br /></td></tr>
 <tr class="separator:aa9b9b0338e790c86745a09435f2242e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82b9901f7c8d1cf772962ab89195719a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPoint3D.html">Point3D</a>&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRecFourierProjectionTraverseSpace.html#a82b9901f7c8d1cf772962ab89195719a">topOrigin</a></td></tr>
+<tr class="memdesc:a82b9901f7c8d1cf772962ab89195719a"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="classProjection.html" title="Projection class. ">Projection</a> can have some thickness due to the blob radius.  <a href="#a82b9901f7c8d1cf772962ab89195719a">More...</a><br /></td></tr>
 <tr class="separator:a82b9901f7c8d1cf772962ab89195719a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa6ebfd7dce8b397b6ee915dbc8b30f46"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classPoint3D.html">Point3D</a>&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRecFourierProjectionTraverseSpace.html#aa6ebfd7dce8b397b6ee915dbc8b30f46">bottomOrigin</a></td></tr>
 <tr class="separator:aa6ebfd7dce8b397b6ee915dbc8b30f46"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -146,7 +151,8 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a3af42b516d2cbde47495db292a9ced99"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Struct describing a how to best traverse a single projection during the Fourier Reconstruction. It describes an Axis Aligned Bounding Box (AABB) that wraps some projection plane (or cuboid, in case it has some thickness) oriented in the memory </p>
+<div class="textblock"><p>Struct describing a how to best traverse a single projection during the Fourier Reconstruction. </p>
+<p>It describes an Axis Aligned Bounding Box (AABB) that wraps some projection plane (or cuboid, in case it has some thickness) oriented in the memory </p>
 
 <p>Definition at line <a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html#l00037">37</a> of file <a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html">reconstruct_fourier_projection_traverse_space.h</a>.</p>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
@@ -324,7 +330,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p><a class="el" href="classProjection.html">Projection</a> can have some thickness due to the blob radius. These variables hold the origin of the lower/upper plane. Bear in mind that 'lower/upper' refers to initial orientation, before applying projection specific rotation, so it can happen that 'topOrigin' is lower than 'bottomOrigin'. In case the blob radius is zero, these variables hold the same point </p>
+
+<p><a class="el" href="classProjection.html" title="Projection class. ">Projection</a> can have some thickness due to the blob radius. </p>
+<p>These variables hold the origin of the lower/upper plane. Bear in mind that 'lower/upper' refers to initial orientation, before applying projection specific rotation, so it can happen that 'topOrigin' is lower than 'bottomOrigin'. In case the blob radius is zero, these variables hold the same point </p>
 
 <p>Definition at line <a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html#l00055">55</a> of file <a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html">reconstruct_fourier_projection_traverse_space.h</a>.</p>
 
@@ -353,7 +361,9 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p><a class="el" href="classProjection.html">Projection</a> itself is a plane (with/without some thickness) somehow oriented in the AABB. These variables hold normal to the plane </p>
+
+<p><a class="el" href="classProjection.html" title="Projection class. ">Projection</a> itself is a plane (with/without some thickness) somehow oriented in the AABB. </p>
+<p>These variables hold normal to the plane </p>
 
 <p>Definition at line <a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html#l00047">47</a> of file <a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html">reconstruct_fourier_projection_traverse_space.h</a>.</p>
 
@@ -374,7 +384,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this struct was generated from the following file:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html">reconstruct_fourier_projection_traverse_space.h</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="reconstruct__fourier__projection__traverse__space_8h_source.html">reconstruct_fourier_projection_traverse_space.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

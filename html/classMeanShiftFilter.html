@@ -96,13 +96,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="mean__shift_8h_source.html">mean_shift.h</a>&gt;</code></p>
+<p>Parameters for denoise program.  
+ <a href="classMeanShiftFilter.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="mean__shift_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/mean_shift.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for MeanShiftFilter:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMeanShiftFilter__inherit__graph.png" border="0" usemap="#MeanShiftFilter_inherit__map" alt="Inheritance graph"/></div>
 <map name="MeanShiftFilter_inherit__map" id="MeanShiftFilter_inherit__map">
-<area shape="rect" id="node2" href="classXmippFilter.html" title="XmippFilter" alt="" coords="17,5,105,32"/>
+<area shape="rect" id="node2" href="classXmippFilter.html" title="Abstract class that will be the base for all filters. " alt="" coords="17,5,105,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
@@ -110,20 +113,24 @@ Collaboration diagram for MeanShiftFilter:</div>
 <div class="dyncontent">
 <div class="center"><img src="classMeanShiftFilter__coll__graph.png" border="0" usemap="#MeanShiftFilter_coll__map" alt="Collaboration graph"/></div>
 <map name="MeanShiftFilter_coll__map" id="MeanShiftFilter_coll__map">
-<area shape="rect" id="node2" href="classXmippFilter.html" title="XmippFilter" alt="" coords="17,5,105,32"/>
+<area shape="rect" id="node2" href="classXmippFilter.html" title="Abstract class that will be the base for all filters. " alt="" coords="17,5,105,32"/>
 </map>
 <center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:af768c112544238f1ae4baf7b844e4b37"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeanShiftFilter.html#af768c112544238f1ae4baf7b844e4b37">readParams</a> (<a class="el" href="classXmippProgram.html">XmippProgram</a> *program)</td></tr>
+<tr class="memdesc:af768c112544238f1ae4baf7b844e4b37"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read params from a program.  <a href="#af768c112544238f1ae4baf7b844e4b37">More...</a><br /></td></tr>
 <tr class="separator:af768c112544238f1ae4baf7b844e4b37"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac2e113806ae29caa4d6b1980a8019e6b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeanShiftFilter.html#ac2e113806ae29caa4d6b1980a8019e6b">apply</a> (<a class="el" href="classMultidimArray.html">MultidimArray</a>&lt; double &gt; &amp;img)</td></tr>
+<tr class="memdesc:ac2e113806ae29caa4d6b1980a8019e6b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Apply the filter.  <a href="#ac2e113806ae29caa4d6b1980a8019e6b">More...</a><br /></td></tr>
 <tr class="separator:ac2e113806ae29caa4d6b1980a8019e6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classXmippFilter"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classXmippFilter')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classXmippFilter.html">XmippFilter</a></td></tr>
 <tr class="memitem:a1c6baa2e2751aaeedaeda2318c647211 inherit pub_methods_classXmippFilter"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classXmippFilter.html#a1c6baa2e2751aaeedaeda2318c647211">~XmippFilter</a> ()</td></tr>
+<tr class="memdesc:a1c6baa2e2751aaeedaeda2318c647211 inherit pub_methods_classXmippFilter"><td class="mdescLeft">&#160;</td><td class="mdescRight">Virtual destructor.  <a href="#a1c6baa2e2751aaeedaeda2318c647211">More...</a><br /></td></tr>
 <tr class="separator:a1c6baa2e2751aaeedaeda2318c647211 inherit pub_methods_classXmippFilter"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0bc2f60610e15409d684354107cb9007 inherit pub_methods_classXmippFilter"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classXmippFilter.html#a0bc2f60610e15409d684354107cb9007">show</a> ()</td></tr>
+<tr class="memdesc:a0bc2f60610e15409d684354107cb9007 inherit pub_methods_classXmippFilter"><td class="mdescLeft">&#160;</td><td class="mdescRight">Show some info before running.  <a href="#a0bc2f60610e15409d684354107cb9007">More...</a><br /></td></tr>
 <tr class="separator:a0bc2f60610e15409d684354107cb9007 inherit pub_methods_classXmippFilter"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
@@ -146,10 +153,11 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a8037c8e2c03355977cada25f9f76d32a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeanShiftFilter.html#a8037c8e2c03355977cada25f9f76d32a">save_iters</a></td></tr>
 <tr class="separator:a8037c8e2c03355977cada25f9f76d32a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ada8ea6c7a3599abc983a69ce77410f11"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classMeanShiftFilter.html#ada8ea6c7a3599abc983a69ce77410f11">verbose</a></td></tr>
+<tr class="memdesc:ada8ea6c7a3599abc983a69ce77410f11"><td class="mdescLeft">&#160;</td><td class="mdescRight">Verbosity used by denoiser.  <a href="#ada8ea6c7a3599abc983a69ce77410f11">More...</a><br /></td></tr>
 <tr class="separator:ada8ea6c7a3599abc983a69ce77410f11"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Parameters for denoise program </p>
+<div class="textblock"><p>Parameters for denoise program. </p>
 
 <p>Definition at line <a class="el" href="mean__shift_8h_source.html#l00041">41</a> of file <a class="el" href="mean__shift_8h_source.html">mean_shift.h</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
@@ -174,7 +182,8 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Apply the filter </p>
+
+<p>Apply the filter. </p>
 
 <p>Implements <a class="el" href="classXmippFilter.html#aa1326516af8d944b94bcea584bc0137f">XmippFilter</a>.</p>
 
@@ -189,16 +198,16 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="structThreadProcessPlaneArgs_html_a9ca76eef4cf63cc387aedc60337e05b3"><div class="ttname"><a href="structThreadProcessPlaneArgs.html#a9ca76eef4cf63cc387aedc60337e05b3">ThreadProcessPlaneArgs::input</a></div><div class="ttdeci">MultidimArray&lt; double &gt; * input</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8cpp_source.html#l00035">mean_shift.cpp:35</a></div></div>
 <div class="ttc" id="numerical__recipes_8cpp_html_a4155d511de81aa816513aa52de01d931"><div class="ttname"><a href="numerical__recipes_8cpp.html#a4155d511de81aa816513aa52de01d931">iter</a></div><div class="ttdeci">glob_prnt iter</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l04715">numerical_recipes.cpp:4715</a></div></div>
 <div class="ttc" id="classMeanShiftFilter_html_a9ca3c6a658c422df260419aa38be0f00"><div class="ttname"><a href="classMeanShiftFilter.html#a9ca3c6a658c422df260419aa38be0f00">MeanShiftFilter::iters</a></div><div class="ttdeci">int iters</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00045">mean_shift.h:45</a></div></div>
-<div class="ttc" id="classFileName_html"><div class="ttname"><a href="classFileName.html">FileName</a></div><div class="ttdef"><b>Definition:</b> <a href="xmipp__filename_8h_source.html#l00068">xmipp_filename.h:68</a></div></div>
-<div class="ttc" id="group__StringUtilities_html_ga01d0008bd87a0d41a3927e28b9f44b63"><div class="ttname"><a href="group__StringUtilities.html#ga01d0008bd87a0d41a3927e28b9f44b63">integerToString</a></div><div class="ttdeci">String integerToString(int I, int _width, char fill_with)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__strings_8cpp_source.html#l00261">xmipp_strings.cpp:261</a></div></div>
+<div class="ttc" id="classFileName_html"><div class="ttname"><a href="classFileName.html">FileName</a></div><div class="ttdoc">Filenames. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__filename_8h_source.html#l00068">xmipp_filename.h:68</a></div></div>
+<div class="ttc" id="group__StringUtilities_html_ga01d0008bd87a0d41a3927e28b9f44b63"><div class="ttname"><a href="group__StringUtilities.html#ga01d0008bd87a0d41a3927e28b9f44b63">integerToString</a></div><div class="ttdeci">String integerToString(int I, int _width, char fill_with)</div><div class="ttdoc">Integer to string conversion. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__strings_8cpp_source.html#l00261">xmipp_strings.cpp:261</a></div></div>
 <div class="ttc" id="structThreadProcessPlaneArgs_html_a2a2824b9adc1215a3fd9f7301622163a"><div class="ttname"><a href="structThreadProcessPlaneArgs.html#a2a2824b9adc1215a3fd9f7301622163a">ThreadProcessPlaneArgs::numThreads</a></div><div class="ttdeci">unsigned int numThreads</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8cpp_source.html#l00032">mean_shift.cpp:32</a></div></div>
 <div class="ttc" id="structThreadProcessPlaneArgs_html_a3d8486351566c29526ec85c559d6c6e5"><div class="ttname"><a href="structThreadProcessPlaneArgs.html#a3d8486351566c29526ec85c559d6c6e5">ThreadProcessPlaneArgs::sigma_r</a></div><div class="ttdeci">double sigma_r</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8cpp_source.html#l00034">mean_shift.cpp:34</a></div></div>
 <div class="ttc" id="structThreadProcessPlaneArgs_html"><div class="ttname"><a href="structThreadProcessPlaneArgs.html">ThreadProcessPlaneArgs</a></div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8cpp_source.html#l00029">mean_shift.cpp:29</a></div></div>
-<div class="ttc" id="classMeanShiftFilter_html_ada8ea6c7a3599abc983a69ce77410f11"><div class="ttname"><a href="classMeanShiftFilter.html#ada8ea6c7a3599abc983a69ce77410f11">MeanShiftFilter::verbose</a></div><div class="ttdeci">int verbose</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00050">mean_shift.h:50</a></div></div>
-<div class="ttc" id="group__StringUtilities_html_gaa405c9a5b808e428554e540028085dd3"><div class="ttname"><a href="group__StringUtilities.html#gaa405c9a5b808e428554e540028085dd3">formatString</a></div><div class="ttdeci">String formatString(const char *format,...)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__strings_8cpp_source.html#l00610">xmipp_strings.cpp:610</a></div></div>
+<div class="ttc" id="classMeanShiftFilter_html_ada8ea6c7a3599abc983a69ce77410f11"><div class="ttname"><a href="classMeanShiftFilter.html#ada8ea6c7a3599abc983a69ce77410f11">MeanShiftFilter::verbose</a></div><div class="ttdeci">int verbose</div><div class="ttdoc">Verbosity used by denoiser. </div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00050">mean_shift.h:50</a></div></div>
+<div class="ttc" id="group__StringUtilities_html_gaa405c9a5b808e428554e540028085dd3"><div class="ttname"><a href="group__StringUtilities.html#gaa405c9a5b808e428554e540028085dd3">formatString</a></div><div class="ttdeci">String formatString(const char *format,...)</div><div class="ttdoc">Obtain an string from a format in the way of printf works Example: formatString(&quot;vectorHeader@%s&quot;,fn_out.c_str()) </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__strings_8cpp_source.html#l00610">xmipp_strings.cpp:610</a></div></div>
 <div class="ttc" id="classMeanShiftFilter_html_a20c9d6dae7e41c55fc02bf81209a4959"><div class="ttname"><a href="classMeanShiftFilter.html#a20c9d6dae7e41c55fc02bf81209a4959">MeanShiftFilter::sigma_s</a></div><div class="ttdeci">double sigma_s</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00044">mean_shift.h:44</a></div></div>
 <div class="ttc" id="classMeanShiftFilter_html_a8037c8e2c03355977cada25f9f76d32a"><div class="ttname"><a href="classMeanShiftFilter.html#a8037c8e2c03355977cada25f9f76d32a">MeanShiftFilter::save_iters</a></div><div class="ttdeci">bool save_iters</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00046">mean_shift.h:46</a></div></div>
-<div class="ttc" id="classFileName_html_ac0cb40d3752432b231ab080d875657b8"><div class="ttname"><a href="classFileName.html#ac0cb40d3752432b231ab080d875657b8">FileName::insertBeforeExtension</a></div><div class="ttdeci">FileName insertBeforeExtension(const String &amp;str) const </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__filename_8cpp_source.html#l00355">xmipp_filename.cpp:355</a></div></div>
+<div class="ttc" id="classFileName_html_ac0cb40d3752432b231ab080d875657b8"><div class="ttname"><a href="classFileName.html#ac0cb40d3752432b231ab080d875657b8">FileName::insertBeforeExtension</a></div><div class="ttdeci">FileName insertBeforeExtension(const String &amp;str) const </div><div class="ttdoc">Insert before first extension. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__filename_8cpp_source.html#l00355">xmipp_filename.cpp:355</a></div></div>
 <div class="ttc" id="structThreadProcessPlaneArgs_html_ad2eb8f35c16273b435d9d6584a5bc1d0"><div class="ttname"><a href="structThreadProcessPlaneArgs.html#ad2eb8f35c16273b435d9d6584a5bc1d0">ThreadProcessPlaneArgs::output</a></div><div class="ttdeci">MultidimArray&lt; double &gt; * output</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8cpp_source.html#l00036">mean_shift.cpp:36</a></div></div>
 <div class="ttc" id="structThreadProcessPlaneArgs_html_a27d513ca6cd1f5e4a16f8b95ae3a6964"><div class="ttname"><a href="structThreadProcessPlaneArgs.html#a27d513ca6cd1f5e4a16f8b95ae3a6964">ThreadProcessPlaneArgs::fast</a></div><div class="ttdeci">bool fast</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8cpp_source.html#l00037">mean_shift.cpp:37</a></div></div>
 <div class="ttc" id="classMeanShiftFilter_html_aba22cc6521e2a38112821ad7455b1146"><div class="ttname"><a href="classMeanShiftFilter.html#aba22cc6521e2a38112821ad7455b1146">MeanShiftFilter::fast</a></div><div class="ttdeci">bool fast</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00046">mean_shift.h:46</a></div></div>
@@ -228,7 +237,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Definition at line <a class="el" href="mean__shift_8cpp_source.html#l00287">287</a> of file <a class="el" href="mean__shift_8cpp_source.html">mean_shift.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00288"></a><span class="lineno">  288</span>&#160;{</div><div class="line"><a name="l00289"></a><span class="lineno">  289</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;== Mean shift ==&quot;</span>);</div><div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--mean_shift &lt;hr&gt; &lt;hs&gt; &lt;iter=1&gt;] : Filter based on the mean-shift algorithm&quot;</span>);</div><div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;                                  :+ hs: Sigma for the range domain&quot;</span>);</div><div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;                                  :+ hr: Sigma for the spatial domain&quot;</span>);</div><div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;                                  :+ iter: Number of iterations to be used&quot;</span>);</div><div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;      alias -t;&quot;</span>);</div><div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--thr &lt;n=1&gt;]                     : Number of processing threads&quot;</span>);</div><div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--fast]                          : Use faster processing (avoid gaussian calculations)&quot;</span>);</div><div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--save_iters]                    : Save result image/volume for each iteration&quot;</span>);</div><div class="line"><a name="l00298"></a><span class="lineno">  298</span>&#160;</div><div class="line"><a name="l00299"></a><span class="lineno">  299</span>&#160;}</div><div class="ttc" id="classXmippProgram_html_aaeb37f0bac83f5d2a605aaa0e5c4b6ef"><div class="ttname"><a href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">XmippProgram::addParamsLine</a></div><div class="ttdeci">void addParamsLine(const String &amp;line)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00361">xmipp_program.cpp:361</a></div></div>
+<div class="fragment"><div class="line"><a name="l00288"></a><span class="lineno">  288</span>&#160;{</div><div class="line"><a name="l00289"></a><span class="lineno">  289</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;== Mean shift ==&quot;</span>);</div><div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--mean_shift &lt;hr&gt; &lt;hs&gt; &lt;iter=1&gt;] : Filter based on the mean-shift algorithm&quot;</span>);</div><div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;                                  :+ hs: Sigma for the range domain&quot;</span>);</div><div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;                                  :+ hr: Sigma for the spatial domain&quot;</span>);</div><div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;                                  :+ iter: Number of iterations to be used&quot;</span>);</div><div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;      alias -t;&quot;</span>);</div><div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--thr &lt;n=1&gt;]                     : Number of processing threads&quot;</span>);</div><div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--fast]                          : Use faster processing (avoid gaussian calculations)&quot;</span>);</div><div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;    program-&gt;<a class="code" href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">addParamsLine</a>(<span class="stringliteral">&quot;[--save_iters]                    : Save result image/volume for each iteration&quot;</span>);</div><div class="line"><a name="l00298"></a><span class="lineno">  298</span>&#160;</div><div class="line"><a name="l00299"></a><span class="lineno">  299</span>&#160;}</div><div class="ttc" id="classXmippProgram_html_aaeb37f0bac83f5d2a605aaa0e5c4b6ef"><div class="ttname"><a href="classXmippProgram.html#aaeb37f0bac83f5d2a605aaa0e5c4b6ef">XmippProgram::addParamsLine</a></div><div class="ttdeci">void addParamsLine(const String &amp;line)</div><div class="ttdoc">Add a params definition line. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00361">xmipp_program.cpp:361</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -253,7 +262,8 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Read params from a program </p>
+
+<p>Read params from a program. </p>
 
 <p>Reimplemented from <a class="el" href="classXmippFilter.html#a69f1a84112f275da861b60d7c2e9340e">XmippFilter</a>.</p>
 
@@ -263,8 +273,8 @@ Public Attributes</h2></td></tr>
 <div class="ttc" id="classMeanShiftFilter_html_a2c4adfe88a6459e29354f2602daf6614"><div class="ttname"><a href="classMeanShiftFilter.html#a2c4adfe88a6459e29354f2602daf6614">MeanShiftFilter::sigma_r</a></div><div class="ttdeci">double sigma_r</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00044">mean_shift.h:44</a></div></div>
 <div class="ttc" id="classMeanShiftFilter_html_a9ca3c6a658c422df260419aa38be0f00"><div class="ttname"><a href="classMeanShiftFilter.html#a9ca3c6a658c422df260419aa38be0f00">MeanShiftFilter::iters</a></div><div class="ttdeci">int iters</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00045">mean_shift.h:45</a></div></div>
 <div class="ttc" id="classXmippProgram_html_aed62cfe3c074e69076bf348fc101a717"><div class="ttname"><a href="classXmippProgram.html#aed62cfe3c074e69076bf348fc101a717">XmippProgram::verbose</a></div><div class="ttdeci">int verbose</div><div class="ttdoc">Verbosity level. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8h_source.html#l00168">xmipp_program.h:168</a></div></div>
-<div class="ttc" id="classMeanShiftFilter_html_ada8ea6c7a3599abc983a69ce77410f11"><div class="ttname"><a href="classMeanShiftFilter.html#ada8ea6c7a3599abc983a69ce77410f11">MeanShiftFilter::verbose</a></div><div class="ttdeci">int verbose</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00050">mean_shift.h:50</a></div></div>
-<div class="ttc" id="classXmippProgram_html_a1a27c450de95c55d122be23e3fe89ac1"><div class="ttname"><a href="classXmippProgram.html#a1a27c450de95c55d122be23e3fe89ac1">XmippProgram::checkParam</a></div><div class="ttdeci">bool checkParam(const char *param)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00425">xmipp_program.cpp:425</a></div></div>
+<div class="ttc" id="classMeanShiftFilter_html_ada8ea6c7a3599abc983a69ce77410f11"><div class="ttname"><a href="classMeanShiftFilter.html#ada8ea6c7a3599abc983a69ce77410f11">MeanShiftFilter::verbose</a></div><div class="ttdeci">int verbose</div><div class="ttdoc">Verbosity used by denoiser. </div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00050">mean_shift.h:50</a></div></div>
+<div class="ttc" id="classXmippProgram_html_a1a27c450de95c55d122be23e3fe89ac1"><div class="ttname"><a href="classXmippProgram.html#a1a27c450de95c55d122be23e3fe89ac1">XmippProgram::checkParam</a></div><div class="ttdeci">bool checkParam(const char *param)</div><div class="ttdoc">Check if the param was supplied to command line. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00425">xmipp_program.cpp:425</a></div></div>
 <div class="ttc" id="classMeanShiftFilter_html_a20c9d6dae7e41c55fc02bf81209a4959"><div class="ttname"><a href="classMeanShiftFilter.html#a20c9d6dae7e41c55fc02bf81209a4959">MeanShiftFilter::sigma_s</a></div><div class="ttdeci">double sigma_s</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00044">mean_shift.h:44</a></div></div>
 <div class="ttc" id="classMeanShiftFilter_html_a8037c8e2c03355977cada25f9f76d32a"><div class="ttname"><a href="classMeanShiftFilter.html#a8037c8e2c03355977cada25f9f76d32a">MeanShiftFilter::save_iters</a></div><div class="ttdeci">bool save_iters</div><div class="ttdef"><b>Definition:</b> <a href="mean__shift_8h_source.html#l00046">mean_shift.h:46</a></div></div>
 <div class="ttc" id="classXmippProgram_html_a7b7ddf0836dc1079ea2622e2a420c39c"><div class="ttname"><a href="classXmippProgram.html#a7b7ddf0836dc1079ea2622e2a420c39c">XmippProgram::getIntParam</a></div><div class="ttdeci">int getIntParam(const char *param, int arg=0)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__program_8cpp_source.html#l00387">xmipp_program.cpp:387</a></div></div>
@@ -366,15 +376,17 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Verbosity used by denoiser. By default will be 0, programs using denoiser should set this </p>
+
+<p>Verbosity used by denoiser. </p>
+<p>By default will be 0, programs using denoiser should set this </p>
 
 <p>Definition at line <a class="el" href="mean__shift_8h_source.html#l00050">50</a> of file <a class="el" href="mean__shift_8h_source.html">mean_shift.h</a>.</p>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="mean__shift_8h_source.html">mean_shift.h</a></li>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="mean__shift_8cpp_source.html">mean_shift.cpp</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="mean__shift_8h_source.html">mean_shift.h</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="mean__shift_8cpp_source.html">mean_shift.cpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

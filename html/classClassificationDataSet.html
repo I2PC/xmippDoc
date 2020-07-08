@@ -95,12 +95,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="data__set_8h_source.html">data_set.h</a>&gt;</code></p>
+<p>Abstract Data Set class that should be used by all classification algorithms.  
+ <a href="classClassificationDataSet.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="data__set_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/classification/data_set.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
 <tr class="memitem:ad7ac6addcc781e869118e4f437067324"><td class="memItemLeft" align="right" valign="top">typedef InClass&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationDataSet.html#ad7ac6addcc781e869118e4f437067324">In</a></td></tr>
-<tr class="memdesc:ad7ac6addcc781e869118e4f437067324"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class of input vectors. Usually a FeatureVector (vector of <a class="el" href="classFeature.html">Feature</a>)  <a href="#ad7ac6addcc781e869118e4f437067324">More...</a><br /></td></tr>
+<tr class="memdesc:ad7ac6addcc781e869118e4f437067324"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class of input vectors. Usually a FeatureVector (vector of <a class="el" href="classFeature.html" title="Feature superclass. ">Feature</a>)  <a href="#ad7ac6addcc781e869118e4f437067324">More...</a><br /></td></tr>
 <tr class="separator:ad7ac6addcc781e869118e4f437067324"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:affd8e6edb8419455870e4490b7c5688a"><td class="memItemLeft" align="right" valign="top">typedef OutClass&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationDataSet.html#affd8e6edb8419455870e4490b7c5688a">Out</a></td></tr>
 <tr class="memdesc:affd8e6edb8419455870e4490b7c5688a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class of the target. Can be a double, string, unsigned, even a vector ...  <a href="#affd8e6edb8419455870e4490b7c5688a">More...</a><br /></td></tr>
@@ -112,19 +115,24 @@ Public Types</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a65d5f89a341655932e9664164fa51b32"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationDataSet.html#a65d5f89a341655932e9664164fa51b32">ClassificationDataSet</a> ()</td></tr>
+<tr class="memdesc:a65d5f89a341655932e9664164fa51b32"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a65d5f89a341655932e9664164fa51b32">More...</a><br /></td></tr>
 <tr class="separator:a65d5f89a341655932e9664164fa51b32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0532ede6abebb49847f1fd7f68ab0364"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationDataSet.html#a0532ede6abebb49847f1fd7f68ab0364">~ClassificationDataSet</a> ()</td></tr>
+<tr class="memdesc:a0532ede6abebb49847f1fd7f68ab0364"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#a0532ede6abebb49847f1fd7f68ab0364">More...</a><br /></td></tr>
 <tr class="separator:a0532ede6abebb49847f1fd7f68ab0364"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a65c4b3657984741eb567ff6a1140040f"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="classClassificationDataSet.html#affd8e6edb8419455870e4490b7c5688a">Out</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationDataSet.html#a65c4b3657984741eb567ff6a1140040f">apply</a> (const <a class="el" href="classClassificationDataSet.html#ad7ac6addcc781e869118e4f437067324">In</a> &amp;_in) const =0</td></tr>
+<tr class="memdesc:a65c4b3657984741eb567ff6a1140040f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method to classify a feature vector It returns the 'class' to which the vector belongs Parameter: _in vcetor to test.  <a href="#a65c4b3657984741eb567ff6a1140040f">More...</a><br /></td></tr>
 <tr class="separator:a65c4b3657984741eb567ff6a1140040f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac990202231e0830c356e4510b48daaff"><td class="memItemLeft" align="right" valign="top">virtual unsigned&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classClassificationDataSet.html#ac990202231e0830c356e4510b48daaff">output</a> (const <a class="el" href="classClassificationDataSet.html#ad7ac6addcc781e869118e4f437067324">In</a> &amp;_in) const =0</td></tr>
+<tr class="memdesc:ac990202231e0830c356e4510b48daaff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Method to classify an input vector.  <a href="#ac990202231e0830c356e4510b48daaff">More...</a><br /></td></tr>
 <tr class="separator:ac990202231e0830c356e4510b48daaff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><h3>template&lt;class InClass, class OutClass&gt;<br />
 class ClassificationDataSet&lt; InClass, OutClass &gt;</h3>
 
-<p>Abstract Data Set class that should be used by all classification algorithms. This is the parent class for all algorithms that can be trained and applied in order to classify a set of data. A xmipp classification object must have: \1) A train method that accepts a set of feature vectors \2) An apply method that accepts an example and classifies it </p>
+<p>Abstract Data Set class that should be used by all classification algorithms. </p>
+<p>This is the parent class for all algorithms that can be trained and applied in order to classify a set of data. A xmipp classification object must have: \1) A train method that accepts a set of feature vectors \2) An apply method that accepts an example and classifies it </p>
 
 <p>Definition at line <a class="el" href="data__set_8h_source.html#l00044">44</a> of file <a class="el" href="data__set_8h_source.html">data_set.h</a>.</p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
@@ -140,7 +148,7 @@ template&lt;class InClass, class OutClass&gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p>Class of input vectors. Usually a FeatureVector (vector of <a class="el" href="classFeature.html">Feature</a>) </p>
+<p>Class of input vectors. Usually a FeatureVector (vector of <a class="el" href="classFeature.html" title="Feature superclass. ">Feature</a>) </p>
 
 <p>Definition at line <a class="el" href="data__set_8h_source.html#l00048">48</a> of file <a class="el" href="data__set_8h_source.html">data_set.h</a>.</p>
 
@@ -205,7 +213,9 @@ template&lt;class InClass, class OutClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Constructor. This constructor is empty. </p>
+
+<p>Constructor. </p>
+<p>This constructor is empty. </p>
 
 <p>Definition at line <a class="el" href="data__set_8h_source.html#l00060">60</a> of file <a class="el" href="data__set_8h_source.html">data_set.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    {};</div></div><!-- fragment -->
@@ -233,7 +243,9 @@ template&lt;class InClass, class OutClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Destructor. The default destructor </p>
+
+<p>Destructor. </p>
+<p>The default destructor </p>
 
 <p>Definition at line <a class="el" href="data__set_8h_source.html#l00067">67</a> of file <a class="el" href="data__set_8h_source.html">data_set.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    {};</div></div><!-- fragment -->
@@ -263,7 +275,9 @@ template&lt;class InClass, class OutClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Method to classify a feature vector It returns the 'class' to which the vector belongs Parameter: _in vcetor to test. </p><dl class="section return"><dt>Returns</dt><dd>The result of classification. </dd></dl>
+
+<p>Method to classify a feature vector It returns the 'class' to which the vector belongs Parameter: _in vcetor to test. </p>
+<dl class="section return"><dt>Returns</dt><dd>The result of classification. </dd></dl>
 
 <p>Implemented in <a class="el" href="classCodeBook.html#a1fd901c24c7e58c7e1326b4d1d6e4eb1">CodeBook</a>.</p>
 
@@ -292,14 +306,16 @@ template&lt;class InClass, class OutClass&gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Method to classify an input vector. This method returns an unsigned integer that would correspond to the output neuron, the output codevector, or anything similar. If it makes no sense, it should be declared as private. Although it means many different things, it�s included here to have an uniform representation Parameter: _in input vector to test. </p><dl class="section return"><dt>Returns</dt><dd>The result of classification. </dd></dl>
+
+<p>Method to classify an input vector. </p>
+<p>This method returns an unsigned integer that would correspond to the output neuron, the output codevector, or anything similar. If it makes no sense, it should be declared as private. Although it means many different things, it�s included here to have an uniform representation Parameter: _in input vector to test. </p><dl class="section return"><dt>Returns</dt><dd>The result of classification. </dd></dl>
 
 <p>Implemented in <a class="el" href="classCodeBook.html#a9b1e8b0f0a1a8a613a4962d7ee649e09">CodeBook</a>.</p>
 
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/classification/<a class="el" href="data__set_8h_source.html">data_set.h</a></li>
+<li>xmipp/libraries/classification/<a class="el" href="data__set_8h_source.html">data_set.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

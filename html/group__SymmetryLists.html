@@ -85,10 +85,14 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="title">Symmetry handling</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>The symmetry lists are, simply, lists of 2D matrices.  
+<a href="#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSymList.html">SymList</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Symmetry List class.  <a href="classSymList.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
@@ -180,10 +184,12 @@ Macros</h2></td></tr>
 <tr class="memitem:ga86788d6e8dcab97c43d5c7fe89aabdbd"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SymmetryLists.html#ga86788d6e8dcab97c43d5c7fe89aabdbd">pg_I5H</a>&#160;&#160;&#160;225</td></tr>
 <tr class="separator:ga86788d6e8dcab97c43d5c7fe89aabdbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga3bca97f78b08d9a4f7ea17a91bd715fa"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__SymmetryLists.html#ga3bca97f78b08d9a4f7ea17a91bd715fa">SYMINDEX</a>(SL,  sym_no,  <a class="el" href="project__crystal_8cpp.html#acb559820d9ca11295b4500f179ef6392">i</a>,  numIMG)&#160;&#160;&#160;numIMG+SL.__L.mdimy/4*<a class="el" href="project__crystal_8cpp.html#acb559820d9ca11295b4500f179ef6392">i</a>+sym_no</td></tr>
+<tr class="memdesc:ga3bca97f78b08d9a4f7ea17a91bd715fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Number of an image in the reconstruction list.  <a href="#ga3bca97f78b08d9a4f7ea17a91bd715fa">More...</a><br /></td></tr>
 <tr class="separator:ga3bca97f78b08d9a4f7ea17a91bd715fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<p>The symmetry lists are, simply, lists of 2D matrices. It's the way of taking symmetry into account in the reconstruction programs. The symmetry list must contain matrices which express equivalent views to the actual one due to the underlying volume symmetry. The identity matrix is not within the list. You know that symmetry matrices should form a subgroup, when reading a file the subgroup is automatically computed and, when you add or remove a new matrix, the subgroup must be manually computed. </p>
+<p>The symmetry lists are, simply, lists of 2D matrices. </p>
+<p>It's the way of taking symmetry into account in the reconstruction programs. The symmetry list must contain matrices which express equivalent views to the actual one due to the underlying volume symmetry. The identity matrix is not within the list. You know that symmetry matrices should form a subgroup, when reading a file the subgroup is automatically computed and, when you add or remove a new matrix, the subgroup must be manually computed. </p>
 <h2 class="groupheader">Macro Definition Documentation</h2>
 <a class="anchor" id="gac394249a9bff5167f39794c7405f4956"></a>
 <div class="memitem">
@@ -822,7 +828,9 @@ Macros</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Number of an image in the reconstruction list. This macro returns the index of a symmetry image (after the symmetry matrix number sym_no) within a list where the first images are true images and the last ones, the symmetrized copies (all copies of a same image are together). The total number of real images is numIMG, and i is the index within this first numIMG images of the image we want to symmetrize The first image in the list is the number 0 </p>
+
+<p>Number of an image in the reconstruction list. </p>
+<p>This macro returns the index of a symmetry image (after the symmetry matrix number sym_no) within a list where the first images are true images and the last ones, the symmetrized copies (all copies of a same image are together). The total number of real images is numIMG, and i is the index within this first numIMG images of the image we want to symmetrize The first image in the list is the number 0 </p>
 
 <p>Definition at line <a class="el" href="ore_2core_2symmetries_8h_source.html#l00109">109</a> of file <a class="el" href="ore_2core_2symmetries_8h_source.html">symmetries.h</a>.</p>
 

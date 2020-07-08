@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['memoryutils',['memoryUtils',['../namespacememoryUtils.html',1,'']]]
+  ['fftwt_5fplantype',['FFTwT_planType',['../namespaceFFTwT__planType.html',1,'']]]
 ];

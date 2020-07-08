@@ -88,12 +88,16 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:ga63b91afb8cbbf3ecf0a404698f47407a"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__IIRConvolve.html#ga63b91afb8cbbf3ecf0a404698f47407a">IirConvolveCanonicProgressive</a> (double InputData[], double OutputData[], long SignalLength, double <a class="el" href="classKernel.html">Kernel</a>[], double RightInit[], long KernelLength)</td></tr>
+<tr class="memdesc:ga63b91afb8cbbf3ecf0a404698f47407a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Canonic progressive.  <a href="#ga63b91afb8cbbf3ecf0a404698f47407a">More...</a><br /></td></tr>
 <tr class="separator:ga63b91afb8cbbf3ecf0a404698f47407a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga76c7ae39f16700ac3f696d0332a72b32"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__IIRConvolve.html#ga76c7ae39f16700ac3f696d0332a72b32">IirConvolveCanonicRegressive</a> (double InputData[], double OutputData[], long SignalLength, double <a class="el" href="classKernel.html">Kernel</a>[], double LeftInit[], long KernelLength)</td></tr>
+<tr class="memdesc:ga76c7ae39f16700ac3f696d0332a72b32"><td class="mdescLeft">&#160;</td><td class="mdescRight">Canonic regressive.  <a href="#ga76c7ae39f16700ac3f696d0332a72b32">More...</a><br /></td></tr>
 <tr class="separator:ga76c7ae39f16700ac3f696d0332a72b32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga73506c780b7ea5f7830275c94b37edf2"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__IIRConvolve.html#ga73506c780b7ea5f7830275c94b37edf2">IirConvolvePoles</a> (double InputData[], double OutputData[], long SignalLength, double RealPoles[], long PoleNumber, enum <a class="el" href="tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9">TBoundaryConvention</a> Convention, double Tolerance)</td></tr>
+<tr class="memdesc:ga73506c780b7ea5f7830275c94b37edf2"><td class="mdescLeft">&#160;</td><td class="mdescRight">The filter is defined by its poles (1D).  <a href="#ga73506c780b7ea5f7830275c94b37edf2">More...</a><br /></td></tr>
 <tr class="separator:ga73506c780b7ea5f7830275c94b37edf2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga1780985f3598ba4379eac91a23bbc9c7"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__IIRConvolve.html#ga1780985f3598ba4379eac91a23bbc9c7">IirConvolvePolesVolume</a> (double *VolumeSource, double *VolumeDestination, long Nx, long Ny, long Nz, double RealPoles[], long PoleNumber, enum <a class="el" href="tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9">TBoundaryConvention</a> Convention, double Tolerance, int *Status)</td></tr>
+<tr class="memdesc:ga1780985f3598ba4379eac91a23bbc9c7"><td class="mdescLeft">&#160;</td><td class="mdescRight">The filter is defined by its poles (3D).  <a href="#ga1780985f3598ba4379eac91a23bbc9c7">More...</a><br /></td></tr>
 <tr class="separator:ga1780985f3598ba4379eac91a23bbc9c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -145,7 +149,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Canonic progressive. Computes OutputData[i] = InputData[i] + SUM(k): OutputData[i + k + 1] * <a class="el" href="classKernel.html">Kernel</a>[k]. The input and the output have the same length. The kernel and the initial output values have the same length.</p>
+
+<p>Canonic progressive. </p>
+<p>Computes OutputData[i] = InputData[i] + SUM(k): OutputData[i + k + 1] * <a class="el" href="classKernel.html">Kernel</a>[k]. The input and the output have the same length. The kernel and the initial output values have the same length.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -197,7 +203,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Canonic regressive. Computes OutputData[i] = InputData[i] + SUM(k): OutputData[i - k - 1] <a class="el" href="classKernel.html">Kernel</a>[k]. The input and the output have the same length. The kernel and the initial output values have the same length.</p>
+
+<p>Canonic regressive. </p>
+<p>Computes OutputData[i] = InputData[i] + SUM(k): OutputData[i - k - 1] <a class="el" href="classKernel.html">Kernel</a>[k]. The input and the output have the same length. The kernel and the initial output values have the same length.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -255,7 +263,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>The filter is defined by its poles (1D). The input and the output have the same length. In-place processing is allowed. No more than two poles are allowed for a finite support boundary.</p>
+
+<p>The filter is defined by its poles (1D). </p>
+<p>The input and the output have the same length. In-place processing is allowed. No more than two poles are allowed for a finite support boundary.</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>
@@ -331,7 +341,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>The filter is defined by its poles (3D). No more than two poles are allowed for a finite support boundary. VolumeSource is a (double)volume of size (Nx x Ny x Nz). OutputData is a (double)volume of size (Nx x Ny x Nz).</p>
+
+<p>The filter is defined by its poles (3D). </p>
+<p>No more than two poles are allowed for a finite support boundary. VolumeSource is a (double)volume of size (Nx x Ny x Nz). OutputData is a (double)volume of size (Nx x Ny x Nz).</p>
 <p>success: return(!ERROR); failure: return(ERROR) </p>
 
 </div>

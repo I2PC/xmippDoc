@@ -1,11 +1,21 @@
 var searchData=
 [
+  ['gallerycolumnmodel',['GalleryColumnModel',['../classxmipp_1_1viewer_1_1models_1_1GalleryColumnModel.html',1,'xmipp::viewer::models']]],
+  ['gallerydata',['GalleryData',['../classxmipp_1_1viewer_1_1models_1_1GalleryData.html',1,'xmipp::viewer::models']]],
   ['galleryimage',['GalleryImage',['../classGalleryImage.html',1,'']]],
+  ['galleryjframe',['GalleryJFrame',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html',1,'xmipp::viewer::windows']]],
+  ['gallerymenu',['GalleryMenu',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1GalleryMenu.html',1,'xmipp::viewer::windows::GalleryJFrame']]],
+  ['galleryrowheadermodel',['GalleryRowHeaderModel',['../classxmipp_1_1viewer_1_1models_1_1GalleryRowHeaderModel.html',1,'xmipp::viewer::models']]],
+  ['galleryscroll',['GalleryScroll',['../classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1GalleryScroll.html',1,'xmipp::viewer::windows::GalleryJFrame']]],
+  ['gan',['GAN',['../classdeepDenoising_1_1gan_1_1GAN.html',1,'deepDenoising::gan']]],
   ['gaussian',['Gaussian',['../classGaussian.html',1,'']]],
   ['gaussianinterpolator',['GaussianInterpolator',['../classGaussianInterpolator.html',1,'']]],
   ['gaussiankerdensom',['GaussianKerDenSOM',['../classGaussianKerDenSOM.html',1,'']]],
   ['generaltransform',['GeneralTransform',['../classcuFFTAdvisor_1_1GeneralTransform.html',1,'cuFFTAdvisor']]],
+  ['generalwedge',['GeneralWedge',['../classpython_1_1tompy_1_1filter_1_1GeneralWedge.html',1,'python::tompy::filter']]],
   ['generatedata',['GenerateData',['../classGenerateData.html',1,'']]],
+  ['genericclassifier',['GenericClassifier',['../classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1GenericClassifier.html',1,'xmipp::viewer::particlepicker::training::model']]],
+  ['geometry',['Geometry',['../classxmipp_1_1ij_1_1commons_1_1Geometry.html',1,'xmipp::ij::commons']]],
   ['geometrytest',['GeometryTest',['../classGeometryTest.html',1,'']]],
   ['geoshifttransformer',['GeoShiftTransformer',['../classGeoShiftTransformer.html',1,'']]],
   ['geotransformer',['GeoTransformer',['../classGeoTransformer.html',1,'']]],
@@ -34,8 +44,10 @@ var searchData=
   ['gpumultidimarrayatgpu_3c_20std_3a_3acomplex_3c_20t_20_3e_20_3e',['GpuMultidimArrayAtGpu&lt; std::complex&lt; T &gt; &gt;',['../classGpuMultidimArrayAtGpu.html',1,'']]],
   ['graph_5ft',['Graph_T',['../structGraph__T.html',1,'']]],
   ['grid',['Grid',['../classGrid.html',1,'']]],
+  ['grid_5f',['Grid_',['../classGrid__.html',1,'']]],
   ['gridvolumet',['GridVolumeT',['../classGridVolumeT.html',1,'']]],
   ['gridvolumet_3c_20int_20_3e',['GridVolumeT&lt; int &gt;',['../classGridVolumeT.html',1,'']]],
   ['gtestlog',['GTestLog',['../classtesting_1_1internal_1_1GTestLog.html',1,'testing::internal']]],
-  ['gtestmutexlock',['GTestMutexLock',['../classtesting_1_1internal_1_1GTestMutexLock.html',1,'testing::internal']]]
+  ['gtestmutexlock',['GTestMutexLock',['../classtesting_1_1internal_1_1GTestMutexLock.html',1,'testing::internal']]],
+  ['gtestresult',['GTestResult',['../classtests_1_1test_1_1GTestResult.html',1,'tests::test']]]
 ];

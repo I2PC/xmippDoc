@@ -95,7 +95,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="common__lines_8h_source.html">common_lines.h</a>&gt;</code></p>
+<p>Class to hold the common lines info between two projection images k1 and k2 It will store the indexes of commonline in k1 and k2 and the vector direction.  
+ <a href="classCommonLineInfo.html#details">More...</a></p>
+
+<p><code>#include &lt;<a class="el" href="common__lines_8h_source.html">/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/common_lines.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for CommonLineInfo:</div>
 <div class="dyncontent">
@@ -130,7 +133,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a8874eab821a468663ff44cd59d092a36"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Class to hold the common lines info between two projection images k1 and k2 It will store the indexes of commonline in k1 and k2 and the vector direction </p>
+<div class="textblock"><p>Class to hold the common lines info between two projection images k1 and k2 It will store the indexes of commonline in k1 and k2 and the vector direction. </p>
 
 <p>Definition at line <a class="el" href="common__lines_8h_source.html#l00154">154</a> of file <a class="el" href="common__lines_8h_source.html">common_lines.h</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -175,7 +178,7 @@ Public Attributes</h2></td></tr>
 <p>Definition at line <a class="el" href="common__lines_8h_source.html#l00162">162</a> of file <a class="el" href="common__lines_8h_source.html">common_lines.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;    {</div><div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160;        <a class="code" href="classCommonLineInfo.html#a8de84f55795a6f8ce3e8acd1002563fb">nRays</a> = <a class="code" href="numerical__recipes_8cpp.html#a76f11d9a0a47b94f72c2d0e77fb32240">n</a>;</div><div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;        <a class="code" href="classCommonLineInfo.html#a4037248ce1dfdb182955010ee00e4928">setImages</a>(k1, k2);</div><div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;        <a class="code" href="classCommonLineInfo.html#a5f5464b94a608bb5a49bfc9213554c7e">idx</a>[0] = <a class="code" href="classCommonLineInfo.html#a5f5464b94a608bb5a49bfc9213554c7e">idx</a>[1] = 0;</div><div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;        <a class="code" href="classCommonLineInfo.html#a8874eab821a468663ff44cd59d092a36">vector</a>.<a class="code" href="classMatrix1D.html#a203e2128d65fd2d51dc764f5e7c52a63">initZeros</a>(3);</div><div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160;    }</div><div class="ttc" id="classCommonLineInfo_html_a8de84f55795a6f8ce3e8acd1002563fb"><div class="ttname"><a href="classCommonLineInfo.html#a8de84f55795a6f8ce3e8acd1002563fb">CommonLineInfo::nRays</a></div><div class="ttdeci">size_t nRays</div><div class="ttdef"><b>Definition:</b> <a href="common__lines_8h_source.html#l00157">common_lines.h:157</a></div></div>
 <div class="ttc" id="classCommonLineInfo_html_a4037248ce1dfdb182955010ee00e4928"><div class="ttname"><a href="classCommonLineInfo.html#a4037248ce1dfdb182955010ee00e4928">CommonLineInfo::setImages</a></div><div class="ttdeci">void setImages(int k1, int k2)</div><div class="ttdef"><b>Definition:</b> <a href="common__lines_8h_source.html#l00180">common_lines.h:180</a></div></div>
-<div class="ttc" id="classMatrix1D_html_a203e2128d65fd2d51dc764f5e7c52a63"><div class="ttname"><a href="classMatrix1D.html#a203e2128d65fd2d51dc764f5e7c52a63">Matrix1D::initZeros</a></div><div class="ttdeci">void initZeros()</div><div class="ttdef"><b>Definition:</b> <a href="matrix1d_8h_source.html#l00646">matrix1d.h:646</a></div></div>
+<div class="ttc" id="classMatrix1D_html_a203e2128d65fd2d51dc764f5e7c52a63"><div class="ttname"><a href="classMatrix1D.html#a203e2128d65fd2d51dc764f5e7c52a63">Matrix1D::initZeros</a></div><div class="ttdeci">void initZeros()</div><div class="ttdoc">Initialize to zeros with current size. </div><div class="ttdef"><b>Definition:</b> <a href="matrix1d_8h_source.html#l00646">matrix1d.h:646</a></div></div>
 <div class="ttc" id="classCommonLineInfo_html_a5f5464b94a608bb5a49bfc9213554c7e"><div class="ttname"><a href="classCommonLineInfo.html#a5f5464b94a608bb5a49bfc9213554c7e">CommonLineInfo::idx</a></div><div class="ttdeci">int idx[2]</div><div class="ttdef"><b>Definition:</b> <a href="common__lines_8h_source.html#l00159">common_lines.h:159</a></div></div>
 <div class="ttc" id="classCommonLineInfo_html_a8874eab821a468663ff44cd59d092a36"><div class="ttname"><a href="classCommonLineInfo.html#a8874eab821a468663ff44cd59d092a36">CommonLineInfo::vector</a></div><div class="ttdeci">DVector vector</div><div class="ttdef"><b>Definition:</b> <a href="common__lines_8h_source.html#l00160">common_lines.h:160</a></div></div>
 <div class="ttc" id="numerical__recipes_8cpp_html_a76f11d9a0a47b94f72c2d0e77fb32240"><div class="ttname"><a href="numerical__recipes_8cpp.html#a76f11d9a0a47b94f72c2d0e77fb32240">n</a></div><div class="ttdeci">int * n</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l02246">numerical_recipes.cpp:2246</a></div></div>
@@ -310,10 +313,10 @@ Public Attributes</h2></td></tr>
 
 <p>Definition at line <a class="el" href="common__lines_8h_source.html#l00186">186</a> of file <a class="el" href="common__lines_8h_source.html">common_lines.h</a>.</p>
 <div class="fragment"><div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;    {</div><div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;        <a class="code" href="classCommonLineInfo.html#a5f5464b94a608bb5a49bfc9213554c7e">idx</a>[<a class="code" href="project__crystal_8cpp.html#acb559820d9ca11295b4500f179ef6392">i</a>] = <a class="code" href="group__Macros.html#gacd66e8cacf954c3bc3bba81d09425a12">ROUND</a>(<a class="code" href="numerical__recipes_8cpp.html#aca81c35c21e3a5f7f3a8d24504e76664">theta</a>/<a class="code" href="group__Macros.html#ga4912c64aec0c943b7985db6cb61ff83a">TWOPI</a> * <a class="code" href="classCommonLineInfo.html#a8de84f55795a6f8ce3e8acd1002563fb">nRays</a>) % <a class="code" href="classCommonLineInfo.html#a8de84f55795a6f8ce3e8acd1002563fb">nRays</a>;</div><div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;    }</div><div class="ttc" id="classCommonLineInfo_html_a8de84f55795a6f8ce3e8acd1002563fb"><div class="ttname"><a href="classCommonLineInfo.html#a8de84f55795a6f8ce3e8acd1002563fb">CommonLineInfo::nRays</a></div><div class="ttdeci">size_t nRays</div><div class="ttdef"><b>Definition:</b> <a href="common__lines_8h_source.html#l00157">common_lines.h:157</a></div></div>
-<div class="ttc" id="group__Macros_html_ga4912c64aec0c943b7985db6cb61ff83a"><div class="ttname"><a href="group__Macros.html#ga4912c64aec0c943b7985db6cb61ff83a">TWOPI</a></div><div class="ttdeci">#define TWOPI</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00111">xmipp_macros.h:111</a></div></div>
+<div class="ttc" id="group__Macros_html_ga4912c64aec0c943b7985db6cb61ff83a"><div class="ttname"><a href="group__Macros.html#ga4912c64aec0c943b7985db6cb61ff83a">TWOPI</a></div><div class="ttdeci">#define TWOPI</div><div class="ttdoc">2 * Pi </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00111">xmipp_macros.h:111</a></div></div>
 <div class="ttc" id="project__crystal_8cpp_html_acb559820d9ca11295b4500f179ef6392"><div class="ttname"><a href="project__crystal_8cpp.html#acb559820d9ca11295b4500f179ef6392">i</a></div><div class="ttdeci">#define i</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l02510">numerical_recipes.cpp:2510</a></div></div>
 <div class="ttc" id="numerical__recipes_8cpp_html_aca81c35c21e3a5f7f3a8d24504e76664"><div class="ttname"><a href="numerical__recipes_8cpp.html#aca81c35c21e3a5f7f3a8d24504e76664">theta</a></div><div class="ttdeci">double theta</div><div class="ttdef"><b>Definition:</b> <a href="numerical__recipes_8cpp_source.html#l06233">numerical_recipes.cpp:6233</a></div></div>
-<div class="ttc" id="group__Macros_html_gacd66e8cacf954c3bc3bba81d09425a12"><div class="ttname"><a href="group__Macros.html#gacd66e8cacf954c3bc3bba81d09425a12">ROUND</a></div><div class="ttdeci">#define ROUND(x)</div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00210">xmipp_macros.h:210</a></div></div>
+<div class="ttc" id="group__Macros_html_gacd66e8cacf954c3bc3bba81d09425a12"><div class="ttname"><a href="group__Macros.html#gacd66e8cacf954c3bc3bba81d09425a12">ROUND</a></div><div class="ttdeci">#define ROUND(x)</div><div class="ttdoc">Round to next integer. </div><div class="ttdef"><b>Definition:</b> <a href="xmipp__macros_8h_source.html#l00210">xmipp_macros.h:210</a></div></div>
 <div class="ttc" id="classCommonLineInfo_html_a5f5464b94a608bb5a49bfc9213554c7e"><div class="ttname"><a href="classCommonLineInfo.html#a5f5464b94a608bb5a49bfc9213554c7e">CommonLineInfo::idx</a></div><div class="ttdeci">int idx[2]</div><div class="ttdef"><b>Definition:</b> <a href="common__lines_8h_source.html#l00159">common_lines.h:159</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -376,7 +379,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/yunior/Yunior/Projects/Scipion/COSS/xmipp-bundle/src/xmipp/libraries/reconstruction/<a class="el" href="common__lines_8h_source.html">common_lines.h</a></li>
+<li>xmipp/libraries/reconstruction/<a class="el" href="common__lines_8h_source.html">common_lines.h</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->
