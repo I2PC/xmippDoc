@@ -1,0 +1,27 @@
+
+### Python binaries
+*.pyc
+*.pyo
+*.tmp
+
+
+#unused submodule
+.gitmodules
+
+#### Eclipse and so on
+.project
+.cproject
+.pydevproject
+.classpath
+.idea
+*.iml
+
+# Packaging files
+scipion_app.egg-info/*
+dist
+
+*.snap
+config/*
+/software/
+/data/
+/scipion3venv/
