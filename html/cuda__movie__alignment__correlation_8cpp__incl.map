@@ -1,0 +1,37 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/cuda_movie_alignment_correlation/cuda_movie_alignment_correlation.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/cuda_movie_alignment_correlation/cuda_movie_alignment_correlation.cpp">
+<area shape="rect" id="node2" href="$movie__alignment__correlation__gpu_8h.html" title="reconstruction_adapt\l_cuda/movie_alignment\l_correlation_gpu.h" alt="" coords="1522,153,1681,209"/>
+<area shape="rect" id="node6" href="$movie__alignment__correlation__base_8h.html" title="reconstruction/movie\l_alignment_correlation\l_base.h" alt="" coords="1209,257,1361,313"/>
+<area shape="rect" id="node11" href="$optional_8h.html" title="core/optional.h" alt="" coords="1285,547,1392,574"/>
+<area shape="rect" id="node13" href="$bspline__grid_8h.html" title="bspline_grid.h" alt="" coords="1158,547,1261,574"/>
+<area shape="rect" id="node25" href="$bspline__helper_8h.html" title="bspline_helper.h" alt="" coords="1069,361,1185,388"/>
+<area shape="rect" id="node27" href="$cuda__gpu__movie__alignment__correlation_8h.html" title="reconstruction_cuda\l/cuda_gpu_movie_alignment\l_correlation.h" alt="" coords="460,436,647,492"/>
+<area shape="rect" id="node33" href="$cuda__gpu__geo__shift__transformer_8h.html" title="reconstruction_cuda\l/cuda_gpu_geo_shift\l_transformer.h" alt="" coords="1751,436,1894,492"/>
+<area shape="rect" id="node36" href="$gpu_8h.html" title="gpu.h" alt="" coords="1417,547,1471,574"/>
+<area shape="rect" id="node37" href="$cuda__gpu__geo__transformer_8h.html" title="reconstruction_cuda\l/cuda_gpu_geo_transformer.h" alt="" coords="1919,443,2113,485"/>
+<area shape="rect" id="node41" href="$filters_8h.html" title="data/filters.h" alt="" coords="2982,272,3077,299"/>
+<area shape="rect" id="node47" href="$fft__settings_8h.html" title="data/fft_settings.h" alt="" coords="2393,451,2519,477"/>
+<area shape="rect" id="node48" href="$fft__settings__new_8h.html" title="data/fft_settings_new.h" alt="" coords="671,451,830,477"/>
+<area shape="rect" id="node49" href="$userSettings_8h.html" title="core/userSettings.h" alt="" coords="2005,272,2139,299"/>
+<area shape="rect" id="node50" href="$cuda__fft_8h.html" title="reconstruction_cuda\l/cuda_fft.h" alt="" coords="1537,443,1676,485"/>
+<area shape="rect" id="node7" href="$alignment__result_8h.html" title="data/alignment_result.h" alt="" coords="619,547,776,574"/>
+<area shape="rect" id="node8" href="$point2D_8h.html" title="point2D.h" alt="" coords="767,629,846,656"/>
+<area shape="rect" id="node10" href="$local__alignment__result_8h.html" title="data/local_alignment\l_result.h" alt="" coords="1220,443,1361,485"/>
+<area shape="rect" id="node16" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="2978,451,3129,477"/>
+<area shape="rect" id="node19" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="2673,451,2852,477"/>
+<area shape="rect" id="node22" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="2494,547,2621,574"/>
+<area shape="rect" id="node24" href="$eq__system__solver_8h.html" title="eq_system_solver.h" alt="" coords="1057,451,1196,477"/>
+<area shape="rect" id="node14" href="$dimensions_8h.html" title="dimensions.h" alt="" coords="1113,629,1212,656"/>
+<area shape="rect" id="node15" href="$matrix1d_8h.html" title="core/matrix1d.h" alt="" coords="2700,704,2812,731"/>
+<area shape="rect" id="node17" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="3018,547,3129,574"/>
+<area shape="rect" id="node18" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="2697,629,2815,656"/>
+<area shape="rect" id="node28" href="$movie__alignment__gpu__defines_8h.html" title="reconstruction/movie\l_alignment_gpu_defines.h" alt="" coords="112,540,285,581"/>
+<area shape="rect" id="node29" href="$utils_8h.html" title="cuFFTAdvisor/utils.h" alt="" coords="310,547,453,574"/>
+<area shape="rect" id="node30" href="$cuda__xmipp__utils_8h.html" title="reconstruction_cuda\l/cuda_xmipp_utils.h" alt="" coords="1547,540,1685,581"/>
+<area shape="rect" id="node35" href="$gpu__geo__transformer__defines_8h.html" title="reconstruction/gpu\l_geo_transformer_defines.h" alt="" coords="1865,540,2047,581"/>
+<area shape="rect" id="node39" href="$transformations_8h.html" title="transformations.h" alt="" coords="2645,547,2768,574"/>
+<area shape="rect" id="node40" href="$iirconvolve_8h.html" title="core/bilib/iirconvolve.h" alt="" coords="2217,547,2367,574"/>
+<area shape="rect" id="node43" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="3205,451,3323,477"/>
+<area shape="rect" id="node44" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="3255,547,3409,574"/>
+<area shape="rect" id="node45" href="$mask_8h.html" title="data/mask.h" alt="" coords="3115,361,3210,388"/>
+<area shape="rect" id="node46" href="$polar_8h.html" title="data/polar.h" alt="" coords="2559,451,2649,477"/>
+</map>

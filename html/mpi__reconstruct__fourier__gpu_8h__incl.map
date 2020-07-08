@@ -1,0 +1,33 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/parallel_adapt_cuda/mpi_reconstruct_fourier_gpu.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/parallel_adapt_cuda/mpi_reconstruct_fourier_gpu.h">
+<area shape="rect" id="node2" href="$xmipp__mpi_8h.html" title="parallel/xmipp_mpi.h" alt="" coords="129,347,271,373"/>
+<area shape="rect" id="node15" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="2159,600,2265,627"/>
+<area shape="rect" id="node24" href="$reconstruct__fourier__gpu_8h.html" title="reconstruction_adapt\l_cuda/reconstruct_fourier_gpu.h" alt="" coords="1611,139,1819,180"/>
+<area shape="rect" id="node28" href="$projection_8h.html" title="data/projection.h" alt="" coords="666,243,785,269"/>
+<area shape="rect" id="node30" href="$args_8h.html" title="core/args.h" alt="" coords="1651,600,1738,627"/>
+<area shape="rect" id="node48" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="2620,600,2703,627"/>
+<area shape="rect" id="node9" href="$xmipp__threads_8h.html" title="core/xmipp_threads.h" alt="" coords="427,436,573,463"/>
+<area shape="rect" id="node10" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="853,436,1003,463"/>
+<area shape="rect" id="node11" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1583,675,1684,701"/>
+<area shape="rect" id="node12" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1735,749,1849,776"/>
+<area shape="rect" id="node13" href="$metadata_8h.html" title="metadata.h" alt="" coords="1799,518,1886,545"/>
+<area shape="rect" id="node23" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="987,600,1098,627"/>
+<area shape="rect" id="node20" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="2333,675,2457,701"/>
+<area shape="rect" id="node21" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="2481,675,2599,701"/>
+<area shape="rect" id="node26" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="1738,436,1865,463"/>
+<area shape="rect" id="node27" href="$xmipp__fft_8h.html" title="xmipp_fft.h" alt="" coords="2247,518,2334,545"/>
+<area shape="rect" id="node32" href="$blobs_8h.html" title="blobs.h" alt="" coords="1028,436,1092,463"/>
+<area shape="rect" id="node34" href="$ctf_8h.html" title="data/ctf.h" alt="" coords="2188,347,2265,373"/>
+<area shape="rect" id="node35" href="$array__2D_8h.html" title="data/array_2D.h" alt="" coords="809,243,924,269"/>
+<area shape="rect" id="node37" href="$recons_8h.html" title="reconstruction/recons.h" alt="" coords="949,243,1107,269"/>
+<area shape="rect" id="node38" href="$directions_8h.html" title="reconstruction/directions.h" alt="" coords="2122,436,2297,463"/>
+<area shape="rect" id="node39" href="$symmetrize_8h.html" title="reconstruction/symmetrize.h" alt="" coords="1217,347,1404,373"/>
+<area shape="rect" id="node40" href="$point3D_8h.html" title="data/point3D.h" alt="" coords="1889,436,1996,463"/>
+<area shape="rect" id="node41" href="$reconstruct__fourier__defines_8h.html" title="reconstruction/reconstruct\l_fourier_defines.h" alt="" coords="1428,339,1601,381"/>
+<area shape="rect" id="node42" href="$reconstruct__fourier__projection__traverse__space_8h.html" title="reconstruction/reconstruct\l_fourier_projection_traverse\l_space.h" alt="" coords="1778,332,1961,388"/>
+<area shape="rect" id="node43" href="$cuda__gpu__reconstruct__fourier_8h.html" title="reconstruction_cuda\l/cuda_gpu_reconstruct\l_fourier.h" alt="" coords="1497,228,1652,284"/>
+<area shape="rect" id="node44" href="$gpu_8h.html" title="reconstruction_cuda\l/gpu.h" alt="" coords="1585,511,1724,552"/>
+<area shape="rect" id="node45" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="295,347,463,373"/>
+<area shape="rect" id="node29" href="$grids_8h.html" title="grids.h" alt="" coords="1071,518,1132,545"/>
+<area shape="rect" id="node31" href="$basis_8h.html" title="basis.h" alt="" coords="927,347,991,373"/>
+<area shape="rect" id="node33" href="$fourier__projection_8h.html" title="data/fourier_projection.h" alt="" coords="690,347,851,373"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/mean_shift.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/mean_shift.h">
+<area shape="rect" id="node3" href="$filters_8h.html" title="data/filters.h" alt="" coords="574,139,669,165"/>
+<area shape="rect" id="node15" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1019,960,1125,987"/>
+<area shape="rect" id="node36" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="571,437,690,464"/>
+<area shape="rect" id="node50" href="$xmipp__threads_8h.html" title="core/xmipp_threads.h" alt="" coords="1732,661,1879,688"/>
+<area shape="rect" id="node5" href="$xmipp__image_8h.html" title="core/xmipp_image.h" alt="" coords="979,363,1117,389"/>
+<area shape="rect" id="node38" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1649,288,1799,315"/>
+<area shape="rect" id="node41" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="94,661,247,688"/>
+<area shape="rect" id="node42" href="$mask_8h.html" title="data/mask.h" alt="" coords="927,213,1022,240"/>
+<area shape="rect" id="node48" href="$polar_8h.html" title="data/polar.h" alt="" coords="401,512,492,539"/>
+<area shape="rect" id="node6" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="949,512,1094,539"/>
+<area shape="rect" id="node7" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="667,736,786,763"/>
+<area shape="rect" id="node34" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="851,437,1010,464"/>
+<area shape="rect" id="node35" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1481,661,1583,688"/>
+<area shape="rect" id="node30" href="$transformations_8h.html" title="transformations.h" alt="" coords="820,587,943,613"/>
+<area shape="rect" id="node32" href="$metadata_8h.html" title="metadata.h" alt="" coords="1607,661,1694,688"/>
+<area shape="rect" id="node8" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="662,811,791,837"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1460,1109,1575,1136"/>
+<area shape="rect" id="node11" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="585,885,668,912"/>
+<area shape="rect" id="node29" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="815,811,897,837"/>
+<area shape="rect" id="node28" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="475,960,613,987"/>
+<area shape="rect" id="node19" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="850,1035,974,1061"/>
+<area shape="rect" id="node23" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="605,1035,723,1061"/>
+<area shape="rect" id="node25" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1605,1035,1707,1061"/>
+<area shape="rect" id="node31" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="477,661,643,688"/>
+<area shape="rect" id="node37" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="1219,885,1341,912"/>
+<area shape="rect" id="node39" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="1677,363,1771,389"/>
+<area shape="rect" id="node40" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="1796,363,1943,389"/>
+<area shape="rect" id="node43" href="$blobs_8h.html" title="blobs.h" alt="" coords="1341,661,1405,688"/>
+<area shape="rect" id="node45" href="$args_8h.html" title="core/args.h" alt="" coords="1670,960,1757,987"/>
+<area shape="rect" id="node46" href="$libraries_2data_2wavelet_8h.html" title="wavelet.h" alt="" coords="271,661,350,688"/>
+<area shape="rect" id="node47" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="1156,288,1335,315"/>
+<area shape="rect" id="node49" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="314,587,441,613"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/aiterative_alignment_tests.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/aiterative_alignment_tests.h">
+<area shape="rect" id="node2" href="$gtest_8h.html" title="gtest/gtest.h" alt="" coords="996,325,1091,351"/>
+<area shape="rect" id="node26" href="$alignment__test__utils_8h.html" title="alignment_test_utils.h" alt="" coords="1769,325,1918,351"/>
+<area shape="rect" id="node33" href="$iterative__alignment__estimator_8h.html" title="reconstruction/iterative\l_alignment_estimator.h" alt="" coords="2307,139,2465,180"/>
+<area shape="rect" id="node43" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="2873,325,3041,351"/>
+<area shape="rect" id="node47" href="$bspline__geo__transformer_8h.html" title="reconstruction/bspline\l_geo_transformer.h" alt="" coords="2610,228,2759,269"/>
+<area shape="rect" id="node49" href="$cpu_8h.html" title="data/cpu.h" alt="" coords="2766,325,2849,351"/>
+<area shape="rect" id="node50" href="$amerit__computer_8h.html" title="amerit_computer.h" alt="" coords="2313,325,2443,351"/>
+<area shape="rect" id="node28" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="1479,407,1626,433"/>
+<area shape="rect" id="node31" href="$point2D_8h.html" title="data/point2D.h" alt="" coords="1911,407,2018,433"/>
+<area shape="rect" id="node32" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="2159,407,2287,433"/>
+<area shape="rect" id="node29" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="1373,481,1503,508"/>
+<area shape="rect" id="node30" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1621,481,1716,508"/>
+<area shape="rect" id="node34" href="$arotation__estimator_8h.html" title="arotation_estimator.h" alt="" coords="1993,325,2137,351"/>
+<area shape="rect" id="node38" href="$align__type_8h.html" title="align_type.h" alt="" coords="2043,407,2135,433"/>
+<area shape="rect" id="node39" href="$ashift__estimator_8h.html" title="ashift_estimator.h" alt="" coords="2161,325,2288,351"/>
+<area shape="rect" id="node40" href="$alignment__estimation_8h.html" title="data/alignment_estimation.h" alt="" coords="2129,235,2315,262"/>
+<area shape="rect" id="node41" href="$transformations_8h.html" title="core/transformations.h" alt="" coords="1566,235,1718,262"/>
+<area shape="rect" id="node42" href="$filters_8h.html" title="data/filters.h" alt="" coords="2339,235,2433,262"/>
+<area shape="rect" id="node45" href="$ctpl__stl_8h.html" title="CTPL/ctpl_stl.h" alt="" coords="2628,325,2741,351"/>
+<area shape="rect" id="node35" href="$hw_8h.html" title="data/hw.h" alt="" coords="2613,407,2692,433"/>
+<area shape="rect" id="node37" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="2487,407,2589,433"/>
+<area shape="rect" id="node48" href="$ageo__transformer_8h.html" title="reconstruction/ageo\l_transformer.h" alt="" coords="2467,317,2603,359"/>
+</map>

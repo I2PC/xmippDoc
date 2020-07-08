@@ -1,0 +1,17 @@
+<map id="ProgRecFourierGPU" name="ProgRecFourierGPU">
+<area shape="rect" id="node13" href="$structRecFourierWorkThread.html" title="RecFourierWorkThread" alt="" coords="171,600,329,627"/>
+<area shape="rect" id="node2" href="$classProgReconsBase.html" title="ProgReconsBase" alt="" coords="281,414,405,441"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="289,288,397,315"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="297,199,389,225"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="181,95,260,121"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="131,5,209,32"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="234,5,309,32"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="349,95,449,121"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="88,414,167,441"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="5,288,68,315"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="135,288,213,315"/>
+<area shape="rect" id="node14" href="$structRecFourierBufferData.html" title="RecFourierBufferData" alt="" coords="383,511,533,537"/>
+<area shape="rect" id="node15" href="$structRecFourierProjectionTraverseSpace.html" title="RecFourierProjectionTraverse\lSpace" alt="" coords="430,407,625,448"/>
+<area shape="rect" id="node16" href="$classPoint3D.html" title="Point3D\&lt; float \&gt;" alt="" coords="468,288,587,315"/>
+<area shape="rect" id="node17" href="$structPoint.html" title="Point" alt="" coords="501,199,553,225"/>
+</map>

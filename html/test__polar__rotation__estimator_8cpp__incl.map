@@ -1,0 +1,25 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/test_polar_rotation_estimator.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/test_polar_rotation_estimator.cpp">
+<area shape="rect" id="node2" href="$cpu_8h.html" title="data/cpu.h" alt="" coords="869,332,952,359"/>
+<area shape="rect" id="node13" href="$polar__rotation__estimator_8h.html" title="reconstruction/polar\l_rotation_estimator.h" alt="" coords="933,153,1077,195"/>
+<area shape="rect" id="node31" href="$arotation__estimator__tests_8h.html" title="arotation_estimator\l_tests.h" alt="" coords="1168,243,1301,284"/>
+<area shape="rect" id="node5" href="$hw_8h.html" title="hw.h" alt="" coords="771,407,821,433"/>
+<area shape="rect" id="node8" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="845,407,976,433"/>
+<area shape="rect" id="node10" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="924,481,1039,508"/>
+<area shape="rect" id="node14" href="$arotation__estimator_8cpp.html" title="arotation_estimator.cpp" alt="" coords="985,250,1143,277"/>
+<area shape="rect" id="node21" href="$polar_8h.html" title="data/polar.h" alt="" coords="624,250,715,277"/>
+<area shape="rect" id="node15" href="$arotation__estimator_8h.html" title="arotation_estimator.h" alt="" coords="1143,332,1287,359"/>
+<area shape="rect" id="node16" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="1259,407,1387,433"/>
+<area shape="rect" id="node18" href="$align__type_8h.html" title="align_type.h" alt="" coords="1091,407,1183,433"/>
+<area shape="rect" id="node22" href="$xmipp__funcs_8h.html" title="core/xmipp_funcs.h" alt="" coords="976,332,1112,359"/>
+<area shape="rect" id="node24" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="517,407,664,433"/>
+<area shape="rect" id="node25" href="$transformations_8h.html" title="core/transformations.h" alt="" coords="328,332,480,359"/>
+<area shape="rect" id="node30" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="505,332,631,359"/>
+<area shape="rect" id="node26" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="34,481,214,508"/>
+<area shape="rect" id="node27" href="$kerneldiff1_8h.html" title="bilib/kerneldiff1.h" alt="" coords="213,407,333,433"/>
+<area shape="rect" id="node28" href="$changebasis_8h.html" title="bilib/changebasis.h" alt="" coords="5,407,139,433"/>
+<area shape="rect" id="node29" href="$pyramidtools_8h.html" title="bilib/pyramidtools.h" alt="" coords="358,407,493,433"/>
+<area shape="rect" id="node32" href="$gtest_8h.html" title="gtest/gtest.h" alt="" coords="2279,332,2374,359"/>
+<area shape="rect" id="node48" href="$xmipp__image_8h.html" title="core/xmipp_image.h" alt="" coords="707,332,845,359"/>
+<area shape="rect" id="node49" href="$alignment__test__utils_8h.html" title="alignment_test_utils.h" alt="" coords="1311,332,1460,359"/>
+<area shape="rect" id="node50" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="1668,332,1836,359"/>
+</map>

@@ -1,0 +1,47 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries">
+<area shape="rect" id="node2" href="dir_9a0b6e636bdf66dadc6d979f6c89d37b.html" title="classification" alt="" coords="171,447,269,495"/>
+<area shape="rect" id="node3" href="dir_f083b9d43eb51ff5c9ab4698ce0a19c4.html" title="data" alt="" coords="96,543,168,591"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000245_000068.html" title="3" alt="" coords="168,528,176,542"/>
+<area shape="rect" id="node14" href="dir_2ca3faed750ca2da231075e5badac96d.html" title="xmippCore" alt="" coords="656,639,741,687"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000245_000235.html" title="27" alt="" coords="631,643,645,658"/>
+<area shape="rect" id="edge27-headlabel" href="dir_000068_000235.html" title="146" alt="" coords="628,640,649,655"/>
+<area shape="rect" id="node4" href="dir_5a4ea5a3e5ada264fbe6f72d246e37a8.html" title="dimred" alt="" coords="389,447,461,495"/>
+<area shape="rect" id="edge28-headlabel" href="dir_000246_000068.html" title="6" alt="" coords="184,553,192,568"/>
+<area shape="rect" id="edge29-headlabel" href="dir_000246_000235.html" title="35" alt="" coords="648,614,663,628"/>
+<area shape="rect" id="node5" href="dir_b6de52a502f2e616d1283e11c6fb998b.html" title="interface" alt="" coords="293,447,365,495"/>
+<area shape="rect" id="edge30-headlabel" href="dir_000243_000235.html" title="21" alt="" coords="633,634,647,649"/>
+<area shape="rect" id="node6" href="dir_744935a42828986eaac506b1ccfd1d77.html" title="parallel" alt="" coords="200,255,272,303"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000251_000245.html" title="3" alt="" coords="228,422,236,436"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000251_000068.html" title="25" alt="" coords="116,515,131,530"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000251_000243.html" title="1" alt="" coords="314,419,322,434"/>
+<area shape="rect" id="node8" href="dir_36a774f45692ae2527792ff0fdfc392f.html" title="reconstruction" alt="" coords="308,351,412,399"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000251_000092.html" title="23" alt="" coords="313,326,328,340"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000251_000235.html" title="42" alt="" coords="725,619,739,634"/>
+<area shape="rect" id="node7" href="dir_2148d747dc822dcd4a0cce8a2e6058e3.html" title="parallel_adapt_cuda" alt="" coords="197,63,334,111"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000252_000068.html" title="1" alt="" coords="104,516,112,530"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000252_000251.html" title="1" alt="" coords="244,230,252,245"/>
+<area shape="rect" id="node9" href="dir_27ad12a96f13835c1c4e3812757d4516.html" title="reconstruction_adapt_cuda" alt="" coords="261,159,440,207"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000252_000253.html" title="1" alt="" coords="320,132,328,147"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000252_000235.html" title="3" alt="" coords="757,652,765,667"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000092_000245.html" title="8" alt="" coords="270,436,278,451"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000092_000068.html" title="293" alt="" coords="129,517,151,532"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000092_000246.html" title="1" alt="" coords="402,419,410,434"/>
+<area shape="rect" id="edge22-headlabel" href="dir_000092_000243.html" title="3" alt="" coords="347,425,355,439"/>
+<area shape="rect" id="node11" href="dir_a6f0843bfeb18ef467df23d307d1da8c.html" title="CTPL" alt="" coords="493,447,565,495"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000092_000002.html" title="4" alt="" coords="477,426,485,440"/>
+<area shape="rect" id="node12" href="dir_c1f35c60d3a5ad04ce6251391132afb4.html" title="external" alt="" coords="589,447,661,495"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000092_000238.html" title="10" alt="" coords="568,430,582,444"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000092_000235.html" title="584" alt="" coords="704,615,726,629"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000253_000068.html" title="12" alt="" coords="113,515,127,530"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000253_000092.html" title="9" alt="" coords="330,324,338,338"/>
+<area shape="rect" id="node10" href="dir_cea46c19f77d3b59b0da57d3427c5972.html" title="reconstruction_cuda" alt="" coords="323,255,461,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000253_000247.html" title="16" alt="" coords="375,227,390,242"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000253_000235.html" title="18" alt="" coords="754,642,769,656"/>
+<area shape="rect" id="edge25-headlabel" href="dir_000247_000068.html" title="4" alt="" coords="127,516,135,530"/>
+<area shape="rect" id="edge23-headlabel" href="dir_000247_000092.html" title="11" alt="" coords="374,329,389,343"/>
+<area shape="rect" id="node13" href="dir_b0a46cfd3ec86c9908cb88c14deecd67.html" title="cuFFTAdvisor" alt="" coords="659,351,763,399"/>
+<area shape="rect" id="edge24-headlabel" href="dir_000247_000003.html" title="3" alt="" coords="640,336,648,350"/>
+<area shape="rect" id="edge26-headlabel" href="dir_000247_000235.html" title="14" alt="" coords="754,628,768,643"/>
+<area shape="rect" id="clust2" href="dir_c1f8b3d1b5354b6c120dfc6668096234.html" alt="" coords="27,52,472,601"/>
+<area shape="rect" id="clust1" href="dir_51a4fe91bde3feaf0f23bad87d0144e4.html" title="xmipp" alt="" coords="16,16,483,612"/>
+</map>

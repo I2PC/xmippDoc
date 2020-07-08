@@ -1,0 +1,25 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/test_cuda_volume_halves_restoration.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/test_cuda_volume_halves_restoration.cpp">
+<area shape="rect" id="node2" href="$gtest_8h.html" title="gtest/gtest.h" alt="" coords="1001,660,1095,687"/>
+<area shape="rect" id="node28" href="$cuda__volume__halves__restorator_8h.html" title="reconstruction_cuda\l/cuda_volume_halves\l_restorator.h" alt="" coords="1511,392,1659,448"/>
+<area shape="rect" id="node43" href="$volume__halves__restoration_8h.html" title="reconstruction/volume\l_halves_restoration.h" alt="" coords="1783,153,1934,195"/>
+<area shape="rect" id="node29" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="2203,503,2349,530"/>
+<area shape="rect" id="node36" href="$cuda__fft_8h.html" title="reconstruction_cuda\l/cuda_fft.h" alt="" coords="1492,496,1631,537"/>
+<area shape="rect" id="node42" href="$cuda__cdf_8h.html" title="cuda_cdf.h" alt="" coords="1381,503,1467,530"/>
+<area shape="rect" id="node30" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="2134,585,2263,612"/>
+<area shape="rect" id="node31" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="2287,585,2382,612"/>
+<area shape="rect" id="node32" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="2053,735,2168,761"/>
+<area shape="rect" id="node33" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="2457,660,2540,687"/>
+<area shape="rect" id="node34" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="2457,585,2540,612"/>
+<area shape="rect" id="node35" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1907,660,2008,687"/>
+<area shape="rect" id="node38" href="$aft_8h.html" title="data/aft.h" alt="" coords="1381,585,1459,612"/>
+<area shape="rect" id="node39" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="1715,660,1883,687"/>
+<area shape="rect" id="node40" href="$optional_8h.html" title="core/optional.h" alt="" coords="1253,660,1360,687"/>
+<area shape="rect" id="node41" href="$gpu_8h.html" title="gpu.h" alt="" coords="1534,585,1589,612"/>
+<area shape="rect" id="node44" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1902,317,2053,344"/>
+<area shape="rect" id="node49" href="$mask_8h.html" title="data/mask.h" alt="" coords="1769,243,1863,269"/>
+<area shape="rect" id="node50" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="2191,317,2318,344"/>
+<area shape="rect" id="node45" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="1930,407,2025,433"/>
+<area shape="rect" id="node46" href="$metadata_8h.html" title="metadata.h" alt="" coords="1553,660,1639,687"/>
+<area shape="rect" id="node47" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="2221,407,2331,433"/>
+<area shape="rect" id="node48" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="2049,407,2196,433"/>
+</map>

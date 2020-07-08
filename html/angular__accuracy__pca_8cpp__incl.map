@@ -1,0 +1,37 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/angular_accuracy_pca.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/angular_accuracy_pca.cpp">
+<area shape="rect" id="node2" href="$angular__accuracy__pca_8h.html" title="angular_accuracy_pca.h" alt="" coords="2077,139,2240,165"/>
+<area shape="rect" id="node46" href="$transformations_8h.html" title="transformations.h" alt="" coords="709,363,832,389"/>
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1726,437,1877,464"/>
+<area shape="rect" id="node31" href="$basic__pca_8h.html" title="data/basic_pca.h" alt="" coords="2102,512,2223,539"/>
+<area shape="rect" id="node32" href="$projection_8h.html" title="data/projection.h" alt="" coords="1793,288,1911,315"/>
+<area shape="rect" id="node40" href="$filters_8h.html" title="data/filters.h" alt="" coords="1321,213,1415,240"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="1983,512,2078,539"/>
+<area shape="rect" id="node5" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1751,736,1852,763"/>
+<area shape="rect" id="node7" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1225,811,1340,837"/>
+<area shape="rect" id="node9" href="$metadata_8h.html" title="metadata.h" alt="" coords="1549,512,1635,539"/>
+<area shape="rect" id="node15" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1311,512,1422,539"/>
+<area shape="rect" id="node29" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="1761,512,1908,539"/>
+<area shape="rect" id="node16" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="951,587,1070,613"/>
+<area shape="rect" id="node17" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="655,661,785,688"/>
+<area shape="rect" id="node18" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1050,661,1145,688"/>
+<area shape="rect" id="node19" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="892,736,975,763"/>
+<area shape="rect" id="node20" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="361,661,444,688"/>
+<area shape="rect" id="node24" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="184,736,317,763"/>
+<area shape="rect" id="node25" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="342,736,461,763"/>
+<area shape="rect" id="node26" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="745,736,869,763"/>
+<area shape="rect" id="node33" href="$xmipp__threads_8h.html" title="core/xmipp_threads.h" alt="" coords="1889,363,2036,389"/>
+<area shape="rect" id="node34" href="$grids_8h.html" title="grids.h" alt="" coords="2060,363,2121,389"/>
+<area shape="rect" id="node38" href="$basis_8h.html" title="basis.h" alt="" coords="1751,363,1815,389"/>
+<area shape="rect" id="node39" href="$fourier__projection_8h.html" title="data/fourier_projection.h" alt="" coords="1565,363,1726,389"/>
+<area shape="rect" id="node35" href="$geometry_8h.html" title="geometry.h" alt="" coords="1615,437,1702,464"/>
+<area shape="rect" id="node36" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="1069,512,1235,539"/>
+<area shape="rect" id="node37" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="1095,587,1220,613"/>
+<area shape="rect" id="node42" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="1066,437,1185,464"/>
+<area shape="rect" id="node43" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="335,512,489,539"/>
+<area shape="rect" id="node44" href="$mask_8h.html" title="data/mask.h" alt="" coords="1245,363,1339,389"/>
+<area shape="rect" id="node45" href="$polar_8h.html" title="data/polar.h" alt="" coords="983,288,1073,315"/>
+<area shape="rect" id="node47" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="565,512,745,539"/>
+<area shape="rect" id="node48" href="$kerneldiff1_8h.html" title="bilib/kerneldiff1.h" alt="" coords="711,437,831,464"/>
+<area shape="rect" id="node49" href="$changebasis_8h.html" title="bilib/changebasis.h" alt="" coords="401,437,535,464"/>
+<area shape="rect" id="node50" href="$pyramidtools_8h.html" title="bilib/pyramidtools.h" alt="" coords="855,437,990,464"/>
+</map>

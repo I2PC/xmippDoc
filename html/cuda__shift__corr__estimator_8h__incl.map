@@ -1,0 +1,21 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_shift_corr_estimator.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_shift_corr_estimator.h">
+<area shape="rect" id="node3" href="$ashift__corr__estimator_8h.html" title="reconstruction/ashift\l_corr_estimator.h" alt="" coords="502,139,642,180"/>
+<area shape="rect" id="node19" href="$fft__settings__new_8h.html" title="data/fft_settings_new.h" alt="" coords="133,317,291,344"/>
+<area shape="rect" id="node26" href="$cuda__fft_8h.html" title="cuda_fft.h" alt="" coords="936,146,1016,173"/>
+<area shape="rect" id="node33" href="$gpu_8h.html" title="gpu.h" alt="" coords="1146,235,1201,262"/>
+<area shape="rect" id="node36" href="$cuda__single__extrema__finder_8h.html" title="cuda_single_extrema\l_finder.h" alt="" coords="1166,139,1311,180"/>
+<area shape="rect" id="node4" href="$ashift__estimator_8h.html" title="ashift_estimator.h" alt="" coords="594,235,721,262"/>
+<area shape="rect" id="node22" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="401,235,569,262"/>
+<area shape="rect" id="node5" href="$hw_8h.html" title="data/hw.h" alt="" coords="758,317,837,344"/>
+<area shape="rect" id="node8" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="484,392,612,419"/>
+<area shape="rect" id="node10" href="$point2D_8h.html" title="data/point2D.h" alt="" coords="1416,317,1523,344"/>
+<area shape="rect" id="node13" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="1083,317,1213,344"/>
+<area shape="rect" id="node18" href="$align__type_8h.html" title="align_type.h" alt="" coords="642,317,734,344"/>
+<area shape="rect" id="node11" href="$libraries_2data_2point_8h.html" title="point.h" alt="" coords="1335,392,1396,419"/>
+<area shape="rect" id="node15" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="777,392,892,419"/>
+<area shape="rect" id="node29" href="$aft_8h.html" title="data/aft.h" alt="" coords="300,235,377,262"/>
+<area shape="rect" id="node30" href="$optional_8h.html" title="core/optional.h" alt="" coords="745,235,852,262"/>
+<area shape="rect" id="node37" href="$aextrema__finder_8h.html" title="reconstruction/aextrema\l_finder.h" alt="" coords="1276,228,1439,269"/>
+<area shape="rect" id="node38" href="$point3D_8h.html" title="data/point3D.h" alt="" coords="1547,317,1653,344"/>
+<area shape="rect" id="node39" href="$data_2cuda__compatibility_8h.html" title="cuda_compatibility.h" alt="" coords="1543,392,1684,419"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_adapt_cuda" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_adapt_cuda">
+<area shape="rect" id="node1" href="dir_27ad12a96f13835c1c4e3812757d4516.html" title="reconstruction_adapt_cuda" alt="" coords="27,52,205,100"/>
+<area shape="rect" id="node2" href="dir_36a774f45692ae2527792ff0fdfc392f.html" title="reconstruction" alt="" coords="29,244,133,292"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000253_000092.html" title="9" alt="" coords="85,218,93,233"/>
+<area shape="rect" id="node3" href="dir_cea46c19f77d3b59b0da57d3427c5972.html" title="reconstruction_cuda" alt="" coords="100,148,239,196"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000253_000247.html" title="16" alt="" coords="147,121,162,135"/>
+<area shape="rect" id="node4" href="dir_f083b9d43eb51ff5c9ab4698ce0a19c4.html" title="data" alt="" coords="115,340,187,388"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000253_000068.html" title="12" alt="" coords="187,326,202,340"/>
+<area shape="rect" id="node5" href="dir_2ca3faed750ca2da231075e5badac96d.html" title="xmippCore" alt="" coords="71,436,156,484"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000253_000235.html" title="18" alt="" coords="78,409,93,424"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000092_000068.html" title="293" alt="" coords="119,313,140,328"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000092_000235.html" title="584" alt="" coords="104,409,125,424"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000247_000092.html" title="11" alt="" coords="114,229,129,244"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000247_000068.html" title="4" alt="" coords="159,315,167,330"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000247_000235.html" title="14" alt="" coords="167,424,181,439"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000068_000235.html" title="146" alt="" coords="126,415,148,430"/>
+<area shape="rect" id="clust1" href="dir_c1f8b3d1b5354b6c120dfc6668096234.html" title="libraries" alt="" coords="16,16,216,111"/>
+</map>

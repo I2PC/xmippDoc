@@ -1,0 +1,29 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_gpu_geo_transformer.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_gpu_geo_transformer.cpp">
+<area shape="rect" id="node2" href="$cuda__gpu__geo__transformer_8h.html" title="cuda_gpu_geo_transformer.h" alt="" coords="660,139,851,165"/>
+<area shape="rect" id="node37" href="$cuda__asserts_8h.html" title="cuda_asserts.h" alt="" coords="1084,243,1195,269"/>
+<area shape="rect" id="node43" href="$cuda__all_8cpp.html" title="cuda_all.cpp" alt="" coords="1565,139,1660,165"/>
+<area shape="rect" id="node6" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="609,720,755,747"/>
+<area shape="rect" id="node21" href="$transformations_8h.html" title="core/transformations.h" alt="" coords="743,496,895,523"/>
+<area shape="rect" id="node30" href="$xmipp__image_8h.html" title="core/xmipp_image.h" alt="" coords="633,243,771,269"/>
+<area shape="rect" id="node34" href="$iirconvolve_8h.html" title="core/bilib/iirconvolve.h" alt="" coords="251,243,401,269"/>
+<area shape="rect" id="node35" href="$gpu__geo__transformer__defines_8h.html" title="reconstruction/gpu\l_geo_transformer_defines.h" alt="" coords="425,235,608,277"/>
+<area shape="rect" id="node36" href="$cuda__xmipp__utils_8h.html" title="cuda_xmipp_utils.h" alt="" coords="5,720,140,747"/>
+<area shape="rect" id="node7" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="481,795,611,821"/>
+<area shape="rect" id="node8" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="635,795,729,821"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="233,795,347,821"/>
+<area shape="rect" id="node13" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="725,869,807,896"/>
+<area shape="rect" id="node20" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="933,795,1015,821"/>
+<area shape="rect" id="node17" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="390,944,497,971"/>
+<area shape="rect" id="node19" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="521,944,659,971"/>
+<area shape="rect" id="node22" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="576,645,756,672"/>
+<area shape="rect" id="node23" href="$kerneldiff1_8h.html" title="bilib/kerneldiff1.h" alt="" coords="1034,571,1154,597"/>
+<area shape="rect" id="node24" href="$changebasis_8h.html" title="bilib/changebasis.h" alt="" coords="453,571,586,597"/>
+<area shape="rect" id="node25" href="$pyramidtools_8h.html" title="bilib/pyramidtools.h" alt="" coords="611,571,745,597"/>
+<area shape="rect" id="node26" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="933,645,1100,672"/>
+<area shape="rect" id="node27" href="$geometry_8h.html" title="geometry.h" alt="" coords="872,571,959,597"/>
+<area shape="rect" id="node28" href="$metadata_8h.html" title="metadata.h" alt="" coords="291,720,377,747"/>
+<area shape="rect" id="node31" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="512,421,657,448"/>
+<area shape="rect" id="node32" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="623,347,781,373"/>
+<area shape="rect" id="node33" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="164,720,267,747"/>
+<area shape="rect" id="node38" href="$cudaAsserts_8h.html" title="cuFFTAdvisor/cudaAsserts.h" alt="" coords="1043,347,1235,373"/>
+</map>

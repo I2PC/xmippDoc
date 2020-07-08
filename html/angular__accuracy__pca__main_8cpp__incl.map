@@ -1,0 +1,34 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/angular_accuracy_pca/angular_accuracy_pca_main.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/angular_accuracy_pca/angular_accuracy_pca_main.cpp">
+<area shape="rect" id="node2" href="$angular__accuracy__pca_8h.html" title="reconstruction/angular\l_accuracy_pca.h" alt="" coords="1053,153,1204,195"/>
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1352,392,1503,419"/>
+<area shape="rect" id="node36" href="$basic__pca_8h.html" title="data/basic_pca.h" alt="" coords="5,616,127,643"/>
+<area shape="rect" id="node37" href="$projection_8h.html" title="data/projection.h" alt="" coords="1069,243,1188,269"/>
+<area shape="rect" id="node45" href="$filters_8h.html" title="data/filters.h" alt="" coords="743,243,837,269"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="1753,541,1848,568"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="775,989,877,1016"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1110,1064,1225,1091"/>
+<area shape="rect" id="node13" href="$metadata_8h.html" title="metadata.h" alt="" coords="1408,840,1495,867"/>
+<area shape="rect" id="node24" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1015,467,1125,493"/>
+<area shape="rect" id="node34" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="2037,691,2183,717"/>
+<area shape="rect" id="node5" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="2020,915,2115,941"/>
+<area shape="rect" id="node21" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="669,915,775,941"/>
+<area shape="rect" id="node22" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1657,915,1768,941"/>
+<area shape="rect" id="node25" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="1017,616,1163,643"/>
+<area shape="rect" id="node26" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="548,691,667,717"/>
+<area shape="rect" id="node32" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="1103,541,1261,568"/>
+<area shape="rect" id="node33" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1052,840,1155,867"/>
+<area shape="rect" id="node27" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="543,765,672,792"/>
+<area shape="rect" id="node28" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="424,765,519,792"/>
+<area shape="rect" id="node29" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="470,840,553,867"/>
+<area shape="rect" id="node31" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="266,765,349,792"/>
+<area shape="rect" id="node38" href="$xmipp__threads_8h.html" title="core/xmipp_threads.h" alt="" coords="602,840,749,867"/>
+<area shape="rect" id="node40" href="$grids_8h.html" title="grids.h" alt="" coords="763,392,825,419"/>
+<area shape="rect" id="node43" href="$basis_8h.html" title="basis.h" alt="" coords="1395,317,1459,344"/>
+<area shape="rect" id="node44" href="$fourier__projection_8h.html" title="data/fourier_projection.h" alt="" coords="1108,317,1269,344"/>
+<area shape="rect" id="node41" href="$geometry_8h.html" title="geometry.h" alt="" coords="151,616,237,643"/>
+<area shape="rect" id="node42" href="$args_8h.html" title="core/args.h" alt="" coords="904,467,991,493"/>
+<area shape="rect" id="node47" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="512,392,631,419"/>
+<area shape="rect" id="node48" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="313,616,467,643"/>
+<area shape="rect" id="node49" href="$mask_8h.html" title="data/mask.h" alt="" coords="937,317,1032,344"/>
+<area shape="rect" id="node50" href="$polar_8h.html" title="data/polar.h" alt="" coords="734,616,825,643"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_rot_polar_estimator.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_rot_polar_estimator.h">
+<area shape="rect" id="node2" href="$arotation__estimator_8cpp.html" title="reconstruction/arotation\l_estimator.cpp" alt="" coords="939,139,1098,180"/>
+<area shape="rect" id="node17" href="$gpu_8h.html" title="reconstruction_cuda\l/gpu.h" alt="" coords="733,228,872,269"/>
+<area shape="rect" id="node18" href="$cuda__fft_8h.html" title="cuda_fft.h" alt="" coords="519,146,599,173"/>
+<area shape="rect" id="node34" href="$cuda__single__extrema__finder_8h.html" title="cuda_single_extrema\l_finder.h" alt="" coords="1122,139,1267,180"/>
+<area shape="rect" id="node3" href="$arotation__estimator_8h.html" title="arotation_estimator.h" alt="" coords="947,235,1091,262"/>
+<area shape="rect" id="node4" href="$hw_8h.html" title="data/hw.h" alt="" coords="742,317,821,344"/>
+<area shape="rect" id="node7" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="1168,392,1296,419"/>
+<area shape="rect" id="node9" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="845,317,976,344"/>
+<area shape="rect" id="node14" href="$align__type_8h.html" title="align_type.h" alt="" coords="1001,317,1093,344"/>
+<area shape="rect" id="node11" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="979,392,1093,419"/>
+<area shape="rect" id="node21" href="$aft_8h.html" title="data/aft.h" alt="" coords="141,235,219,262"/>
+<area shape="rect" id="node26" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="541,235,709,262"/>
+<area shape="rect" id="node29" href="$optional_8h.html" title="core/optional.h" alt="" coords="336,235,443,262"/>
+<area shape="rect" id="node24" href="$fft__settings__new_8h.html" title="data/fft_settings_new.h" alt="" coords="163,317,322,344"/>
+<area shape="rect" id="node35" href="$aextrema__finder_8h.html" title="reconstruction/aextrema\l_finder.h" alt="" coords="1165,228,1328,269"/>
+<area shape="rect" id="node36" href="$point3D_8h.html" title="data/point3D.h" alt="" coords="1500,317,1607,344"/>
+<area shape="rect" id="node37" href="$libraries_2data_2point_8h.html" title="point.h" alt="" coords="1448,392,1509,419"/>
+<area shape="rect" id="node38" href="$data_2cuda__compatibility_8h.html" title="cuda_compatibility.h" alt="" coords="1533,392,1675,419"/>
+</map>

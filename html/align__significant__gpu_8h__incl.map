@@ -1,0 +1,36 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_adapt_cuda/align_significant_gpu.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_adapt_cuda/align_significant_gpu.h">
+<area shape="rect" id="node2" href="$aalign__significant_8h.html" title="reconstruction/aalign\l_significant.h" alt="" coords="351,139,493,180"/>
+<area shape="rect" id="node30" href="$iterative__alignment__estimator_8h.html" title="reconstruction/iterative\l_alignment_estimator.h" alt="" coords="1251,139,1409,180"/>
+<area shape="rect" id="node38" href="$cuda__rot__polar__estimator_8h.html" title="reconstruction_cuda\l/cuda_rot_polar_estimator.h" alt="" coords="1885,139,2068,180"/>
+<area shape="rect" id="node44" href="$cuda__shift__corr__estimator_8h.html" title="reconstruction_cuda\l/cuda_shift_corr_estimator.h" alt="" coords="2289,139,2475,180"/>
+<area shape="rect" id="node48" href="$cuda__bspline__geo__transformer_8h.html" title="reconstruction_cuda\l/cuda_bspline_geo_transformer.h" alt="" coords="1433,139,1648,180"/>
+<area shape="rect" id="node49" href="$cuda__correlation__computer_8h.html" title="reconstruction_cuda\l/cuda_correlation_computer.h" alt="" coords="1469,228,1663,269"/>
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="421,325,572,351"/>
+<area shape="rect" id="node11" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="1674,407,1802,433"/>
+<area shape="rect" id="node13" href="$ctpl__stl_8h.html" title="CTPL/ctpl_stl.h" alt="" coords="853,325,967,351"/>
+<area shape="rect" id="node22" href="$cpu_8h.html" title="data/cpu.h" alt="" coords="1042,325,1125,351"/>
+<area shape="rect" id="node24" href="$alignment__estimation_8h.html" title="data/alignment_estimation.h" alt="" coords="395,235,580,262"/>
+<area shape="rect" id="node25" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="167,325,346,351"/>
+<area shape="rect" id="node26" href="$geometry_8h.html" title="geometry.h" alt="" coords="5,325,92,351"/>
+<area shape="rect" id="node27" href="$single__extrema__finder_8h.html" title="reconstruction/single\l_extrema_finder.h" alt="" coords="723,228,865,269"/>
+<area shape="rect" id="node29" href="$transformations_8h.html" title="transformations.h" alt="" coords="94,235,217,262"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="332,407,427,433"/>
+<area shape="rect" id="node5" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1497,407,1598,433"/>
+<area shape="rect" id="node6" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="745,481,859,508"/>
+<area shape="rect" id="node8" href="$metadata_8h.html" title="metadata.h" alt="" coords="87,407,173,433"/>
+<area shape="rect" id="node9" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="197,407,308,433"/>
+<area shape="rect" id="node10" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="502,407,649,433"/>
+<area shape="rect" id="node31" href="$arotation__estimator_8h.html" title="arotation_estimator.h" alt="" coords="1666,325,1810,351"/>
+<area shape="rect" id="node32" href="$align__type_8h.html" title="align_type.h" alt="" coords="1960,407,2052,433"/>
+<area shape="rect" id="node33" href="$ashift__estimator_8h.html" title="ashift_estimator.h" alt="" coords="2027,325,2153,351"/>
+<area shape="rect" id="node34" href="$filters_8h.html" title="data/filters.h" alt="" coords="604,235,699,262"/>
+<area shape="rect" id="node35" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="1834,325,2002,351"/>
+<area shape="rect" id="node36" href="$bspline__geo__transformer_8h.html" title="reconstruction/bspline\l_geo_transformer.h" alt="" coords="991,228,1141,269"/>
+<area shape="rect" id="node37" href="$amerit__computer_8h.html" title="amerit_computer.h" alt="" coords="1298,325,1429,351"/>
+<area shape="rect" id="node39" href="$arotation__estimator_8cpp.html" title="reconstruction/arotation\l_estimator.cpp" alt="" coords="1995,228,2153,269"/>
+<area shape="rect" id="node40" href="$gpu_8h.html" title="reconstruction_cuda\l/gpu.h" alt="" coords="1453,317,1591,359"/>
+<area shape="rect" id="node41" href="$cuda__fft_8h.html" title="cuda_fft.h" alt="" coords="1839,235,1919,262"/>
+<area shape="rect" id="node43" href="$cuda__single__extrema__finder_8h.html" title="cuda_single_extrema\l_finder.h" alt="" coords="2444,228,2589,269"/>
+<area shape="rect" id="node46" href="$ashift__corr__estimator_8h.html" title="reconstruction/ashift\l_corr_estimator.h" alt="" coords="2177,228,2317,269"/>
+<area shape="rect" id="node47" href="$fft__settings__new_8h.html" title="data/fft_settings_new.h" alt="" coords="2177,325,2336,351"/>
+</map>

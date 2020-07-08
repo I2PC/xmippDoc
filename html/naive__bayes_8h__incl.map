@@ -1,0 +1,19 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/classification/naive_bayes.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/classification/naive_bayes.h">
+<area shape="rect" id="node4" href="$matrix2d_8h.html" title="core/matrix2d.h" alt="" coords="1151,363,1263,389"/>
+<area shape="rect" id="node19" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="1569,437,1652,464"/>
+<area shape="rect" id="node31" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="351,139,470,165"/>
+<area shape="rect" id="node8" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="1357,437,1491,464"/>
+<area shape="rect" id="node9" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1602,587,1721,613"/>
+<area shape="rect" id="node11" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1070,587,1194,613"/>
+<area shape="rect" id="node17" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="525,661,627,688"/>
+<area shape="rect" id="node14" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="332,736,447,763"/>
+<area shape="rect" id="node22" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="864,512,971,539"/>
+<area shape="rect" id="node26" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="1357,512,1496,539"/>
+<area shape="rect" id="node28" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="1368,587,1491,613"/>
+<area shape="rect" id="node32" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="239,288,358,315"/>
+<area shape="rect" id="node35" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="181,213,347,240"/>
+<area shape="rect" id="node37" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="375,437,497,464"/>
+<area shape="rect" id="node33" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="234,363,363,389"/>
+<area shape="rect" id="node34" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="43,363,138,389"/>
+<area shape="rect" id="node36" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="5,288,131,315"/>
+</map>

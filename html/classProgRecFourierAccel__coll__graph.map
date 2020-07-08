@@ -1,0 +1,17 @@
+<map id="ProgRecFourierAccel" name="ProgRecFourierAccel">
+<area shape="rect" id="node13" href="$structLoadThreadParams.html" title="LoadThreadParams" alt="" coords="1371,75,1505,101"/>
+<area shape="rect" id="node2" href="$classProgReconsBase.html" title="ProgReconsBase" alt="" coords="857,129,981,156"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="619,148,727,175"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="428,148,520,175"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="187,121,265,148"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="5,96,84,123"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="7,147,82,173"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="176,172,276,199"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="879,75,958,101"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="641,97,704,124"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="633,25,712,52"/>
+<area shape="rect" id="node14" href="$structProjectionData.html" title="ProjectionData" alt="" coords="1126,215,1234,241"/>
+<area shape="rect" id="node15" href="$structArray2D.html" title="Array2D\&lt; std::complex\l\&lt; float \&gt; \&gt;" alt="" coords="840,181,997,222"/>
+<area shape="rect" id="node16" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="850,247,987,273"/>
+<area shape="rect" id="node17" href="$structArray2D.html" title="Array2D\&lt; float \&gt;" alt="" coords="859,301,978,328"/>
+</map>

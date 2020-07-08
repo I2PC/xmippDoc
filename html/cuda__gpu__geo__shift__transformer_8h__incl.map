@@ -1,0 +1,19 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_gpu_geo_shift_transformer.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_gpu_geo_shift_transformer.h">
+<area shape="rect" id="node4" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="1020,146,1167,173"/>
+<area shape="rect" id="node36" href="$gpu__geo__transformer__defines_8h.html" title="reconstruction/gpu\l_geo_transformer_defines.h" alt="" coords="1453,139,1635,180"/>
+<area shape="rect" id="node37" href="$cuda__xmipp__utils_8h.html" title="cuda_xmipp_utils.h" alt="" coords="1191,146,1326,173"/>
+<area shape="rect" id="node39" href="$gpu_8h.html" title="gpu.h" alt="" coords="150,146,205,173"/>
+<area shape="rect" id="node5" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="1029,228,1158,255"/>
+<area shape="rect" id="node6" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1182,228,1277,255"/>
+<area shape="rect" id="node7" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1092,601,1207,628"/>
+<area shape="rect" id="node11" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="521,303,604,329"/>
+<area shape="rect" id="node31" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="923,228,1005,255"/>
+<area shape="rect" id="node15" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="996,377,1103,404"/>
+<area shape="rect" id="node28" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="600,377,739,404"/>
+<area shape="rect" id="node19" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1141,452,1265,479"/>
+<area shape="rect" id="node23" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="739,452,858,479"/>
+<area shape="rect" id="node25" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="413,527,515,553"/>
+<area shape="rect" id="node30" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="403,452,525,479"/>
+<area shape="rect" id="node33" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="628,303,761,329"/>
+<area shape="rect" id="node40" href="$hw_8h.html" title="data/hw.h" alt="" coords="99,228,178,255"/>
+</map>

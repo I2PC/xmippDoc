@@ -1,0 +1,34 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/classify_first_split.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/classify_first_split.h">
+<area shape="rect" id="node2" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1999,288,2150,315"/>
+<area shape="rect" id="node41" href="$mask_8h.html" title="data/mask.h" alt="" coords="859,139,954,165"/>
+<area shape="rect" id="node50" href="$basic__pca_8h.html" title="data/basic_pca.h" alt="" coords="2362,512,2483,539"/>
+<area shape="rect" id="node3" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="2191,437,2286,464"/>
+<area shape="rect" id="node6" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1147,885,1248,912"/>
+<area shape="rect" id="node8" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1231,960,1345,987"/>
+<area shape="rect" id="node12" href="$metadata_8h.html" title="metadata.h" alt="" coords="1493,587,1579,613"/>
+<area shape="rect" id="node27" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1078,363,1189,389"/>
+<area shape="rect" id="node40" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="2057,363,2204,389"/>
+<area shape="rect" id="node4" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="2101,736,2195,763"/>
+<area shape="rect" id="node20" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1180,811,1287,837"/>
+<area shape="rect" id="node24" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1922,661,2033,688"/>
+<area shape="rect" id="node23" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="398,885,522,912"/>
+<area shape="rect" id="node26" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="1270,736,1391,763"/>
+<area shape="rect" id="node28" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="953,512,1098,539"/>
+<area shape="rect" id="node29" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="762,587,881,613"/>
+<area shape="rect" id="node37" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="946,437,1105,464"/>
+<area shape="rect" id="node39" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1062,587,1165,613"/>
+<area shape="rect" id="node36" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="561,587,687,613"/>
+<area shape="rect" id="node30" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="827,661,957,688"/>
+<area shape="rect" id="node31" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="602,661,697,688"/>
+<area shape="rect" id="node32" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="523,736,605,763"/>
+<area shape="rect" id="node35" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="721,661,804,688"/>
+<area shape="rect" id="node34" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="296,811,435,837"/>
+<area shape="rect" id="node38" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="551,512,718,539"/>
+<area shape="rect" id="node42" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="650,437,769,464"/>
+<area shape="rect" id="node43" href="$blobs_8h.html" title="blobs.h" alt="" coords="971,213,1035,240"/>
+<area shape="rect" id="node45" href="$args_8h.html" title="core/args.h" alt="" coords="763,363,850,389"/>
+<area shape="rect" id="node48" href="$libraries_2data_2wavelet_8h.html" title="wavelet.h" alt="" coords="245,512,323,539"/>
+<area shape="rect" id="node49" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="272,288,451,315"/>
+<area shape="rect" id="node44" href="$grids_8h.html" title="grids.h" alt="" coords="1099,288,1160,315"/>
+<area shape="rect" id="node46" href="$xmipp__image__over_8h.html" title="xmipp_image_over.h" alt="" coords="931,288,1074,315"/>
+</map>

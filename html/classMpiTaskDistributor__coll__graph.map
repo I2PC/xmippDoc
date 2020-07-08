@@ -1,0 +1,6 @@
+<map id="MpiTaskDistributor" name="MpiTaskDistributor">
+<area shape="rect" id="node2" href="$classThreadTaskDistributor.html" title="ThreadTaskDistributor" alt="" coords="73,95,223,121"/>
+<area shape="rect" id="node3" href="$classParallelTaskDistributor.html" title="ParallelTaskDistributor" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node4" href="$classMutex.html" title="Mutex" alt="" coords="184,5,243,32"/>
+<area shape="rect" id="node5" href="$classMpiNode.html" title="MpiNode" alt="" coords="248,95,323,121"/>
+</map>

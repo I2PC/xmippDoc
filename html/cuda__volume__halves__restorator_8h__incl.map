@@ -1,0 +1,24 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_volume_halves_restorator.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_volume_halves_restorator.h">
+<area shape="rect" id="node3" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="1208,139,1354,165"/>
+<area shape="rect" id="node34" href="$cuda__fft_8h.html" title="reconstruction_cuda\l/cuda_fft.h" alt="" coords="404,363,542,404"/>
+<area shape="rect" id="node50" href="$cuda__cdf_8h.html" title="cuda_cdf.h" alt="" coords="1379,139,1466,165"/>
+<area shape="rect" id="node4" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="2066,213,2195,240"/>
+<area shape="rect" id="node5" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1120,213,1215,240"/>
+<area shape="rect" id="node6" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1274,601,1389,628"/>
+<area shape="rect" id="node10" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="1628,288,1710,315"/>
+<area shape="rect" id="node29" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="1240,213,1322,240"/>
+<area shape="rect" id="node14" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1389,370,1496,397"/>
+<area shape="rect" id="node26" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="1600,370,1738,397"/>
+<area shape="rect" id="node18" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1270,452,1394,479"/>
+<area shape="rect" id="node22" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1584,452,1703,479"/>
+<area shape="rect" id="node24" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="630,527,732,553"/>
+<area shape="rect" id="node28" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="930,452,1053,479"/>
+<area shape="rect" id="node31" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="901,288,1034,315"/>
+<area shape="rect" id="node36" href="$aft_8h.html" title="data/aft.h" alt="" coords="106,452,184,479"/>
+<area shape="rect" id="node44" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="1077,452,1245,479"/>
+<area shape="rect" id="node46" href="$optional_8h.html" title="core/optional.h" alt="" coords="208,452,314,479"/>
+<area shape="rect" id="node49" href="$gpu_8h.html" title="gpu.h" alt="" coords="414,452,468,479"/>
+<area shape="rect" id="node38" href="$hw_8h.html" title="hw.h" alt="" coords="385,527,436,553"/>
+<area shape="rect" id="node40" href="$fft__settings__new_8h.html" title="data/fft_settings_new.h" alt="" coords="151,527,310,553"/>
+<area shape="rect" id="node41" href="$dimensions_8h.html" title="dimensions.h" alt="" coords="181,601,280,628"/>
+</map>

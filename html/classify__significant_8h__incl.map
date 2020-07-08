@@ -1,0 +1,35 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/classify_significant.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/classify_significant.h">
+<area shape="rect" id="node2" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="818,363,969,389"/>
+<area shape="rect" id="node36" href="$fourier__projection_8h.html" title="data/fourier_projection.h" alt="" coords="1125,288,1286,315"/>
+<area shape="rect" id="node40" href="$fourier__filter_8h.html" title="data/fourier_filter.h" alt="" coords="1311,139,1441,165"/>
+<area shape="rect" id="node42" href="$filters_8h.html" title="filters.h" alt="" coords="1495,213,1561,240"/>
+<area shape="rect" id="node3" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="823,437,918,464"/>
+<area shape="rect" id="node6" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1160,960,1261,987"/>
+<area shape="rect" id="node8" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1153,1035,1268,1061"/>
+<area shape="rect" id="node12" href="$metadata_8h.html" title="metadata.h" alt="" coords="546,661,633,688"/>
+<area shape="rect" id="node26" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1071,437,1182,464"/>
+<area shape="rect" id="node35" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="689,512,836,539"/>
+<area shape="rect" id="node4" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="1105,811,1199,837"/>
+<area shape="rect" id="node20" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1295,885,1401,912"/>
+<area shape="rect" id="node23" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="695,736,806,763"/>
+<area shape="rect" id="node22" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1286,960,1410,987"/>
+<area shape="rect" id="node25" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="857,811,978,837"/>
+<area shape="rect" id="node27" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="1063,587,1209,613"/>
+<area shape="rect" id="node28" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="1801,661,1919,688"/>
+<area shape="rect" id="node32" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="1165,512,1323,539"/>
+<area shape="rect" id="node34" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1114,661,1217,688"/>
+<area shape="rect" id="node29" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="1859,811,1941,837"/>
+<area shape="rect" id="node31" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="1780,736,1863,763"/>
+<area shape="rect" id="node30" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="2000,885,2139,912"/>
+<area shape="rect" id="node33" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="1635,587,1802,613"/>
+<area shape="rect" id="node37" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="1465,512,1591,539"/>
+<area shape="rect" id="node39" href="$xmipp__fft_8h.html" title="xmipp_fft.h" alt="" coords="1386,587,1473,613"/>
+<area shape="rect" id="node41" href="$ctf_8h.html" title="data/ctf.h" alt="" coords="968,288,1045,315"/>
+<area shape="rect" id="node44" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="1659,512,1778,539"/>
+<area shape="rect" id="node45" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="2133,587,2286,613"/>
+<area shape="rect" id="node46" href="$mask_8h.html" title="data/mask.h" alt="" coords="1738,288,1833,315"/>
+<area shape="rect" id="node50" href="$polar_8h.html" title="data/polar.h" alt="" coords="1483,437,1573,464"/>
+<area shape="rect" id="node47" href="$blobs_8h.html" title="blobs.h" alt="" coords="1968,363,2032,389"/>
+<area shape="rect" id="node48" href="$args_8h.html" title="core/args.h" alt="" coords="2323,885,2410,912"/>
+<area shape="rect" id="node49" href="$libraries_2data_2wavelet_8h.html" title="wavelet.h" alt="" coords="2030,587,2109,613"/>
+</map>

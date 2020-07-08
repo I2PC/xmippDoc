@@ -1,0 +1,25 @@
+<map id="MpiProgAngularAccuracyPCA" name="MpiProgAngularAccuracyPCA">
+<area shape="rect" id="node2" href="$classProgAngularAccuracyPCA.html" title="ProgAngularAccuracyPCA" alt="" coords="1220,241,1396,268"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="957,95,1065,121"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="688,95,780,121"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="395,44,473,71"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="172,15,251,41"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="174,65,249,92"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="384,95,484,121"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="395,145,473,172"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="180,137,243,164"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="172,337,251,364"/>
+<area shape="rect" id="node19" href="$classImageBase.html" title="Image base class. " alt="" coords="690,495,778,521"/>
+<area shape="rect" id="node20" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="379,495,489,521"/>
+<area shape="rect" id="node13" href="$classPCAMahalanobisAnalyzer.html" title="PCAMahalanobisAnalyzer" alt="" coords="924,328,1099,355"/>
+<area shape="rect" id="node14" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="665,303,803,329"/>
+<area shape="rect" id="node15" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="652,405,816,432"/>
+<area shape="rect" id="node18" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="951,451,1071,477"/>
+<area shape="rect" id="node16" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="368,352,500,379"/>
+<area shape="rect" id="node17" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="664,353,804,380"/>
+<area shape="rect" id="node21" href="$classMDRow.html" title="MDRow" alt="" coords="399,545,469,572"/>
+<area shape="rect" id="node22" href="$classMDObject.html" title="MDObject" alt="" coords="171,545,252,572"/>
+<area shape="rect" id="node23" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,545,93,572"/>
+<area shape="rect" id="node24" href="$structArrayDim.html" title="ArrayDim" alt="" coords="395,596,473,623"/>
+<area shape="rect" id="node25" href="$classMpiNode.html" title="MpiNode" alt="" coords="1271,292,1345,319"/>
+</map>

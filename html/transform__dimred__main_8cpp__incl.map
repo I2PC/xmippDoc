@@ -1,0 +1,36 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/transform_dimred/transform_dimred_main.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/transform_dimred/transform_dimred_main.cpp">
+<area shape="rect" id="node2" href="$transform__dimred_8h.html" title="dimred/transform_dimred.h" alt="" coords="1067,139,1244,165"/>
+<area shape="rect" id="node3" href="$metadata_8h.html" title="core/metadata.h" alt="" coords="1112,437,1228,464"/>
+<area shape="rect" id="node22" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1232,363,1383,389"/>
+<area shape="rect" id="node27" href="$mask_8h.html" title="data/mask.h" alt="" coords="543,288,637,315"/>
+<area shape="rect" id="node34" href="$filters_8h.html" title="data/filters.h" alt="" coords="689,213,784,240"/>
+<area shape="rect" id="node38" href="$matrix__dimred_8h.html" title="matrix_dimred.h" alt="" coords="1929,213,2043,240"/>
+<area shape="rect" id="node14" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="531,512,638,539"/>
+<area shape="rect" id="node20" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1347,661,1462,688"/>
+<area shape="rect" id="node21" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1555,512,1665,539"/>
+<area shape="rect" id="node19" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1442,587,1543,613"/>
+<area shape="rect" id="node23" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="1605,437,1700,464"/>
+<area shape="rect" id="node24" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="744,437,855,464"/>
+<area shape="rect" id="node26" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="1725,437,1871,464"/>
+<area shape="rect" id="node25" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="337,512,456,539"/>
+<area shape="rect" id="node28" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="235,437,401,464"/>
+<area shape="rect" id="node29" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="205,363,324,389"/>
+<area shape="rect" id="node30" href="$blobs_8h.html" title="blobs.h" alt="" coords="557,363,621,389"/>
+<area shape="rect" id="node31" href="$args_8h.html" title="core/args.h" alt="" coords="663,512,749,539"/>
+<area shape="rect" id="node32" href="$libraries_2data_2wavelet_8h.html" title="wavelet.h" alt="" coords="400,363,479,389"/>
+<area shape="rect" id="node33" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="849,363,1027,389"/>
+<area shape="rect" id="node36" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="5,437,159,464"/>
+<area shape="rect" id="node37" href="$polar_8h.html" title="data/polar.h" alt="" coords="578,437,669,464"/>
+<area shape="rect" id="node39" href="$dimred_2pca_8h.html" title="pca.h" alt="" coords="1959,363,2013,389"/>
+<area shape="rect" id="node40" href="$npe_8h.html" title="npe.h" alt="" coords="2080,288,2135,315"/>
+<area shape="rect" id="node41" href="$spe_8h.html" title="spe.h" alt="" coords="2159,288,2213,315"/>
+<area shape="rect" id="node42" href="$lpp_8h.html" title="lpp.h" alt="" coords="2238,288,2289,315"/>
+<area shape="rect" id="node43" href="$ltsa_8h.html" title="ltsa.h" alt="" coords="2332,363,2387,389"/>
+<area shape="rect" id="node44" href="$gplvm_8h.html" title="gplvm.h" alt="" coords="1988,288,2056,315"/>
+<area shape="rect" id="node45" href="$lltsa_8h.html" title="lltsa.h" alt="" coords="2364,288,2421,315"/>
+<area shape="rect" id="node46" href="$kernelPCA_8h.html" title="kernelPCA.h" alt="" coords="2446,288,2542,315"/>
+<area shape="rect" id="node47" href="$hessianLLE_8h.html" title="hessianLLE.h" alt="" coords="1345,288,1446,315"/>
+<area shape="rect" id="node48" href="$diffusionMaps_8h.html" title="diffusionMaps.h" alt="" coords="1470,288,1585,315"/>
+<area shape="rect" id="node49" href="$probabilisticPCA_8h.html" title="probabilisticPCA.h" alt="" coords="1609,288,1739,315"/>
+<area shape="rect" id="node50" href="$laplacianEigenmaps_8h.html" title="laplacianEigenmaps.h" alt="" coords="1763,288,1913,315"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_single_extrema_finder.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda/cuda_single_extrema_finder.h">
+<area shape="rect" id="node2" href="$gpu_8h.html" title="reconstruction_cuda\l/gpu.h" alt="" coords="176,153,315,195"/>
+<area shape="rect" id="node15" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="684,161,852,187"/>
+<area shape="rect" id="node18" href="$aextrema__finder_8h.html" title="reconstruction/aextrema\l_finder.h" alt="" coords="399,153,561,195"/>
+<area shape="rect" id="node4" href="$hw_8h.html" title="data/hw.h" alt="" coords="254,243,333,269"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="99,243,229,269"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="183,317,297,344"/>
+<area shape="rect" id="node19" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="497,243,625,269"/>
+<area shape="rect" id="node21" href="$point3D_8h.html" title="data/point3D.h" alt="" coords="777,243,884,269"/>
+<area shape="rect" id="node22" href="$libraries_2data_2point_8h.html" title="point.h" alt="" coords="696,317,757,344"/>
+<area shape="rect" id="node23" href="$data_2cuda__compatibility_8h.html" title="cuda_compatibility.h" alt="" coords="781,317,923,344"/>
+</map>

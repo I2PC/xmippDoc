@@ -1,0 +1,15 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/classification/map.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/classification/map.h">
+<area shape="rect" id="node2" href="$batch__som_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/batch_som.h" alt="" coords="5,257,169,343"/>
+<area shape="rect" id="node4" href="$som_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification/som.h" alt="" coords="167,131,357,202"/>
+<area shape="rect" id="node6" href="$fuzzy__som_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/fuzzy_som.h" alt="" coords="381,124,545,209"/>
+<area shape="rect" id="node8" href="$kerdensom_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/kerdensom.h" alt="" coords="569,124,733,209"/>
+<area shape="rect" id="node14" href="$map_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/map.cpp" alt="" coords="757,124,921,209"/>
+<area shape="rect" id="node3" href="$batch__som_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/batch_som.cpp" alt="" coords="5,391,169,476"/>
+<area shape="rect" id="node5" href="$som_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/som.cpp" alt="" coords="193,257,357,343"/>
+<area shape="rect" id="node7" href="$fuzzy__som_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/fuzzy_som.cpp" alt="" coords="381,257,545,343"/>
+<area shape="rect" id="node9" href="$gaussian__kerdensom_8h.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/gaussian_kerdensom.h" alt="" coords="569,257,733,343"/>
+<area shape="rect" id="node13" href="$kerdensom_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/kerdensom.cpp" alt="" coords="757,257,921,343"/>
+<area shape="rect" id="node10" href="$gaussian__kerdensom_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/classification\l/gaussian_kerdensom.cpp" alt="" coords="467,391,641,476"/>
+<area shape="rect" id="node11" href="$classify__kerdensom_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/libraries/reconstruction\l/classify_kerdensom.cpp" alt="" coords="665,391,832,476"/>
+<area shape="rect" id="node12" href="$classify__kerdensom__main_8cpp.html" title="/home/yunior/Yunior\l/Projects/Scipion/COSS\l/xmipp&#45;bundle/src/xmipp\l/applications/programs/classify\l_kerdensom/classify_kerdensom_main.cpp" alt="" coords="612,524,885,609"/>
+</map>

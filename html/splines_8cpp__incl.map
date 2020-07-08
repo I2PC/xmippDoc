@@ -1,0 +1,35 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/data/splines.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/data/splines.cpp">
+<area shape="rect" id="node2" href="$splines_8h.html" title="splines.h" alt="" coords="1045,124,1120,151"/>
+<area shape="rect" id="node48" href="$libraries_2data_2integration_8h.html" title="integration.h" alt="" coords="1693,647,1787,673"/>
+<area shape="rect" id="node3" href="$kernel_8h.html" title="core/bilib/kernel.h" alt="" coords="246,796,370,823"/>
+<area shape="rect" id="node4" href="$grids_8h.html" title="grids.h" alt="" coords="1052,199,1113,225"/>
+<area shape="rect" id="node6" href="$xmipp__image_8h.html" title="core/xmipp_image.h" alt="" coords="468,273,607,300"/>
+<area shape="rect" id="node34" href="$geometry_8h.html" title="geometry.h" alt="" coords="1483,572,1570,599"/>
+<area shape="rect" id="node47" href="$args_8h.html" title="core/args.h" alt="" coords="446,945,533,972"/>
+<area shape="rect" id="node7" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="767,423,913,449"/>
+<area shape="rect" id="node9" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="845,721,963,748"/>
+<area shape="rect" id="node45" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="458,348,617,375"/>
+<area shape="rect" id="node46" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="94,423,197,449"/>
+<area shape="rect" id="node8" href="$xmipp__image__macros_8h.html" title="xmipp_image_macros.h" alt="" coords="920,497,1080,524"/>
+<area shape="rect" id="node31" href="$transformations_8h.html" title="transformations.h" alt="" coords="1467,497,1589,524"/>
+<area shape="rect" id="node33" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="195,721,320,748"/>
+<area shape="rect" id="node35" href="$metadata_8h.html" title="metadata.h" alt="" coords="1375,871,1462,897"/>
+<area shape="rect" id="node38" href="$rwDM3_8h.html" title="rwDM3.h" alt="" coords="1269,497,1344,524"/>
+<area shape="rect" id="node39" href="$rwDM4_8h.html" title="rwDM4.h" alt="" coords="1368,497,1443,524"/>
+<area shape="rect" id="node40" href="$rwIMAGIC_8h.html" title="rwIMAGIC.h" alt="" coords="327,497,422,524"/>
+<area shape="rect" id="node41" href="$rwMRC_8h.html" title="rwMRC.h" alt="" coords="446,497,525,524"/>
+<area shape="rect" id="node42" href="$rwINF_8h.html" title="rwINF.h" alt="" coords="549,497,619,524"/>
+<area shape="rect" id="node43" href="$rwRAW_8h.html" title="rwRAW.h" alt="" coords="643,497,722,524"/>
+<area shape="rect" id="node44" href="$rwSPIDER_8h.html" title="rwSPIDER.h" alt="" coords="747,497,845,524"/>
+<area shape="rect" id="node10" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="737,796,866,823"/>
+<area shape="rect" id="node11" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="557,1095,672,1121"/>
+<area shape="rect" id="node14" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="608,871,691,897"/>
+<area shape="rect" id="node26" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="960,796,1043,823"/>
+<area shape="rect" id="node18" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1011,945,1117,972"/>
+<area shape="rect" id="node25" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="848,945,987,972"/>
+<area shape="rect" id="node20" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="955,1020,1079,1047"/>
+<area shape="rect" id="node22" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1103,1020,1222,1047"/>
+<area shape="rect" id="node23" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="672,1020,773,1047"/>
+<area shape="rect" id="node28" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="853,871,987,897"/>
+<area shape="rect" id="node32" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="921,647,1087,673"/>
+</map>

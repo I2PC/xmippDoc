@@ -1,0 +1,22 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/test_cuda_polar_rotation_estimator.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/test_cuda_polar_rotation_estimator.cpp">
+<area shape="rect" id="node2" href="$gpu_8h.html" title="reconstruction_cuda\l/gpu.h" alt="" coords="2194,332,2333,373"/>
+<area shape="rect" id="node12" href="$cuda__rot__polar__estimator_8h.html" title="reconstruction_cuda\l/cuda_rot_polar_estimator.h" alt="" coords="2279,153,2461,195"/>
+<area shape="rect" id="node31" href="$arotation__estimator__tests_8h.html" title="arotation_estimator\l_tests.h" alt="" coords="1382,243,1515,284"/>
+<area shape="rect" id="node4" href="$hw_8h.html" title="data/hw.h" alt="" coords="2296,421,2375,448"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="1989,421,2119,448"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1113,496,1227,523"/>
+<area shape="rect" id="node13" href="$arotation__estimator_8cpp.html" title="reconstruction/arotation\l_estimator.cpp" alt="" coords="2349,243,2508,284"/>
+<area shape="rect" id="node18" href="$cuda__fft_8h.html" title="cuda_fft.h" alt="" coords="1925,250,2005,277"/>
+<area shape="rect" id="node29" href="$cuda__single__extrema__finder_8h.html" title="cuda_single_extrema\l_finder.h" alt="" coords="2533,243,2679,284"/>
+<area shape="rect" id="node14" href="$arotation__estimator_8h.html" title="arotation_estimator.h" alt="" coords="2357,339,2501,366"/>
+<area shape="rect" id="node15" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="2143,421,2271,448"/>
+<area shape="rect" id="node21" href="$aft_8h.html" title="data/aft.h" alt="" coords="2018,339,2095,366"/>
+<area shape="rect" id="node22" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="1365,339,1533,366"/>
+<area shape="rect" id="node24" href="$optional_8h.html" title="core/optional.h" alt="" coords="1557,339,1663,366"/>
+<area shape="rect" id="node30" href="$aextrema__finder_8h.html" title="reconstruction/aextrema\l_finder.h" alt="" coords="2525,332,2687,373"/>
+<area shape="rect" id="node32" href="$gtest_8h.html" title="gtest/gtest.h" alt="" coords="805,339,900,366"/>
+<area shape="rect" id="node47" href="$transformations_8h.html" title="core/transformations.h" alt="" coords="925,339,1077,366"/>
+<area shape="rect" id="node48" href="$xmipp__image_8h.html" title="core/xmipp_image.h" alt="" coords="1101,339,1239,366"/>
+<area shape="rect" id="node49" href="$alignment__test__utils_8h.html" title="alignment_test_utils.h" alt="" coords="1687,339,1837,366"/>
+<area shape="rect" id="node50" href="$cpu_8h.html" title="data/cpu.h" alt="" coords="1911,339,1994,366"/>
+</map>

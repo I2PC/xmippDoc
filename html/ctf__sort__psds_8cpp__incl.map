@@ -1,0 +1,34 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/ctf_sort_psds.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/ctf_sort_psds.cpp">
+<area shape="rect" id="node3" href="$ctf__sort__psds_8h.html" title="ctf_sort_psds.h" alt="" coords="1508,221,1620,247"/>
+<area shape="rect" id="node31" href="$ctf__enhance__psd_8h.html" title="ctf_enhance_psd.h" alt="" coords="1541,139,1673,165"/>
+<area shape="rect" id="node32" href="$ctf__estimate__from__micrograph_8h.html" title="ctf_estimate_from_micrograph.h" alt="" coords="2294,139,2503,165"/>
+<area shape="rect" id="node37" href="$args_8h.html" title="core/args.h" alt="" coords="565,556,651,583"/>
+<area shape="rect" id="node38" href="$filters_8h.html" title="filters.h" alt="" coords="1314,139,1379,165"/>
+<area shape="rect" id="node40" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="1162,310,1281,337"/>
+<area shape="rect" id="node45" href="$transformations_8h.html" title="transformations.h" alt="" coords="617,310,740,337"/>
+<area shape="rect" id="node4" href="$xmipp__funcs_8h.html" title="core/xmipp_funcs.h" alt="" coords="1472,631,1608,657"/>
+<area shape="rect" id="node16" href="$metadata_8h.html" title="core/metadata.h" alt="" coords="1855,399,1971,426"/>
+<area shape="rect" id="node27" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="1076,556,1223,583"/>
+<area shape="rect" id="node29" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1653,310,1803,337"/>
+<area shape="rect" id="node9" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="935,705,1059,732"/>
+<area shape="rect" id="node12" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1186,705,1305,732"/>
+<area shape="rect" id="node13" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1380,705,1481,732"/>
+<area shape="rect" id="node11" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1373,780,1488,807"/>
+<area shape="rect" id="node25" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="2331,481,2442,508"/>
+<area shape="rect" id="node26" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="2014,556,2135,583"/>
+<area shape="rect" id="node28" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="1204,631,1287,657"/>
+<area shape="rect" id="node30" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1263,399,1374,426"/>
+<area shape="rect" id="node33" href="$ctf__estimate__from__psd_8h.html" title="ctf_estimate_from_psd.h" alt="" coords="2315,221,2482,247"/>
+<area shape="rect" id="node34" href="$ctf__estimate__from__psd__base_8h.html" title="ctf_estimate_from_psd\l_base.h" alt="" coords="2436,392,2591,433"/>
+<area shape="rect" id="node35" href="$ctf__estimate__from__psd__fast_8h.html" title="ctf_estimate_from_psd\l_fast.h" alt="" coords="2436,303,2591,344"/>
+<area shape="rect" id="node36" href="$ctf__estimate__psd__with__arma_8h.html" title="ctf_estimate_psd_with\l_arma.h" alt="" coords="2138,213,2291,255"/>
+<area shape="rect" id="node42" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="1263,481,1417,508"/>
+<area shape="rect" id="node43" href="$mask_8h.html" title="data/mask.h" alt="" coords="1085,221,1179,247"/>
+<area shape="rect" id="node44" href="$polar_8h.html" title="data/polar.h" alt="" coords="856,221,947,247"/>
+<area shape="rect" id="node41" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="869,481,1035,508"/>
+<area shape="rect" id="node46" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="57,481,237,508"/>
+<area shape="rect" id="node47" href="$kerneldiff1_8h.html" title="bilib/kerneldiff1.h" alt="" coords="251,399,371,426"/>
+<area shape="rect" id="node48" href="$changebasis_8h.html" title="bilib/changebasis.h" alt="" coords="93,399,227,426"/>
+<area shape="rect" id="node49" href="$pyramidtools_8h.html" title="bilib/pyramidtools.h" alt="" coords="395,399,530,426"/>
+<area shape="rect" id="node50" href="$geometry_8h.html" title="geometry.h" alt="" coords="554,399,641,426"/>
+</map>

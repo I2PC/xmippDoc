@@ -1,0 +1,36 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmippCore/core/rwSPIDER.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmippCore/core/rwSPIDER.cpp">
+<area shape="rect" id="node2" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="1437,124,1582,151"/>
+<area shape="rect" id="node33" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="1614,423,1735,449"/>
+<area shape="rect" id="node3" href="$xmipp__image__macros_8h.html" title="xmipp_image_macros.h" alt="" coords="2473,199,2633,225"/>
+<area shape="rect" id="node4" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="483,423,602,449"/>
+<area shape="rect" id="node14" href="$transformations_8h.html" title="transformations.h" alt="" coords="583,199,705,225"/>
+<area shape="rect" id="node20" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="771,423,896,449"/>
+<area shape="rect" id="node23" href="$metadata_8h.html" title="metadata.h" alt="" coords="1259,273,1346,300"/>
+<area shape="rect" id="node37" href="$rwDM3_8h.html" title="rwDM3.h" alt="" coords="1153,199,1228,225"/>
+<area shape="rect" id="node38" href="$rwDM4_8h.html" title="rwDM4.h" alt="" coords="1252,199,1327,225"/>
+<area shape="rect" id="node39" href="$rwIMAGIC_8h.html" title="rwIMAGIC.h" alt="" coords="1351,199,1446,225"/>
+<area shape="rect" id="node40" href="$rwMRC_8h.html" title="rwMRC.h" alt="" coords="1470,199,1549,225"/>
+<area shape="rect" id="node41" href="$rwINF_8h.html" title="rwINF.h" alt="" coords="1573,199,1643,225"/>
+<area shape="rect" id="node42" href="$rwRAW_8h.html" title="rwRAW.h" alt="" coords="1667,199,1746,225"/>
+<area shape="rect" id="node43" href="$rwSPIDER_8h.html" title="rwSPIDER.h" alt="" coords="1771,199,1869,225"/>
+<area shape="rect" id="node44" href="$rwSPE_8h.html" title="rwSPE.h" alt="" coords="1893,199,1968,225"/>
+<area shape="rect" id="node45" href="$rwTIA_8h.html" title="rwTIA.h" alt="" coords="1993,199,2061,225"/>
+<area shape="rect" id="node46" href="$rwJPEG_8h.html" title="rwJPEG.h" alt="" coords="2085,199,2168,225"/>
+<area shape="rect" id="node47" href="$rwTIFF_8h.html" title="rwTIFF.h" alt="" coords="2192,199,2267,225"/>
+<area shape="rect" id="node48" href="$rwEM_8h.html" title="rwEM.h" alt="" coords="2291,199,2357,225"/>
+<area shape="rect" id="node49" href="$rwPIF_8h.html" title="rwPIF.h" alt="" coords="2382,199,2450,225"/>
+<area shape="rect" id="node50" href="$rwHDF5_8h.html" title="rwHDF5.h" alt="" coords="1047,199,1129,225"/>
+<area shape="rect" id="node5" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="342,497,471,524"/>
+<area shape="rect" id="node6" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="495,497,590,524"/>
+<area shape="rect" id="node7" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1387,497,1501,524"/>
+<area shape="rect" id="node9" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="587,572,669,599"/>
+<area shape="rect" id="node12" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="236,497,319,524"/>
+<area shape="rect" id="node10" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="880,647,987,673"/>
+<area shape="rect" id="node15" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="259,348,439,375"/>
+<area shape="rect" id="node16" href="$kerneldiff1_8h.html" title="bilib/kerneldiff1.h" alt="" coords="301,273,421,300"/>
+<area shape="rect" id="node17" href="$changebasis_8h.html" title="bilib/changebasis.h" alt="" coords="144,273,277,300"/>
+<area shape="rect" id="node18" href="$pyramidtools_8h.html" title="bilib/pyramidtools.h" alt="" coords="446,273,581,300"/>
+<area shape="rect" id="node19" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="526,348,693,375"/>
+<area shape="rect" id="node21" href="$geometry_8h.html" title="geometry.h" alt="" coords="758,273,845,300"/>
+<area shape="rect" id="node32" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1294,348,1405,375"/>
+</map>

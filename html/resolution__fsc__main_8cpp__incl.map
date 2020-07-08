@@ -1,0 +1,28 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/resolution_fsc/resolution_fsc_main.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/resolution_fsc/resolution_fsc_main.cpp">
+<area shape="rect" id="node2" href="$resolution__fsc_8cpp.html" title="reconstruction/resolution\l_fsc.cpp" alt="" coords="1466,139,1630,180"/>
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="210,228,361,255"/>
+<area shape="rect" id="node47" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="1899,377,2026,404"/>
+<area shape="rect" id="node50" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="1459,228,1637,255"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="195,303,290,329"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="731,825,832,852"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="611,900,725,927"/>
+<area shape="rect" id="node13" href="$metadata_8h.html" title="metadata.h" alt="" coords="813,676,899,703"/>
+<area shape="rect" id="node34" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="905,303,1015,329"/>
+<area shape="rect" id="node46" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="65,377,212,404"/>
+<area shape="rect" id="node5" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="195,751,290,777"/>
+<area shape="rect" id="node21" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1907,751,2013,777"/>
+<area shape="rect" id="node32" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="502,751,613,777"/>
+<area shape="rect" id="node26" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1679,825,1803,852"/>
+<area shape="rect" id="node30" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1537,825,1655,852"/>
+<area shape="rect" id="node35" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="946,452,1091,479"/>
+<area shape="rect" id="node36" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="1546,527,1665,553"/>
+<area shape="rect" id="node43" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="939,377,1098,404"/>
+<area shape="rect" id="node45" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="366,676,469,703"/>
+<area shape="rect" id="node42" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="1325,527,1451,553"/>
+<area shape="rect" id="node37" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="1427,601,1557,628"/>
+<area shape="rect" id="node38" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1581,601,1675,628"/>
+<area shape="rect" id="node39" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="1856,676,1939,703"/>
+<area shape="rect" id="node41" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="1700,601,1783,628"/>
+<area shape="rect" id="node44" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="1326,452,1493,479"/>
+<area shape="rect" id="node49" href="$xmipp__fft_8h.html" title="xmipp_fft.h" alt="" coords="1899,452,1986,479"/>
+</map>

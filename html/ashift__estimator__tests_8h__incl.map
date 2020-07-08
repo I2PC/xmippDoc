@@ -1,0 +1,20 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/ashift_estimator_tests.h" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/tests/function_tests/ashift_estimator_tests.h">
+<area shape="rect" id="node2" href="$gtest_8h.html" title="gtest/gtest.h" alt="" coords="909,377,1004,404"/>
+<area shape="rect" id="node27" href="$ashift__corr__estimator_8h.html" title="reconstruction/ashift\l_corr_estimator.h" alt="" coords="1533,213,1673,255"/>
+<area shape="rect" id="node41" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="1990,303,2158,329"/>
+<area shape="rect" id="node43" href="$alignment__test__utils_8h.html" title="alignment_test_utils.h" alt="" coords="2398,139,2547,165"/>
+<area shape="rect" id="node28" href="$ashift__estimator_8h.html" title="ashift_estimator.h" alt="" coords="1839,303,1965,329"/>
+<area shape="rect" id="node38" href="$fft__settings__new_8h.html" title="data/fft_settings_new.h" alt="" coords="1391,303,1549,329"/>
+<area shape="rect" id="node29" href="$hw_8h.html" title="data/hw.h" alt="" coords="1753,377,1832,404"/>
+<area shape="rect" id="node31" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="1601,377,1729,404"/>
+<area shape="rect" id="node32" href="$point2D_8h.html" title="data/point2D.h" alt="" coords="2159,377,2266,404"/>
+<area shape="rect" id="node35" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="2290,377,2421,404"/>
+<area shape="rect" id="node37" href="$align__type_8h.html" title="align_type.h" alt="" coords="1856,377,1948,404"/>
+<area shape="rect" id="node33" href="$libraries_2data_2point_8h.html" title="point.h" alt="" coords="2190,452,2251,479"/>
+<area shape="rect" id="node36" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="2275,452,2390,479"/>
+<area shape="rect" id="node44" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="2646,221,2793,247"/>
+<area shape="rect" id="node45" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="2703,303,2832,329"/>
+<area shape="rect" id="node46" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="2856,303,2951,329"/>
+<area shape="rect" id="node47" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="2597,377,2679,404"/>
+<area shape="rect" id="node50" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="2597,303,2679,329"/>
+</map>

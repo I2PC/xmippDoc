@@ -1,0 +1,15 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction_cuda">
+<area shape="rect" id="node1" href="dir_cea46c19f77d3b59b0da57d3427c5972.html" title="reconstruction_cuda" alt="" coords="160,52,299,100"/>
+<area shape="rect" id="node2" href="dir_36a774f45692ae2527792ff0fdfc392f.html" title="reconstruction" alt="" coords="5,148,109,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000247_000092.html" title="11" alt="" coords="112,139,127,154"/>
+<area shape="rect" id="node3" href="dir_b0a46cfd3ec86c9908cb88c14deecd67.html" title="cuFFTAdvisor" alt="" coords="133,148,237,196"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000247_000003.html" title="3" alt="" coords="207,128,215,142"/>
+<area shape="rect" id="node4" href="dir_f083b9d43eb51ff5c9ab4698ce0a19c4.html" title="data" alt="" coords="185,244,257,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000247_000068.html" title="4" alt="" coords="244,223,252,238"/>
+<area shape="rect" id="node5" href="dir_2ca3faed750ca2da231075e5badac96d.html" title="xmippCore" alt="" coords="179,340,264,388"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000247_000235.html" title="14" alt="" coords="252,323,267,338"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000092_000068.html" title="293" alt="" coords="163,222,184,237"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000092_000235.html" title="584" alt="" coords="185,313,207,328"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000068_000235.html" title="146" alt="" coords="219,314,240,329"/>
+<area shape="rect" id="clust1" href="dir_c1f8b3d1b5354b6c120dfc6668096234.html" title="libraries" alt="" coords="149,16,309,111"/>
+</map>

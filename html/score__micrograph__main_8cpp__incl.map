@@ -1,0 +1,32 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/score_micrograph/score_micrograph_main.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/applications/programs/score_micrograph/score_micrograph_main.cpp">
+<area shape="rect" id="node2" href="$score__micrograph_8h.html" title="reconstruction/score\l_micrograph.h" alt="" coords="763,153,903,195"/>
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="951,735,1101,761"/>
+<area shape="rect" id="node41" href="$ctf__estimate__from__micrograph_8h.html" title="ctf_estimate_from_micrograph.h" alt="" coords="657,243,867,269"/>
+<area shape="rect" id="node42" href="$ctf__estimate__from__psd_8h.html" title="ctf_estimate_from_psd.h" alt="" coords="821,317,988,344"/>
+<area shape="rect" id="node50" href="$ctf__sort__psds_8h.html" title="ctf_sort_psds.h" alt="" coords="453,653,565,679"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="1661,884,1756,911"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="890,1257,991,1284"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1218,1332,1333,1359"/>
+<area shape="rect" id="node13" href="$metadata_8h.html" title="metadata.h" alt="" coords="1137,1108,1224,1135"/>
+<area shape="rect" id="node32" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="924,809,1035,836"/>
+<area shape="rect" id="node40" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="1906,1033,2053,1060"/>
+<area shape="rect" id="node5" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="1856,1183,1951,1209"/>
+<area shape="rect" id="node21" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="390,1183,497,1209"/>
+<area shape="rect" id="node30" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1127,1183,1237,1209"/>
+<area shape="rect" id="node26" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="691,1257,815,1284"/>
+<area shape="rect" id="node28" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="548,1257,667,1284"/>
+<area shape="rect" id="node33" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="899,959,1044,985"/>
+<area shape="rect" id="node34" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="352,1033,471,1060"/>
+<area shape="rect" id="node38" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="853,884,1012,911"/>
+<area shape="rect" id="node39" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1677,1108,1780,1135"/>
+<area shape="rect" id="node35" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="341,1108,471,1135"/>
+<area shape="rect" id="node36" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="223,1108,317,1135"/>
+<area shape="rect" id="node37" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="115,1108,198,1135"/>
+<area shape="rect" id="node47" href="$ctf__estimate__from__psd__base_8h.html" title="ctf_estimate_from_psd\l_base.h" alt="" coords="726,481,881,523"/>
+<area shape="rect" id="node48" href="$ctf__estimate__from__psd__fast_8h.html" title="ctf_estimate_from_psd\l_fast.h" alt="" coords="611,392,766,433"/>
+<area shape="rect" id="node49" href="$ctf__estimate__psd__with__arma_8h.html" title="ctf_estimate_psd_with\l_arma.h" alt="" coords="588,645,741,687"/>
+<area shape="rect" id="node43" href="$fourier__filter_8h.html" title="data/fourier_filter.h" alt="" coords="738,571,869,597"/>
+<area shape="rect" id="node44" href="$ctf_8h.html" title="data/ctf.h" alt="" coords="765,653,842,679"/>
+<area shape="rect" id="node45" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="293,959,420,985"/>
+<area shape="rect" id="node46" href="$filters_8h.html" title="filters.h" alt="" coords="880,653,945,679"/>
+</map>

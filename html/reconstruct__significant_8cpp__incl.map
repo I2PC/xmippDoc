@@ -1,0 +1,35 @@
+<map id="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/reconstruct_significant.cpp" name="/home/yunior/Yunior/Projects/Scipion/COSS/xmipp&#45;bundle/src/xmipp/libraries/reconstruction/reconstruct_significant.cpp">
+<area shape="rect" id="node2" href="$reconstruct__significant_8h.html" title="reconstruct_significant.h" alt="" coords="1266,139,1430,165"/>
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="881,616,1031,643"/>
+<area shape="rect" id="node33" href="$filters_8h.html" title="data/filters.h" alt="" coords="373,467,467,493"/>
+<area shape="rect" id="node41" href="$angular__project__library_8h.html" title="angular_project_library.h" alt="" coords="1267,303,1429,329"/>
+<area shape="rect" id="node49" href="$volume__initial__simulated__annealing_8h.html" title="volume_initial_simulated\l_annealing.h" alt="" coords="1703,213,1867,255"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="811,691,906,717"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1115,1064,1216,1091"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="891,1139,1005,1165"/>
+<area shape="rect" id="node13" href="$metadata_8h.html" title="metadata.h" alt="" coords="1549,915,1635,941"/>
+<area shape="rect" id="node26" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="625,691,735,717"/>
+<area shape="rect" id="node32" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="925,765,1072,792"/>
+<area shape="rect" id="node5" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="771,989,866,1016"/>
+<area shape="rect" id="node21" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="2112,989,2219,1016"/>
+<area shape="rect" id="node24" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1339,989,1450,1016"/>
+<area shape="rect" id="node27" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="502,840,647,867"/>
+<area shape="rect" id="node28" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="366,915,485,941"/>
+<area shape="rect" id="node29" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="438,765,597,792"/>
+<area shape="rect" id="node31" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="634,915,737,941"/>
+<area shape="rect" id="node30" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="209,840,375,867"/>
+<area shape="rect" id="node35" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="207,691,326,717"/>
+<area shape="rect" id="node36" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="43,616,197,643"/>
+<area shape="rect" id="node37" href="$mask_8h.html" title="data/mask.h" alt="" coords="655,541,750,568"/>
+<area shape="rect" id="node40" href="$polar_8h.html" title="data/polar.h" alt="" coords="1365,840,1456,867"/>
+<area shape="rect" id="node38" href="$args_8h.html" title="core/args.h" alt="" coords="1302,915,1389,941"/>
+<area shape="rect" id="node39" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="1107,616,1285,643"/>
+<area shape="rect" id="node42" href="$sampling_8h.html" title="data/sampling.h" alt="" coords="1837,765,1952,792"/>
+<area shape="rect" id="node43" href="$ore_2core_2symmetries_8h.html" title="core/symmetries.h" alt="" coords="1632,840,1763,867"/>
+<area shape="rect" id="node44" href="$projection_8h.html" title="data/projection.h" alt="" coords="1162,467,1281,493"/>
+<area shape="rect" id="node46" href="$fourier__projection_8h.html" title="data/fourier_projection.h" alt="" coords="877,541,1038,568"/>
+<area shape="rect" id="node47" href="$project__real__shears_8h.html" title="reconstruction/project\l_real_shears.h" alt="" coords="1164,377,1311,419"/>
+<area shape="rect" id="node48" href="$project_8h.html" title="reconstruction/project.h" alt="" coords="1386,385,1545,411"/>
+<area shape="rect" id="node45" href="$xmipp__threads_8h.html" title="core/xmipp_threads.h" alt="" coords="1949,541,2096,568"/>
+<area shape="rect" id="node50" href="$reconstruct__fourier_8h.html" title="reconstruct_fourier.h" alt="" coords="1824,385,1965,411"/>
+</map>
