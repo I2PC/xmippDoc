@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classxmipp3_1_1wizards_1_1XmippVolumeMaskRadiusBasicWizard.html" title="xmipp3.wizards.XmippVolume\lMaskRadiusBasicWizard" alt="" coords="233,136,432,177"/>
-<area shape="rect" id="node3" href="$classxmipp3_1_1wizards_1_1XmippVolumeMaskRadiusWizard.html" title="xmipp3.wizards.XmippVolume\lMaskRadiusWizard" alt="" coords="480,71,679,112"/>
-<area shape="rect" id="node7" href="$classxmipp3_1_1wizards_1_1XmippVolumeMaskRadiusWizard2.html" title="xmipp3.wizards.XmippVolume\lMaskRadiusWizard2" alt="" coords="480,136,679,177"/>
-<area shape="rect" id="node8" href="$classxmipp3_1_1wizards_1_1XmippVolumeMaskRadiusWizard3.html" title="xmipp3.wizards.XmippVolume\lMaskRadiusWizard3" alt="" coords="480,201,679,243"/>
-<area shape="rect" id="node4" href="$classxmipp3_1_1wizards_1_1XmippVolumeInnerRadiusWizard.html" title="xmipp3.wizards.XmippVolume\lInnerRadiusWizard" alt="" coords="727,5,925,47"/>
-<area shape="rect" id="node5" href="$classxmipp3_1_1wizards_1_1XmippVolumeMaskRadiusProjMWizard.html" title="xmipp3.wizards.XmippVolume\lMaskRadiusProjMWizard" alt="" coords="727,71,925,112"/>
-<area shape="rect" id="node6" href="$classxmipp3_1_1wizards_1_1XmippVolumeOuterRadiusWizard.html" title="xmipp3.wizards.XmippVolume\lOuterRadiusWizard" alt="" coords="727,136,925,177"/>
-</map>

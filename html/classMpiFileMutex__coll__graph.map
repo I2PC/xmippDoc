@@ -1,4 +1,0 @@
-<map id="MpiFileMutex" name="MpiFileMutex">
-<area shape="rect" id="node2" href="$classMutex.html" title="Class wrapping around the pthreads mutex. " alt="" coords="5,5,64,32"/>
-<area shape="rect" id="node3" href="$classMpiNode.html" title="Class to wrapp some MPI common calls in an work node. " alt="" coords="88,5,163,32"/>
-</map>
