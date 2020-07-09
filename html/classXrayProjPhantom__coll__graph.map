@@ -1,0 +1,12 @@
+<map id="XrayProjPhantom" name="XrayProjPhantom">
+<area shape="rect" id="node2" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="185,409,305,436"/>
+<area shape="rect" id="node3" href="$classImageBase.html" title="Image base class. " alt="" coords="253,320,341,347"/>
+<area shape="rect" id="node4" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="5,222,137,249"/>
+<area shape="rect" id="node12" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="40,320,204,347"/>
+<area shape="rect" id="node5" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="161,222,272,249"/>
+<area shape="rect" id="node6" href="$classFileName.html" title="FileName" alt="" coords="233,95,312,121"/>
+<area shape="rect" id="node8" href="$classMDRow.html" title="MDRow" alt="" coords="432,222,503,249"/>
+<area shape="rect" id="node9" href="$classMDObject.html" title="MDObject" alt="" coords="427,95,508,121"/>
+<area shape="rect" id="node10" href="$unionObjectData.html" title="ObjectData" alt="" coords="423,5,511,32"/>
+<area shape="rect" id="node11" href="$structArrayDim.html" title="ArrayDim" alt="" coords="527,222,605,249"/>
+</map>

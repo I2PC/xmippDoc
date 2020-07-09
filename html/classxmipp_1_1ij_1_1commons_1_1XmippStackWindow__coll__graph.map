@@ -1,0 +1,12 @@
+<map id="xmipp.ij.commons.XmippStackWindow" name="xmipp.ij.commons.XmippStackWindow">
+<area shape="rect" id="node3" href="$interfacexmipp_1_1ij_1_1commons_1_1XmippIJWindow.html" title="xmipp.ij.commons.XmippIJWindow" alt="" coords="619,64,845,91"/>
+<area shape="rect" id="node4" href="$classxmipp_1_1ij_1_1commons_1_1XmippMenuBar.html" title="xmipp.ij.commons.XmippMenuBar" alt="" coords="993,509,1215,536"/>
+<area shape="rect" id="node9" href="$classxmipp_1_1ij_1_1commons_1_1PollTimer.html" title="xmipp.ij.commons.PollTimer" alt="" coords="639,545,825,572"/>
+<area shape="rect" id="node11" href="$classxmipp_1_1utils_1_1QuickHelpJDialog.html" title="xmipp.utils.QuickHelpJDialog" alt="" coords="635,596,829,623"/>
+<area shape="rect" id="node14" href="$classxmipp_1_1utils_1_1QuickHelpPane.html" title="xmipp.utils.QuickHelpPane" alt="" coords="311,596,491,623"/>
+<area shape="rect" id="node19" href="$classxmipp_1_1ij_1_1commons_1_1ImagePlusLoader.html" title="xmipp.ij.commons.ImagePlus\lLoader" alt="" coords="635,702,829,743"/>
+<area shape="rect" id="node20" href="$classxmipp_1_1ij_1_1commons_1_1ImagePlusReader.html" title="xmipp.ij.commons.ImagePlus\lReader" alt="" coords="304,795,499,837"/>
+<area shape="rect" id="node22" href="$classxmipp_1_1ij_1_1commons_1_1Geometry.html" title="xmipp.ij.commons.Geometry" alt="" coords="5,808,195,835"/>
+<area shape="rect" id="node23" href="$classxmipp_1_1jni_1_1ImageGeneric.html" title="xmipp.jni.ImageGeneric" alt="" coords="21,859,179,885"/>
+<area shape="rect" id="node25" href="$classxmipp_1_1utils_1_1Params.html" title="xmipp.utils.Params" alt="" coords="1037,859,1171,885"/>
+</map>

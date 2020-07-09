@@ -1,0 +1,4 @@
+<map id="xmipp3.protocols.protocol_preprocess.protocol_add_noise.XmippProtAddNoise" name="xmipp3.protocols.protocol_preprocess.protocol_add_noise.XmippProtAddNoise">
+<area shape="rect" id="node3" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__add__noise_1_1XmippProtAddNoiseParticles.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_add\l_noise.XmippProtAddNoiseParticles" alt="" coords="385,5,619,61"/>
+<area shape="rect" id="node4" href="$classxmipp3_1_1protocols_1_1protocol__preprocess_1_1protocol__add__noise_1_1XmippProtAddNoiseVolumes.html" title="xmipp3.protocols.protocol\l_preprocess.protocol_add\l_noise.XmippProtAddNoiseVolumes" alt="" coords="385,85,619,141"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="ProgVolumeToPseudoatoms" name="ProgVolumeToPseudoatoms">
+<area shape="rect" id="node8" href="$structProg__Convert__Vol2Pseudo__ThreadParams.html" title="Prog_Convert_Vol2Pseudo\l_ThreadParams" alt="" coords="1555,495,1733,537"/>
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="1039,195,1147,221"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="781,95,873,121"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="485,44,564,71"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="203,69,282,96"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="205,19,280,45"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="475,95,575,121"/>
+<area shape="rect" id="node9" href="$structmybarrier__t.html" title="mybarrier_t" alt="" coords="1050,340,1137,367"/>
+<area shape="rect" id="node10" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="1033,675,1153,701"/>
+<area shape="rect" id="node11" href="$classImageBase.html" title="Image base class. " alt="" coords="783,699,871,725"/>
+<area shape="rect" id="node12" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="177,383,309,409"/>
+<area shape="rect" id="node20" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="443,411,607,437"/>
+<area shape="rect" id="node23" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="455,347,595,373"/>
+<area shape="rect" id="node27" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="448,238,601,279"/>
+<area shape="rect" id="node13" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="469,864,580,891"/>
+<area shape="rect" id="node14" href="$classFileName.html" title="FileName" alt="" coords="203,867,282,893"/>
+<area shape="rect" id="node21" href="$classMask.html" title="Mask" alt="" coords="800,616,855,643"/>
+<area shape="rect" id="node24" href="$classFourierFilter.html" title="FourierFilter" alt="" coords="1048,391,1139,417"/>
+<area shape="rect" id="node16" href="$classMDRow.html" title="MDRow" alt="" coords="489,608,560,635"/>
+<area shape="rect" id="node17" href="$classMDObject.html" title="MDObject" alt="" coords="202,608,283,635"/>
+<area shape="rect" id="node18" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,608,93,635"/>
+<area shape="rect" id="node19" href="$structArrayDim.html" title="ArrayDim" alt="" coords="486,721,563,748"/>
+<area shape="rect" id="node26" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="761,309,893,336"/>
+<area shape="rect" id="node22" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="456,495,593,521"/>
+<area shape="rect" id="node25" href="$classXmippFilter.html" title="XmippFilter" alt="" coords="783,259,871,285"/>
+<area shape="rect" id="node28" href="$classCTFDescription.html" title="CTFDescription" alt="" coords="770,145,885,172"/>
+<area shape="rect" id="node29" href="$classCTFDescription1D.html" title="CTFDescription1D" alt="" coords="459,145,590,172"/>
+<area shape="rect" id="node30" href="$classPrecomputedForCTF.html" title="PrecomputedForCTF" alt="" coords="171,145,315,172"/>
+<area shape="rect" id="node31" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="759,452,896,479"/>
+</map>

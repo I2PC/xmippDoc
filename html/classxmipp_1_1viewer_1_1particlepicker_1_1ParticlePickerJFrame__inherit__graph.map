@@ -1,0 +1,5 @@
+<map id="xmipp.viewer.particlepicker.ParticlePickerJFrame" name="xmipp.viewer.particlepicker.ParticlePickerJFrame">
+<area shape="rect" id="node4" href="$classxmipp_1_1viewer_1_1particlepicker_1_1extract_1_1ExtractPickerJFrame.html" title="xmipp.viewer.particlepicker.extract.\lExtractPickerJFrame" alt="" coords="402,5,630,47"/>
+<area shape="rect" id="node5" href="$classxmipp_1_1viewer_1_1particlepicker_1_1tiltpair_1_1gui_1_1TiltPairPickerJFrame.html" title="xmipp.viewer.particlepicker.tiltpair.gui.\lTiltPairPickerJFrame" alt="" coords="394,71,638,112"/>
+<area shape="rect" id="node6" href="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1gui_1_1SupervisedPickerJFrame.html" title="xmipp.viewer.particlepicker.training.gui.\lSupervisedPickerJFrame" alt="" coords="391,136,641,177"/>
+</map>

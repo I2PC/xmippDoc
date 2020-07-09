@@ -1,0 +1,10 @@
+<map id="xmipp.viewer.particlepicker.tiltpair.model.UntiltedParticle" name="xmipp.viewer.particlepicker.tiltpair.model.UntiltedParticle">
+<area shape="rect" id="node2" href="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1ManualParticle.html" title="xmipp.viewer.particlepicker.training.model.\lManualParticle" alt="" coords="1056,234,1325,275"/>
+<area shape="rect" id="node3" href="$classxmipp_1_1viewer_1_1particlepicker_1_1PickerParticle.html" title="xmipp.viewer.particlepicker.\lPickerParticle" alt="" coords="784,57,968,98"/>
+<area shape="rect" id="node4" href="$classxmipp_1_1jni_1_1Particle.html" title="xmipp.jni.Particle" alt="" coords="463,5,586,32"/>
+<area shape="rect" id="node6" href="$classxmipp_1_1viewer_1_1particlepicker_1_1Micrograph.html" title="xmipp.viewer.particlepicker.\lMicrograph" alt="" coords="433,57,617,98"/>
+<area shape="rect" id="node7" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePicker.html" title="xmipp.viewer.particlepicker.\lParticlePicker" alt="" coords="784,234,968,275"/>
+<area shape="rect" id="node11" href="$enumxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1Mode.html" title="xmipp.viewer.particlepicker.training.model.Mode" alt="" coords="5,309,307,336"/>
+<area shape="rect" id="node13" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePickerParams.html" title="xmipp.viewer.particlepicker.\lParticlePickerParams" alt="" coords="433,354,617,395"/>
+<area shape="rect" id="node15" href="$classxmipp_1_1jni_1_1ImageGeneric.html" title="xmipp.jni.ImageGeneric" alt="" coords="797,300,955,327"/>
+</map>

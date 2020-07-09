@@ -1,0 +1,5 @@
+<map id="xmipp.utils.XmippMenuBarCreator" name="xmipp.utils.XmippMenuBarCreator">
+<area shape="rect" id="node4" href="$classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1GalleryMenu.html" title="xmipp.viewer.windows.Gallery\lJFrame.GalleryMenu" alt="" coords="19,244,218,285"/>
+<area shape="rect" id="node2" href="$classxmipp_1_1utils_1_1XmippMenuCreator.html" title="xmipp.utils.XmippMenuCreator" alt="" coords="18,80,219,107"/>
+<area shape="rect" id="node5" href="$classxmipp_1_1viewer_1_1scipion_1_1ScipionGalleryJFrame_1_1ScipionGalleryMenu.html" title="xmipp.viewer.scipion.Scipion\lGalleryJFrame.ScipionGalleryMenu" alt="" coords="5,333,232,375"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="xmipp.viewer.particlepicker.training.model.SupervisedParticlePicker" name="xmipp.viewer.particlepicker.training.model.SupervisedParticlePicker">
+<area shape="rect" id="node2" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePicker.html" title="xmipp.viewer.particlepicker.\lParticlePicker" alt="" coords="843,142,1027,183"/>
+<area shape="rect" id="node6" href="$enumxmipp_1_1viewer_1_1particlepicker_1_1training_1_1model_1_1Mode.html" title="xmipp.viewer.particlepicker.training.model.Mode" alt="" coords="5,192,307,219"/>
+<area shape="rect" id="node8" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePickerParams.html" title="xmipp.viewer.particlepicker.\lParticlePickerParams" alt="" coords="433,237,617,278"/>
+</map>

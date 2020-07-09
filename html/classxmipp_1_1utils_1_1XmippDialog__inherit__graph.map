@@ -1,0 +1,15 @@
+<map id="xmipp.utils.XmippDialog" name="xmipp.utils.XmippDialog">
+<area shape="rect" id="node4" href="$classxmipp_1_1utils_1_1XmippMessageDialog.html" title="xmipp.utils.XmippMessage\lDialog" alt="" coords="390,5,569,47"/>
+<area shape="rect" id="node6" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ImportParticlesJDialog.html" title="xmipp.viewer.particlepicker.\lImportParticlesJDialog" alt="" coords="387,71,571,112"/>
+<area shape="rect" id="node8" href="$classxmipp_1_1viewer_1_1windows_1_1AddFillLabelsJDialog.html" title="xmipp.viewer.windows.Add\lFillLabelsJDialog" alt="" coords="389,136,570,177"/>
+<area shape="rect" id="node9" href="$classxmipp_1_1viewer_1_1windows_1_1AddObjectJDialog.html" title="xmipp.viewer.windows.Add\lObjectJDialog" alt="" coords="389,201,570,243"/>
+<area shape="rect" id="node10" href="$classxmipp_1_1viewer_1_1windows_1_1ClassesJDialog.html" title="xmipp.viewer.windows.Classes\lJDialog" alt="" coords="376,267,583,308"/>
+<area shape="rect" id="node11" href="$classxmipp_1_1viewer_1_1windows_1_1ColumnsJDialog.html" title="xmipp.viewer.windows.Columns\lJDialog" alt="" coords="374,332,585,373"/>
+<area shape="rect" id="node12" href="$classxmipp_1_1viewer_1_1windows_1_1EditLabelsJDialog.html" title="xmipp.viewer.windows.Edit\lLabelsJDialog" alt="" coords="389,397,570,439"/>
+<area shape="rect" id="node13" href="$classxmipp_1_1viewer_1_1windows_1_1MDSearchJDialog.html" title="xmipp.viewer.windows.MDSearch\lJDialog" alt="" coords="369,463,589,504"/>
+<area shape="rect" id="node14" href="$classxmipp_1_1viewer_1_1windows_1_1PlotJDialog.html" title="xmipp.viewer.windows.Plot\lJDialog" alt="" coords="389,528,570,569"/>
+<area shape="rect" id="node15" href="$classxmipp_1_1viewer_1_1windows_1_1SaveJDialog.html" title="xmipp.viewer.windows.Save\lJDialog" alt="" coords="385,593,573,635"/>
+<area shape="rect" id="node5" href="$classxmipp_1_1utils_1_1XmippQuestionDialog.html" title="xmipp.utils.XmippQuestion\lDialog" alt="" coords="675,5,853,47"/>
+<area shape="rect" id="node7" href="$classxmipp_1_1viewer_1_1particlepicker_1_1tiltpair_1_1gui_1_1ImportParticlesFromFilesTiltPairJDialog.html" title="xmipp.viewer.particlepicker.tiltpair.gui.\lImportParticlesFromFilesTiltPairJDialog" alt="" coords="637,71,891,112"/>
+<area shape="rect" id="node16" href="$classxmipp_1_1viewer_1_1windows_1_1SaveImagesJDialog.html" title="xmipp.viewer.windows.Save\lImagesJDialog" alt="" coords="670,593,858,635"/>
+</map>

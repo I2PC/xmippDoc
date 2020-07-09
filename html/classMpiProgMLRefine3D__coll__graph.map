@@ -1,0 +1,22 @@
+<map id="MpiProgMLRefine3D" name="MpiProgMLRefine3D">
+<area shape="rect" id="node2" href="$classProgMLRefine3D.html" title="ProgMLRefine3D" alt="" coords="503,689,626,716"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="908,370,1016,397"/>
+<area shape="rect" id="node13" href="$classML2DBaseProgram.html" title="ML2DBaseProgram" alt="" coords="586,600,722,627"/>
+<area shape="rect" id="node21" href="$classMpiML2DBase.html" title="MpiML2DBase" alt="" coords="951,600,1059,627"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="916,213,1008,240"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="984,95,1063,121"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="933,5,1012,32"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="1037,5,1111,32"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="849,95,949,121"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="501,370,580,397"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="524,213,587,240"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="349,213,428,240"/>
+<area shape="rect" id="node17" href="$classSampling.html" title="Sampling" alt="" coords="204,370,280,397"/>
+<area shape="rect" id="node14" href="$classModelML2D.html" title="ModelML2D" alt="" coords="604,370,696,397"/>
+<area shape="rect" id="node15" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="720,370,884,397"/>
+<area shape="rect" id="node16" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="736,213,868,240"/>
+<area shape="rect" id="node18" href="$classSymList.html" title="SymList" alt="" coords="160,213,231,240"/>
+<area shape="rect" id="node19" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="5,95,143,121"/>
+<area shape="rect" id="node20" href="$classMatrix1D.html" title="Matrix1D\&lt; int \&gt;" alt="" coords="167,95,280,121"/>
+<area shape="rect" id="node22" href="$classMpiNode.html" title="MpiNode" alt="" coords="1041,370,1115,397"/>
+</map>

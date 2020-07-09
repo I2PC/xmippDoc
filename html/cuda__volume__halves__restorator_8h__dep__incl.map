@@ -1,0 +1,7 @@
+<map id="xmipp/libraries/reconstruction_cuda/cuda_volume_halves_restorator.h" name="xmipp/libraries/reconstruction_cuda/cuda_volume_halves_restorator.h">
+<area shape="rect" id="node2" href="$test__cuda__volume__halves__restoration_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_volume_halves\l_restoration.cpp" alt="" coords="5,95,183,165"/>
+<area shape="rect" id="node3" href="$volume__halves__restoration__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/volume_halves\l_restoration_gpu.h" alt="" coords="207,102,399,158"/>
+<area shape="rect" id="node6" href="$cuda__volume__halves__restorator_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_volume_halves_restorator.cpp" alt="" coords="424,109,695,151"/>
+<area shape="rect" id="node4" href="$cuda__volume__halves__restoration_8cpp.html" title="xmipp/applications\l/programs/cuda_volume\l_halves_restoration/cuda\l_volume_halves_restoration.cpp" alt="" coords="87,213,296,284"/>
+<area shape="rect" id="node5" href="$volume__halves__restoration__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/volume_halves\l_restoration_gpu.cpp" alt="" coords="321,221,513,277"/>
+</map>

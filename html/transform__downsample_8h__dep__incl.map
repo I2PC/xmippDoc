@@ -1,0 +1,7 @@
+<map id="xmipp/libraries/data/transform_downsample.h" name="xmipp/libraries/data/transform_downsample.h">
+<area shape="rect" id="node2" href="$transform__downsample__main_8cpp.html" title="xmipp/applications\l/programs/transform\l_downsample/transform\l_downsample_main.cpp" alt="" coords="5,95,168,165"/>
+<area shape="rect" id="node3" href="$test__ctf__main_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_ctf_main.cpp" alt="" coords="192,102,333,158"/>
+<area shape="rect" id="node4" href="$test__image__generic__main_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_image_generic_main.cpp" alt="" coords="357,102,555,158"/>
+<area shape="rect" id="node5" href="$transform__downsample_8cpp.html" title="xmipp/libraries/data\l/transform_downsample.cpp" alt="" coords="580,109,767,151"/>
+<area shape="rect" id="node6" href="$xmipp__ImageGeneric_8cpp.html" title="xmippViz/bindings/java\l/xmipp_ImageGeneric.cpp" alt="" coords="791,109,966,151"/>
+</map>

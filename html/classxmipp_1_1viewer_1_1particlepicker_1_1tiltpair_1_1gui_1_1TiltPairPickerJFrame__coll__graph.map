@@ -1,0 +1,8 @@
+<map id="xmipp.viewer.particlepicker.tiltpair.gui.TiltPairPickerJFrame" name="xmipp.viewer.particlepicker.tiltpair.gui.TiltPairPickerJFrame">
+<area shape="rect" id="node2" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePickerJFrame.html" title="xmipp.viewer.particlepicker.\lParticlePickerJFrame" alt="" coords="289,738,473,779"/>
+<area shape="rect" id="node14" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ImportParticlesJDialog.html" title="xmipp.viewer.particlepicker.\lImportParticlesJDialog" alt="" coords="645,367,829,409"/>
+<area shape="rect" id="node28" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlesDialog.html" title="xmipp.viewer.particlepicker.\lParticlesDialog" alt="" coords="645,869,829,910"/>
+<area shape="rect" id="node15" href="$classxmipp_1_1utils_1_1XmippDialog.html" title="xmipp.utils.XmippDialog" alt="" coords="299,173,462,200"/>
+<area shape="rect" id="node21" href="$classxmipp_1_1utils_1_1XmippFileChooser.html" title="xmipp.utils.XmippFileChooser" alt="" coords="283,5,479,32"/>
+<area shape="rect" id="node23" href="$enumxmipp_1_1viewer_1_1particlepicker_1_1Format.html" title="xmipp.viewer.particlepicker.\lFormat" alt="" coords="289,57,473,98"/>
+</map>

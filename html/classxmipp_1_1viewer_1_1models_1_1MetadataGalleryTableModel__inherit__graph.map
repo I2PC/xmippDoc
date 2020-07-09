@@ -1,0 +1,5 @@
+<map id="xmipp.viewer.models.MetadataGalleryTableModel" name="xmipp.viewer.models.MetadataGalleryTableModel">
+<area shape="rect" id="node4" href="$classxmipp_1_1viewer_1_1models_1_1MetadataTableModel.html" title="xmipp.viewer.models.Metadata\lTableModel" alt="" coords="5,259,208,300"/>
+<area shape="rect" id="node2" href="$classxmipp_1_1viewer_1_1models_1_1ImageGalleryTableModel.html" title="xmipp.viewer.models.Image\lGalleryTableModel" alt="" coords="14,80,199,121"/>
+<area shape="rect" id="node5" href="$classxmipp_1_1viewer_1_1models_1_1MetadataRowTableModel.html" title="xmipp.viewer.models.Metadata\lRowTableModel" alt="" coords="5,348,208,389"/>
+</map>
