@@ -1,0 +1,25 @@
+<map id="xmipp.viewer.windows.PlotJDialog" name="xmipp.viewer.windows.PlotJDialog">
+<area shape="rect" id="node2" href="$classxmipp_1_1utils_1_1XmippDialog.html" title="This class serve as a simple JDialog extension. " alt="" coords="558,221,721,248"/>
+<area shape="rect" id="node36" href="$classxmipp_1_1utils_1_1QuickHelpJDialog.html" title="xmipp.utils.QuickHelpJDialog" alt="" coords="542,484,737,511"/>
+<area shape="rect" id="node35" href="$classxmipp_1_1utils_1_1XmippMenuCreator.html" title="This a menu creator to provide some useful functions to define menu structures It will allow creation..." alt="" coords="220,272,421,299"/>
+<area shape="rect" id="node23" href="$classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame.html" title="This is the main frame used in showj. " alt="" coords="1230,646,1429,687"/>
+<area shape="rect" id="node37" href="$classxmipp_1_1utils_1_1QuickHelpPane.html" title="xmipp.utils.QuickHelpPane" alt="" coords="231,555,411,581"/>
+<area shape="rect" id="node10" href="$classxmipp_1_1viewer_1_1models_1_1ImageGalleryTableModel.html" title="xmipp.viewer.models.Image\lGalleryTableModel" alt="" coords="2021,857,2207,898"/>
+<area shape="rect" id="node12" href="$classxmipp_1_1viewer_1_1models_1_1GalleryColumnModel.html" title="xmipp.viewer.models.Gallery\lColumnModel" alt="" coords="1675,915,1865,957"/>
+<area shape="rect" id="node14" href="$classxmipp_1_1utils_1_1Cache.html" title="xmipp.utils.Cache\&lt;\l String, xmipp.viewer.models.\lImageGalleryTableModel.ImageItem \&gt;" alt="" coords="1648,980,1892,1036"/>
+<area shape="rect" id="node15" href="$classxmipp_1_1viewer_1_1ImageDimension.html" title="Simple class to store image dimensions. " alt="" coords="1669,1060,1871,1087"/>
+<area shape="rect" id="node16" href="$classxmipp_1_1viewer_1_1ImageItemRenderer.html" title="xmipp.viewer.ImageItemRenderer" alt="" coords="1661,1111,1879,1137"/>
+<area shape="rect" id="node21" href="$classxmipp_1_1viewer_1_1models_1_1GalleryData.html" title="This class will serve to store important data about the gallery. " alt="" coords="1661,352,1879,379"/>
+<area shape="rect" id="node25" href="$interfacexmipp_1_1viewer_1_1ctf_1_1iCTFGUI.html" title="xmipp.viewer.ctf.iCTFGUI" alt="" coords="887,807,1061,833"/>
+<area shape="rect" id="node27" href="$classxmipp_1_1utils_1_1XmippFileChooser.html" title="Xmipp customization of the default XmippFileChooser. " alt="" coords="876,705,1072,732"/>
+<area shape="rect" id="node29" href="$classxmipp_1_1viewer_1_1ctf_1_1TasksEngine.html" title="xmipp.viewer.ctf.TasksEngine" alt="" coords="875,384,1073,411"/>
+<area shape="rect" id="node30" href="$interfacexmipp_1_1viewer_1_1ctf_1_1iTaskCompletionListener.html" title="xmipp.viewer.ctf.iTaskCompletion\lListener" alt="" coords="529,353,749,394"/>
+<area shape="rect" id="node33" href="$classxmipp_1_1viewer_1_1windows_1_1GalleryJFrame_1_1GalleryMenu.html" title="xmipp.viewer.windows.Gallery\lJFrame.GalleryMenu" alt="" coords="875,437,1073,478"/>
+<area shape="rect" id="node34" href="$classxmipp_1_1utils_1_1XmippMenuBarCreator.html" title="xmipp.utils.XmippMenuBar\lCreator" alt="" coords="550,418,729,459"/>
+<area shape="rect" id="node48" href="$classxmipp_1_1utils_1_1Params.html" title="xmipp.utils.Params" alt="" coords="1262,261,1397,288"/>
+<area shape="rect" id="node39" href="$classxmipp_1_1viewer_1_1models_1_1ColumnInfo.html" title="This class will store info about how to display label on gallery. " alt="" coords="1221,93,1437,120"/>
+<area shape="rect" id="node41" href="$classxmipp_1_1jni_1_1MetaData.html" title="Binding class for accessing C++ MetaData implementation. " alt="" coords="1262,211,1397,237"/>
+<area shape="rect" id="node43" href="$classxmipp_1_1viewer_1_1models_1_1ClassInfo.html" title="Structure to store class info. " alt="" coords="1227,43,1432,69"/>
+<area shape="rect" id="node44" href="$classxmipp_1_1utils_1_1ColorIcon.html" title="The ColoredRectangleIcon will paint a simple rectagle icon. " alt="" coords="901,67,1047,93"/>
+<area shape="rect" id="node47" href="$enumxmipp_1_1viewer_1_1models_1_1GalleryData_1_1Mode.html" title="xmipp.viewer.models.Gallery\lData.Mode" alt="" coords="1234,378,1425,419"/>
+</map>

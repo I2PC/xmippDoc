@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classxmipp3_1_1protocols_1_1protocol__center__particles_1_1XmippProtCenterParticles.html" title="xmipp3.protocols.protocol\l_center_particles.XmippProtCenter\lParticles" alt="" coords="179,5,404,61"/>
+<area shape="rect" id="node3" href="$classxmipp3_1_1protocols_1_1protocol__cl2d_1_1XmippProtCL2D.html" title="xmipp3.protocols.protocol\l_cl2d.XmippProtCL2D" alt="" coords="206,85,377,126"/>
+<area shape="rect" id="node4" href="$classxmipp3_1_1protocols_1_1protocol__classify__kmeans2d_1_1XmippProtKmeansClassif2D.html" title="xmipp3.protocols.protocol\l_classify_kmeans2d.XmippProtKmeans\lClassif2D" alt="" coords="164,149,419,205"/>
+<area shape="rect" id="node5" href="$classxmipp3_1_1protocols_1_1protocol__eliminate__empty__images_1_1XmippProtEliminateEmptyBase.html" title="xmipp3.protocols.protocol\l_eliminate_empty_images.XmippProt\lEliminateEmptyBase" alt="" coords="172,229,411,285"/>
+<area shape="rect" id="node8" href="$classxmipp3_1_1protocols_1_1protocol__kerdensom_1_1KendersomBaseClassify.html" title="xmipp3.protocols.protocol\l_kerdensom.KendersomBaseClassify" alt="" coords="171,309,412,350"/>
+<area shape="rect" id="node10" href="$classxmipp3_1_1protocols_1_1protocol__ml2d_1_1XmippProtML2D.html" title="xmipp3.protocols.protocol\l_ml2d.XmippProtML2D" alt="" coords="206,374,377,415"/>
+<area shape="rect" id="node6" href="$classxmipp3_1_1protocols_1_1protocol__eliminate__empty__images_1_1XmippProtEliminateEmptyClasses.html" title="xmipp3.protocols.protocol\l_eliminate_empty_images.XmippProt\lEliminateEmptyClasses" alt="" coords="467,149,705,205"/>
+<area shape="rect" id="node7" href="$classxmipp3_1_1protocols_1_1protocol__eliminate__empty__images_1_1XmippProtEliminateEmptyParticles.html" title="xmipp3.protocols.protocol\l_eliminate_empty_images.XmippProt\lEliminateEmptyParticles" alt="" coords="467,229,705,285"/>
+<area shape="rect" id="node9" href="$classxmipp3_1_1protocols_1_1protocol__kerdensom_1_1XmippProtKerdensom.html" title="xmipp3.protocols.protocol\l_kerdensom.XmippProtKerdensom" alt="" coords="474,309,698,350"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ProgMPIRecFourierGPU" name="ProgMPIRecFourierGPU">
+<area shape="rect" id="node2" href="$classProgRecFourierGPU.html" title="ProgRecFourierGPU" alt="" coords="5,155,148,181"/>
+<area shape="rect" id="node3" href="$classProgReconsBase.html" title="Class for provide a common interface for all reconstruction programs. " alt="" coords="44,80,168,107"/>
+<area shape="rect" id="node4" href="$classXmippProgram.html" title="This class represent an Xmipp Program. " alt="" coords="109,5,217,32"/>
+<area shape="rect" id="node5" href="$classXmippMpiProgram.html" title="This class represent an Xmipp MPI Program. " alt="" coords="172,155,301,181"/>
+</map>

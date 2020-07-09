@@ -1,0 +1,7 @@
+<map id="MpiProgAngularContinuousAssign2" name="MpiProgAngularContinuousAssign2">
+<area shape="rect" id="node2" href="$classProgAngularContinuousAssign2.html" title="Predict Continuous Parameters. " alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node3" href="$classXmippMetadataProgram.html" title="Special class of XmippProgram that performs some operation related with processing images..." alt="" coords="42,80,205,107"/>
+<area shape="rect" id="node4" href="$classXmippProgram.html" title="This class represent an Xmipp Program. " alt="" coords="159,5,267,32"/>
+<area shape="rect" id="node6" href="$classXmippMpiProgram.html" title="This class represent an Xmipp MPI Program. " alt="" coords="237,80,367,107"/>
+<area shape="rect" id="node5" href="$classMpiMetadataProgram.html" title="MpiMetadataProgram" alt="" coords="237,155,383,181"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classxmipp3_1_1protocols_1_1protocol__consensus__classes3D_1_1XmippProtConsensusClasses3D.html" title="xmipp3.protocols.protocol\l_consensus_classes3D.XmippProt\lConsensusClasses3D" alt="" coords="158,5,385,61"/>
+<area shape="rect" id="node3" href="$classxmipp3_1_1protocols_1_1protocol__extract__unit__cell_1_1XmippProtExtractUnit.html" title="xmipp3.protocols.protocol\l_extract_unit_cell.XmippProtExtractUnit" alt="" coords="144,85,399,126"/>
+<area shape="rect" id="node4" href="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__create__output_1_1XmippMetaProtCreateOutput.html" title="xmipp3.protocols.protocol\l_metaprotocol_create_output.Xmipp\lMetaProtCreateOutput" alt="" coords="156,149,387,205"/>
+<area shape="rect" id="node5" href="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__create__subset_1_1XmippMetaProtCreateSubset.html" title="xmipp3.protocols.protocol\l_metaprotocol_create_subset.Xmipp\lMetaProtCreateSubset" alt="" coords="154,229,389,285"/>
+<area shape="rect" id="node6" href="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__discrete__heterogeneity__scheduler_1_1XmippM3f62c4fa4b97f32867598eeede2b093c.html" title="xmipp3.protocols.protocol\l_metaprotocol_discrete\l_heterogeneity_scheduler.XmippMeta\lProtDiscreteHeterogeneityScheduler" alt="" coords="151,310,391,381"/>
+<area shape="rect" id="node7" href="$classxmipp3_1_1protocols_1_1protocol__metaprotocol__golden__highres_1_1XmippMetaProtGoldenHighRes.html" title="xmipp3.protocols.protocol\l_metaprotocol_golden_highres.Xmipp\lMetaProtGoldenHighRes" alt="" coords="152,405,391,461"/>
+<area shape="rect" id="node8" href="$classxmipp3_1_1protocols_1_1protocol__trigger__data_1_1XmippProtTriggerData.html" title="xmipp3.protocols.protocol\l_trigger_data.XmippProtTriggerData" alt="" coords="156,485,387,526"/>
+</map>

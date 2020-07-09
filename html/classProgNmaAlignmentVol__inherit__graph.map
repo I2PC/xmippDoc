@@ -1,0 +1,5 @@
+<map id="ProgNmaAlignmentVol" name="ProgNmaAlignmentVol">
+<area shape="rect" id="node4" href="$classMpiProgNMAVol.html" title="Class to perform the NMA Alignment for volumes with MPI parallelization. " alt="" coords="27,229,146,256"/>
+<area shape="rect" id="node2" href="$classXmippMetadataProgram.html" title="Special class of XmippProgram that performs some operation related with processing images..." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="This class represent an Xmipp Program. " alt="" coords="33,5,141,32"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="xmipp/libraries/reconstruction/resolution_ssnr.h" name="xmipp/libraries/reconstruction/resolution_ssnr.h">
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="395,95,546,121"/>
+<area shape="rect" id="node12" href="$metadata_8h.html" title="metadata.h" alt="" coords="733,468,819,495"/>
+<area shape="rect" id="node24" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1171,169,1282,196"/>
+<area shape="rect" id="node50" href="$xmipp__fft_8h.html" title="core/xmipp_fft.h" alt="" coords="1331,468,1447,495"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="267,244,362,271"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="167,617,268,644"/>
+<area shape="rect" id="node8" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="617,692,732,719"/>
+<area shape="rect" id="node49" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="329,319,476,345"/>
+<area shape="rect" id="node5" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="195,543,290,569"/>
+<area shape="rect" id="node20" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1333,543,1440,569"/>
+<area shape="rect" id="node22" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="467,543,578,569"/>
+<area shape="rect" id="node25" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="1618,319,1763,345"/>
+<area shape="rect" id="node27" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="2267,543,2386,569"/>
+<area shape="rect" id="node47" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="1611,244,1770,271"/>
+<area shape="rect" id="node48" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1205,468,1307,495"/>
+<area shape="rect" id="node26" href="$xmipp__image__macros_8h.html" title="xmipp_image_macros.h" alt="" coords="2520,393,2680,420"/>
+<area shape="rect" id="node28" href="$transformations_8h.html" title="transformations.h" alt="" coords="1567,393,1689,420"/>
+<area shape="rect" id="node30" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="2635,543,2760,569"/>
+<area shape="rect" id="node33" href="$rwDM3_8h.html" title="rwDM3.h" alt="" coords="947,393,1021,420"/>
+<area shape="rect" id="node34" href="$rwDM4_8h.html" title="rwDM4.h" alt="" coords="1045,393,1120,420"/>
+<area shape="rect" id="node35" href="$rwIMAGIC_8h.html" title="rwIMAGIC.h" alt="" coords="1145,393,1239,420"/>
+<area shape="rect" id="node36" href="$rwMRC_8h.html" title="rwMRC.h" alt="" coords="1263,393,1342,420"/>
+<area shape="rect" id="node37" href="$rwINF_8h.html" title="rwINF.h" alt="" coords="1367,393,1436,420"/>
+<area shape="rect" id="node38" href="$rwRAW_8h.html" title="rwRAW.h" alt="" coords="1714,393,1793,420"/>
+<area shape="rect" id="node39" href="$rwSPIDER_8h.html" title="rwSPIDER.h" alt="" coords="1817,393,1916,420"/>
+<area shape="rect" id="node40" href="$rwSPE_8h.html" title="rwSPE.h" alt="" coords="1940,393,2015,420"/>
+<area shape="rect" id="node41" href="$rwTIA_8h.html" title="rwTIA.h" alt="" coords="2039,393,2107,420"/>
+<area shape="rect" id="node42" href="$rwJPEG_8h.html" title="rwJPEG.h" alt="" coords="2132,393,2215,420"/>
+<area shape="rect" id="node43" href="$rwTIFF_8h.html" title="rwTIFF.h" alt="" coords="2239,393,2313,420"/>
+<area shape="rect" id="node44" href="$rwEM_8h.html" title="rwEM.h" alt="" coords="2337,393,2404,420"/>
+<area shape="rect" id="node45" href="$rwPIF_8h.html" title="rwPIF.h" alt="" coords="2429,393,2497,420"/>
+<area shape="rect" id="node46" href="$rwHDF5_8h.html" title="rwHDF5.h" alt="" coords="1460,393,1543,420"/>
+<area shape="rect" id="node29" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="2614,468,2781,495"/>
+</map>

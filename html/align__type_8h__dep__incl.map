@@ -1,0 +1,31 @@
+<map id="xmipp/libraries/reconstruction/align_type.h" name="xmipp/libraries/reconstruction/align_type.h">
+<area shape="rect" id="node2" href="$arotation__estimator_8h.html" title="xmipp/libraries/reconstruction\l/arotation_estimator.h" alt="" coords="735,95,927,136"/>
+<area shape="rect" id="node16" href="$iterative__alignment__estimator_8h.html" title="xmipp/libraries/reconstruction\l/iterative_alignment_estimator.h" alt="" coords="957,184,1163,225"/>
+<area shape="rect" id="node19" href="$ashift__estimator_8h.html" title="xmipp/libraries/reconstruction\l/ashift_estimator.h" alt="" coords="1143,95,1335,136"/>
+<area shape="rect" id="node3" href="$arotation__estimator__tests_8h.html" title="xmipp/applications\l/tests/function_tests\l/arotation_estimator_tests.h" alt="" coords="240,281,424,337"/>
+<area shape="rect" id="node6" href="$arotation__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/arotation_estimator.cpp" alt="" coords="689,184,881,225"/>
+<area shape="rect" id="node4" href="$test__cuda__polar__rotation__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_polar_rotation\l_estimator.cpp" alt="" coords="248,392,416,463"/>
+<area shape="rect" id="node5" href="$test__polar__rotation__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_polar_rotation_estimator.cpp" alt="" coords="5,399,224,455"/>
+<area shape="rect" id="node7" href="$polar__rotation__estimator_8h.html" title="xmipp/libraries/reconstruction\l/polar_rotation_estimator.h" alt="" coords="456,288,648,329"/>
+<area shape="rect" id="node10" href="$cuda__rot__polar__estimator_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_rot_polar_estimator.h" alt="" coords="676,288,895,329"/>
+<area shape="rect" id="node8" href="$test__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_iterative_alignment\l_estimator.cpp" alt="" coords="913,392,1077,463"/>
+<area shape="rect" id="node9" href="$polar__rotation__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/polar_rotation_estimator.cpp" alt="" coords="440,407,632,448"/>
+<area shape="rect" id="node11" href="$test__cuda__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_iterative_alignment\l_estimator.cpp" alt="" coords="1101,392,1299,463"/>
+<area shape="rect" id="node12" href="$align__significant__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.h" alt="" coords="1324,407,1556,448"/>
+<area shape="rect" id="node15" href="$cuda__rot__polar__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_rot_polar_estimator.cpp" alt="" coords="656,407,888,448"/>
+<area shape="rect" id="node13" href="$cuda__align__significant_8cpp.html" title="xmipp/applications\l/programs/cuda_align\l_significant/cuda_align\l_significant.cpp" alt="" coords="1251,511,1405,581"/>
+<area shape="rect" id="node14" href="$align__significant__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.cpp" alt="" coords="1429,525,1675,567"/>
+<area shape="rect" id="node17" href="$aiterative__alignment__tests_8h.html" title="xmipp/applications\l/tests/function_tests\l/aiterative_alignment\l_tests.h" alt="" coords="930,273,1073,344"/>
+<area shape="rect" id="node18" href="$iterative__alignment__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/iterative_alignment_estimator.cpp" alt="" coords="1148,288,1369,329"/>
+<area shape="rect" id="node20" href="$ashift__corr__estimator_8h.html" title="xmipp/libraries/reconstruction\l/ashift_corr_estimator.h" alt="" coords="1832,184,2024,225"/>
+<area shape="rect" id="node30" href="$ashift__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/ashift_estimator.cpp" alt="" coords="1188,184,1380,225"/>
+<area shape="rect" id="node21" href="$ashift__corr__estimator__tests_8h.html" title="xmipp/applications\l/tests/function_tests\l/ashift_corr_estimator\l_tests.h" alt="" coords="2362,273,2510,344"/>
+<area shape="rect" id="node24" href="$ashift__estimator__tests_8h.html" title="xmipp/applications\l/tests/function_tests\l/ashift_estimator_tests.h" alt="" coords="1954,281,2121,337"/>
+<area shape="rect" id="node25" href="$ashift__corr__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/ashift_corr_estimator.cpp" alt="" coords="2145,288,2337,329"/>
+<area shape="rect" id="node26" href="$shift__corr__estimator_8h.html" title="xmipp/libraries/reconstruction\l/shift_corr_estimator.h" alt="" coords="1491,288,1683,329"/>
+<area shape="rect" id="node28" href="$cuda__shift__corr__estimator_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_shift_corr_estimator.h" alt="" coords="1707,288,1930,329"/>
+<area shape="rect" id="node22" href="$test__cuda__shift__corr__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_shift_corr\l_estimator.cpp" alt="" coords="2276,392,2420,463"/>
+<area shape="rect" id="node23" href="$test__shift__corr__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_shift_corr_estimator.cpp" alt="" coords="2057,399,2252,455"/>
+<area shape="rect" id="node27" href="$shift__corr__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/shift_corr_estimator.cpp" alt="" coords="1580,407,1772,448"/>
+<area shape="rect" id="node29" href="$cuda__shift__corr__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_shift_corr_estimator.cpp" alt="" coords="1797,407,2033,448"/>
+</map>
