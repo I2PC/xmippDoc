@@ -1,7 +1,0 @@
-<map id="xmipp.viewer.particlepicker.ParticlePickerJFrame" name="xmipp.viewer.particlepicker.ParticlePickerJFrame">
-<area shape="rect" id="node13" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ImportParticlesJDialog.html" title="xmipp.viewer.particlepicker.\lImportParticlesJDialog" alt="" coords="615,250,799,291"/>
-<area shape="rect" id="node27" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlesDialog.html" title="xmipp.viewer.particlepicker.\lParticlesDialog" alt="" coords="615,1053,799,1094"/>
-<area shape="rect" id="node14" href="$classxmipp_1_1utils_1_1XmippDialog.html" title="xmipp.utils.XmippDialog" alt="" coords="299,391,462,417"/>
-<area shape="rect" id="node20" href="$classxmipp_1_1utils_1_1XmippFileChooser.html" title="xmipp.utils.XmippFileChooser" alt="" coords="283,113,479,140"/>
-<area shape="rect" id="node22" href="$enumxmipp_1_1viewer_1_1particlepicker_1_1Format.html" title="xmipp.viewer.particlepicker.\lFormat" alt="" coords="289,165,473,206"/>
-</map>

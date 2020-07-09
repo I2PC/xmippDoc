@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classxmipp_1_1viewer_1_1models_1_1ImageGalleryTableModel.html" title="xmipp.viewer.models.Image\lGalleryTableModel" alt="" coords="225,37,410,79"/>
-<area shape="rect" id="node7" href="$classxmipp_1_1viewer_1_1particlepicker_1_1tiltpair_1_1gui_1_1MicrographPairsTableModel.html" title="xmipp.viewer.particlepicker.tiltpair.gui.\lMicrographPairsTableModel" alt="" coords="195,103,439,144"/>
-<area shape="rect" id="node8" href="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1gui_1_1MicrographsTableModel.html" title="xmipp.viewer.particlepicker.training.gui.\lMicrographsTableModel" alt="" coords="192,168,443,209"/>
-<area shape="rect" id="node3" href="$classxmipp_1_1viewer_1_1models_1_1MetadataGalleryTableModel.html" title="xmipp.viewer.models.Metadata\lGalleryTableModel" alt="" coords="491,5,693,47"/>
-<area shape="rect" id="node6" href="$classxmipp_1_1viewer_1_1models_1_1VolumeGalleryTableModel.html" title="xmipp.viewer.models.Volume\lGalleryTableModel" alt="" coords="495,71,689,112"/>
-<area shape="rect" id="node4" href="$classxmipp_1_1viewer_1_1models_1_1MetadataTableModel.html" title="xmipp.viewer.models.Metadata\lTableModel" alt="" coords="741,5,944,47"/>
-<area shape="rect" id="node5" href="$classxmipp_1_1viewer_1_1models_1_1MetadataRowTableModel.html" title="xmipp.viewer.models.Metadata\lRowTableModel" alt="" coords="992,5,1195,47"/>
-</map>
