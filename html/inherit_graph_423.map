@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classParallelTaskDistributor.html" title="This class distributes dynamically N tasks between parallel workers. " alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node2" href="$classThreadTaskDistributor.html" title="This class is a concrete implementation of ParallelTaskDistributor for POSIX threads. " alt="" coords="208,5,359,32"/>
-<area shape="rect" id="node3" href="$classMpiTaskDistributor.html" title="This class is another implementation of ParallelTaskDistributor with MPI workers. ..." alt="" coords="407,5,539,32"/>
-</map>

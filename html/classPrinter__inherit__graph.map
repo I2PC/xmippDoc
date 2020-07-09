@@ -1,8 +1,0 @@
-<map id="Printer" name="Printer">
-<area shape="rect" id="node2" href="$classAutocompletePrinter.html" title="Print out to create Protocol header script. " alt="" coords="5,80,145,107"/>
-<area shape="rect" id="node3" href="$classConsolePrinter.html" title="Just print to out stream. " alt="" coords="169,80,277,107"/>
-<area shape="rect" id="node4" href="$classProgramDb.html" title="Class that will encapsulate the Xmipp objects representation on Sqlite db. " alt="" coords="302,80,390,107"/>
-<area shape="rect" id="node5" href="$classProtPrinter.html" title="Print out to create Protocol header script. " alt="" coords="415,80,499,107"/>
-<area shape="rect" id="node6" href="$classTkPrinter.html" title="Print out to create Tk GUI. " alt="" coords="523,80,598,107"/>
-<area shape="rect" id="node7" href="$classWikiPrinter.html" title="Print wiki text. " alt="" coords="623,80,709,107"/>
-</map>

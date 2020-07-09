@@ -1,6 +1,0 @@
-<map id="MpiTaskDistributor" name="MpiTaskDistributor">
-<area shape="rect" id="node2" href="$classThreadTaskDistributor.html" title="This class is a concrete implementation of ParallelTaskDistributor for POSIX threads. " alt="" coords="73,95,223,121"/>
-<area shape="rect" id="node3" href="$classParallelTaskDistributor.html" title="This class distributes dynamically N tasks between parallel workers. " alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node4" href="$classMutex.html" title="Class wrapping around the pthreads mutex. " alt="" coords="184,5,243,32"/>
-<area shape="rect" id="node5" href="$classMpiNode.html" title="Class to wrapp some MPI common calls in an work node. " alt="" coords="248,95,323,121"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classLayout.html" title="This class creates a SOM Layout. " alt="" coords="5,31,67,57"/>
-<area shape="rect" id="node2" href="$classHEXALayout.html" title="This class manages a layout in this way: (Neurons are in the center of the hexagons, so distance to the 6 immediate neighbors are 1) \(Xdim is &#45;&#45;&#45;—&gt;) " alt="" coords="115,5,213,32"/>
-<area shape="rect" id="node3" href="$classRECTLayout.html" title="This class manages a layout in this way: " alt="" coords="115,56,213,83"/>
-</map>

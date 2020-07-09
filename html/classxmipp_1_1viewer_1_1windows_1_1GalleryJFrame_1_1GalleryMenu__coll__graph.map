@@ -1,6 +1,0 @@
-<map id="xmipp.viewer.windows.GalleryJFrame.GalleryMenu" name="xmipp.viewer.windows.GalleryJFrame.GalleryMenu">
-<area shape="rect" id="node2" href="$classxmipp_1_1utils_1_1XmippMenuBarCreator.html" title="xmipp.utils.XmippMenuBar\lCreator" alt="" coords="601,141,780,182"/>
-<area shape="rect" id="node3" href="$classxmipp_1_1utils_1_1XmippMenuCreator.html" title="This a menu creator to provide some useful functions to define menu structures It will allow creation..." alt="" coords="301,107,503,133"/>
-<area shape="rect" id="node8" href="$classxmipp_1_1utils_1_1QuickHelpJDialog.html" title="xmipp.utils.QuickHelpJDialog" alt="" coords="593,228,788,255"/>
-<area shape="rect" id="node11" href="$classxmipp_1_1utils_1_1QuickHelpPane.html" title="xmipp.utils.QuickHelpPane" alt="" coords="312,279,492,305"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="xmipp.ij.commons.XmippImageCanvas" name="xmipp.ij.commons.XmippImageCanvas">
-<area shape="rect" id="node5" href="$classxmipp_1_1viewer_1_1particlepicker_1_1extract_1_1MicrographCanvas.html" title="xmipp.viewer.particlepicker.extract.\lMicrographCanvas" alt="" coords="451,32,679,73"/>
-<area shape="rect" id="node6" href="$classxmipp_1_1viewer_1_1particlepicker_1_1ParticlePickerCanvas.html" title="xmipp.viewer.particlepicker.\lParticlePickerCanvas\&lt; P\l extends PickerParticle \&gt;" alt="" coords="473,97,657,153"/>
-<area shape="rect" id="node7" href="$classxmipp_1_1viewer_1_1particlepicker_1_1extract_1_1ExtractCanvas.html" title="xmipp.viewer.particlepicker.extract.\lExtractCanvas" alt="" coords="738,5,966,47"/>
-<area shape="rect" id="node8" href="$classxmipp_1_1viewer_1_1particlepicker_1_1tiltpair_1_1gui_1_1TiltedMicrographCanvas.html" title="xmipp.viewer.particlepicker.tiltpair.gui.\lTiltedMicrographCanvas" alt="" coords="730,71,974,112"/>
-<area shape="rect" id="node9" href="$classxmipp_1_1viewer_1_1particlepicker_1_1tiltpair_1_1gui_1_1UntiltedMicrographCanvas.html" title="xmipp.viewer.particlepicker.tiltpair.gui.\lUntiltedMicrographCanvas" alt="" coords="730,136,974,177"/>
-<area shape="rect" id="node10" href="$classxmipp_1_1viewer_1_1particlepicker_1_1training_1_1gui_1_1SupervisedPickerCanvas.html" title="xmipp.viewer.particlepicker.training.gui.\lSupervisedPickerCanvas" alt="" coords="727,201,977,243"/>
-</map>

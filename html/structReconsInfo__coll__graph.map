@@ -1,6 +1,0 @@
-<map id="ReconsInfo" name="ReconsInfo">
-<area shape="rect" id="node2" href="$classMDRow.html" title="Class for holding an entire row of posible MDObject. " alt="" coords="14,184,85,211"/>
-<area shape="rect" id="node3" href="$classMDObject.html" title="Class to hold the labels values and type. " alt="" coords="9,95,90,121"/>
-<area shape="rect" id="node4" href="$unionObjectData.html" title="Union to store values. " alt="" coords="5,5,93,32"/>
-<area shape="rect" id="node5" href="$classFileName.html" title="Filenames. " alt="" coords="109,184,187,211"/>
-</map>
