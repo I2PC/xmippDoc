@@ -1,0 +1,21 @@
+<map id="xmipp/external/condor/ObjectiveFunction.h" name="xmipp/external/condor/ObjectiveFunction.h">
+<area shape="rect" id="node2" href="$CNLSolver_8cpp.html" title="xmipp/external/condor\l/CNLSolver.cpp" alt="" coords="1551,317,1702,359"/>
+<area shape="rect" id="node3" href="$IntPoly_8h.html" title="xmipp/external/condor\l/IntPoly.h" alt="" coords="1335,95,1486,136"/>
+<area shape="rect" id="node7" href="$CTRSSolver_8cpp.html" title="xmipp/external/condor\l/CTRSSolver.cpp" alt="" coords="914,199,1065,240"/>
+<area shape="rect" id="node9" href="$parallel_8cpp.html" title="xmipp/external/condor\l/parallel.cpp" alt="" coords="1665,199,1815,240"/>
+<area shape="rect" id="node11" href="$ObjectiveFunction_8cpp.html" title="xmipp/external/condor\l/ObjectiveFunction.cpp" alt="" coords="1891,95,2047,136"/>
+<area shape="rect" id="node12" href="$nma__alignment_8h.html" title="xmipp/libraries/reconstruction\l/nma_alignment.h" alt="" coords="484,95,676,136"/>
+<area shape="rect" id="node16" href="$nma__alignment__vol_8h.html" title="xmipp/libraries/reconstruction\l/nma_alignment_vol.h" alt="" coords="705,95,897,136"/>
+<area shape="rect" id="node4" href="$Solver_8h.html" title="xmipp/external/condor\l/Solver.h" alt="" coords="1089,199,1239,240"/>
+<area shape="rect" id="node8" href="$IntPoly_8cpp.html" title="xmipp/external/condor\l/IntPoly.cpp" alt="" coords="1263,199,1414,240"/>
+<area shape="rect" id="node10" href="$Poly_8cpp.html" title="xmipp/external/condor\l/Poly.cpp" alt="" coords="1438,199,1589,240"/>
+<area shape="rect" id="node5" href="$nma__alignment_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment.cpp" alt="" coords="783,317,975,359"/>
+<area shape="rect" id="node6" href="$nma__alignment__vol_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment_vol.cpp" alt="" coords="1021,317,1213,359"/>
+<area shape="rect" id="node13" href="$nma__alignment__main_8cpp.html" title="xmipp/applications\l/programs/nma_alignment\l/nma_alignment_main.cpp" alt="" coords="214,191,389,247"/>
+<area shape="rect" id="node14" href="$mpi__nma__alignment_8cpp.html" title="xmipp/libraries/parallel\l/mpi_nma_alignment.cpp" alt="" coords="23,199,190,240"/>
+<area shape="rect" id="node15" href="$mpi__nma__alignment__main_8cpp.html" title="xmipp/applications\l/programs/mpi_nma_alignment\l/mpi_nma_alignment_main.cpp" alt="" coords="5,310,208,366"/>
+<area shape="rect" id="node17" href="$nma__alignment__vol__main_8cpp.html" title="xmipp/applications\l/programs/nma_alignment\l_vol/nma_alignment_vol\l_main.cpp" alt="" coords="666,184,838,255"/>
+<area shape="rect" id="node18" href="$mpi__nma__alignment__vol_8h.html" title="xmipp/libraries/parallel\l/mpi_nma_alignment_vol.h" alt="" coords="413,199,590,240"/>
+<area shape="rect" id="node19" href="$mpi__nma__alignment__vol__main_8cpp.html" title="xmipp/applications\l/programs/mpi_nma_alignment\l_vol/mpi_nma_alignment_vol\l_main.cpp" alt="" coords="535,303,735,373"/>
+<area shape="rect" id="node20" href="$mpi__nma__alignment__vol_8cpp.html" title="xmipp/libraries/parallel\l/mpi_nma_alignment_vol.cpp" alt="" coords="319,317,510,359"/>
+</map>

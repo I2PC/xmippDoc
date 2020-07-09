@@ -1,0 +1,36 @@
+<map id="ProgTransformDimRed" name="ProgTransformDimRed">
+<area shape="rect" id="node2" href="$classProgDimRed.html" title="ProgDimRed" alt="" coords="1421,531,1519,557"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="1035,95,1143,121"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="716,93,808,120"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="388,44,467,71"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="140,19,219,45"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="142,69,217,96"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="377,95,477,121"/>
+<area shape="rect" id="node9" href="$classDimRedAlgorithm.html" title="DimRedAlgorithm" alt="" coords="365,588,490,615"/>
+<area shape="rect" id="node13" href="$classSPE.html" title="SPE" alt="" coords="903,211,952,237"/>
+<area shape="rect" id="node14" href="$classLTSA.html" title="LTSA" alt="" coords="735,411,789,437"/>
+<area shape="rect" id="node15" href="$classKernelPCA.html" title="KernelPCA" alt="" coords="884,333,971,360"/>
+<area shape="rect" id="node16" href="$classLPP.html" title="LPP" alt="" coords="904,449,951,476"/>
+<area shape="rect" id="node17" href="$classHessianLLE.html" title="HessianLLE" alt="" coords="881,563,974,589"/>
+<area shape="rect" id="node18" href="$classDiffusionMaps.html" title="DiffusionMaps" alt="" coords="874,619,981,645"/>
+<area shape="rect" id="node19" href="$classPCA.html" title="PCA" alt="" coords="902,672,953,699"/>
+<area shape="rect" id="node20" href="$classLaplacianEigenmap.html" title="LaplacianEigenmap" alt="" coords="1022,748,1157,775"/>
+<area shape="rect" id="node21" href="$classProbabilisticPCA.html" title="ProbabilisticPCA" alt="" coords="701,512,823,539"/>
+<area shape="rect" id="node23" href="$classNPE.html" title="NPE" alt="" coords="902,824,953,851"/>
+<area shape="rect" id="node10" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="111,588,248,615"/>
+<area shape="rect" id="node22" href="$classLLTSA.html" title="LLTSA" alt="" coords="1058,259,1121,285"/>
+<area shape="rect" id="node31" href="$classAlignmentAux.html" title="AlignmentAux" alt="" coords="1038,1428,1141,1455"/>
+<area shape="rect" id="node34" href="$classMask.html" title="Mask" alt="" coords="1062,1031,1117,1057"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="140,1245,219,1272"/>
+<area shape="rect" id="node29" href="$classMetaData.html" title="MetaData" alt="" coords="388,1539,467,1565"/>
+<area shape="rect" id="node32" href="$classPolar.html" title="Polar\&lt; std::complex\l\&lt; double \&gt; \&gt;" alt="" coords="517,1446,656,1487"/>
+<area shape="rect" id="node24" href="$classRotationalCorrelationAux.html" title="RotationalCorrelationAux" alt="" coords="1387,1323,1553,1349"/>
+<area shape="rect" id="node25" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="1023,1221,1155,1248"/>
+<area shape="rect" id="node36" href="$classCorrelationAux.html" title="CorrelationAux" alt="" coords="1416,1244,1524,1271"/>
+<area shape="rect" id="node26" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="680,1161,844,1188"/>
+<area shape="rect" id="node27" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="361,1161,493,1188"/>
+<area shape="rect" id="node28" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="685,1261,839,1302"/>
+<area shape="rect" id="node35" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="692,1111,832,1137"/>
+<area shape="rect" id="node30" href="$classMDSql.html" title="MDSql" alt="" coords="148,1539,211,1565"/>
+<area shape="rect" id="node33" href="$classPolar__fftw__plans.html" title="Polar_fftw_plans" alt="" coords="703,1427,821,1453"/>
+</map>

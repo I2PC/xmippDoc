@@ -1,0 +1,36 @@
+<map id="xmipp/libraries/dimred/transform_dimred.h" name="xmipp/libraries/dimred/transform_dimred.h">
+<area shape="rect" id="node2" href="$metadata_8h.html" title="core/metadata.h" alt="" coords="1360,319,1476,345"/>
+<area shape="rect" id="node22" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="1120,244,1271,271"/>
+<area shape="rect" id="node27" href="$mask_8h.html" title="data/mask.h" alt="" coords="635,169,729,196"/>
+<area shape="rect" id="node34" href="$filters_8h.html" title="data/filters.h" alt="" coords="411,95,505,121"/>
+<area shape="rect" id="node38" href="$matrix__dimred_8h.html" title="matrix_dimred.h" alt="" coords="1643,95,1758,121"/>
+<area shape="rect" id="node13" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="750,393,857,420"/>
+<area shape="rect" id="node19" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1043,543,1158,569"/>
+<area shape="rect" id="node21" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1925,393,2036,420"/>
+<area shape="rect" id="node18" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="467,468,591,495"/>
+<area shape="rect" id="node20" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1094,468,1195,495"/>
+<area shape="rect" id="node23" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="1500,319,1595,345"/>
+<area shape="rect" id="node24" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="693,319,804,345"/>
+<area shape="rect" id="node26" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="1619,319,1766,345"/>
+<area shape="rect" id="node25" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="380,393,499,420"/>
+<area shape="rect" id="node28" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="235,319,401,345"/>
+<area shape="rect" id="node29" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="181,244,300,271"/>
+<area shape="rect" id="node30" href="$blobs_8h.html" title="blobs.h" alt="" coords="426,244,490,271"/>
+<area shape="rect" id="node31" href="$args_8h.html" title="core/args.h" alt="" coords="932,393,1019,420"/>
+<area shape="rect" id="node32" href="$libraries_2data_2wavelet_8h.html" title="wavelet.h" alt="" coords="565,244,644,271"/>
+<area shape="rect" id="node33" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="866,244,1045,271"/>
+<area shape="rect" id="node36" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="5,319,159,345"/>
+<area shape="rect" id="node37" href="$polar_8h.html" title="data/polar.h" alt="" coords="477,319,567,345"/>
+<area shape="rect" id="node39" href="$dimred_2pca_8h.html" title="pca.h" alt="" coords="1601,244,1656,271"/>
+<area shape="rect" id="node40" href="$npe_8h.html" title="npe.h" alt="" coords="1347,169,1401,196"/>
+<area shape="rect" id="node41" href="$spe_8h.html" title="spe.h" alt="" coords="1425,169,1480,196"/>
+<area shape="rect" id="node42" href="$lpp_8h.html" title="lpp.h" alt="" coords="1505,169,1555,196"/>
+<area shape="rect" id="node43" href="$ltsa_8h.html" title="ltsa.h" alt="" coords="1807,244,1861,271"/>
+<area shape="rect" id="node44" href="$gplvm_8h.html" title="gplvm.h" alt="" coords="1631,169,1699,196"/>
+<area shape="rect" id="node45" href="$lltsa_8h.html" title="lltsa.h" alt="" coords="1895,169,1952,196"/>
+<area shape="rect" id="node46" href="$kernelPCA_8h.html" title="kernelPCA.h" alt="" coords="1774,169,1870,196"/>
+<area shape="rect" id="node47" href="$hessianLLE_8h.html" title="hessianLLE.h" alt="" coords="1977,169,2078,196"/>
+<area shape="rect" id="node48" href="$diffusionMaps_8h.html" title="diffusionMaps.h" alt="" coords="2102,169,2217,196"/>
+<area shape="rect" id="node49" href="$probabilisticPCA_8h.html" title="probabilisticPCA.h" alt="" coords="2241,169,2371,196"/>
+<area shape="rect" id="node50" href="$laplacianEigenmaps_8h.html" title="laplacianEigenmaps.h" alt="" coords="2395,169,2545,196"/>
+</map>

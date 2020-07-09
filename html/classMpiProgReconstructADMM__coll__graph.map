@@ -1,0 +1,31 @@
+<map id="MpiProgReconstructADMM" name="MpiProgReconstructADMM">
+<area shape="rect" id="node2" href="$classProgReconsADMM.html" title="ProgReconsADMM" alt="" coords="1251,536,1385,563"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="1049,92,1157,119"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="770,92,862,119"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="461,44,540,71"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="197,95,276,121"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="199,44,274,71"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="451,95,551,121"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="461,145,540,172"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="205,145,268,172"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="197,332,276,359"/>
+<area shape="rect" id="node20" href="$classImageBase.html" title="Image base class. " alt="" coords="772,461,860,488"/>
+<area shape="rect" id="node21" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="445,393,556,420"/>
+<area shape="rect" id="node26" href="$classMask.html" title="Mask" alt="" coords="789,885,843,912"/>
+<area shape="rect" id="node13" href="$classAdmmKernel.html" title="AdmmKernel" alt="" coords="1054,631,1151,657"/>
+<area shape="rect" id="node14" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="750,637,882,664"/>
+<area shape="rect" id="node15" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="419,717,583,744"/>
+<area shape="rect" id="node19" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="1043,503,1163,529"/>
+<area shape="rect" id="node16" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="171,667,303,693"/>
+<area shape="rect" id="node17" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="424,610,577,651"/>
+<area shape="rect" id="node28" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="431,868,571,895"/>
+<area shape="rect" id="node18" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="747,688,885,715"/>
+<area shape="rect" id="node22" href="$classMDRow.html" title="MDRow" alt="" coords="465,496,536,523"/>
+<area shape="rect" id="node23" href="$classMDObject.html" title="MDObject" alt="" coords="196,496,277,523"/>
+<area shape="rect" id="node24" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,496,93,523"/>
+<area shape="rect" id="node25" href="$structArrayDim.html" title="ArrayDim" alt="" coords="462,445,539,472"/>
+<area shape="rect" id="node27" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="432,967,569,993"/>
+<area shape="rect" id="node29" href="$classSymList.html" title="SymList" alt="" coords="781,1007,851,1033"/>
+<area shape="rect" id="node30" href="$classMatrix1D.html" title="Matrix1D\&lt; int \&gt;" alt="" coords="444,1052,557,1079"/>
+<area shape="rect" id="node31" href="$classMpiNode.html" title="MpiNode" alt="" coords="1281,587,1355,613"/>
+</map>

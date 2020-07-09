@@ -1,0 +1,27 @@
+<map id="MpiProgAngularClassAverage" name="MpiProgAngularClassAverage">
+<area shape="rect" id="node2" href="$classXmippMpiProgram.html" title="XmippMpiProgram" alt="" coords="1136,120,1265,147"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="844,69,952,96"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="505,69,597,96"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="212,44,291,71"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="10,19,89,45"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="12,69,87,96"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="201,95,301,121"/>
+<area shape="rect" id="node9" href="$classMpiNode.html" title="MpiNode" alt="" coords="861,120,935,147"/>
+<area shape="rect" id="node10" href="$classRotationalCorrelationAux.html" title="RotationalCorrelationAux" alt="" coords="1117,207,1284,233"/>
+<area shape="rect" id="node11" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="832,233,964,260"/>
+<area shape="rect" id="node12" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="469,311,633,337"/>
+<area shape="rect" id="node20" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="1141,475,1261,501"/>
+<area shape="rect" id="node13" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="185,340,317,367"/>
+<area shape="rect" id="node14" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="475,214,628,255"/>
+<area shape="rect" id="node21" href="$classImageBase.html" title="Image base class. " alt="" coords="854,500,942,527"/>
+<area shape="rect" id="node27" href="$classMultidimArray.html" title="MultidimArray\&lt; bool \&gt;" alt="" coords="657,385,808,412"/>
+<area shape="rect" id="node15" href="$classMetaData.html" title="MetaData" alt="" coords="512,805,591,832"/>
+<area shape="rect" id="node16" href="$classMDSql.html" title="MDSql" alt="" coords="220,816,283,843"/>
+<area shape="rect" id="node17" href="$classFileName.html" title="FileName" alt="" coords="212,633,291,660"/>
+<area shape="rect" id="node22" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="496,525,607,552"/>
+<area shape="rect" id="node19" href="$classPolar__fftw__plans.html" title="Polar_fftw_plans" alt="" coords="1141,525,1260,552"/>
+<area shape="rect" id="node23" href="$classMDRow.html" title="MDRow" alt="" coords="516,719,587,745"/>
+<area shape="rect" id="node24" href="$classMDObject.html" title="MDObject" alt="" coords="211,711,292,737"/>
+<area shape="rect" id="node25" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,711,93,737"/>
+<area shape="rect" id="node26" href="$structArrayDim.html" title="ArrayDim" alt="" coords="513,412,590,439"/>
+</map>

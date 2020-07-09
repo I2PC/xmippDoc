@@ -1,0 +1,17 @@
+<map id="PROJECT_Side_Info" name="PROJECT_Side_Info">
+<area shape="rect" id="node2" href="$classPhantom.html" title="Phantom" alt="" coords="728,281,803,308"/>
+<area shape="rect" id="node3" href="$classFileName.html" title="FileName" alt="" coords="533,95,611,121"/>
+<area shape="rect" id="node5" href="$classMetaData.html" title="MetaData" alt="" coords="659,222,738,249"/>
+<area shape="rect" id="node9" href="$classImageBase.html" title="Image base class. " alt="" coords="265,332,353,359"/>
+<area shape="rect" id="node11" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="369,222,479,249"/>
+<area shape="rect" id="node6" href="$classMDSql.html" title="MDSql" alt="" coords="791,95,854,121"/>
+<area shape="rect" id="node7" href="$classPDBPhantom.html" title="PDBPhantom" alt="" coords="790,421,893,448"/>
+<area shape="rect" id="node8" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="509,421,629,448"/>
+<area shape="rect" id="node10" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="503,222,635,249"/>
+<area shape="rect" id="node16" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="487,332,651,359"/>
+<area shape="rect" id="node12" href="$classMDRow.html" title="MDRow" alt="" coords="14,222,85,249"/>
+<area shape="rect" id="node13" href="$classMDObject.html" title="MDObject" alt="" coords="9,95,90,121"/>
+<area shape="rect" id="node14" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node15" href="$structArrayDim.html" title="ArrayDim" alt="" coords="132,222,209,249"/>
+<area shape="rect" id="node17" href="$classAtomInterpolator.html" title="AtomInterpolator" alt="" coords="917,421,1035,448"/>
+</map>
