@@ -1,0 +1,25 @@
+<map id="xmipp/libraries/reconstruction/reconstruct_art_pseudo.cpp" name="xmipp/libraries/reconstruction/reconstruct_art_pseudo.cpp">
+<area shape="rect" id="node3" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="1361,169,1479,196"/>
+<area shape="rect" id="node38" href="$reconstruct__art__pseudo_8h.html" title="reconstruct_art_pseudo.h" alt="" coords="1399,95,1569,121"/>
+<area shape="rect" id="node4" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="1499,319,1618,345"/>
+<area shape="rect" id="node32" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="1527,244,1694,271"/>
+<area shape="rect" id="node34" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="1042,468,1163,495"/>
+<area shape="rect" id="node5" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="1573,393,1702,420"/>
+<area shape="rect" id="node6" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1726,393,1821,420"/>
+<area shape="rect" id="node7" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="995,692,1109,719"/>
+<area shape="rect" id="node11" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="1947,468,2029,495"/>
+<area shape="rect" id="node27" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="1465,393,1548,420"/>
+<area shape="rect" id="node15" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1824,543,1931,569"/>
+<area shape="rect" id="node26" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="2093,543,2232,569"/>
+<area shape="rect" id="node18" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1510,617,1634,644"/>
+<area shape="rect" id="node22" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="2113,617,2231,644"/>
+<area shape="rect" id="node23" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="761,617,863,644"/>
+<area shape="rect" id="node29" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="1428,468,1561,495"/>
+<area shape="rect" id="node33" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="1695,319,1820,345"/>
+<area shape="rect" id="node39" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="815,169,966,196"/>
+<area shape="rect" id="node40" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="735,319,830,345"/>
+<area shape="rect" id="node42" href="$metadata_8h.html" title="metadata.h" alt="" coords="375,468,462,495"/>
+<area shape="rect" id="node49" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1341,244,1451,271"/>
+<area shape="rect" id="node50" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="817,244,964,271"/>
+<area shape="rect" id="node41" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="745,468,839,495"/>
+</map>

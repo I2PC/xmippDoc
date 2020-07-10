@@ -1,0 +1,35 @@
+<map id="xmipp/applications/programs/image_statistics/image_statistics_main.cpp" name="xmipp/applications/programs/image_statistics/image_statistics_main.cpp">
+<area shape="rect" id="node2" href="$image__statistics_8cpp.html" title="reconstruction/image\l_statistics.cpp" alt="" coords="525,109,667,151"/>
+<area shape="rect" id="node4" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="190,273,341,300"/>
+<area shape="rect" id="node14" href="$metadata_8h.html" title="metadata.h" alt="" coords="1427,647,1514,673"/>
+<area shape="rect" id="node42" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="1663,423,1822,449"/>
+<area shape="rect" id="node45" href="$mask_8h.html" title="data/mask.h" alt="" coords="549,199,643,225"/>
+<area shape="rect" id="node5" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="195,423,290,449"/>
+<area shape="rect" id="node8" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="425,796,527,823"/>
+<area shape="rect" id="node10" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="615,871,729,897"/>
+<area shape="rect" id="node25" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1033,348,1143,375"/>
+<area shape="rect" id="node44" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="93,497,240,524"/>
+<area shape="rect" id="node6" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="214,721,309,748"/>
+<area shape="rect" id="node22" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1292,721,1399,748"/>
+<area shape="rect" id="node23" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="919,721,1030,748"/>
+<area shape="rect" id="node26" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="1474,497,1619,524"/>
+<area shape="rect" id="node28" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="539,721,658,748"/>
+<area shape="rect" id="node43" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="802,647,905,673"/>
+<area shape="rect" id="node27" href="$xmipp__image__macros_8h.html" title="xmipp_image_macros.h" alt="" coords="1584,572,1744,599"/>
+<area shape="rect" id="node29" href="$transformations_8h.html" title="transformations.h" alt="" coords="1387,572,1509,599"/>
+<area shape="rect" id="node31" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="2303,721,2428,748"/>
+<area shape="rect" id="node34" href="$rwDM3_8h.html" title="rwDM3.h" alt="" coords="1933,572,2008,599"/>
+<area shape="rect" id="node35" href="$rwDM4_8h.html" title="rwDM4.h" alt="" coords="2032,572,2107,599"/>
+<area shape="rect" id="node36" href="$rwIMAGIC_8h.html" title="rwIMAGIC.h" alt="" coords="2131,572,2226,599"/>
+<area shape="rect" id="node37" href="$rwMRC_8h.html" title="rwMRC.h" alt="" coords="865,572,943,599"/>
+<area shape="rect" id="node38" href="$rwINF_8h.html" title="rwINF.h" alt="" coords="968,572,1037,599"/>
+<area shape="rect" id="node39" href="$rwRAW_8h.html" title="rwRAW.h" alt="" coords="1062,572,1141,599"/>
+<area shape="rect" id="node40" href="$rwSPIDER_8h.html" title="rwSPIDER.h" alt="" coords="1165,572,1264,599"/>
+<area shape="rect" id="node41" href="$rwSPE_8h.html" title="rwSPE.h" alt="" coords="1288,572,1363,599"/>
+<area shape="rect" id="node30" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="1237,647,1403,673"/>
+<area shape="rect" id="node46" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="569,572,687,599"/>
+<area shape="rect" id="node47" href="$blobs_8h.html" title="blobs.h" alt="" coords="416,348,480,375"/>
+<area shape="rect" id="node48" href="$args_8h.html" title="core/args.h" alt="" coords="51,721,138,748"/>
+<area shape="rect" id="node49" href="$libraries_2data_2wavelet_8h.html" title="wavelet.h" alt="" coords="505,348,583,375"/>
+<area shape="rect" id="node50" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="2504,273,2683,300"/>
+</map>

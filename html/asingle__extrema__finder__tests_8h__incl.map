@@ -1,0 +1,13 @@
+<map id="xmipp/applications/tests/function_tests/asingle_extrema_finder_tests.h" name="xmipp/applications/tests/function_tests/asingle_extrema_finder_tests.h">
+<area shape="rect" id="node2" href="$gtest_8h.html" title="gtest/gtest.h" alt="" coords="1005,213,1099,240"/>
+<area shape="rect" id="node26" href="$cpu_8h.html" title="data/cpu.h" alt="" coords="1637,131,1720,158"/>
+<area shape="rect" id="node32" href="$memory__utils_8h.html" title="core/utils/memory_utils.h" alt="" coords="1971,213,2139,240"/>
+<area shape="rect" id="node35" href="$aextrema__finder_8h.html" title="reconstruction/aextrema\l_finder.h" alt="" coords="2051,124,2213,165"/>
+<area shape="rect" id="node28" href="$hw_8h.html" title="hw.h" alt="" coords="2163,213,2213,240"/>
+<area shape="rect" id="node30" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="1613,213,1744,240"/>
+<area shape="rect" id="node31" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1912,288,2027,315"/>
+<area shape="rect" id="node36" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="1768,213,1896,240"/>
+<area shape="rect" id="node37" href="$point3D_8h.html" title="data/point3D.h" alt="" coords="2429,213,2536,240"/>
+<area shape="rect" id="node38" href="$libraries_2data_2point_8h.html" title="point.h" alt="" coords="2379,288,2440,315"/>
+<area shape="rect" id="node39" href="$data_2cuda__compatibility_8h.html" title="cuda_compatibility.h" alt="" coords="2464,288,2605,315"/>
+</map>
