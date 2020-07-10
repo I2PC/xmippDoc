@@ -112,7 +112,6 @@ var searchData=
   ['evaluation_5freduction',['evaluation_reduction',['../classProgCTFBasicParams.html#a7c26ec362850c32294aceec79dc8a25f',1,'ProgCTFBasicParams']]],
   ['evsbin',['evsbin',['../structalglib__impl_1_1dfinternalbuffers.html#ad711e4bd15aec018dd73b9d1012273a6',1,'alglib_impl::dfinternalbuffers']]],
   ['evssplits',['evssplits',['../structalglib__impl_1_1dfinternalbuffers.html#a297f41172860ad720ca22aa6d28c3069',1,'alglib_impl::dfinternalbuffers']]],
-  ['exactres',['exactres',['../classProgMonogenicSignalRes.html#a7b8b5d463f088ddc340d15d9f465f17e',1,'ProgMonogenicSignalRes']]],
   ['examples',['examples',['../classProgramDef.html#a76115420135d766df4fa9fa5df337b80',1,'ProgramDef']]],
   ['exclusivegroup',['exclusiveGroup',['../classParamDef.html#aa1661ac859f98b5702c6b28a7f0bc722',1,'ParamDef']]],
   ['exclusivegroupname',['exclusiveGroupName',['../classProtPrinter.html#a3a934c51d8e7a5a9f1ba46dc00147c21',1,'ProtPrinter']]],

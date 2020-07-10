@@ -6,7 +6,7 @@ var searchData=
   ['h_5fdata',['h_data',['../classTransformMatrix.html#a3bc2e9dc8d498054a5e23d791c2788e9',1,'TransformMatrix']]],
   ['h_5fx',['h_x',['../classBspline__model.html#a1fc6ba1e579156189043a08b257ef12d',1,'Bspline_model']]],
   ['h_5fy',['h_y',['../classBspline__model.html#a0558f6253836c2e1c066e6d03881ccea',1,'Bspline_model']]],
-  ['halfmapsgiven',['halfMapsGiven',['../classProgMonogenicSignalRes.html#a71b61e2194a699f5e8fa5df4f9263e33',1,'ProgMonogenicSignalRes::halfMapsGiven()'],['../classProgMonoTomo.html#af24fcb148f760b419641e65a2a784348',1,'ProgMonoTomo::halfMapsGiven()']]],
+  ['halfmapsgiven',['halfMapsGiven',['../classProgMonoTomo.html#af24fcb148f760b419641e65a2a784348',1,'ProgMonoTomo']]],
   ['hasbndl',['hasbndl',['../structalglib__impl_1_1sactiveset.html#af14f0d06490b3310738dea4042ba5f88',1,'alglib_impl::sactiveset::hasbndl()'],['../structalglib__impl_1_1minbleicstate.html#af98bb75c29e8b80a797a0cdb6b750300',1,'alglib_impl::minbleicstate::hasbndl()']]],
   ['hasbndu',['hasbndu',['../structalglib__impl_1_1sactiveset.html#a751dbddbe068b8fceb34faad409b6767',1,'alglib_impl::sactiveset::hasbndu()'],['../structalglib__impl_1_1minbleicstate.html#a383c77c613af6279b6505562aeaedf81',1,'alglib_impl::minbleicstate::hasbndu()']]],
   ['hasctf',['hasCTF',['../classProgAngularContinuousAssign2.html#a449b31b704f0af4f704e9548d37747b6',1,'ProgAngularContinuousAssign2']]],

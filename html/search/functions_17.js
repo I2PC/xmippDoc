@@ -20,6 +20,7 @@ var searchData=
   ['wedgesolver',['WedgeSolver',['../classWedgeSolver.html#abbf9fe1e529ac509c6ca57093605d352',1,'WedgeSolver']]],
   ['weight',['weight',['../classImageBase.html#a3d21aa3aea6903420614f00c44e2fb10',1,'ImageBase']]],
   ['weightedleastsquares',['weightedLeastSquares',['../group__Matrices.html#ga653836391e166277cf010f118ef5828a',1,'weightedLeastSquares(WeightedLeastSquaresHelper &amp;h, Matrix1D&lt; double &gt; &amp;result):&#160;matrix2d.cpp'],['../group__Matrices.html#ga653836391e166277cf010f118ef5828a',1,'weightedLeastSquares(WeightedLeastSquaresHelper &amp;h, Matrix1D&lt; double &gt; &amp;result):&#160;matrix2d.cpp']]],
+  ['weights',['weights',['../classProgResolutionDirectionalFsc.html#a4f74e1c247d0a6478a09a9b0f549fb95',1,'ProgResolutionDirectionalFsc']]],
   ['wherestring',['whereString',['../classMDQuery.html#a62f8e92944a60fa3babb795ac3faed21',1,'MDQuery']]],
   ['while',['while',['../numerical__recipes_8cpp.html#a534830be6064ca71ebeb3ee95e3a95d3',1,'numerical_recipes.cpp']]],
   ['whitenspectrum',['whitenSpectrum',['../group__FourierW.html#ga4f2da3c6806ff7438cac1ff751a64e76',1,'whitenSpectrum(MultidimArray&lt; double &gt; &amp;Min, MultidimArray&lt; double &gt; &amp;Mout, int spectrum_type, bool leave_origin_intact):&#160;xmipp_fftw.cpp'],['../group__FourierW.html#ga4f2da3c6806ff7438cac1ff751a64e76',1,'whitenSpectrum(MultidimArray&lt; double &gt; &amp;Min, MultidimArray&lt; double &gt; &amp;Mout, int spectrum_type=AMPLITUDE_SPECTRUM, bool leave_origin_intact=false):&#160;xmipp_fftw.cpp']]],

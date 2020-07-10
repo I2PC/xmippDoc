@@ -16,7 +16,7 @@ var searchData=
   ['haar',['HAAR',['../group__Wavelets.html#ga35de5a5968bf5312998795c8faca73cb',1,'wavelet.h']]],
   ['half2whole',['half2whole',['../classPSDEstimator.html#a04e5fb262e6c7eaff23dad1906ee9b94',1,'PSDEstimator::half2whole()'],['../group__Fourier.html#ga802c259c4d5e663a4139946d89c120a4',1,'Half2Whole(const MultidimArray&lt; std::complex&lt; double &gt; &gt; &amp;in, MultidimArray&lt; std::complex&lt; double &gt; &gt; &amp;out, size_t oridim):&#160;xmipp_fft.cpp'],['../group__Fourier.html#ga802c259c4d5e663a4139946d89c120a4',1,'Half2Whole(const MultidimArray&lt; std::complex&lt; double &gt; &gt; &amp;in, MultidimArray&lt; std::complex&lt; double &gt; &gt; &amp;out, size_t oridim):&#160;xmipp_fft.cpp']]],
   ['half_5fcircles',['HALF_CIRCLES',['../polar_8h.html#af26ff3810bc37be1f0c6e3a3cd86e3c7',1,'polar.h']]],
-  ['halfmapsgiven',['halfMapsGiven',['../classProgMonogenicSignalRes.html#a71b61e2194a699f5e8fa5df4f9263e33',1,'ProgMonogenicSignalRes::halfMapsGiven()'],['../classProgMonoTomo.html#af24fcb148f760b419641e65a2a784348',1,'ProgMonoTomo::halfMapsGiven()']]],
+  ['halfmapsgiven',['halfMapsGiven',['../classProgMonoTomo.html#af24fcb148f760b419641e65a2a784348',1,'ProgMonoTomo']]],
   ['halfpi',['HALFPI',['../group__Macros.html#ga59d83d878ab677f99e48bd48ad80eef0',1,'xmipp_macros.h']]],
   ['hammingclassic',['HammingClassic',['../group__SignalProcWindows.html#gaa431740655f21037430ac8484e5a6746',1,'window.h']]],
   ['hammingexact',['HammingExact',['../group__SignalProcWindows.html#gafe00b42a9a6a13403f3b71b020c2a2ea',1,'window.h']]],

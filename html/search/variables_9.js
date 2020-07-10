@@ -293,7 +293,7 @@ var searchData=
   ['itry',['itry',['../numerical__recipes_8cpp.html#abe99af84ed063347dd9e7713d7019b9d',1,'numerical_recipes.cpp']]],
   ['itsbeforerestart',['itsbeforerestart',['../structalglib__impl_1_1lincgstate.html#a33fe217a2ee2e1af2e53614899356082',1,'alglib_impl::lincgstate']]],
   ['itsbeforerupdate',['itsbeforerupdate',['../structalglib__impl_1_1lincgstate.html#a54b0169cf6f58ed4a798730d3fc4c68b',1,'alglib_impl::lincgstate']]],
-  ['iu',['iu',['../classProgResDir.html#a7caa5f03890164797b9146d2aa48abd0',1,'ProgResDir::iu()'],['../classProgResLocalFilter.html#a2379caf22fcc414d753b3375e18a3410',1,'ProgResLocalFilter::iu()'],['../classProgMonogenicSignalRes.html#a06fcaa01eb379489ef1ff76745240616',1,'ProgMonogenicSignalRes::iu()'],['../classProgMonoTomo.html#a8262c29f901a85092f7157f9699034ac',1,'ProgMonoTomo::iu()'],['../classProgLocSharpening.html#a9b2c27e964fc0f131be6ee8f9791ec01',1,'ProgLocSharpening::iu()']]],
+  ['iu',['iu',['../classProgResDir.html#a7caa5f03890164797b9146d2aa48abd0',1,'ProgResDir::iu()'],['../classProgResLocalFilter.html#a2379caf22fcc414d753b3375e18a3410',1,'ProgResLocalFilter::iu()'],['../classProgMonoTomo.html#a8262c29f901a85092f7157f9699034ac',1,'ProgMonoTomo::iu()'],['../classProgLocSharpening.html#a9b2c27e964fc0f131be6ee8f9791ec01',1,'ProgLocSharpening::iu()']]],
   ['iuchar',['IUChar',['../classMicrograph.html#a3a230d21c95a18c32fd2b974b657b7ea',1,'Micrograph']]],
   ['iuint',['IUInt',['../classMicrograph.html#af4e3aec915ff4486c1ad6fcf6a23d60f',1,'Micrograph']]],
   ['iushort',['IUShort',['../classMicrograph.html#a35b38ade8dbaebd5696a556ea0e61708',1,'Micrograph']]],

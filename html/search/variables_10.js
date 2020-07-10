@@ -58,7 +58,7 @@ var searchData=
   ['pathbasename',['pathBaseName',['../classXmippMetadataProgram.html#a0bc8b4a80b718c4ecfa60cc373ce54c1',1,'XmippMetadataProgram']]],
   ['paux',['Paux',['../classCL3DClass.html#a1be1ba9bbb7c231894753b9731204cfa',1,'CL3DClass::Paux()'],['../classProgClassifySignificant.html#a1359aee8632f3032c7360eae24196e56',1,'ProgClassifySignificant::Paux()']]],
   ['pbasis',['pbasis',['../structalglib__impl_1_1sactiveset.html#a622f560b7a3359c10bf58869cf1cd6f1',1,'alglib_impl::sactiveset']]],
-  ['pca',['PCA',['../classPCA__set.html#ad88eb5fdd58c70c6345a4fac28d2a5d9',1,'PCA_set::PCA()'],['../group__Assign.html#ga7542e0935ae8e66aee3c477a72df9682',1,'ProgAngularAccuracyPCA::pca()'],['../classProgClassifyFirstSplit.html#ae095078eb60fb48cc853a972ec26d58e',1,'ProgClassifyFirstSplit::pca()']]],
+  ['pca',['pca',['../group__Assign.html#ga7542e0935ae8e66aee3c477a72df9682',1,'ProgAngularAccuracyPCA::pca()'],['../classProgClassifyFirstSplit.html#ae095078eb60fb48cc853a972ec26d58e',1,'ProgClassifyFirstSplit::pca()'],['../classPCA__set.html#ad88eb5fdd58c70c6345a4fac28d2a5d9',1,'PCA_set::PCA()']]],
   ['pcaanalyzer',['pcaAnalyzer',['../classProgAnalyzeCluster.html#a95acee2eb2d3c223c054c2d23b831203',1,'ProgAnalyzeCluster::pcaAnalyzer()'],['../classProgSortByStatistics.html#a40f6298d98af87343921f56f804e38a0',1,'ProgSortByStatistics::pcaAnalyzer()'],['../classAutoParticlePicking2.html#a39fe5d2d615af858c7b6fe1dcbef3afb',1,'AutoParticlePicking2::pcaAnalyzer()']]],
   ['pcabasis',['PCAbasis',['../classPCAMahalanobisAnalyzer.html#a5ad6d58f8f4f0e1a4ddaab96e56e58e6',1,'PCAMahalanobisAnalyzer']]],
   ['pcamodel',['pcaModel',['../classAutoParticlePicking2.html#ad66633e03e2122f721be475b1e4af8c3',1,'AutoParticlePicking2']]],

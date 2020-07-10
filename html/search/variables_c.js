@@ -103,7 +103,7 @@ var searchData=
   ['lowerintensity',['lowerIntensity',['../classProgVolumeEnhanceContrast.html#a7ca5e72d292293d7f348c048f90368ba',1,'ProgVolumeEnhanceContrast']]],
   ['lowest',['lowest',['../classSimpleGrid.html#ac11364ea0ab16392eef9db243986bc5a',1,'SimpleGrid']]],
   ['lowpass',['lowpass',['../classProgMLRefine3D.html#af0c774c09a3c4b726a06bda29ba5b2ca',1,'ProgMLRefine3D::lowpass()'],['../classProgSimulateMicroscope.html#a6a57c9895cde7708a7c57a2e6ebb0bcf',1,'ProgSimulateMicroscope::lowpass()']]],
-  ['lowpassfilter',['lowPassFilter',['../classProgMonogenicSignalRes.html#a0ffc83658d5d33d9fbd3df354f493d16',1,'ProgMonogenicSignalRes::lowPassFilter()'],['../classProgMonoTomo.html#a74953b089bdf8616dcfb4d8068617077',1,'ProgMonoTomo::lowPassFilter()']]],
+  ['lowpassfilter',['lowPassFilter',['../classProgMonoTomo.html#a74953b089bdf8616dcfb4d8068617077',1,'ProgMonoTomo']]],
   ['lowres_5flimit',['lowres_limit',['../classProgMLF2D.html#a0c5751afdfd3fe27554492356c09a58c',1,'ProgMLF2D']]],
   ['lpf',['lpf',['../classProgCommonLine.html#a6c8c0b9f374c2bc31766fd94255fe02b',1,'ProgCommonLine']]],
   ['lsend',['lsend',['../structalglib__impl_1_1mincgstate.html#aaae23e5b2744478b8b7e61ff77aa9f70',1,'alglib_impl::mincgstate']]],

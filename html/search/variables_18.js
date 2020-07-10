@@ -13,7 +13,7 @@ var searchData=
   ['xax',['xax',['../structalglib__impl_1_1fblslincgstate.html#a98fa5de411c0e5338b3983ae0e0d3884',1,'alglib_impl::fblslincgstate']]],
   ['xaxis',['xaxis',['../classEulerTest.html#ae7b24b52dc72b6621e391044f8e80075',1,'EulerTest']]],
   ['xbase',['xbase',['../structalglib__impl_1_1armijostate.html#ab9efa71276ad3fce02c26c57b007f832',1,'alglib_impl::armijostate::xbase()'],['../structalglib__impl_1_1minlmstate.html#ab7f4151bd73bc05037b3f8d2ba0aec6f',1,'alglib_impl::minlmstate::xbase()'],['../structalglib__impl_1_1nleqstate.html#a68b581f87950afe27940313fb838cd64',1,'alglib_impl::nleqstate::xbase()']]],
-  ['xbest',['xbest',['../structalglib__impl_1_1normestimatorstate.html#a6aecd5c817037b94aafcbc32cd8d7907',1,'alglib_impl::normestimatorstate::xbest()'],['../classObjectiveFunction.html#a73f7a2b964c80097f43b73018be207f5',1,'ObjectiveFunction::xBest()']]],
+  ['xbest',['xBest',['../classObjectiveFunction.html#a73f7a2b964c80097f43b73018be207f5',1,'ObjectiveFunction::xBest()'],['../structalglib__impl_1_1normestimatorstate.html#a6aecd5c817037b94aafcbc32cd8d7907',1,'alglib_impl::normestimatorstate::xbest()']]],
   ['xbuf',['xbuf',['../structalglib__impl_1_1idwinterpolant.html#ab10b564000678972e24b675a0d7eec4d',1,'alglib_impl::idwinterpolant']]],
   ['xc',['xc',['../structalglib__impl_1_1rbfmodel.html#aa4e434b3dc8fbd440601b07063d6416e',1,'alglib_impl::rbfmodel::xc()'],['../structalglib__impl_1_1convexquadraticmodel.html#aeaeb412be2dc6115a36e91fe4ad9d476',1,'alglib_impl::convexquadraticmodel::xc()'],['../structalglib__impl_1_1sactiveset.html#a38a0b6e65fee74f7fe5062ef2b73dd23',1,'alglib_impl::sactiveset::xc()']]],
   ['xc0',['xc0',['../image__find__center_8cpp.html#a21c0962e21edba70c51db494e953605a',1,'image_find_center.cpp']]],

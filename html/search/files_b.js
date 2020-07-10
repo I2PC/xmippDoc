@@ -68,6 +68,8 @@ var searchData=
   ['mlf_5falign2d_2eh',['mlf_align2d.h',['../mlf__align2d_8h.html',1,'']]],
   ['mlf_5falign2d_5fmain_2ecpp',['mlf_align2d_main.cpp',['../mlf__align2d__main_8cpp.html',1,'']]],
   ['mlf_5frefine3d_5fmain_2ecpp',['mlf_refine3d_main.cpp',['../mlf__refine3d__main_8cpp.html',1,'']]],
+  ['monogenic_5fsignal_2ecpp',['monogenic_signal.cpp',['../monogenic__signal_8cpp.html',1,'']]],
+  ['monogenic_5fsignal_2eh',['monogenic_signal.h',['../monogenic__signal_8h.html',1,'']]],
   ['morphology_2ecpp',['morphology.cpp',['../morphology_8cpp.html',1,'']]],
   ['morphology_2eh',['morphology.h',['../libraries_2data_2morphology_8h.html',1,'']]],
   ['morphology_2eh',['morphology.h',['../ore_2core_2bilib_2morphology_8h.html',1,'']]],
