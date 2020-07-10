@@ -1,0 +1,22 @@
+<map id="ProgCtfCorrectAmplitude3D" name="ProgCtfCorrectAmplitude3D">
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="885,89,993,116"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="652,69,744,96"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="320,44,399,71"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="38,19,117,45"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="40,69,115,96"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="309,95,409,121"/>
+<area shape="rect" id="node8" href="$classMetaData.html" title="MetaData" alt="" coords="900,157,979,184"/>
+<area shape="rect" id="node9" href="$classMDSql.html" title="MDSql" alt="" coords="667,120,729,147"/>
+<area shape="rect" id="node10" href="$classFileName.html" title="FileName" alt="" coords="659,224,737,251"/>
+<area shape="rect" id="node12" href="$classFourierFilter.html" title="FourierFilter" alt="" coords="894,408,985,435"/>
+<area shape="rect" id="node13" href="$classXmippFilter.html" title="XmippFilter" alt="" coords="654,552,742,579"/>
+<area shape="rect" id="node14" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="632,296,764,323"/>
+<area shape="rect" id="node15" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="277,369,441,396"/>
+<area shape="rect" id="node16" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="11,369,143,396"/>
+<area shape="rect" id="node17" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="283,295,436,337"/>
+<area shape="rect" id="node22" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="465,479,605,505"/>
+<area shape="rect" id="node18" href="$classCTFDescription.html" title="CTFDescription" alt="" coords="641,603,755,629"/>
+<area shape="rect" id="node19" href="$classCTFDescription1D.html" title="CTFDescription1D" alt="" coords="294,603,425,629"/>
+<area shape="rect" id="node20" href="$classPrecomputedForCTF.html" title="PrecomputedForCTF" alt="" coords="5,603,149,629"/>
+<area shape="rect" id="node21" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="629,439,767,465"/>
+</map>

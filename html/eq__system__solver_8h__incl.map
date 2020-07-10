@@ -1,0 +1,12 @@
+<map id="xmipp/libraries/reconstruction/eq_system_solver.h" name="xmipp/libraries/reconstruction/eq_system_solver.h">
+<area shape="rect" id="node2" href="$matrix2d_8h.html" title="core/matrix2d.h" alt="" coords="339,95,451,121"/>
+<area shape="rect" id="node6" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="199,169,332,196"/>
+<area shape="rect" id="node7" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1178,319,1297,345"/>
+<area shape="rect" id="node10" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="99,319,223,345"/>
+<area shape="rect" id="node17" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="479,393,580,420"/>
+<area shape="rect" id="node19" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="851,169,933,196"/>
+<area shape="rect" id="node14" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="253,468,368,495"/>
+<area shape="rect" id="node22" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="551,244,657,271"/>
+<area shape="rect" id="node26" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="884,244,1023,271"/>
+<area shape="rect" id="node28" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="892,319,1015,345"/>
+</map>

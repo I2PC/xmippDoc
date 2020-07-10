@@ -1,0 +1,39 @@
+<map id="MpiProgAngularSphAlignment" name="MpiProgAngularSphAlignment">
+<area shape="rect" id="node2" href="$classProgAngularSphAlignment.html" title="ProgAngularSphAlignment" alt="" coords="1485,420,1660,447"/>
+<area shape="rect" id="node3" href="$classXmippMetadataProgram.html" title="XmippMetadataProgram" alt="" coords="1213,231,1376,257"/>
+<area shape="rect" id="node4" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="959,120,1067,147"/>
+<area shape="rect" id="node34" href="$classXmippMpiProgram.html" title="XmippMpiProgram" alt="" coords="1230,63,1359,89"/>
+<area shape="rect" id="node5" href="$classProgramDef.html" title="ProgramDef" alt="" coords="700,120,792,147"/>
+<area shape="rect" id="node6" href="$classASTNode.html" title="ASTNode" alt="" coords="401,75,479,101"/>
+<area shape="rect" id="node7" href="$classArgToken.html" title="ArgToken" alt="" coords="172,49,251,76"/>
+<area shape="rect" id="node8" href="$classArgLexer.html" title="ArgLexer" alt="" coords="174,100,249,127"/>
+<area shape="rect" id="node9" href="$classCommentList.html" title="CommentList" alt="" coords="390,125,490,152"/>
+<area shape="rect" id="node10" href="$classMDIterator.html" title="MDIterator" alt="" coords="971,231,1055,257"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="172,469,251,496"/>
+<area shape="rect" id="node16" href="$classImageBase.html" title="Image base class. " alt="" coords="702,487,790,513"/>
+<area shape="rect" id="node18" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="385,532,495,559"/>
+<area shape="rect" id="node26" href="$classFourierFilter.html" title="FourierFilter" alt="" coords="1249,693,1340,720"/>
+<area shape="rect" id="node13" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="944,461,1081,488"/>
+<area shape="rect" id="node14" href="$classProjection.html" title="Projection" alt="" coords="1255,481,1335,508"/>
+<area shape="rect" id="node15" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="953,403,1073,429"/>
+<area shape="rect" id="node17" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="374,740,506,767"/>
+<area shape="rect" id="node23" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="664,691,828,717"/>
+<area shape="rect" id="node25" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="943,828,1083,855"/>
+<area shape="rect" id="node29" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="669,757,823,798"/>
+<area shape="rect" id="node19" href="$classMDRow.html" title="MDRow" alt="" coords="405,635,475,661"/>
+<area shape="rect" id="node20" href="$classMDObject.html" title="MDObject" alt="" coords="171,635,252,661"/>
+<area shape="rect" id="node21" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,635,93,661"/>
+<area shape="rect" id="node22" href="$structArrayDim.html" title="ArrayDim" alt="" coords="401,388,479,415"/>
+<area shape="rect" id="node28" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="947,635,1079,661"/>
+<area shape="rect" id="node24" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="944,533,1081,560"/>
+<area shape="rect" id="node27" href="$classXmippFilter.html" title="XmippFilter" alt="" coords="969,777,1057,804"/>
+<area shape="rect" id="node30" href="$classCTFDescription.html" title="CTFDescription" alt="" coords="955,879,1070,905"/>
+<area shape="rect" id="node31" href="$classCTFDescription1D.html" title="CTFDescription1D" alt="" coords="681,879,811,905"/>
+<area shape="rect" id="node32" href="$classPrecomputedForCTF.html" title="PrecomputedForCTF" alt="" coords="368,879,512,905"/>
+<area shape="rect" id="node33" href="$classMpiMetadataProgram.html" title="MpiMetadataProgram" alt="" coords="1499,113,1646,140"/>
+<area shape="rect" id="node35" href="$classMpiNode.html" title="MpiNode" alt="" coords="975,5,1050,32"/>
+<area shape="rect" id="node36" href="$classMpiTaskDistributor.html" title="MpiTaskDistributor" alt="" coords="1229,113,1361,140"/>
+<area shape="rect" id="node37" href="$classThreadTaskDistributor.html" title="ThreadTaskDistributor" alt="" coords="937,69,1088,96"/>
+<area shape="rect" id="node38" href="$classParallelTaskDistributor.html" title="ParallelTaskDistributor" alt="" coords="669,69,823,96"/>
+<area shape="rect" id="node39" href="$classMutex.html" title="Mutex" alt="" coords="717,19,775,45"/>
+</map>

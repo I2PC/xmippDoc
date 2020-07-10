@@ -1,0 +1,20 @@
+<map id="ProgMovieEstimateGain" name="ProgMovieEstimateGain">
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="247,494,355,521"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="228,351,320,377"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="56,222,135,249"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="5,95,84,121"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,95,183,121"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="224,222,324,249"/>
+<area shape="rect" id="node8" href="$classMetaData.html" title="MetaData" alt="" coords="348,222,427,249"/>
+<area shape="rect" id="node9" href="$classMDSql.html" title="MDSql" alt="" coords="261,95,324,121"/>
+<area shape="rect" id="node10" href="$classFileName.html" title="FileName" alt="" coords="540,95,619,121"/>
+<area shape="rect" id="node13" href="$classImageBase.html" title="Image base class. " alt="" coords="763,351,851,377"/>
+<area shape="rect" id="node15" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="797,222,908,249"/>
+<area shape="rect" id="node12" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="651,494,771,521"/>
+<area shape="rect" id="node14" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="505,222,637,249"/>
+<area shape="rect" id="node20" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="565,351,729,377"/>
+<area shape="rect" id="node16" href="$classMDRow.html" title="MDRow" alt="" coords="932,222,1003,249"/>
+<area shape="rect" id="node17" href="$classMDObject.html" title="MDObject" alt="" coords="927,95,1008,121"/>
+<area shape="rect" id="node18" href="$unionObjectData.html" title="ObjectData" alt="" coords="923,5,1011,32"/>
+<area shape="rect" id="node19" href="$structArrayDim.html" title="ArrayDim" alt="" coords="1027,222,1105,249"/>
+</map>

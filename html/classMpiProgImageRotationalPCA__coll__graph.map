@@ -1,0 +1,18 @@
+<map id="MpiProgImageRotationalPCA" name="MpiProgImageRotationalPCA">
+<area shape="rect" id="node2" href="$classProgImageRotationalPCA.html" title="ProgImageRotationalPCA" alt="" coords="985,249,1157,276"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="711,71,819,97"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="459,71,551,97"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="187,44,265,71"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="5,19,84,45"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="7,69,82,96"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="176,95,276,121"/>
+<area shape="rect" id="node9" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="696,132,833,159"/>
+<area shape="rect" id="node10" href="$classThreadManager.html" title="ThreadManager" alt="" coords="709,183,821,209"/>
+<area shape="rect" id="node11" href="$classMutex.html" title="Mutex" alt="" coords="476,263,535,289"/>
+<area shape="rect" id="node12" href="$classThreadTaskDistributor.html" title="ThreadTaskDistributor" alt="" coords="689,311,840,337"/>
+<area shape="rect" id="node13" href="$classParallelTaskDistributor.html" title="ParallelTaskDistributor" alt="" coords="428,327,583,353"/>
+<area shape="rect" id="node14" href="$classMultidimArray.html" title="MultidimArray\&lt; unsigned\l char \&gt;" alt="" coords="681,362,848,403"/>
+<area shape="rect" id="node15" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="439,377,571,404"/>
+<area shape="rect" id="node16" href="$classFileName.html" title="FileName" alt="" coords="725,428,804,455"/>
+<area shape="rect" id="node18" href="$classMpiNode.html" title="MpiNode" alt="" coords="1034,300,1109,327"/>
+</map>

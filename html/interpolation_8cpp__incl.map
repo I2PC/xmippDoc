@@ -1,0 +1,12 @@
+<map id="xmippCore/core/alglib/interpolation.cpp" name="xmippCore/core/alglib/interpolation.cpp">
+<area shape="rect" id="node2" href="$stdafx_8h.html" title="stdafx.h" alt="" coords="285,95,355,121"/>
+<area shape="rect" id="node3" href="$interpolation_8h.html" title="interpolation.h" alt="" coords="379,95,482,121"/>
+<area shape="rect" id="node4" href="$ap_8h.html" title="ap.h" alt="" coords="402,543,449,569"/>
+<area shape="rect" id="node15" href="$alglibinternal_8h.html" title="alglibinternal.h" alt="" coords="437,468,542,495"/>
+<area shape="rect" id="node16" href="$alglibmisc_8h.html" title="alglibmisc.h" alt="" coords="235,393,325,420"/>
+<area shape="rect" id="node17" href="$linalg_8h.html" title="linalg.h" alt="" coords="414,319,477,345"/>
+<area shape="rect" id="node18" href="$solvers_8h.html" title="solvers.h" alt="" coords="261,244,336,271"/>
+<area shape="rect" id="node19" href="$optimization_8h.html" title="optimization.h" alt="" coords="334,169,437,196"/>
+<area shape="rect" id="node20" href="$specialfunctions_8h.html" title="specialfunctions.h" alt="" coords="755,393,882,420"/>
+<area shape="rect" id="node21" href="$ore_2core_2alglib_2integration_8h.html" title="integration.h" alt="" coords="664,244,757,271"/>
+</map>

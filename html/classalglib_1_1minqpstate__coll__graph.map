@@ -1,0 +1,18 @@
+<map id="alglib::minqpstate" name="alglib::minqpstate">
+<area shape="rect" id="node2" href="$classalglib_1_1__minqpstate__owner.html" title="alglib::_minqpstate\l_owner" alt="" coords="1829,617,1960,658"/>
+<area shape="rect" id="node3" href="$structalglib__impl_1_1minqpstate.html" title="alglib_impl::minqpstate" alt="" coords="1575,624,1729,651"/>
+<area shape="rect" id="node4" href="$structalglib__impl_1_1minbleicstate.html" title="alglib_impl::minbleicstate" alt="" coords="1299,928,1467,955"/>
+<area shape="rect" id="node5" href="$structalglib__impl_1_1rcommstate.html" title="alglib_impl::rcommstate" alt="" coords="591,499,751,525"/>
+<area shape="rect" id="node15" href="$structalglib__impl_1_1normestimatorstate.html" title="alglib_impl::normestimatorstate" alt="" coords="996,461,1199,488"/>
+<area shape="rect" id="node6" href="$structalglib__impl_1_1ae__vector.html" title="alglib_impl::ae_vector" alt="" coords="289,680,437,707"/>
+<area shape="rect" id="node10" href="$structalglib__impl_1_1snnlssolver.html" title="alglib_impl::snnlssolver" alt="" coords="592,1028,749,1055"/>
+<area shape="rect" id="node12" href="$structalglib__impl_1_1sactiveset.html" title="alglib_impl::sactiveset" alt="" coords="1022,1040,1173,1067"/>
+<area shape="rect" id="node14" href="$structalglib__impl_1_1convexquadraticmodel.html" title="alglib_impl::convexquadraticmodel" alt="" coords="560,651,781,677"/>
+<area shape="rect" id="node17" href="$structalglib__impl_1_1sparsematrix.html" title="alglib_impl::sparsematrix" alt="" coords="805,300,972,327"/>
+<area shape="rect" id="node7" href="$structalglib__impl_1_1ae__dyn__block.html" title="alglib_impl::ae_dyn\l_block" alt="" coords="19,761,153,802"/>
+<area shape="rect" id="node11" href="$structalglib__impl_1_1ae__matrix.html" title="alglib_impl::ae_matrix" alt="" coords="289,1139,437,1165"/>
+<area shape="rect" id="node8" href="$structalglib__impl_1_1ae__complex.html" title="alglib_impl::ae_complex" alt="" coords="5,885,167,912"/>
+<area shape="rect" id="node9" href="$structalglib__impl_1_1linminstate.html" title="alglib_impl::linminstate" alt="" coords="1020,989,1175,1016"/>
+<area shape="rect" id="node13" href="$structalglib__impl_1_1minbleicreport.html" title="alglib_impl::minbleicreport" alt="" coords="1297,649,1469,676"/>
+<area shape="rect" id="node16" href="$structalglib__impl_1_1hqrndstate.html" title="alglib_impl::hqrndstate" alt="" coords="595,448,747,475"/>
+</map>
