@@ -1,0 +1,23 @@
+<map id="xmipp/libraries/reconstruction/angular_commonline.h" name="xmipp/libraries/reconstruction/angular_commonline.h">
+<area shape="rect" id="node2" href="$xmipp__funcs_8h.html" title="core/xmipp_funcs.h" alt="" coords="867,468,1003,495"/>
+<area shape="rect" id="node21" href="$metadata_8h.html" title="core/metadata.h" alt="" coords="1581,244,1697,271"/>
+<area shape="rect" id="node33" href="$numerical__tools_8h.html" title="data/numerical_tools.h" alt="" coords="437,169,591,196"/>
+<area shape="rect" id="node39" href="$matrix2d_8h.html" title="core/matrix2d.h" alt="" coords="722,319,834,345"/>
+<area shape="rect" id="node47" href="$ore_2core_2symmetries_8h.html" title="core/symmetries.h" alt="" coords="985,95,1115,121"/>
+<area shape="rect" id="node7" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="587,543,711,569"/>
+<area shape="rect" id="node15" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="392,543,511,569"/>
+<area shape="rect" id="node18" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1187,617,1289,644"/>
+<area shape="rect" id="node11" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1294,692,1409,719"/>
+<area shape="rect" id="node30" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="1880,319,1991,345"/>
+<area shape="rect" id="node32" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="1465,393,1587,420"/>
+<area shape="rect" id="node34" href="$numerical__recipes_8h.html" title="core/numerical_recipes.h" alt="" coords="125,468,292,495"/>
+<area shape="rect" id="node38" href="$matrix1d_8h.html" title="core/matrix1d.h" alt="" coords="275,393,387,420"/>
+<area shape="rect" id="node44" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="441,244,587,271"/>
+<area shape="rect" id="node36" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="147,543,270,569"/>
+<area shape="rect" id="node41" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="661,393,794,420"/>
+<area shape="rect" id="node45" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="449,319,579,345"/>
+<area shape="rect" id="node46" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="603,319,697,345"/>
+<area shape="rect" id="node48" href="$args_8h.html" title="args.h" alt="" coords="1281,543,1339,569"/>
+<area shape="rect" id="node49" href="$transformations_8h.html" title="transformations.h" alt="" coords="989,169,1111,196"/>
+<area shape="rect" id="node50" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="975,244,1155,271"/>
+</map>

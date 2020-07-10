@@ -1,0 +1,20 @@
+<map id="ProgCTFBasicParams" name="ProgCTFBasicParams">
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="1032,69,1140,96"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="688,69,780,96"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="395,44,473,71"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="172,19,251,45"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="174,69,249,96"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="384,95,484,121"/>
+<area shape="rect" id="node8" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="1017,120,1155,147"/>
+<area shape="rect" id="node9" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="1026,504,1146,531"/>
+<area shape="rect" id="node10" href="$classImageBase.html" title="Image base class. " alt="" coords="690,489,778,516"/>
+<area shape="rect" id="node11" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="368,327,500,353"/>
+<area shape="rect" id="node19" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="652,425,816,452"/>
+<area shape="rect" id="node20" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="840,218,993,259"/>
+<area shape="rect" id="node12" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="379,469,489,496"/>
+<area shape="rect" id="node13" href="$classFileName.html" title="FileName" alt="" coords="172,472,251,499"/>
+<area shape="rect" id="node15" href="$classMDRow.html" title="MDRow" alt="" coords="399,621,469,648"/>
+<area shape="rect" id="node16" href="$classMDObject.html" title="MDObject" alt="" coords="171,621,252,648"/>
+<area shape="rect" id="node17" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,621,93,648"/>
+<area shape="rect" id="node18" href="$structArrayDim.html" title="ArrayDim" alt="" coords="395,520,473,547"/>
+</map>

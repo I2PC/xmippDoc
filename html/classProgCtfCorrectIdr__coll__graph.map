@@ -1,0 +1,31 @@
+<map id="ProgCtfCorrectIdr" name="ProgCtfCorrectIdr">
+<area shape="rect" id="node2" href="$classXmippMetadataProgram.html" title="XmippMetadataProgram" alt="" coords="1272,233,1435,260"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="1031,135,1139,161"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="700,68,792,95"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="401,44,479,71"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="172,81,251,108"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="174,31,249,57"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="390,95,490,121"/>
+<area shape="rect" id="node9" href="$classMDIterator.html" title="MDIterator" alt="" coords="1043,259,1127,285"/>
+<area shape="rect" id="node10" href="$classFileName.html" title="FileName" alt="" coords="172,441,251,468"/>
+<area shape="rect" id="node14" href="$classImageBase.html" title="Image base class. " alt="" coords="702,433,790,460"/>
+<area shape="rect" id="node16" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="385,504,495,531"/>
+<area shape="rect" id="node24" href="$classFourierFilter.html" title="FourierFilter" alt="" coords="1308,620,1399,647"/>
+<area shape="rect" id="node12" href="$classProjection.html" title="Projection" alt="" coords="1313,384,1393,411"/>
+<area shape="rect" id="node13" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="1025,411,1145,437"/>
+<area shape="rect" id="node15" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="374,583,506,609"/>
+<area shape="rect" id="node21" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="664,600,828,627"/>
+<area shape="rect" id="node27" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="669,518,823,559"/>
+<area shape="rect" id="node31" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="852,748,992,775"/>
+<area shape="rect" id="node17" href="$classMDRow.html" title="MDRow" alt="" coords="405,157,475,184"/>
+<area shape="rect" id="node18" href="$classMDObject.html" title="MDObject" alt="" coords="171,157,252,184"/>
+<area shape="rect" id="node19" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,157,93,184"/>
+<area shape="rect" id="node20" href="$structArrayDim.html" title="ArrayDim" alt="" coords="401,360,479,387"/>
+<area shape="rect" id="node26" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="1019,563,1151,589"/>
+<area shape="rect" id="node22" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="1016,360,1153,387"/>
+<area shape="rect" id="node23" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="1016,461,1153,488"/>
+<area shape="rect" id="node25" href="$classXmippFilter.html" title="XmippFilter" alt="" coords="1041,512,1129,539"/>
+<area shape="rect" id="node28" href="$classCTFDescription.html" title="CTFDescription" alt="" coords="1027,872,1142,899"/>
+<area shape="rect" id="node29" href="$classCTFDescription1D.html" title="CTFDescription1D" alt="" coords="681,880,811,907"/>
+<area shape="rect" id="node30" href="$classPrecomputedForCTF.html" title="PrecomputedForCTF" alt="" coords="368,880,512,907"/>
+</map>

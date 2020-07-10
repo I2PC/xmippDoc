@@ -1,0 +1,13 @@
+<map id="RetinexFilter" name="RetinexFilter">
+<area shape="rect" id="node2" href="$classXmippFilter.html" title="XmippFilter" alt="" coords="29,409,117,436"/>
+<area shape="rect" id="node3" href="$classImage.html" title="Image\&lt; int \&gt;" alt="" coords="141,409,237,436"/>
+<area shape="rect" id="node4" href="$classImageBase.html" title="Image base class. " alt="" coords="209,320,297,347"/>
+<area shape="rect" id="node5" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="5,222,137,249"/>
+<area shape="rect" id="node13" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="28,320,168,347"/>
+<area shape="rect" id="node6" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="301,222,412,249"/>
+<area shape="rect" id="node7" href="$classFileName.html" title="FileName" alt="" coords="204,95,283,121"/>
+<area shape="rect" id="node9" href="$classMDRow.html" title="MDRow" alt="" coords="436,222,507,249"/>
+<area shape="rect" id="node10" href="$classMDObject.html" title="MDObject" alt="" coords="431,95,512,121"/>
+<area shape="rect" id="node11" href="$unionObjectData.html" title="ObjectData" alt="" coords="427,5,515,32"/>
+<area shape="rect" id="node12" href="$structArrayDim.html" title="ArrayDim" alt="" coords="531,222,609,249"/>
+</map>

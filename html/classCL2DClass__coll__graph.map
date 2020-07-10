@@ -1,0 +1,12 @@
+<map id="CL2DClass" name="CL2DClass">
+<area shape="rect" id="node2" href="$classRotationalCorrelationAux.html" title="RotationalCorrelationAux" alt="" coords="745,160,912,187"/>
+<area shape="rect" id="node3" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="460,221,592,248"/>
+<area shape="rect" id="node12" href="$classCorrelationAux.html" title="CorrelationAux" alt="" coords="775,261,883,288"/>
+<area shape="rect" id="node4" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="187,111,351,137"/>
+<area shape="rect" id="node11" href="$classHistogram1D.html" title="Histogram1D" alt="" coords="619,29,718,56"/>
+<area shape="rect" id="node5" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="5,148,137,175"/>
+<area shape="rect" id="node6" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="192,190,345,231"/>
+<area shape="rect" id="node7" href="$classPolar.html" title="Polar\&lt; std::complex\l\&lt; double \&gt; \&gt;" alt="" coords="759,333,898,374"/>
+<area shape="rect" id="node8" href="$classFileName.html" title="FileName" alt="" coords="487,360,565,387"/>
+<area shape="rect" id="node10" href="$classPolar__fftw__plans.html" title="Polar_fftw_plans" alt="" coords="769,211,888,237"/>
+</map>
