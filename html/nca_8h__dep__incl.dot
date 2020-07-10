@@ -1,0 +1,10 @@
+digraph "xmipp/libraries/dimred/nca.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node31 [label="xmipp/libraries/dimred\l/nca.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node31 -> Node32 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node32 [label="xmipp/applications\l/tests/function_tests\l/test_dimred_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$test__dimred__main_8cpp.html"];
+  Node31 -> Node33 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node33 [label="xmipp/libraries/dimred\l/nca.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$nca_8cpp.html"];
+}

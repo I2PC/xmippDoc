@@ -1,0 +1,10 @@
+digraph "xmipp/libraries/reconstruction/image_rotational_spectra.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node80 [label="xmipp/libraries/reconstruction\l/image_rotational_spectra.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node80 -> Node81 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="xmipp/applications\l/programs/image_rotational\l_spectra/image_rotational\l_spectra_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$image__rotational__spectra__main_8cpp.html"];
+  Node80 -> Node82 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 [label="xmipp/libraries/reconstruction\l/image_rotational_spectra.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$image__rotational__spectra_8cpp.html"];
+}
