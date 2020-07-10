@@ -1,0 +1,8 @@
+<map id="xmipp/libraries/reconstruction_cuda/cuda_shift_corr_estimator.h" name="xmipp/libraries/reconstruction_cuda/cuda_shift_corr_estimator.h">
+<area shape="rect" id="node2" href="$test__cuda__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_iterative_alignment\l_estimator.cpp" alt="" coords="5,95,204,165"/>
+<area shape="rect" id="node3" href="$test__cuda__shift__corr__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_shift_corr\l_estimator.cpp" alt="" coords="229,95,373,165"/>
+<area shape="rect" id="node4" href="$align__significant__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.h" alt="" coords="397,109,629,151"/>
+<area shape="rect" id="node7" href="$cuda__shift__corr__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_shift_corr_estimator.cpp" alt="" coords="653,109,889,151"/>
+<area shape="rect" id="node5" href="$cuda__align__significant_8cpp.html" title="xmipp/applications\l/programs/cuda_align\l_significant/cuda_align\l_significant.cpp" alt="" coords="323,213,478,284"/>
+<area shape="rect" id="node6" href="$align__significant__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.cpp" alt="" coords="501,228,748,269"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="FourierFilter" name="FourierFilter">
+<area shape="rect" id="node2" href="$classXmippFilter.html" title="XmippFilter" alt="" coords="654,5,742,32"/>
+<area shape="rect" id="node3" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="632,152,764,179"/>
+<area shape="rect" id="node4" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="277,108,441,135"/>
+<area shape="rect" id="node5" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="11,167,143,193"/>
+<area shape="rect" id="node6" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="283,159,436,201"/>
+<area shape="rect" id="node11" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="465,225,605,252"/>
+<area shape="rect" id="node7" href="$classCTFDescription.html" title="CTFDescription" alt="" coords="641,265,755,292"/>
+<area shape="rect" id="node8" href="$classCTFDescription1D.html" title="CTFDescription1D" alt="" coords="294,276,425,303"/>
+<area shape="rect" id="node9" href="$classPrecomputedForCTF.html" title="PrecomputedForCTF" alt="" coords="5,276,149,303"/>
+<area shape="rect" id="node10" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="629,316,767,343"/>
+<area shape="rect" id="node12" href="$classFileName.html" title="FileName" alt="" coords="659,379,737,405"/>
+</map>

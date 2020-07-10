@@ -1,0 +1,9 @@
+<map id="Triangulation_T" name="Triangulation_T">
+<area shape="rect" id="node2" href="$structDCEL__T.html" title="DCEL_T" alt="" coords="189,184,262,211"/>
+<area shape="rect" id="node3" href="$structDcel__Vertex__T.html" title="Dcel_Vertex_T" alt="" coords="5,95,115,121"/>
+<area shape="rect" id="node4" href="$structPoint__T.html" title="Point_T" alt="" coords="27,5,93,32"/>
+<area shape="rect" id="node5" href="$structDcel__Edge__T.html" title="Dcel_Edge_T" alt="" coords="139,95,240,121"/>
+<area shape="rect" id="node6" href="$structDcel__Face__T.html" title="Dcel_Face_T" alt="" coords="265,95,365,121"/>
+<area shape="rect" id="node7" href="$structstack__T.html" title="stack_T" alt="" coords="359,184,428,211"/>
+<area shape="rect" id="node8" href="$structConvex__T.html" title="Convex_T" alt="" coords="388,95,471,121"/>
+</map>

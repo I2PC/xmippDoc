@@ -1,0 +1,23 @@
+<map id="xmippCore/core/symmetries.h" name="xmippCore/core/symmetries.h">
+<area shape="rect" id="node2" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="257,453,340,480"/>
+<area shape="rect" id="node6" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="891,528,997,555"/>
+<area shape="rect" id="node26" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="772,379,855,405"/>
+<area shape="rect" id="node31" href="$args_8h.html" title="args.h" alt="" coords="1307,603,1365,629"/>
+<area shape="rect" id="node32" href="$metadata_8h.html" title="metadata.h" alt="" coords="1754,453,1841,480"/>
+<area shape="rect" id="node43" href="$transformations_8h.html" title="transformations.h" alt="" coords="1137,80,1260,107"/>
+<area shape="rect" id="node23" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="213,528,352,555"/>
+<area shape="rect" id="node10" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="563,603,687,629"/>
+<area shape="rect" id="node18" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="369,603,487,629"/>
+<area shape="rect" id="node20" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1131,677,1232,704"/>
+<area shape="rect" id="node14" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1251,752,1365,779"/>
+<area shape="rect" id="node25" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="221,603,344,629"/>
+<area shape="rect" id="node28" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="519,453,652,480"/>
+<area shape="rect" id="node41" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="2221,528,2331,555"/>
+<area shape="rect" id="node44" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="1437,229,1617,256"/>
+<area shape="rect" id="node45" href="$kerneldiff1_8h.html" title="bilib/kerneldiff1.h" alt="" coords="1289,155,1409,181"/>
+<area shape="rect" id="node46" href="$changebasis_8h.html" title="bilib/changebasis.h" alt="" coords="1484,155,1617,181"/>
+<area shape="rect" id="node47" href="$pyramidtools_8h.html" title="bilib/pyramidtools.h" alt="" coords="1079,155,1214,181"/>
+<area shape="rect" id="node48" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="905,304,1023,331"/>
+<area shape="rect" id="node49" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="918,229,1085,256"/>
+<area shape="rect" id="node50" href="$geometry_8h.html" title="geometry.h" alt="" coords="969,155,1055,181"/>
+</map>
