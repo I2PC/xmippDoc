@@ -1,8 +1,0 @@
-digraph "xmipp/libraries/reconstruction/phantom_transform.cpp"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node95 [label="xmipp/libraries/reconstruction\l/phantom_transform.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node95 -> Node96 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node96 [label="xmipp/applications\l/programs/phantom_transform\l/phantom_transform_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$phantom__transform__main_8cpp.html"];
-}
