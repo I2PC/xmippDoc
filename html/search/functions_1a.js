@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['z',['z',['../classDimensions.html#a9e21cd70aae45d728648f890b2c6c0fc',1,'Dimensions::z()'],['../classVectorial__MultidimArray.html#a95fe00f32ac80dd380355b7ac6cfab0b',1,'Vectorial_MultidimArray::Z() const '],['../classVectorial__MultidimArray.html#a399550dc95abe065526a96eeadd72102',1,'Vectorial_MultidimArray::Z()'],['../classVectorial__MultidimArray.html#aee5769c26eeb297e9d7825e74f1d97ed',1,'Vectorial_MultidimArray::Z(int k, int i, int j) const '],['../classVectorial__MultidimArray.html#a335770fc0af2b3110cb4bf844a2500c1',1,'Vectorial_MultidimArray::Z(int k, int i, int j)']]],
+  ['zernikepols',['zernikePols',['../classPolyZernikes.html#a2651868177e1eaecded34a346b63198b',1,'PolyZernikes']]],
+  ['zernikesphericalharmonics',['ZernikeSphericalHarmonics',['../numerical__tools_8cpp.html#a011d95718aa88984eb290edcc9049faa',1,'ZernikeSphericalHarmonics(int l, int n, int m, double xr, double yr, double zr, double r):&#160;numerical_tools.cpp'],['../numerical__tools_8h.html#a011d95718aa88984eb290edcc9049faa',1,'ZernikeSphericalHarmonics(int l, int n, int m, double xr, double yr, double zr, double r):&#160;numerical_tools.cpp']]],
+  ['zero',['zero',['../classMatrix.html#a0764fae6bafeb8425318d6e0e379727b',1,'Matrix::zero()'],['../classVector.html#aac7f710e0704df2dadc0040601cba53c',1,'Vector::zero()'],['../numerical__recipes_8cpp.html#a67ed20364685ceb31947435119f4f9d9',1,'zero():&#160;numerical_recipes.cpp']]],
+  ['zero_5fmat',['zero_mat',['../lib__vec_8cpp.html#a98bd29e0f8db01065a66d9c2d0c86336',1,'zero_mat(double **mat, unsigned long len_i, unsigned long len_j):&#160;lib_vec.cpp'],['../lib__vec_8h.html#afc861bf99505b3896861f2cd7a3155d4',1,'zero_mat(double **, unsigned long, unsigned long):&#160;lib_vec.cpp']]],
+  ['zero_5fvect',['zero_vect',['../lib__vec_8cpp.html#a5b928014440cfac2683279b443b47965',1,'zero_vect(double *vect, unsigned long len):&#160;lib_vec.cpp'],['../lib__vec_8h.html#a7f706ff9f4a36695ff212bf6d2bbded9',1,'zero_vect(double *, unsigned long):&#160;lib_vec.cpp']]],
+  ['zoff',['Zoff',['../classImageBase.html#a3fc6cf99cf3a78d88ede07fc906abe5a',1,'ImageBase']]],
+  ['zpadded',['zPadded',['../classDimensions.html#a71645e2b7748c0dde6002611fe6c2019',1,'Dimensions']]]
+];

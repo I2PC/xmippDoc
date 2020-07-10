@@ -1,0 +1,40 @@
+<map id="MpiProgTransformImageGreyLevels" name="MpiProgTransformImageGreyLevels">
+<area shape="rect" id="node2" href="$classProgTransformImageGreyLevels.html" title="ProgTransformImageGreyLevels" alt="" coords="1496,620,1707,647"/>
+<area shape="rect" id="node3" href="$classXmippMetadataProgram.html" title="XmippMetadataProgram" alt="" coords="1224,332,1387,359"/>
+<area shape="rect" id="node4" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="959,156,1067,183"/>
+<area shape="rect" id="node35" href="$classXmippMpiProgram.html" title="XmippMpiProgram" alt="" coords="1241,136,1370,163"/>
+<area shape="rect" id="node5" href="$classProgramDef.html" title="ProgramDef" alt="" coords="700,156,792,183"/>
+<area shape="rect" id="node6" href="$classASTNode.html" title="ASTNode" alt="" coords="401,163,479,189"/>
+<area shape="rect" id="node7" href="$classArgToken.html" title="ArgToken" alt="" coords="172,124,251,151"/>
+<area shape="rect" id="node8" href="$classArgLexer.html" title="ArgLexer" alt="" coords="174,175,249,201"/>
+<area shape="rect" id="node9" href="$classCommentList.html" title="CommentList" alt="" coords="390,73,490,100"/>
+<area shape="rect" id="node10" href="$classMDIterator.html" title="MDIterator" alt="" coords="971,357,1055,384"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="172,509,251,536"/>
+<area shape="rect" id="node15" href="$classImageBase.html" title="Image base class. " alt="" coords="702,907,790,933"/>
+<area shape="rect" id="node17" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="385,763,495,789"/>
+<area shape="rect" id="node29" href="$classFourierFilter.html" title="FourierFilter" alt="" coords="1260,547,1351,573"/>
+<area shape="rect" id="node13" href="$classProjection.html" title="Projection" alt="" coords="1265,753,1345,780"/>
+<area shape="rect" id="node14" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="953,956,1073,983"/>
+<area shape="rect" id="node25" href="$classFourierProjector.html" title="FourierProjector" alt="" coords="1248,893,1363,920"/>
+<area shape="rect" id="node16" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="374,700,506,727"/>
+<area shape="rect" id="node22" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="664,844,828,871"/>
+<area shape="rect" id="node27" href="$classMultidimArray.html" title="MultidimArray\&lt; std\l::complex\&lt; double \&gt; \&gt;" alt="" coords="669,693,823,734"/>
+<area shape="rect" id="node28" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="943,599,1083,625"/>
+<area shape="rect" id="node18" href="$classMDRow.html" title="MDRow" alt="" coords="405,963,475,989"/>
+<area shape="rect" id="node19" href="$classMDObject.html" title="MDObject" alt="" coords="171,963,252,989"/>
+<area shape="rect" id="node20" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,963,93,989"/>
+<area shape="rect" id="node21" href="$structArrayDim.html" title="ArrayDim" alt="" coords="401,912,479,939"/>
+<area shape="rect" id="node26" href="$classFourierTransformer.html" title="FourierTransformer" alt="" coords="947,700,1079,727"/>
+<area shape="rect" id="node23" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="944,905,1081,932"/>
+<area shape="rect" id="node24" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="944,649,1081,676"/>
+<area shape="rect" id="node30" href="$classXmippFilter.html" title="XmippFilter" alt="" coords="969,459,1057,485"/>
+<area shape="rect" id="node31" href="$classCTFDescription.html" title="CTFDescription" alt="" coords="955,408,1070,435"/>
+<area shape="rect" id="node32" href="$classCTFDescription1D.html" title="CTFDescription1D" alt="" coords="681,423,811,449"/>
+<area shape="rect" id="node33" href="$classPrecomputedForCTF.html" title="PrecomputedForCTF" alt="" coords="368,423,512,449"/>
+<area shape="rect" id="node34" href="$classMpiMetadataProgram.html" title="MpiMetadataProgram" alt="" coords="1528,136,1675,163"/>
+<area shape="rect" id="node36" href="$classMpiNode.html" title="MpiNode" alt="" coords="975,92,1050,119"/>
+<area shape="rect" id="node37" href="$classMpiTaskDistributor.html" title="MpiTaskDistributor" alt="" coords="1239,65,1371,92"/>
+<area shape="rect" id="node38" href="$classThreadTaskDistributor.html" title="ThreadTaskDistributor" alt="" coords="937,31,1088,57"/>
+<area shape="rect" id="node39" href="$classParallelTaskDistributor.html" title="ParallelTaskDistributor" alt="" coords="669,56,823,83"/>
+<area shape="rect" id="node40" href="$classMutex.html" title="Mutex" alt="" coords="717,5,775,32"/>
+</map>

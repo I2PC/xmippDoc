@@ -1,0 +1,10 @@
+<map id="cuFFTAdvisor/sizeOptimizer.h" name="cuFFTAdvisor/sizeOptimizer.h">
+<area shape="rect" id="node6" href="$benchmarker_8h.html" title="benchmarker.h" alt="" coords="314,80,422,107"/>
+<area shape="rect" id="node13" href="$utils_8h.html" title="utils.h" alt="" coords="558,304,615,331"/>
+<area shape="rect" id="node19" href="$generalTransform_8h.html" title="generalTransform.h" alt="" coords="758,155,893,181"/>
+<area shape="rect" id="node20" href="$transformGenerator_8h.html" title="transformGenerator.h" alt="" coords="537,80,682,107"/>
+<area shape="rect" id="node8" href="$benchmarkResult_8h.html" title="benchmarkResult.h" alt="" coords="382,155,517,181"/>
+<area shape="rect" id="node16" href="$cudaUtils_8h.html" title="cudaUtils.h" alt="" coords="185,155,273,181"/>
+<area shape="rect" id="node9" href="$transform_8h.html" title="transform.h" alt="" coords="379,229,467,256"/>
+<area shape="rect" id="node18" href="$cudaAsserts_8h.html" title="cudaAsserts.h" alt="" coords="248,229,355,256"/>
+</map>

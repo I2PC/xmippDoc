@@ -1,0 +1,22 @@
+<map id="BasicARTParameters" name="BasicARTParameters">
+<area shape="rect" id="node2" href="$structReconsInfo.html" title="ReconsInfo" alt="" coords="681,108,771,135"/>
+<area shape="rect" id="node3" href="$classMDRow.html" title="MDRow" alt="" coords="399,108,469,135"/>
+<area shape="rect" id="node12" href="$classImageBase.html" title="Image base class. " alt="" coords="682,372,770,399"/>
+<area shape="rect" id="node4" href="$classMDObject.html" title="MDObject" alt="" coords="171,108,252,135"/>
+<area shape="rect" id="node5" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,108,93,135"/>
+<area shape="rect" id="node6" href="$classFileName.html" title="FileName" alt="" coords="172,412,251,439"/>
+<area shape="rect" id="node14" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="379,480,489,507"/>
+<area shape="rect" id="node8" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="1213,223,1351,249"/>
+<area shape="rect" id="node9" href="$classBasis.html" title="Basis" alt="" coords="1531,351,1586,377"/>
+<area shape="rect" id="node21" href="$classSymList.html" title="SymList" alt="" coords="1523,156,1594,183"/>
+<area shape="rect" id="node10" href="$classImageOver.html" title="ImageOver" alt="" coords="1239,352,1325,379"/>
+<area shape="rect" id="node11" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="996,365,1116,392"/>
+<area shape="rect" id="node13" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="368,287,500,313"/>
+<area shape="rect" id="node16" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="644,304,808,331"/>
+<area shape="rect" id="node19" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="832,164,972,191"/>
+<area shape="rect" id="node15" href="$structArrayDim.html" title="ArrayDim" alt="" coords="395,429,473,456"/>
+<area shape="rect" id="node17" href="$structblobtype.html" title="blobtype" alt="" coords="1247,403,1317,429"/>
+<area shape="rect" id="node18" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="1213,461,1351,488"/>
+<area shape="rect" id="node20" href="$classGridVolumeT.html" title="GridVolumeT\&lt; int \&gt;" alt="" coords="1491,571,1627,597"/>
+<area shape="rect" id="node22" href="$classMatrix1D.html" title="Matrix1D\&lt; int \&gt;" alt="" coords="1225,131,1339,157"/>
+</map>

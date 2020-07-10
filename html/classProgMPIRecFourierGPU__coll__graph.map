@@ -1,0 +1,20 @@
+<map id="ProgMPIRecFourierGPU" name="ProgMPIRecFourierGPU">
+<area shape="rect" id="node2" href="$classProgRecFourierGPU.html" title="ProgRecFourierGPU" alt="" coords="256,511,399,537"/>
+<area shape="rect" id="node14" href="$structRecFourierWorkThread.html" title="RecFourierWorkThread" alt="" coords="334,600,491,627"/>
+<area shape="rect" id="node3" href="$classProgReconsBase.html" title="ProgReconsBase" alt="" coords="241,414,365,441"/>
+<area shape="rect" id="node4" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="175,288,283,315"/>
+<area shape="rect" id="node19" href="$classXmippMpiProgram.html" title="XmippMpiProgram" alt="" coords="88,414,217,441"/>
+<area shape="rect" id="node5" href="$classProgramDef.html" title="ProgramDef" alt="" coords="183,199,275,225"/>
+<area shape="rect" id="node6" href="$classASTNode.html" title="ASTNode" alt="" coords="56,95,135,121"/>
+<area shape="rect" id="node7" href="$classArgToken.html" title="ArgToken" alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node8" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,5,183,32"/>
+<area shape="rect" id="node9" href="$classCommentList.html" title="CommentList" alt="" coords="224,95,324,121"/>
+<area shape="rect" id="node10" href="$classMetaData.html" title="MetaData" alt="" coords="389,414,468,441"/>
+<area shape="rect" id="node11" href="$classMDSql.html" title="MDSql" alt="" coords="307,288,369,315"/>
+<area shape="rect" id="node12" href="$classFileName.html" title="FileName" alt="" coords="436,288,515,315"/>
+<area shape="rect" id="node15" href="$structRecFourierBufferData.html" title="RecFourierBufferData" alt="" coords="535,511,685,537"/>
+<area shape="rect" id="node16" href="$structRecFourierProjectionTraverseSpace.html" title="RecFourierProjectionTraverse\lSpace" alt="" coords="582,407,777,448"/>
+<area shape="rect" id="node17" href="$classPoint3D.html" title="Point3D\&lt; float \&gt;" alt="" coords="620,288,739,315"/>
+<area shape="rect" id="node18" href="$structPoint.html" title="Point" alt="" coords="653,199,705,225"/>
+<area shape="rect" id="node20" href="$classMpiNode.html" title="MpiNode" alt="" coords="75,288,150,315"/>
+</map>
