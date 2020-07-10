@@ -2,10 +2,8 @@ var searchData=
 [
   ['random',['Random',['../classtesting_1_1internal_1_1Random.html',1,'testing::internal']]],
   ['rangegenerator',['RangeGenerator',['../classtesting_1_1internal_1_1RangeGenerator.html',1,'testing::internal']]],
-  ['rbfmodel',['rbfmodel',['../classalglib_1_1rbfmodel.html',1,'alglib']]],
-  ['rbfmodel',['rbfmodel',['../structalglib__impl_1_1rbfmodel.html',1,'alglib_impl']]],
-  ['rbfreport',['rbfreport',['../structalglib__impl_1_1rbfreport.html',1,'alglib_impl']]],
-  ['rbfreport',['rbfreport',['../classalglib_1_1rbfreport.html',1,'alglib']]],
+  ['rbfmodel',['rbfmodel',['../structalglib__impl_1_1rbfmodel.html',1,'alglib_impl::rbfmodel'],['../classalglib_1_1rbfmodel.html',1,'alglib::rbfmodel']]],
+  ['rbfreport',['rbfreport',['../structalglib__impl_1_1rbfreport.html',1,'alglib_impl::rbfreport'],['../classalglib_1_1rbfreport.html',1,'alglib::rbfreport']]],
   ['rcommstate',['rcommstate',['../structalglib__impl_1_1rcommstate.html',1,'alglib_impl']]],
   ['re',['RE',['../classtesting_1_1internal_1_1RE.html',1,'testing::internal']]],
   ['real_5f1d_5farray',['real_1d_array',['../classalglib_1_1real__1d__array.html',1,'alglib']]],

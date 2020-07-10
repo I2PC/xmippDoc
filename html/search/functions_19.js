@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['y',['Y',['../classVectorial__MultidimArray.html#aba79d584e6128d022069ecc487811294',1,'Vectorial_MultidimArray::Y() const '],['../classVectorial__MultidimArray.html#a67e78336b2ca9588f1da6e0db35709c5',1,'Vectorial_MultidimArray::Y()'],['../classVectorial__MultidimArray.html#afb259816e03ec83b4d36ac157abd2a94',1,'Vectorial_MultidimArray::Y(int k, int i, int j) const '],['../classVectorial__MultidimArray.html#abd59ea5d42e4262a222fd3f47063e5f9',1,'Vectorial_MultidimArray::Y(int k, int i, int j)'],['../classDimensions.html#a9ca3ef803c28ed9aad3bac810f0c5c0d',1,'Dimensions::y()']]],
-  ['ydim',['Ydim',['../classMatrix2D.html#a49a1d01bca2f2abb2c6366b4f5914826',1,'Matrix2D']]],
-  ['yoff',['Yoff',['../classImageBase.html#aee9ff7df52c343fd74630256d5814fcc',1,'ImageBase']]],
-  ['ypadded',['yPadded',['../classDimensions.html#a74c7569fd87c9b674b1dd116d181f5aa',1,'Dimensions']]]
+  ['y',['Y',['../classVectorial__MultidimArray.html#ad74549900f33153a48b19b243b29e089',1,'Vectorial_MultidimArray::Y() const'],['../classVectorial__MultidimArray.html#a67e78336b2ca9588f1da6e0db35709c5',1,'Vectorial_MultidimArray::Y()'],['../classVectorial__MultidimArray.html#aac01fe5a15852b87e2dcdcf4361d5d91',1,'Vectorial_MultidimArray::Y(int k, int i, int j) const'],['../classVectorial__MultidimArray.html#abd59ea5d42e4262a222fd3f47063e5f9',1,'Vectorial_MultidimArray::Y(int k, int i, int j)'],['../classDimensions.html#abbfe26d02fbbdedf943fa88ce41301d2',1,'Dimensions::y()']]],
+  ['ydim',['Ydim',['../classMatrix2D.html#a72dead316b8914e4cb4c9fd411962b55',1,'Matrix2D']]],
+  ['yoff',['Yoff',['../classImageBase.html#a6b90936fed408750faa2e36b94cd97a6',1,'ImageBase']]],
+  ['ypadded',['yPadded',['../classDimensions.html#a7e154de4222c98d2e5889be99a7baaeb',1,'Dimensions']]]
 ];

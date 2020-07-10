@@ -1,8 +1,7 @@
 var searchData=
 [
   ['ellipsoid',['Ellipsoid',['../classEllipsoid.html',1,'']]],
-  ['emhead',['EMHead',['../structEMHead.html',1,'']]],
-  ['emhead',['EMHead',['../structImageBase_1_1EMHead.html',1,'ImageBase']]],
+  ['emhead',['EMHead',['../structEMHead.html',1,'EMHead'],['../structImageBase_1_1EMHead.html',1,'ImageBase::EMHead']]],
   ['emptytesteventlistener',['EmptyTestEventListener',['../classtesting_1_1EmptyTestEventListener.html',1,'testing']]],
   ['enableif',['EnableIf',['../structtesting_1_1internal_1_1EnableIf.html',1,'testing::internal']]],
   ['enableif_3c_20true_20_3e',['EnableIf&lt; true &gt;',['../structtesting_1_1internal_1_1EnableIf_3_01true_01_4.html',1,'testing::internal']]],

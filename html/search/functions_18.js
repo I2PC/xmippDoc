@@ -1,13 +1,13 @@
 var searchData=
 [
-  ['x',['x',['../classDimensions.html#a6a548977e2451f658c5c12814d23a6ac',1,'Dimensions::x()'],['../classVectorial__MultidimArray.html#adb94e5d486d914b8fb37ca9ea0a5ed39',1,'Vectorial_MultidimArray::X() const '],['../classVectorial__MultidimArray.html#a1a775089e1bbd17a8221e91d6a35d442',1,'Vectorial_MultidimArray::X()'],['../classVectorial__MultidimArray.html#a0255345c9ed3cecdc8225614ed6b9acd',1,'Vectorial_MultidimArray::X(int k, int i, int j) const '],['../classVectorial__MultidimArray.html#a6852707cba9e1efcf0f4c551fcb84209',1,'Vectorial_MultidimArray::X(int k, int i, int j)']]],
+  ['x',['x',['../classDimensions.html#abd1a4a56c6c13d421dda5853ee1361f8',1,'Dimensions::x()'],['../classVectorial__MultidimArray.html#a2de7880f3faa8ae1082edb416124d930',1,'Vectorial_MultidimArray::X() const'],['../classVectorial__MultidimArray.html#a1a775089e1bbd17a8221e91d6a35d442',1,'Vectorial_MultidimArray::X()'],['../classVectorial__MultidimArray.html#a6e76633fa9a39b8191c1a2992612f075',1,'Vectorial_MultidimArray::X(int k, int i, int j) const'],['../classVectorial__MultidimArray.html#a6852707cba9e1efcf0f4c551fcb84209',1,'Vectorial_MultidimArray::X(int k, int i, int j)']]],
   ['x_5fforce_5fhermitian',['x_force_hermitian',['../namespacealglib__impl.html#ad2ef02feb3131c6c48dcf7c45b1072ae',1,'alglib_impl']]],
   ['x_5fforce_5fsymmetric',['x_force_symmetric',['../namespacealglib__impl.html#afdbcac48bf71191fd0ea5e498281c6b8',1,'alglib_impl']]],
   ['x_5fis_5fhermitian',['x_is_hermitian',['../namespacealglib__impl.html#afae33bcf24978c56c37f6ef8b974e6d6',1,'alglib_impl']]],
   ['x_5fis_5fsymmetric',['x_is_symmetric',['../namespacealglib__impl.html#ae7f9eaf8101aaffc65a720b25476cfae',1,'alglib_impl']]],
   ['x_5fvector_5fclear',['x_vector_clear',['../namespacealglib__impl.html#a342a0cf60c7f30b364209cec5dbc28b5',1,'alglib_impl']]],
   ['xcdot',['xcdot',['../namespacealglib__impl.html#a94ceac0ea78e64b249d0a0baec62606e',1,'alglib_impl']]],
-  ['xdim',['Xdim',['../classMatrix2D.html#aba34255aa8d181d565014abf744c5dd1',1,'Matrix2D']]],
+  ['xdim',['Xdim',['../classMatrix2D.html#adf509b54b7664e2e5e1e07cdf24b5a13',1,'Matrix2D']]],
   ['xdot',['xdot',['../namespacealglib__impl.html#a6f337b9ab6a377fa293b000862b88390',1,'alglib_impl']]],
   ['xmipp2ctf',['xmipp2CTF',['../group__Fourier.html#ga67052df81c98a729d64835f16022c0f6',1,'xmipp2CTF(const MultidimArray&lt; double &gt; &amp;input, MultidimArray&lt; double &gt; &amp;output):&#160;xmipp_fft.cpp'],['../group__Fourier.html#ga67052df81c98a729d64835f16022c0f6',1,'xmipp2CTF(const MultidimArray&lt; double &gt; &amp;input, MultidimArray&lt; double &gt; &amp;output):&#160;xmipp_fft.cpp']]],
   ['xmipp2opencv',['xmipp2Opencv',['../classProgOpticalAligment.html#adab0739b86543a377c93e3480ba66fbe',1,'ProgOpticalAligment::xmipp2Opencv()'],['../classProgVolumeHomogenizer.html#acbeebee4c1c92f1dd285cfa56eed87bc',1,'ProgVolumeHomogenizer::xmipp2Opencv()']]],
@@ -70,14 +70,14 @@ var searchData=
   ['xmippmpiprogram',['XmippMpiProgram',['../classXmippMpiProgram.html#a6481fc89c3e92252b097e4f57a7d3416',1,'XmippMpiProgram']]],
   ['xmippprogram',['XmippProgram',['../classXmippProgram.html#abd42916af00d9ef6222399828349b581',1,'XmippProgram::XmippProgram()'],['../classXmippProgram.html#a8f90137c4d1bf8be6bae657e2a880a38',1,'XmippProgram::XmippProgram(int argc, const char **argv)']]],
   ['xmippprogramgeneric',['XmippProgramGeneric',['../classXmippProgramGeneric.html#a70cc0021a8a68c3541d99fec8542fc18',1,'XmippProgramGeneric']]],
-  ['xoff',['Xoff',['../classImageBase.html#a45407967b3b3ee97d4e02affa460d78f',1,'ImageBase']]],
-  ['xpadded',['xPadded',['../classDimensions.html#a060c5679f983a5a8677722a3d83c0003',1,'Dimensions']]],
+  ['xoff',['Xoff',['../classImageBase.html#a274841e795597606c1826813181c5a31',1,'ImageBase']]],
+  ['xpadded',['xPadded',['../classDimensions.html#a2d2258fe01d0a3370056d3b311f60df2',1,'Dimensions']]],
   ['xplor_5fskip_5fto_5fnumber',['xplor_skip_to_number',['../lib__vio_8cpp.html#a0bcf52f51ef286fcb7d84ce20e5c8fed',1,'xplor_skip_to_number(FILE **fin, char **nextline):&#160;lib_vio.cpp'],['../lib__vio_8h.html#ad049ab70b26b408f32e0801a33c25c32',1,'xplor_skip_to_number(FILE **, char **):&#160;lib_vio.cpp']]],
   ['xplus',['xPlus',['../group__BilibPolynomial.html#ga7d2d3f30d29d0d273c76669178f3c186',1,'polynomial.h']]],
   ['xraypsf',['XRayPSF',['../classXRayPSF.html#a83aee70cad6ff82f25e786b3b0b01746',1,'XRayPSF']]],
   ['xrayrotateandprojectvolumeoffcentered',['XrayRotateAndProjectVolumeOffCentered',['../group__ProjectionXRProgram.html#ga71e111e722d03207ce9d763ab498995b',1,'XrayRotateAndProjectVolumeOffCentered(XrayProjPhantom &amp;phantom, XRayPSF &amp;psf, Projection &amp;P, Projection &amp;standardP, int Ydim, int Xdim):&#160;project_xray.cpp'],['../group__ProjectionXRProgram.html#ga71e111e722d03207ce9d763ab498995b',1,'XrayRotateAndProjectVolumeOffCentered(XrayProjPhantom &amp;side, XRayPSF &amp;psf, Projection &amp;P, Projection &amp;standardP, int Ydim, int Xdim):&#160;project_xray.cpp']]],
-  ['xy',['xy',['../classDimensions.html#a9f404e0ad9fa6a42d6fd77677ac708a0',1,'Dimensions']]],
-  ['xypadded',['xyPadded',['../classDimensions.html#ac25f9c54f5afe7ab807ccf6b865bd425',1,'Dimensions']]],
-  ['xyz',['xyz',['../classDimensions.html#a1773f73aadb7e18d383693107ccfb01a',1,'Dimensions']]],
-  ['xyzpadded',['xyzPadded',['../classDimensions.html#a81fe994043078ef588c8e5fdeb0240f2',1,'Dimensions']]]
+  ['xy',['xy',['../classDimensions.html#a983bf6221c5ebf5dec049b84cdd8696a',1,'Dimensions']]],
+  ['xypadded',['xyPadded',['../classDimensions.html#a8d1d97291fb105ed5ca1f8ecad4d10b6',1,'Dimensions']]],
+  ['xyz',['xyz',['../classDimensions.html#a918465ae8a8e69af10dd4ac5f24fc1b1',1,'Dimensions']]],
+  ['xyzpadded',['xyzPadded',['../classDimensions.html#a23aeae7f6398af1625dbcaf3495b2d96',1,'Dimensions']]]
 ];

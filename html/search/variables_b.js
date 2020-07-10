@@ -25,7 +25,7 @@ var searchData=
   ['keepintermediatevolumes',['keepIntermediateVolumes',['../classProgReconstructSignificant.html#a07ea27b61b5627eff11e491f1c7d6a66',1,'ProgReconstructSignificant::keepIntermediateVolumes()'],['../classProgVolumeInitialSimulatedAnnealing.html#a192fdbaf51d53086cb64ca06e660eb6e',1,'ProgVolumeInitialSimulatedAnnealing::keepIntermediateVolumes()']]],
   ['keepsrccopy',['keepSrcCopy',['../classBSplineTransformSettings.html#aa613f756cc595050ae87fa9e93fa6833',1,'BSplineTransformSettings']]],
   ['kernel',['kernel',['../classProgTransformDownsample.html#a2cc00cfe1231c4e98e59ad1118bf31db',1,'ProgTransformDownsample::kernel()'],['../classProgReconsADMM.html#a98881a1dfe64ef9b247e3cecdf72be29',1,'ProgReconsADMM::kernel()']]],
-  ['kernel_5ffunction',['kernel_function',['../classKernel.html#ac7b39305896e51f9e1a08e026e2c4d9c',1,'Kernel']]],
+  ['kernel_5ffunction',['kernel_function',['../classKernel.html#af0d8b05e123b7bea487747cb7a64f0fe',1,'Kernel']]],
   ['kernel_5ftype',['kernel_type',['../structsvm__parameter.html#a4188713ba31fc3d101244a6bcc09a760',1,'svm_parameter']]],
   ['kernelshape',['kernelShape',['../classProgReconsADMM.html#a5384e03b4717b87132a481552fd85612',1,'ProgReconsADMM']]],
   ['kexponentbitcount',['kExponentBitCount',['../classtesting_1_1internal_1_1FloatingPoint.html#a1973d843c00781053d3073daa8a40119',1,'testing::internal::FloatingPoint']]],

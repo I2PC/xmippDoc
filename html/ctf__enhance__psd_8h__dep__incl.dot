@@ -1,0 +1,24 @@
+digraph "xmipp/libraries/reconstruction/ctf_enhance_psd.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node79 [label="xmipp/libraries/reconstruction\l/ctf_enhance_psd.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node79 -> Node80 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="xmipp/applications\l/programs/ctf_enhance\l_psd/ctf_enhance_psd_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__enhance__psd__main_8cpp.html"];
+  Node79 -> Node81 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="xmipp/bindings/matlab\l/tom_xmipp_psd_enhance.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tom__xmipp__psd__enhance_8cpp.html"];
+  Node79 -> Node82 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 [label="xmipp/bindings/python\l/xmippmodule.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmippmodule_8cpp.html"];
+  Node79 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="xmipp/libraries/reconstruction\l/ctf_enhance_psd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__enhance__psd_8cpp.html"];
+  Node79 -> Node84 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84 [label="xmipp/libraries/reconstruction\l/ctf_estimate_from_micrograph.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__estimate__from__micrograph_8cpp.html"];
+  Node79 -> Node85 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node85 [label="xmipp/libraries/reconstruction\l/ctf_estimate_from_psd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__estimate__from__psd_8cpp.html"];
+  Node79 -> Node86 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node86 [label="xmipp/libraries/reconstruction\l/ctf_estimate_from_psd_base.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__estimate__from__psd__base_8cpp.html"];
+  Node79 -> Node87 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 [label="xmipp/libraries/reconstruction\l/ctf_estimate_from_psd_fast.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__estimate__from__psd__fast_8cpp.html"];
+  Node79 -> Node88 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node88 [label="xmipp/libraries/reconstruction\l/ctf_sort_psds.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__sort__psds_8cpp.html"];
+}

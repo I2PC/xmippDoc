@@ -1,8 +1,7 @@
 var searchData=
 [
   ['wavelet_2ecpp',['wavelet.cpp',['../wavelet_8cpp.html',1,'']]],
-  ['wavelet_2eh',['wavelet.h',['../libraries_2data_2wavelet_8h.html',1,'']]],
-  ['wavelet_2eh',['wavelet.h',['../ore_2core_2bilib_2wavelet_8h.html',1,'']]],
+  ['wavelet_2eh',['wavelet.h',['../libraries_2data_2wavelet_8h.html',1,'(Global Namespace)'],['../ore_2core_2bilib_2wavelet_8h.html',1,'(Global Namespace)']]],
   ['waveletfilters_2eh',['waveletfilters.h',['../waveletfilters_8h.html',1,'']]],
   ['waveletfiltersfract_2eh',['waveletfiltersfract.h',['../waveletfiltersfract_8h.html',1,'']]],
   ['wavelettools_2eh',['wavelettools.h',['../wavelettools_8h.html',1,'']]],

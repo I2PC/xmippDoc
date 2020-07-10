@@ -49,10 +49,8 @@ var searchData=
   ['svm_5fclassifier_2ecpp',['svm_classifier.cpp',['../svm__classifier_8cpp.html',1,'']]],
   ['svm_5fclassifier_2eh',['svm_classifier.h',['../svm__classifier_8h.html',1,'']]],
   ['swap_2eh',['swap.h',['../swap_8h.html',1,'']]],
-  ['symmetries_2ecpp',['symmetries.cpp',['../ore_2core_2symmetries_8cpp.html',1,'']]],
-  ['symmetries_2ecpp',['symmetries.cpp',['../libraries_2data_2symmetries_8cpp.html',1,'']]],
-  ['symmetries_2eh',['symmetries.h',['../libraries_2data_2symmetries_8h.html',1,'']]],
-  ['symmetries_2eh',['symmetries.h',['../ore_2core_2symmetries_8h.html',1,'']]],
+  ['symmetries_2ecpp',['symmetries.cpp',['../libraries_2data_2symmetries_8cpp.html',1,'(Global Namespace)'],['../ore_2core_2symmetries_8cpp.html',1,'(Global Namespace)']]],
+  ['symmetries_2eh',['symmetries.h',['../libraries_2data_2symmetries_8h.html',1,'(Global Namespace)'],['../ore_2core_2symmetries_8h.html',1,'(Global Namespace)']]],
   ['symmetrize_2ecpp',['symmetrize.cpp',['../symmetrize_8cpp.html',1,'']]],
   ['symmetrize_2eh',['symmetrize.h',['../symmetrize_8h.html',1,'']]]
 ];

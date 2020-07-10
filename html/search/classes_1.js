@@ -26,8 +26,7 @@ var searchData=
   ['ageotransformer',['AGeoTransformer',['../classAGeoTransformer.html',1,'']]],
   ['ageotransformer_3c_20bsplinetransformsettings_3c_20t_20_3e_2c_20t_20_3e',['AGeoTransformer&lt; BSplineTransformSettings&lt; T &gt;, T &gt;',['../classAGeoTransformer.html',1,'']]],
   ['ahcclassifier',['AHCClassifier',['../classAHCClassifier.html',1,'']]],
-  ['ahcreport',['ahcreport',['../structalglib__impl_1_1ahcreport.html',1,'alglib_impl']]],
-  ['ahcreport',['ahcreport',['../classalglib_1_1ahcreport.html',1,'alglib']]],
+  ['ahcreport',['ahcreport',['../structalglib__impl_1_1ahcreport.html',1,'alglib_impl::ahcreport'],['../classalglib_1_1ahcreport.html',1,'alglib::ahcreport']]],
   ['alignment',['Alignment',['../classAlignment.html',1,'']]],
   ['alignmentaux',['AlignmentAux',['../classAlignmentAux.html',1,'']]],
   ['alignmentestimation',['AlignmentEstimation',['../structAlignment_1_1AlignmentEstimation.html',1,'Alignment']]],
@@ -70,9 +69,7 @@ var searchData=
   ['atomvaluefunc',['AtomValueFunc',['../classAtomValueFunc.html',1,'']]],
   ['autocompleteprinter',['AutocompletePrinter',['../classAutocompletePrinter.html',1,'']]],
   ['autogkinternalstate',['autogkinternalstate',['../structalglib__impl_1_1autogkinternalstate.html',1,'alglib_impl']]],
-  ['autogkreport',['autogkreport',['../classalglib_1_1autogkreport.html',1,'alglib']]],
-  ['autogkreport',['autogkreport',['../structalglib__impl_1_1autogkreport.html',1,'alglib_impl']]],
-  ['autogkstate',['autogkstate',['../classalglib_1_1autogkstate.html',1,'alglib']]],
-  ['autogkstate',['autogkstate',['../structalglib__impl_1_1autogkstate.html',1,'alglib_impl']]],
+  ['autogkreport',['autogkreport',['../structalglib__impl_1_1autogkreport.html',1,'alglib_impl::autogkreport'],['../classalglib_1_1autogkreport.html',1,'alglib::autogkreport']]],
+  ['autogkstate',['autogkstate',['../structalglib__impl_1_1autogkstate.html',1,'alglib_impl::autogkstate'],['../classalglib_1_1autogkstate.html',1,'alglib::autogkstate']]],
   ['autoparticlepicking2',['AutoParticlePicking2',['../classAutoParticlePicking2.html',1,'']]]
 ];

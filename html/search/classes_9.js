@@ -1,8 +1,7 @@
 var searchData=
 [
   ['icilist',['icilist',['../structicilist.html',1,'']]],
-  ['idwinterpolant',['idwinterpolant',['../structalglib__impl_1_1idwinterpolant.html',1,'alglib_impl']]],
-  ['idwinterpolant',['idwinterpolant',['../classalglib_1_1idwinterpolant.html',1,'alglib']]],
+  ['idwinterpolant',['idwinterpolant',['../structalglib__impl_1_1idwinterpolant.html',1,'alglib_impl::idwinterpolant'],['../classalglib_1_1idwinterpolant.html',1,'alglib::idwinterpolant']]],
   ['image',['Image',['../classImage.html',1,'']]],
   ['image_3c_20char_20_3e',['Image&lt; char &gt;',['../classImage.html',1,'']]],
   ['image_3c_20double_20_3e',['Image&lt; double &gt;',['../classImage.html',1,'']]],
