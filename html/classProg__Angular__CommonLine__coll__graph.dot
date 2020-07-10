@@ -1,0 +1,43 @@
+digraph "Prog_Angular_CommonLine"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Prog_Angular_CommonLine",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" bestLine" ,fontname="Helvetica"];
+  Node2 [label="Matrix2D\< int \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix2D.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" SF" ,fontname="Helvetica"];
+  Node3 [label="MetaData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMetaData.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" myMDSql" ,fontname="Helvetica"];
+  Node4 [label="MDSql",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMDSql.html"];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" eFilename\ninFile" ,fontname="Helvetica"];
+  Node5 [label="FileName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFileName.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="String",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" solver" ,fontname="Helvetica"];
+  Node7 [label="EulerSolver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classEulerSolver.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="DESolver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDESolver.html"];
+  Node9 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" currentSolution\nnormali\nnormalj\nimgAvgCorrelation\nimgMinCorrelation\ncommonline\ncommonlinei\ncommonlinej" ,fontname="Helvetica"];
+  Node9 [label="Matrix1D\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix1D.html"];
+  Node10 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" correlationMatrix" ,fontname="Helvetica"];
+  Node10 [label="MultidimArray\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="MultidimArrayBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArrayBase.html"];
+  Node12 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" imgIdx" ,fontname="Helvetica"];
+  Node12 [label="MultidimArray\< int \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" alreadyOptimized" ,fontname="Helvetica"];
+  Node13 [label="Matrix1D\< int \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix1D.html"];
+  Node1 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node14 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" bestLineCorrelation" ,fontname="Helvetica"];
+  Node14 [label="Matrix2D\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix2D.html"];
+  Node9 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" currentSolution\ncurrentImgMinCorrelation\ncurrentImgAvgCorrelation\ninitialSolution" ,fontname="Helvetica"];
+  Node10 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" currentCorrelationMatrix" ,fontname="Helvetica"];
+  Node13 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" alreadyOptimized" ,fontname="Helvetica"];
+  Node15 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" SL" ,fontname="Helvetica"];
+  Node15 [label="SymList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSymList.html"];
+  Node14 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" __shift\n__L\n__R" ,fontname="Helvetica"];
+  Node13 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" __chain_length" ,fontname="Helvetica"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fnOut\nfnSym\nfnSel" ,fontname="Helvetica"];
+}

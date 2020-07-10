@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['data_5fset_2eh',['data_set.h',['../data__set_8h.html',1,'']]],
+  ['data_5ftypes_2eh',['data_types.h',['../data__types_8h.html',1,'']]],
+  ['dataanalysis_2ecpp',['dataanalysis.cpp',['../dataanalysis_8cpp.html',1,'']]],
+  ['dataanalysis_2eh',['dataanalysis.h',['../dataanalysis_8h.html',1,'']]],
+  ['dcel_2ecpp',['dcel.cpp',['../dcel_8cpp.html',1,'']]],
+  ['dcel_2eh',['dcel.h',['../dcel_8h.html',1,'']]],
+  ['debug_2eh',['debug.h',['../debug_8h.html',1,'']]],
+  ['defines_2eh',['defines.h',['../defines_8h.html',1,'']]],
+  ['delaunay_2ecpp',['delaunay.cpp',['../delaunay_8cpp.html',1,'']]],
+  ['delaunay_2eh',['delaunay.h',['../delaunay_8h.html',1,'']]],
+  ['denoise_2ecpp',['denoise.cpp',['../denoise_8cpp.html',1,'']]],
+  ['denoise_2eh',['denoise.h',['../denoise_8h.html',1,'']]],
+  ['dft_2eh',['dft.h',['../dft_8h.html',1,'']]],
+  ['dht_2eh',['dht.h',['../dht_8h.html',1,'']]],
+  ['diffequations_2ecpp',['diffequations.cpp',['../diffequations_8cpp.html',1,'']]],
+  ['diffequations_2eh',['diffequations.h',['../diffequations_8h.html',1,'']]],
+  ['diffusionmaps_2ecpp',['diffusionMaps.cpp',['../diffusionMaps_8cpp.html',1,'']]],
+  ['diffusionmaps_2eh',['diffusionMaps.h',['../diffusionMaps_8h.html',1,'']]],
+  ['dimensions_2eh',['dimensions.h',['../dimensions_8h.html',1,'']]],
+  ['dimred_5ftools_2ecpp',['dimred_tools.cpp',['../dimred__tools_8cpp.html',1,'']]],
+  ['dimred_5ftools_2eh',['dimred_tools.h',['../dimred__tools_8h.html',1,'']]],
+  ['directions_2ecpp',['directions.cpp',['../directions_8cpp.html',1,'']]],
+  ['directions_2eh',['directions.h',['../directions_8h.html',1,'']]],
+  ['docfile_2ecpp',['docfile.cpp',['../docfile_8cpp.html',1,'']]],
+  ['docfile_2eh',['docfile.h',['../docfile_8h.html',1,'']]]
+];
