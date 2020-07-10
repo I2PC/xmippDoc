@@ -1,9 +1,0 @@
-digraph "Vector Quantization for Volumes"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir=LR;
-  Node1 [label="Vector Quantization\l for Projections",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__VQforProjections.html"];
-  Node0 [label="Vector Quantization\l for Volumes",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node0->Node1 [shape=plaintext, label="SDescendingClusterSort", color="orange", dir="none", style="dashed"];
-}
