@@ -1,0 +1,11 @@
+digraph "xmipp/applications/programs/metadata_split_3D" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_592b16dc4070b933e5655da2b0d20bbb {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_592b16dc4070b933e5655da2b0d20bbb.html"]
+  dir_203b5741f8643c51e87365d3135ac1bd [shape=box, label="metadata_split_3D", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_203b5741f8643c51e87365d3135ac1bd.html"];
+  }
+  dir_29dba3f3840f20df3b04d1972e99046b [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_29dba3f3840f20df3b04d1972e99046b.html"];
+  dir_203b5741f8643c51e87365d3135ac1bd->dir_29dba3f3840f20df3b04d1972e99046b [headlabel="1", labeldistance=1.5 headhref="dir_000079_000065.html"];
+}
