@@ -1,0 +1,14 @@
+digraph "xmipp/libraries/reconstruction_cuda/cuda_gpu_geo_shift_transformer.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node41 [label="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_shift_transformer.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node41 -> Node42 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node42 [label="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$movie__alignment__correlation__gpu_8h.html"];
+  Node42 -> Node43 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node43 [label="xmipp/applications\l/programs/cuda_movie\l_alignment_correlation\l/cuda_movie_alignment_correlation.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cuda__movie__alignment__correlation_8cpp.html"];
+  Node42 -> Node44 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node44 [label="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$movie__alignment__correlation__gpu_8cpp.html"];
+  Node41 -> Node45 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node45 [label="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_shift_transformer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cuda__gpu__geo__shift__transformer_8cpp.html"];
+}
