@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['parameters_20and_20common_20art_20reconstruction_20stuff',['Parameters and common ART Reconstruction stuff',['../group__BasicART.html',1,'']]],
+  ['polynomial',['Polynomial',['../group__BilibPolynomial.html',1,'']]],
+  ['poles_20of_20b_2dspline_20and_20omom',['Poles of B-spline and Omom',['../group__BsplinePoles.html',1,'']]],
+  ['project_5fcrystal_20_28project_20crystals_29',['project_crystal (Project crystals)',['../group__CrystalProject.html',1,'']]],
+  ['psd_5fenhance_20_28enhance_20visualization_20of_20the_20psd_29',['psd_enhance (Enhance visualization of the PSD)',['../group__EnhancePSD.html',1,'']]],
+  ['phantom_5fsimulate_5fmicroscope_20_28microscope_20simulation_29',['phantom_simulate_microscope (Microscope simulation)',['../group__MicroscopeProgram.html',1,'']]],
+  ['principal_20component_20analysis',['Principal Component Analysis',['../group__PCA.html',1,'']]],
+  ['pdb',['PDB',['../group__PDBinterface.html',1,'']]],
+  ['phantoms',['Phantoms',['../group__Phantoms.html',1,'']]],
+  ['polar_20coordinates',['Polar coordinates',['../group__Polar.html',1,'']]],
+  ['precompute_5fsampling_20_28precompute_20samplin_20points_20in_20the_20projection_20sphere_29',['precompute_sampling (Precompute samplin points in the projection sphere)',['../group__precomputeSampling.html',1,'']]],
+  ['probabilistic_20pca',['Probabilistic PCA',['../group__ProbabilisticPCA.html',1,'']]],
+  ['project_20a_20matrix_20onto_20a_20lower_20dimensionality_20space',['Project a matrix onto a lower dimensionality space',['../group__ProgDimRed.html',1,'']]],
+  ['progmpirecfourier',['ProgMPIRecFourier',['../group__ProgMPIRecFourier.html',1,'']]],
+  ['progmpixrayproject',['ProgMPIXrayProject',['../group__ProgMPIXrayProject.html',1,'']]],
+  ['project_20_28generate_20projections_20from_20a_20volume_29',['project (Generate projections from a volume)',['../group__ProjectionProgram.html',1,'']]],
+  ['projections_20_282d_20image_20_2b_20euler_20angles_29',['Projections (2D Image + Euler angles)',['../group__Projections.html',1,'']]],
+  ['projecttomograpy_20_28project_20for_20tilt_20series_29',['projectTomograpy (project for tilt series)',['../group__ProjectionTomographyProgram.html',1,'']]],
+  ['project_5fxr_20_28project_20for_20tilt_20series_29',['project_xr (project for tilt series)',['../group__ProjectionXRProgram.html',1,'']]],
+  ['pyramid_20filters',['Pyramid filters',['../group__PyramidFilters.html',1,'']]],
+  ['pyramid_20tools',['Pyramid tools',['../group__PyramidTools.html',1,'']]],
+  ['program_20art',['Program ART',['../group__Reconstruction.html',1,'']]],
+  ['psd_5fsort_20_28sort_20visualization_20of_20the_20psd_29',['psd_Sort (Sort visualization of the PSD)',['../group__SortPSD.html',1,'']]]
+];
