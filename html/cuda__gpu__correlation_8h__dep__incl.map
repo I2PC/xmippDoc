@@ -1,6 +1,0 @@
-<map id="xmipp/libraries/reconstruction_cuda/cuda_gpu_correlation.h" name="xmipp/libraries/reconstruction_cuda/cuda_gpu_correlation.h">
-<area shape="rect" id="node2" href="$xmipp__gpu__utils_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/xmipp_gpu_utils.h" alt="" coords="170,95,375,136"/>
-<area shape="rect" id="node3" href="$xmipp__gpu__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/xmipp_gpu_correlation.cpp" alt="" coords="5,184,260,225"/>
-<area shape="rect" id="node5" href="$cuda__gpu__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_correlation.cpp" alt="" coords="400,95,609,136"/>
-<area shape="rect" id="node4" href="$xmipp__gpu__utils_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/xmipp_gpu_utils.cpp" alt="" coords="285,184,503,225"/>
-</map>
