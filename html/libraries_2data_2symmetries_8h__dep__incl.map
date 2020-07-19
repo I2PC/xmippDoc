@@ -1,7 +1,0 @@
-<map id="xmipp/libraries/data/symmetries.h" name="xmipp/libraries/data/symmetries.h">
-<area shape="rect" id="node2" href="$libraries_2data_2symmetries_8cpp.html" title="xmipp/libraries/data\l/symmetries.cpp" alt="" coords="5,95,140,136"/>
-<area shape="rect" id="node3" href="$art__crystal_8cpp.html" title="xmipp/libraries/reconstruction\l/art_crystal.cpp" alt="" coords="165,95,357,136"/>
-<area shape="rect" id="node4" href="$symmetrize_8cpp.html" title="xmipp/libraries/reconstruction\l/symmetrize.cpp" alt="" coords="381,95,573,136"/>
-<area shape="rect" id="node5" href="$volume__find__symmetry_8cpp.html" title="xmipp/libraries/reconstruction\l/volume_find_symmetry.cpp" alt="" coords="597,95,789,136"/>
-<area shape="rect" id="node6" href="$volume__find__symmetry__main_8cpp.html" title="xmipp/applications\l/programs/volume_find\l_symmetry/volume_find\l_symmetry_main.cpp" alt="" coords="612,184,773,255"/>
-</map>
