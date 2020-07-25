@@ -1,0 +1,4 @@
+<map id="HW" name="HW">
+<area shape="rect" id="node2" href="$classCPU.html" title="CPU" alt="" coords="5,80,56,107"/>
+<area shape="rect" id="node3" href="$classGPU.html" title="GPU" alt="" coords="80,80,131,107"/>
+</map>
