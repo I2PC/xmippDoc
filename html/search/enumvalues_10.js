@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['pavsp',['pAVSP',['../classBasicARTParameters.html#a69792cca4b1fd1a00975a7c9c1bcdf02a9f797656de18a6d96e6a170bca72cd08',1,'BasicARTParameters']]],
+  ['pbicav',['pBiCAV',['../classBasicARTParameters.html#a69792cca4b1fd1a00975a7c9c1bcdf02a32c099be87703c60001a74b83a4056db',1,'BasicARTParameters']]],
+  ['pcav',['pCAV',['../classBasicARTParameters.html#a69792cca4b1fd1a00975a7c9c1bcdf02a8731b4600baff5c4ccc59b3f2efd2004',1,'BasicARTParameters']]],
+  ['pdb',['PDB',['../classPROJECT__Side__Info.html#a9363e6874840f2c06d1efb5cfb95906ca2745119fd5851c2f5d42937f801dc9ba',1,'PROJECT_Side_Info']]],
+  ['periodic',['Periodic',['../tboundaryconvention_8h.html#af25f266c9d72869e10586cdf8d2259c9a6db09e3bc054df6f996a45de2ccfeacd',1,'tboundaryconvention.h']]],
+  ['periodogram',['Periodogram',['../classProgCTFEstimateFromMicrograph.html#a560ac772d51f62fc3018587cdcf72668a2339b1b5b9b35f7032a07b83c0a97ae4',1,'ProgCTFEstimateFromMicrograph']]],
+  ['pfsirt',['pfSIRT',['../classBasicARTParameters.html#a69792cca4b1fd1a00975a7c9c1bcdf02a59a6f9633ebafec34a646e695595bf47',1,'BasicARTParameters']]],
+  ['pocs_5flowering',['POCS_lowering',['../classPOCSClass.html#ac19e5506188442b77942f6b0831e6e5da6f79f6ab5ae216b1d7ed53d9156b0eb8',1,'POCSClass']]],
+  ['pocs_5fmeasuring',['POCS_measuring',['../classPOCSClass.html#ac19e5506188442b77942f6b0831e6e5da58169edf9e0b88fcf44c510a3eee761a',1,'POCSClass']]],
+  ['pocs_5fn_5fmeasure',['POCS_N_measure',['../classPOCSClass.html#ac19e5506188442b77942f6b0831e6e5dafc03fe9e94b77008426f4f3cfab94ae7',1,'POCSClass']]],
+  ['pocs_5fn_5fuse',['POCS_N_use',['../classPOCSClass.html#ac19e5506188442b77942f6b0831e6e5da5de1131db109b490ef756dc8b1926075',1,'POCSClass']]],
+  ['pocs_5fuse',['POCS_use',['../classPOCSClass.html#ac19e5506188442b77942f6b0831e6e5da800f75faea201af058001dfa37f0812f',1,'POCSClass']]],
+  ['poly',['POLY',['../svm_8h.html#a99fb83031ce9923c84392b4e92f956b5a7d85766d041d397d096dcbc0d7c793fd',1,'svm.h']]],
+  ['position',['Position',['../namespaceExtremaFinder.html#a0cf8905c692f873d56e1783cd5feb7b8a52f5e0bc3859bc5f5e25130b6c7e8881',1,'ExtremaFinder']]],
+  ['precomputed',['PRECOMPUTED',['../svm_8h.html#a99fb83031ce9923c84392b4e92f956b5a27a6ccce9f5a44692a040b08a6923285',1,'svm.h']]],
+  ['psart',['pSART',['../classBasicARTParameters.html#a69792cca4b1fd1a00975a7c9c1bcdf02ad963c73ff81537a413dc22a569ad8524',1,'BasicARTParameters']]],
+  ['psf_5ffrom_5ffile',['PSF_FROM_FILE',['../classXRayPSF.html#aa579f3d425291917be0d6469c9c9561aafd5f73fb03b082e450302e06c999c21b',1,'XRayPSF']]],
+  ['psfxr_5fint',['PSFXR_INT',['../group__PSFXRSupport.html#ggae3bbda676920405fa092adc742c58e23ae9aa3dee411524afb7102c8c42e3eb0c',1,'psf_xr.h']]],
+  ['psfxr_5fstd',['PSFXR_STD',['../group__PSFXRSupport.html#ggae3bbda676920405fa092adc742c58e23a0ceba147a66b64f7fb7b5a92dc62de62',1,'psf_xr.h']]],
+  ['psfxr_5fzpad',['PSFXR_ZPAD',['../group__PSFXRSupport.html#ggae3bbda676920405fa092adc742c58e23ae7bdb7bd7245e8b28b26f9d374e7a6e5',1,'psf_xr.h']]],
+  ['psirt',['pSIRT',['../classBasicARTParameters.html#a69792cca4b1fd1a00975a7c9c1bcdf02a3242024b06caac5d21359ed9d0162561',1,'BasicARTParameters']]]
+];

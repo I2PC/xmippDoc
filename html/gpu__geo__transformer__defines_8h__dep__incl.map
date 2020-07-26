@@ -1,0 +1,11 @@
+<map id="xmipp/libraries/reconstruction/gpu_geo_transformer_defines.h" name="xmipp/libraries/reconstruction/gpu_geo_transformer_defines.h">
+<area shape="rect" id="node2" href="$cuda__gpu__geo__shift__transformer_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_shift_transformer.h" alt="" coords="249,95,511,136"/>
+<area shape="rect" id="node7" href="$cuda__gpu__geo__transformer_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_transformer.h" alt="" coords="535,95,764,136"/>
+<area shape="rect" id="node3" href="$movie__alignment__correlation__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.h" alt="" coords="305,191,503,247"/>
+<area shape="rect" id="node6" href="$cuda__gpu__geo__shift__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_shift_transformer.cpp" alt="" coords="5,199,280,240"/>
+<area shape="rect" id="node4" href="$cuda__movie__alignment__correlation_8cpp.html" title="xmipp/applications\l/programs/cuda_movie\l_alignment_correlation\l/cuda_movie_alignment_correlation.cpp" alt="" coords="155,303,405,373"/>
+<area shape="rect" id="node5" href="$movie__alignment__correlation__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.cpp" alt="" coords="430,310,629,366"/>
+<area shape="rect" id="node8" href="$test__cuda__geo__transformer__apply__bspline__transform_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_geo_transformer\l_apply_bspline_transform.cpp" alt="" coords="528,184,723,255"/>
+<area shape="rect" id="node9" href="$test__cuda__geo__transformer__produce__and__load__coeffs_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_geo_transformer\l_produce_and_load_coeffs.cpp" alt="" coords="747,184,949,255"/>
+<area shape="rect" id="node10" href="$cuda__gpu__geo__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_transformer.cpp" alt="" coords="973,199,1216,240"/>
+</map>
