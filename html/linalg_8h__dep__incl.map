@@ -1,0 +1,17 @@
+<map id="xmippCore/core/alglib/linalg.h" name="xmippCore/core/alglib/linalg.h">
+<area shape="rect" id="node2" href="$dataanalysis_8h.html" title="xmippCore/core/alglib\l/dataanalysis.h" alt="" coords="161,273,309,315"/>
+<area shape="rect" id="node5" href="$statistics_8h.html" title="xmippCore/core/alglib\l/statistics.h" alt="" coords="136,95,284,136"/>
+<area shape="rect" id="node7" href="$solvers_8h.html" title="xmippCore/core/alglib\l/solvers.h" alt="" coords="470,95,618,136"/>
+<area shape="rect" id="node8" href="$optimization_8h.html" title="xmippCore/core/alglib\l/optimization.h" alt="" coords="470,184,618,225"/>
+<area shape="rect" id="node9" href="$interpolation_8h.html" title="xmippCore/core/alglib\l/interpolation.h" alt="" coords="633,273,781,315"/>
+<area shape="rect" id="node13" href="$ore_2core_2alglib_2integration_8h.html" title="xmippCore/core/alglib\l/integration.h" alt="" coords="745,95,893,136"/>
+<area shape="rect" id="node15" href="$linalg_8cpp.html" title="xmippCore/core/alglib\l/linalg.cpp" alt="" coords="917,95,1065,136"/>
+<area shape="rect" id="node16" href="$matrix2d_8cpp.html" title="xmippCore/core/matrix2d.cpp" alt="" coords="1089,102,1282,129"/>
+<area shape="rect" id="node3" href="$ahc__classifier_8cpp.html" title="xmipp/libraries/classification\l/ahc_classifier.cpp" alt="" coords="238,363,424,404"/>
+<area shape="rect" id="node4" href="$dataanalysis_8cpp.html" title="xmippCore/core/alglib\l/dataanalysis.cpp" alt="" coords="65,363,213,404"/>
+<area shape="rect" id="node6" href="$statistics_8cpp.html" title="xmippCore/core/alglib\l/statistics.cpp" alt="" coords="24,184,172,225"/>
+<area shape="rect" id="node12" href="$solvers_8cpp.html" title="xmippCore/core/alglib\l/solvers.cpp" alt="" coords="298,184,446,225"/>
+<area shape="rect" id="node11" href="$optimization_8cpp.html" title="xmippCore/core/alglib\l/optimization.cpp" alt="" coords="461,273,609,315"/>
+<area shape="rect" id="node10" href="$interpolation_8cpp.html" title="xmippCore/core/alglib\l/interpolation.cpp" alt="" coords="633,363,781,404"/>
+<area shape="rect" id="node14" href="$ore_2core_2alglib_2integration_8cpp.html" title="xmippCore/core/alglib\l/integration.cpp" alt="" coords="796,184,944,225"/>
+</map>
