@@ -1,6 +1,0 @@
-<map id="xmipp/libraries/reconstruction/transform_adjust_image_grey_levels.h" name="xmipp/libraries/reconstruction/transform_adjust_image_grey_levels.h">
-<area shape="rect" id="node2" href="$transform__adjust__image__grey__levels__main_8cpp.html" title="xmipp/applications\l/programs/transform\l_adjust_image_grey_levels\l/transform_adjust_image\l_grey_levels_main.cpp" alt="" coords="5,109,184,195"/>
-<area shape="rect" id="node3" href="$mpi__transform__adjust__image__grey__levels_8cpp.html" title="xmipp/libraries/parallel\l/mpi_transform_adjust_image\l_grey_levels.cpp" alt="" coords="209,124,402,180"/>
-<area shape="rect" id="node5" href="$transform__adjust__image__grey__levels_8cpp.html" title="xmipp/libraries/reconstruction\l/transform_adjust_image_grey\l_levels.cpp" alt="" coords="427,124,624,180"/>
-<area shape="rect" id="node4" href="$mpi__transform__adjust__image__grey__levels__main_8cpp.html" title="xmipp/applications\l/programs/mpi_transform\l_adjust_image_grey_levels\l/mpi_transform_adjust_image\l_grey_levels_main.cpp" alt="" coords="209,243,402,328"/>
-</map>
