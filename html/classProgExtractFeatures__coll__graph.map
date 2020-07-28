@@ -1,0 +1,12 @@
+<map id="ProgExtractFeatures" name="ProgExtractFeatures">
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="131,288,239,315"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="139,199,231,225"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="56,95,135,121"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,5,183,32"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="224,95,324,121"/>
+<area shape="rect" id="node8" href="$structFitPoint.html" title="FitPoint" alt="" coords="263,288,330,315"/>
+<area shape="rect" id="node9" href="$classMultidimArray.html" title="MultidimArray\&lt; int \&gt;" alt="" coords="355,288,495,315"/>
+<area shape="rect" id="node10" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="359,199,491,225"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="519,288,597,315"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="xmipp/libraries/classification/pca.h" name="xmipp/libraries/classification/pca.h">
+<area shape="rect" id="node2" href="$classification_2pca_8cpp.html" title="xmipp/libraries/classification\l/pca.cpp" alt="" coords="273,95,459,136"/>
+<area shape="rect" id="node3" href="$mpi__image__rotational__pca_8h.html" title="xmipp/libraries/parallel\l/mpi_image_rotational_pca.h" alt="" coords="112,199,300,240"/>
+<area shape="rect" id="node6" href="$mpi__performance__test_8h.html" title="xmipp/libraries/parallel\l/mpi_performance_test.h" alt="" coords="1685,95,1852,136"/>
+<area shape="rect" id="node9" href="$angular__discrete__assign_8h.html" title="xmipp/libraries/reconstruction\l/angular_discrete_assign.h" alt="" coords="1207,95,1399,136"/>
+<area shape="rect" id="node14" href="$image__rotational__pca_8h.html" title="xmipp/libraries/reconstruction\l/image_rotational_pca.h" alt="" coords="534,95,726,136"/>
+<area shape="rect" id="node4" href="$mpi__image__rotational__pca__main_8cpp.html" title="xmipp/applications\l/programs/mpi_image\l_rotational_pca/mpi_image\l_rotational_pca_main.cpp" alt="" coords="5,303,183,373"/>
+<area shape="rect" id="node5" href="$mpi__image__rotational__pca_8cpp.html" title="xmipp/libraries/parallel\l/mpi_image_rotational_pca.cpp" alt="" coords="207,317,410,359"/>
+<area shape="rect" id="node7" href="$mpi__performance__test__main_8cpp.html" title="xmipp/applications\l/programs/mpi_performance\l_test/mpi_performance_test\l_main.cpp" alt="" coords="1677,184,1861,255"/>
+<area shape="rect" id="node8" href="$mpi__performance__test_8cpp.html" title="xmipp/libraries/parallel\l/mpi_performance_test.cpp" alt="" coords="1885,199,2065,240"/>
+<area shape="rect" id="node10" href="$angular__discrete__assign__main_8cpp.html" title="xmipp/applications\l/programs/angular_discrete\l_assign/angular_discrete\l_assign_main.cpp" alt="" coords="1474,184,1653,255"/>
+<area shape="rect" id="node11" href="$mpi__angular__discrete__assign__main_8cpp.html" title="xmipp/applications\l/programs/mpi_angular\l_discrete_assign/mpi_angular\l_discrete_assign_main.cpp" alt="" coords="989,184,1183,255"/>
+<area shape="rect" id="node12" href="$angular__discrete__assign_8cpp.html" title="xmipp/libraries/reconstruction\l/angular_discrete_assign.cpp" alt="" coords="1207,199,1399,240"/>
+<area shape="rect" id="node13" href="$program__extension_8cpp.html" title="xmipp/libraries/reconstruction\l/program_extension.cpp" alt="" coords="1289,317,1481,359"/>
+<area shape="rect" id="node15" href="$image__rotational__pca__main_8cpp.html" title="xmipp/applications\l/programs/image_rotational\l_pca/image_rotational_pca\l_main.cpp" alt="" coords="541,184,719,255"/>
+<area shape="rect" id="node16" href="$image__rotational__pca_8cpp.html" title="xmipp/libraries/reconstruction\l/image_rotational_pca.cpp" alt="" coords="325,199,517,240"/>
+<area shape="rect" id="node17" href="$micrograph__automatic__picking2_8h.html" title="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.h" alt="" coords="744,199,964,240"/>
+<area shape="rect" id="node18" href="$micrograph__automatic__picking__main_8cpp.html" title="xmipp/applications\l/programs/micrograph\l_automatic_picking/micrograph\l_automatic_picking_main.cpp" alt="" coords="753,303,955,373"/>
+<area shape="rect" id="node19" href="$micrograph__automatic__picking2_8cpp.html" title="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.cpp" alt="" coords="979,317,1214,359"/>
+<area shape="rect" id="node20" href="$xmipp__PickingClassifier_8cpp.html" title="xmippViz/bindings/java\l/xmipp_PickingClassifier.cpp" alt="" coords="537,317,728,359"/>
+</map>

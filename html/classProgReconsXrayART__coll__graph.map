@@ -1,0 +1,30 @@
+<map id="ProgReconsXrayART" name="ProgReconsXrayART">
+<area shape="rect" id="node2" href="$classProgReconsBase.html" title="ProgReconsBase" alt="" coords="1439,95,1563,121"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="1211,95,1319,121"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="983,95,1075,121"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="687,95,765,121"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="395,95,473,121"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="397,44,471,71"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="676,5,776,32"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="395,145,473,172"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="180,137,243,164"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="172,283,251,309"/>
+<area shape="rect" id="node16" href="$classImageBase.html" title="Image base class. " alt="" coords="682,421,770,448"/>
+<area shape="rect" id="node18" href="$structImageFHandler.html" title="ImageFHandler" alt="" coords="379,343,489,369"/>
+<area shape="rect" id="node13" href="$classXRayPSF.html" title="XRayPSF" alt="" coords="1224,357,1305,384"/>
+<area shape="rect" id="node14" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="960,313,1097,340"/>
+<area shape="rect" id="node26" href="$classBasis.html" title="Basis" alt="" coords="1473,439,1528,465"/>
+<area shape="rect" id="node15" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="969,429,1089,456"/>
+<area shape="rect" id="node27" href="$classImageOver.html" title="ImageOver" alt="" coords="1221,408,1308,435"/>
+<area shape="rect" id="node24" href="$classImageGeneric.html" title="ImageGeneric" alt="" coords="977,376,1080,403"/>
+<area shape="rect" id="node17" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="368,548,500,575"/>
+<area shape="rect" id="node23" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="644,560,808,587"/>
+<area shape="rect" id="node25" href="$classMultidimArrayGeneric.html" title="MultidimArrayGeneric" alt="" coords="653,491,799,517"/>
+<area shape="rect" id="node19" href="$classMDRow.html" title="MDRow" alt="" coords="399,485,469,512"/>
+<area shape="rect" id="node20" href="$classMDObject.html" title="MDObject" alt="" coords="171,485,252,512"/>
+<area shape="rect" id="node21" href="$unionObjectData.html" title="ObjectData" alt="" coords="5,485,93,512"/>
+<area shape="rect" id="node22" href="$structArrayDim.html" title="ArrayDim" alt="" coords="395,292,473,319"/>
+<area shape="rect" id="node28" href="$structblobtype.html" title="blobtype" alt="" coords="1229,459,1300,485"/>
+<area shape="rect" id="node29" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="1196,509,1333,536"/>
+<area shape="rect" id="node30" href="$classThreadManager.html" title="ThreadManager" alt="" coords="1445,663,1557,689"/>
+</map>
