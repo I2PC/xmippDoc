@@ -1,0 +1,14 @@
+<map id="xmipp/libraries/reconstruction/ageo_transformer.h" name="xmipp/libraries/reconstruction/ageo_transformer.h">
+<area shape="rect" id="node2" href="$bspline__geo__transformer_8h.html" title="xmipp/libraries/reconstruction\l/bspline_geo_transformer.h" alt="" coords="122,95,314,136"/>
+<area shape="rect" id="node3" href="$aiterative__alignment__tests_8h.html" title="xmipp/applications\l/tests/function_tests\l/aiterative_alignment\l_tests.h" alt="" coords="92,273,235,344"/>
+<area shape="rect" id="node5" href="$test__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_iterative_alignment\l_estimator.cpp" alt="" coords="5,392,169,463"/>
+<area shape="rect" id="node6" href="$bspline__geo__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l/bspline_geo_transformer.cpp" alt="" coords="121,184,315,225"/>
+<area shape="rect" id="node7" href="$iterative__alignment__estimator_8h.html" title="xmipp/libraries/reconstruction\l/iterative_alignment_estimator.h" alt="" coords="339,184,545,225"/>
+<area shape="rect" id="node12" href="$cuda__bspline__geo__transformer_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_bspline_geo_transformer.h" alt="" coords="569,184,819,225"/>
+<area shape="rect" id="node4" href="$test__cuda__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_iterative_alignment\l_estimator.cpp" alt="" coords="272,392,471,463"/>
+<area shape="rect" id="node8" href="$iterative__alignment__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/iterative_alignment_estimator.cpp" alt="" coords="270,288,491,329"/>
+<area shape="rect" id="node9" href="$align__significant__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.h" alt="" coords="566,288,798,329"/>
+<area shape="rect" id="node10" href="$cuda__align__significant_8cpp.html" title="xmipp/applications\l/programs/cuda_align\l_significant/cuda_align\l_significant.cpp" alt="" coords="533,392,687,463"/>
+<area shape="rect" id="node11" href="$align__significant__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.cpp" alt="" coords="712,407,959,448"/>
+<area shape="rect" id="node13" href="$cuda__bspline__geo__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_bspline_geo_transformer.cpp" alt="" coords="823,288,1085,329"/>
+</map>
