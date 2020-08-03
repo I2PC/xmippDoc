@@ -1,0 +1,29 @@
+<map id="cuFFTAdvisor/utils.h" name="cuFFTAdvisor/utils.h">
+<area shape="rect" id="node2" href="$transform_8h.html" title="cuFFTAdvisor/transform.h" alt="" coords="740,95,914,121"/>
+<area shape="rect" id="node3" href="$benchmarkResult_8h.html" title="cuFFTAdvisor/benchmarkResult.h" alt="" coords="426,206,647,233"/>
+<area shape="rect" id="node9" href="$sizeOptimizer_8h.html" title="cuFFTAdvisor/sizeOptimizer.h" alt="" coords="740,421,938,448"/>
+<area shape="rect" id="node13" href="$transformGenerator_8h.html" title="cuFFTAdvisor/transformGenerator.h" alt="" coords="884,206,1114,233"/>
+<area shape="rect" id="node16" href="$cudaUtils_8h.html" title="cuFFTAdvisor/cudaUtils.h" alt="" coords="226,206,401,233"/>
+<area shape="rect" id="node19" href="$generalTransform_8h.html" title="cuFFTAdvisor/generalTransform.h" alt="" coords="1040,95,1260,121"/>
+<area shape="rect" id="node21" href="$inputParser_8h.html" title="cuFFTAdvisor/inputParser.h" alt="" coords="1500,95,1685,121"/>
+<area shape="rect" id="node23" href="$cuda__gpu__movie__alignment__correlation_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_movie_alignment\l_correlation.h" alt="" coords="1862,80,2085,136"/>
+<area shape="rect" id="node15" href="$transform_8cpp.html" title="cuFFTAdvisor/transform.cpp" alt="" coords="672,206,860,233"/>
+<area shape="rect" id="node4" href="$benchmarker_8h.html" title="cuFFTAdvisor/benchmarker.h" alt="" coords="298,325,492,351"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="cuFFTAdvisor/main.cpp" alt="" coords="522,578,684,605"/>
+<area shape="rect" id="node12" href="$benchmarkResult_8cpp.html" title="cuFFTAdvisor/benchmarkResult.cpp" alt="" coords="567,325,802,351"/>
+<area shape="rect" id="node5" href="$advisor_8h.html" title="cuFFTAdvisor/advisor.h" alt="" coords="330,496,492,523"/>
+<area shape="rect" id="node11" href="$benchmarker_8cpp.html" title="cuFFTAdvisor/benchmarker.cpp" alt="" coords="234,421,442,448"/>
+<area shape="rect" id="node6" href="$advisor_8cpp.html" title="cuFFTAdvisor/advisor.cpp" alt="" coords="324,578,498,605"/>
+<area shape="rect" id="node8" href="$cuda__fft_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_fft.cpp" alt="" coords="107,571,299,612"/>
+<area shape="rect" id="node10" href="$sizeOptimizer_8cpp.html" title="cuFFTAdvisor/sizeOptimizer.cpp" alt="" coords="732,496,946,523"/>
+<area shape="rect" id="node14" href="$transformGenerator_8cpp.html" title="cuFFTAdvisor/transformGenerator.cpp" alt="" coords="876,325,1122,351"/>
+<area shape="rect" id="node17" href="$validator_8h.html" title="cuFFTAdvisor/validator.h" alt="" coords="34,325,202,351"/>
+<area shape="rect" id="node18" href="$validator_8cpp.html" title="cuFFTAdvisor/validator.cpp" alt="" coords="26,421,209,448"/>
+<area shape="rect" id="node20" href="$generalTransform_8cpp.html" title="cuFFTAdvisor/generalTransform.cpp" alt="" coords="1190,206,1424,233"/>
+<area shape="rect" id="node22" href="$inputParser_8cpp.html" title="cuFFTAdvisor/inputParser.cpp" alt="" coords="1549,206,1748,233"/>
+<area shape="rect" id="node24" href="$test__cuda__movie__alignment__correlation__gpu_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_movie_alignment\l_correlation_gpu.cpp" alt="" coords="1772,184,1960,255"/>
+<area shape="rect" id="node25" href="$movie__alignment__correlation__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.h" alt="" coords="1984,191,2182,247"/>
+<area shape="rect" id="node28" href="$cuda__gpu__movie__alignment__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_movie_alignment\l_correlation.cpp" alt="" coords="2206,191,2429,247"/>
+<area shape="rect" id="node26" href="$cuda__movie__alignment__correlation_8cpp.html" title="xmipp/applications\l/programs/cuda_movie\l_alignment_correlation\l/cuda_movie_alignment_correlation.cpp" alt="" coords="2082,303,2332,373"/>
+<area shape="rect" id="node27" href="$movie__alignment__correlation__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.cpp" alt="" coords="1858,310,2057,366"/>
+</map>

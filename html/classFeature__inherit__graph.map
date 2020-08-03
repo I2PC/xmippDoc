@@ -1,0 +1,11 @@
+<map id="Feature" name="Feature">
+<area shape="rect" id="node2" href="$classBlob.html" title="Blob" alt="" coords="5,80,53,107"/>
+<area shape="rect" id="node3" href="$classGaussian.html" title="Gaussian" alt="" coords="77,80,155,107"/>
+<area shape="rect" id="node4" href="$classOriented__Feature.html" title="Oriented_Feature" alt="" coords="179,80,301,107"/>
+<area shape="rect" id="node10" href="$classSphere.html" title="Sphere" alt="" coords="326,80,389,107"/>
+<area shape="rect" id="node5" href="$classCone.html" title="Cone" alt="" coords="49,155,103,181"/>
+<area shape="rect" id="node6" href="$classCube.html" title="Cube" alt="" coords="127,155,180,181"/>
+<area shape="rect" id="node7" href="$classCylinder.html" title="Cylinder" alt="" coords="205,155,275,181"/>
+<area shape="rect" id="node8" href="$classDCylinder.html" title="DCylinder" alt="" coords="300,155,380,181"/>
+<area shape="rect" id="node9" href="$classEllipsoid.html" title="Ellipsoid" alt="" coords="405,155,475,181"/>
+</map>
