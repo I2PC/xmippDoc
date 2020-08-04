@@ -1,0 +1,14 @@
+<map id="xmippCore/core/alglib/specialfunctions.h" name="xmippCore/core/alglib/specialfunctions.h">
+<area shape="rect" id="node2" href="$spherical__harmonics_8h.html" title="xmipp/libraries/data\l/spherical_harmonics.h" alt="" coords="77,95,233,136"/>
+<area shape="rect" id="node4" href="$statistics_8h.html" title="xmippCore/core/alglib\l/statistics.h" alt="" coords="373,95,521,136"/>
+<area shape="rect" id="node5" href="$dataanalysis_8h.html" title="xmippCore/core/alglib\l/dataanalysis.h" alt="" coords="201,184,349,225"/>
+<area shape="rect" id="node9" href="$ore_2core_2alglib_2integration_8h.html" title="xmippCore/core/alglib\l/integration.h" alt="" coords="545,95,693,136"/>
+<area shape="rect" id="node11" href="$interpolation_8h.html" title="xmippCore/core/alglib\l/interpolation.h" alt="" coords="717,184,865,225"/>
+<area shape="rect" id="node13" href="$specialfunctions_8cpp.html" title="xmippCore/core/alglib\l/specialfunctions.cpp" alt="" coords="769,95,917,136"/>
+<area shape="rect" id="node3" href="$spherical__harmonics_8cpp.html" title="xmipp/libraries/data\l/spherical_harmonics.cpp" alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node8" href="$statistics_8cpp.html" title="xmippCore/core/alglib\l/statistics.cpp" alt="" coords="373,184,521,225"/>
+<area shape="rect" id="node6" href="$ahc__classifier_8cpp.html" title="xmipp/libraries/classification\l/ahc_classifier.cpp" alt="" coords="85,273,272,315"/>
+<area shape="rect" id="node7" href="$dataanalysis_8cpp.html" title="xmippCore/core/alglib\l/dataanalysis.cpp" alt="" coords="297,273,445,315"/>
+<area shape="rect" id="node10" href="$ore_2core_2alglib_2integration_8cpp.html" title="xmippCore/core/alglib\l/integration.cpp" alt="" coords="545,184,693,225"/>
+<area shape="rect" id="node12" href="$interpolation_8cpp.html" title="xmippCore/core/alglib\l/interpolation.cpp" alt="" coords="717,273,865,315"/>
+</map>
