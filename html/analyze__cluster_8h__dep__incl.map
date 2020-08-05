@@ -1,0 +1,7 @@
+<map id="xmipp/libraries/classification/analyze_cluster.h" name="xmipp/libraries/classification/analyze_cluster.h">
+<area shape="rect" id="node2" href="$classify__analyze__cluster__main_8cpp.html" title="xmipp/applications\l/programs/classify_analyze\l_cluster/classify_analyze\l_cluster_main.cpp" alt="" coords="5,95,187,165"/>
+<area shape="rect" id="node3" href="$analyze__cluster_8cpp.html" title="xmipp/libraries/classification\l/analyze_cluster.cpp" alt="" coords="211,109,397,151"/>
+<area shape="rect" id="node4" href="$mpi__classify__CL2D__core__analysis_8cpp.html" title="xmipp/libraries/parallel\l/mpi_classify_CL2D_core\l_analysis.cpp" alt="" coords="422,102,594,158"/>
+<area shape="rect" id="node5" href="$program__extension_8cpp.html" title="xmipp/libraries/reconstruction\l/program_extension.cpp" alt="" coords="619,109,811,151"/>
+<area shape="rect" id="node6" href="$xmipp__MetaData_8cpp.html" title="xmippViz/xmipp_MetaData.cpp" alt="" coords="835,117,1039,143"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classAlignment_1_1AShiftEstimator.html" title="Alignment::AShiftEstimator\&lt; T \&gt;" alt="" coords="5,42,217,69"/>
+<area shape="rect" id="node2" href="$classAlignment_1_1AShiftCorrEstimator.html" title="Alignment::AShiftCorrEstimator\&lt; T \&gt;" alt="" coords="265,42,503,69"/>
+<area shape="rect" id="node3" href="$classAlignment_1_1CudaShiftCorrEstimator.html" title="Alignment::CudaShiftCorr\lEstimator\&lt; T \&gt;" alt="" coords="579,5,750,47"/>
+<area shape="rect" id="node4" href="$classAlignment_1_1ShiftCorrEstimator.html" title="Alignment::ShiftCorrEstimator\&lt; T \&gt;" alt="" coords="551,71,779,98"/>
+</map>
