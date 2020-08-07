@@ -1,0 +1,10 @@
+<map id="xmipp/libraries/interface/python_utils.h" name="xmipp/libraries/interface/python_utils.h">
+<area shape="rect" id="node2" href="$frm_8h.html" title="xmipp/libraries/interface\l/frm.h" alt="" coords="245,95,405,136"/>
+<area shape="rect" id="node9" href="$python__utils_8cpp.html" title="xmipp/libraries/interface\l/python_utils.cpp" alt="" coords="429,95,589,136"/>
+<area shape="rect" id="node3" href="$libraries_2interface_2frm_8cpp.html" title="xmipp/libraries/interface\l/frm.cpp" alt="" coords="57,184,217,225"/>
+<area shape="rect" id="node4" href="$mpi__classify__CLTomo_8h.html" title="xmipp/libraries/parallel\l/mpi_classify_CLTomo.h" alt="" coords="241,184,408,225"/>
+<area shape="rect" id="node7" href="$volume__align__prog_8cpp.html" title="xmipp/libraries/reconstruction\l/volume_align_prog.cpp" alt="" coords="438,184,630,225"/>
+<area shape="rect" id="node5" href="$mpi__classify__CLTomo__prog__main_8cpp.html" title="xmipp/applications\l/programs/mpi_classify\l_CLTomo_prog/mpi_classify\l_CLTomo_prog_main.cpp" alt="" coords="5,273,193,344"/>
+<area shape="rect" id="node6" href="$mpi__classify__CLTomo__prog_8cpp.html" title="xmipp/libraries/parallel\l/mpi_classify_CLTomo_prog.cpp" alt="" coords="218,288,431,329"/>
+<area shape="rect" id="node8" href="$volume__align__prog__main_8cpp.html" title="xmipp/applications\l/programs/volume_align\l_prog/volume_align_prog\l_main.cpp" alt="" coords="456,273,623,344"/>
+</map>
