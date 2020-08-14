@@ -1,0 +1,15 @@
+<map id="ProgAlignDualTiltSeries" name="ProgAlignDualTiltSeries">
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="701,69,809,96"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="448,69,540,96"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="187,44,265,71"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="5,19,84,45"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="7,69,82,96"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="176,95,276,121"/>
+<area shape="rect" id="node8" href="$classMetaData.html" title="MetaData" alt="" coords="716,120,795,147"/>
+<area shape="rect" id="node9" href="$classMDSql.html" title="MDSql" alt="" coords="463,120,525,147"/>
+<area shape="rect" id="node10" href="$classFileName.html" title="FileName" alt="" coords="455,208,533,235"/>
+<area shape="rect" id="node12" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="687,295,824,321"/>
+<area shape="rect" id="node13" href="$classMatrix1D.html" title="Matrix1D\&lt; double \&gt;" alt="" coords="687,428,824,455"/>
+<area shape="rect" id="node14" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="673,532,837,559"/>
+<area shape="rect" id="node15" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="428,532,560,559"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="alglib::lsfitstate" name="alglib::lsfitstate">
+<area shape="rect" id="node2" href="$classalglib_1_1__lsfitstate__owner.html" title="alglib::_lsfitstate\l_owner" alt="" coords="2523,255,2640,297"/>
+<area shape="rect" id="node3" href="$structalglib__impl_1_1lsfitstate.html" title="alglib_impl::lsfitstate" alt="" coords="2281,263,2423,289"/>
+<area shape="rect" id="node4" href="$structalglib__impl_1_1rcommstate.html" title="alglib_impl::rcommstate" alt="" coords="996,369,1156,396"/>
+<area shape="rect" id="node9" href="$structalglib__impl_1_1minlmstate.html" title="alglib_impl::minlmstate" alt="" coords="2023,508,2177,535"/>
+<area shape="rect" id="node12" href="$structalglib__impl_1_1minbleicstate.html" title="alglib_impl::minbleicstate" alt="" coords="1360,925,1528,952"/>
+<area shape="rect" id="node19" href="$structalglib__impl_1_1normestimatorstate.html" title="alglib_impl::normestimatorstate" alt="" coords="1343,461,1545,488"/>
+<area shape="rect" id="node22" href="$structalglib__impl_1_1minlbfgsstate.html" title="alglib_impl::minlbfgsstate" alt="" coords="1359,1235,1529,1261"/>
+<area shape="rect" id="node5" href="$structalglib__impl_1_1ae__vector.html" title="alglib_impl::ae_vector" alt="" coords="289,691,437,717"/>
+<area shape="rect" id="node11" href="$structalglib__impl_1_1minqpstate.html" title="alglib_impl::minqpstate" alt="" coords="1741,731,1896,757"/>
+<area shape="rect" id="node14" href="$structalglib__impl_1_1snnlssolver.html" title="alglib_impl::snnlssolver" alt="" coords="592,1132,749,1159"/>
+<area shape="rect" id="node16" href="$structalglib__impl_1_1sactiveset.html" title="alglib_impl::sactiveset" alt="" coords="1001,925,1151,952"/>
+<area shape="rect" id="node18" href="$structalglib__impl_1_1convexquadraticmodel.html" title="alglib_impl::convexquadraticmodel" alt="" coords="560,656,781,683"/>
+<area shape="rect" id="node21" href="$structalglib__impl_1_1sparsematrix.html" title="alglib_impl::sparsematrix" alt="" coords="805,575,972,601"/>
+<area shape="rect" id="node24" href="$structalglib__impl_1_1lsfitreport.html" title="alglib_impl::lsfitreport" alt="" coords="598,1456,743,1483"/>
+<area shape="rect" id="node27" href="$classalglib_1_1ae__vector__wrapper.html" title="alglib::ae_vector_wrapper" alt="" coords="585,43,756,69"/>
+<area shape="rect" id="node6" href="$structalglib__impl_1_1ae__dyn__block.html" title="alglib_impl::ae_dyn\l_block" alt="" coords="19,826,153,867"/>
+<area shape="rect" id="node15" href="$structalglib__impl_1_1ae__matrix.html" title="alglib_impl::ae_matrix" alt="" coords="289,1300,437,1327"/>
+<area shape="rect" id="node7" href="$structalglib__impl_1_1ae__complex.html" title="alglib_impl::ae_complex" alt="" coords="5,908,167,935"/>
+<area shape="rect" id="node8" href="$structalglib__impl_1_1matinvreport.html" title="alglib_impl::matinvreport" alt="" coords="2019,109,2181,136"/>
+<area shape="rect" id="node10" href="$structalglib__impl_1_1minlbfgsreport.html" title="alglib_impl::minlbfgsreport" alt="" coords="1732,1279,1905,1305"/>
+<area shape="rect" id="node13" href="$structalglib__impl_1_1linminstate.html" title="alglib_impl::linminstate" alt="" coords="999,1135,1153,1161"/>
+<area shape="rect" id="node29" href="$classalglib_1_1ae__matrix__wrapper.html" title="alglib::ae_matrix_wrapper" alt="" coords="585,1601,756,1628"/>
+<area shape="rect" id="node17" href="$structalglib__impl_1_1minbleicreport.html" title="alglib_impl::minbleicreport" alt="" coords="1358,781,1530,808"/>
+<area shape="rect" id="node20" href="$structalglib__impl_1_1hqrndstate.html" title="alglib_impl::hqrndstate" alt="" coords="1000,420,1152,447"/>
+<area shape="rect" id="node23" href="$structalglib__impl_1_1minqpreport.html" title="alglib_impl::minqpreport" alt="" coords="1739,375,1898,401"/>
+<area shape="rect" id="node25" href="$structalglib__impl_1_1minlmreport.html" title="alglib_impl::minlmreport" alt="" coords="2021,160,2179,187"/>
+<area shape="rect" id="node26" href="$classalglib_1_1real__1d__array.html" title="alglib::real_1d_array" alt="" coords="1569,24,1708,51"/>
+<area shape="rect" id="node28" href="$classalglib_1_1real__2d__array.html" title="alglib::real_2d_array" alt="" coords="1180,1607,1319,1633"/>
+</map>
