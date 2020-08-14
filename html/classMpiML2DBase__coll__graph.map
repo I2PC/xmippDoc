@@ -1,9 +1,0 @@
-<map id="MpiML2DBase" name="MpiML2DBase">
-<area shape="rect" id="node2" href="$classMpiNode.html" title="MpiNode" alt="" coords="31,288,106,315"/>
-<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="131,288,239,315"/>
-<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="139,199,231,225"/>
-<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="56,95,135,121"/>
-<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="5,5,84,32"/>
-<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,5,183,32"/>
-<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="224,95,324,121"/>
-</map>
