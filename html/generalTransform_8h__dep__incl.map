@@ -1,0 +1,11 @@
+<map id="cuFFTAdvisor/generalTransform.h" name="cuFFTAdvisor/generalTransform.h">
+<area shape="rect" id="node2" href="$sizeOptimizer_8h.html" title="cuFFTAdvisor/sizeOptimizer.h" alt="" coords="291,155,489,181"/>
+<area shape="rect" id="node8" href="$transformGenerator_8h.html" title="cuFFTAdvisor/transformGenerator.h" alt="" coords="428,80,659,107"/>
+<area shape="rect" id="node10" href="$generalTransform_8cpp.html" title="cuFFTAdvisor/generalTransform.cpp" alt="" coords="683,80,918,107"/>
+<area shape="rect" id="node3" href="$advisor_8h.html" title="cuFFTAdvisor/advisor.h" alt="" coords="204,229,365,256"/>
+<area shape="rect" id="node7" href="$sizeOptimizer_8cpp.html" title="cuFFTAdvisor/sizeOptimizer.cpp" alt="" coords="390,229,603,256"/>
+<area shape="rect" id="node4" href="$advisor_8cpp.html" title="cuFFTAdvisor/advisor.cpp" alt="" coords="5,311,180,338"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="cuFFTAdvisor/main.cpp" alt="" coords="204,311,365,338"/>
+<area shape="rect" id="node6" href="$cuda__fft_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_fft.cpp" alt="" coords="390,304,582,345"/>
+<area shape="rect" id="node9" href="$transformGenerator_8cpp.html" title="cuFFTAdvisor/transformGenerator.cpp" alt="" coords="514,155,759,181"/>
+</map>

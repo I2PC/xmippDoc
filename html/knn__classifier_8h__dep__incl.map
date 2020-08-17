@@ -1,0 +1,8 @@
+<map id="xmipp/libraries/classification/knn_classifier.h" name="xmipp/libraries/classification/knn_classifier.h">
+<area shape="rect" id="node2" href="$knn__classifier_8cpp.html" title="xmipp/libraries/classification\l/knn_classifier.cpp" alt="" coords="147,95,333,136"/>
+<area shape="rect" id="node3" href="$micrograph__automatic__picking2_8h.html" title="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.h" alt="" coords="358,95,578,136"/>
+<area shape="rect" id="node4" href="$micrograph__automatic__picking__main_8cpp.html" title="xmipp/applications\l/programs/micrograph\l_automatic_picking/micrograph\l_automatic_picking_main.cpp" alt="" coords="5,184,208,255"/>
+<area shape="rect" id="node5" href="$micrograph__automatic__picking2_8cpp.html" title="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.cpp" alt="" coords="232,199,467,240"/>
+<area shape="rect" id="node6" href="$program__extension_8cpp.html" title="xmipp/libraries/reconstruction\l/program_extension.cpp" alt="" coords="491,199,683,240"/>
+<area shape="rect" id="node7" href="$xmipp__PickingClassifier_8cpp.html" title="xmippViz/bindings/java\l/xmipp_PickingClassifier.cpp" alt="" coords="707,199,898,240"/>
+</map>
