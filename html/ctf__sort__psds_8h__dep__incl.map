@@ -1,8 +1,0 @@
-<map id="xmipp/libraries/reconstruction/ctf_sort_psds.h" name="xmipp/libraries/reconstruction/ctf_sort_psds.h">
-<area shape="rect" id="node2" href="$ctf__sort__psds__main_8cpp.html" title="xmipp/applications\l/programs/ctf_sort_psds\l/ctf_sort_psds_main.cpp" alt="" coords="5,102,171,158"/>
-<area shape="rect" id="node3" href="$mpi__ctf__sort__psds__main_8cpp.html" title="xmipp/applications\l/programs/mpi_ctf_sort\l_psds/mpi_ctf_sort_psds\l_main.cpp" alt="" coords="195,95,363,165"/>
-<area shape="rect" id="node4" href="$ctf__sort__psds_8cpp.html" title="xmipp/libraries/reconstruction\l/ctf_sort_psds.cpp" alt="" coords="387,109,579,151"/>
-<area shape="rect" id="node5" href="$score__micrograph_8h.html" title="xmipp/libraries/reconstruction\l/score_micrograph.h" alt="" coords="603,109,795,151"/>
-<area shape="rect" id="node6" href="$score__micrograph__main_8cpp.html" title="xmipp/applications\l/programs/score_micrograph\l/score_micrograph_main.cpp" alt="" coords="496,213,685,269"/>
-<area shape="rect" id="node7" href="$score__micrograph_8cpp.html" title="xmipp/libraries/reconstruction\l/score_micrograph.cpp" alt="" coords="709,221,901,262"/>
-</map>
