@@ -1,0 +1,13 @@
+<map id="ImageBase" name="ImageBase">
+<area shape="rect" id="node2" href="$classImage.html" title="Image\&lt; T \&gt;" alt="" coords="177,5,268,32"/>
+<area shape="rect" id="node3" href="$classImage.html" title="Image\&lt; char \&gt;" alt="" coords="169,56,276,83"/>
+<area shape="rect" id="node4" href="$classImage.html" title="Image\&lt; double \&gt;" alt="" coords="163,107,283,133"/>
+<area shape="rect" id="node7" href="$classImage.html" title="Image\&lt; float \&gt;" alt="" coords="169,157,276,184"/>
+<area shape="rect" id="node8" href="$classImage.html" title="Image\&lt; int \&gt;" alt="" coords="175,208,271,235"/>
+<area shape="rect" id="node9" href="$classImage.html" title="Image\&lt; short int \&gt;" alt="" coords="158,259,287,285"/>
+<area shape="rect" id="node10" href="$classImage.html" title="Image\&lt; unsigned char \&gt;" alt="" coords="141,309,304,336"/>
+<area shape="rect" id="node11" href="$classImage.html" title="Image\&lt; unsigned int \&gt;" alt="" coords="147,360,299,387"/>
+<area shape="rect" id="node12" href="$classImage.html" title="Image\&lt; unsigned short\l int \&gt;" alt="" coords="145,411,300,453"/>
+<area shape="rect" id="node5" href="$classImageOver.html" title="ImageOver" alt="" coords="352,81,439,108"/>
+<area shape="rect" id="node6" href="$classProjection.html" title="Projection" alt="" coords="355,132,435,159"/>
+</map>
