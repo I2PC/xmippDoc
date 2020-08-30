@@ -1,0 +1,19 @@
+<map id="xmipp/libraries/data/spherical_harmonics.cpp" name="xmipp/libraries/data/spherical_harmonics.cpp">
+<area shape="rect" id="node2" href="$spherical__harmonics_8h.html" title="data/spherical_harmonics.h" alt="" coords="455,95,636,121"/>
+<area shape="rect" id="node3" href="$specialfunctions_8h.html" title="core/alglib/specialfunctions.h" alt="" coords="133,319,324,345"/>
+<area shape="rect" id="node16" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="472,169,619,196"/>
+<area shape="rect" id="node38" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="1118,244,1200,271"/>
+<area shape="rect" id="node4" href="$ap_8h.html" title="ap.h" alt="" coords="296,468,342,495"/>
+<area shape="rect" id="node15" href="$alglibinternal_8h.html" title="alglibinternal.h" alt="" coords="266,393,372,420"/>
+<area shape="rect" id="node17" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="260,244,389,271"/>
+<area shape="rect" id="node18" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="413,244,508,271"/>
+<area shape="rect" id="node19" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="884,617,999,644"/>
+<area shape="rect" id="node20" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="715,319,798,345"/>
+<area shape="rect" id="node23" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1239,393,1346,420"/>
+<area shape="rect" id="node36" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="686,393,824,420"/>
+<area shape="rect" id="node27" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1664,468,1788,495"/>
+<area shape="rect" id="node31" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="924,468,1042,495"/>
+<area shape="rect" id="node33" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1082,543,1183,569"/>
+<area shape="rect" id="node37" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="678,468,800,495"/>
+<area shape="rect" id="node40" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="822,319,955,345"/>
+</map>
