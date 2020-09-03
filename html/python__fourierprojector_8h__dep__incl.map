@@ -1,0 +1,11 @@
+<map id="xmipp/bindings/python/python_fourierprojector.h" name="xmipp/bindings/python/python_fourierprojector.h">
+<area shape="rect" id="node2" href="$xmippmodule_8h.html" title="xmipp/bindings/python\l/xmippmodule.h" alt="" coords="656,95,808,136"/>
+<area shape="rect" id="node3" href="$python__constants_8cpp.html" title="xmipp/bindings/python\l/python_constants.cpp" alt="" coords="5,184,160,225"/>
+<area shape="rect" id="node4" href="$python__filename_8cpp.html" title="xmipp/bindings/python\l/python_filename.cpp" alt="" coords="184,184,336,225"/>
+<area shape="rect" id="node5" href="$python__fourierprojector_8cpp.html" title="xmipp/bindings/python\l/python_fourierprojector.cpp" alt="" coords="361,184,543,225"/>
+<area shape="rect" id="node6" href="$python__image_8cpp.html" title="xmipp/bindings/python\l/python_image.cpp" alt="" coords="568,184,720,225"/>
+<area shape="rect" id="node7" href="$python__metadata_8cpp.html" title="xmipp/bindings/python\l/python_metadata.cpp" alt="" coords="744,184,896,225"/>
+<area shape="rect" id="node8" href="$python__program_8cpp.html" title="xmipp/bindings/python\l/python_program.cpp" alt="" coords="920,184,1072,225"/>
+<area shape="rect" id="node9" href="$python__symmetry_8cpp.html" title="xmipp/bindings/python\l/python_symmetry.cpp" alt="" coords="1096,184,1251,225"/>
+<area shape="rect" id="node10" href="$xmippmodule_8cpp.html" title="xmipp/bindings/python\l/xmippmodule.cpp" alt="" coords="1275,184,1427,225"/>
+</map>
