@@ -1,0 +1,30 @@
+<map id="xmipp/libraries/reconstruction/classify_kerdensom.cpp" name="xmipp/libraries/reconstruction/classify_kerdensom.cpp">
+<area shape="rect" id="node3" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="699,102,850,129"/>
+<area shape="rect" id="node47" href="$gaussian__kerdensom_8h.html" title="classification/gaussian\l_kerdensom.h" alt="" coords="161,95,316,136"/>
+<area shape="rect" id="node4" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="831,184,926,211"/>
+<area shape="rect" id="node7" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="1181,781,1283,808"/>
+<area shape="rect" id="node9" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1459,856,1573,883"/>
+<area shape="rect" id="node13" href="$metadata_8h.html" title="metadata.h" alt="" coords="889,483,975,509"/>
+<area shape="rect" id="node32" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="1522,184,1633,211"/>
+<area shape="rect" id="node46" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="701,259,848,285"/>
+<area shape="rect" id="node5" href="$argsparser_8h.html" title="argsparser.h" alt="" coords="857,632,951,659"/>
+<area shape="rect" id="node21" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="593,707,700,733"/>
+<area shape="rect" id="node29" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="986,557,1097,584"/>
+<area shape="rect" id="node25" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1033,781,1157,808"/>
+<area shape="rect" id="node27" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="587,781,706,808"/>
+<area shape="rect" id="node31" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="578,632,699,659"/>
+<area shape="rect" id="node33" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="1387,333,1533,360"/>
+<area shape="rect" id="node35" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="1599,483,1718,509"/>
+<area shape="rect" id="node44" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="1498,259,1657,285"/>
+<area shape="rect" id="node45" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1742,483,1845,509"/>
+<area shape="rect" id="node34" href="$xmipp__image__macros_8h.html" title="xmipp_image_macros.h" alt="" coords="1024,408,1184,435"/>
+<area shape="rect" id="node36" href="$transformations_8h.html" title="transformations.h" alt="" coords="877,408,1000,435"/>
+<area shape="rect" id="node37" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="1945,707,2071,733"/>
+<area shape="rect" id="node40" href="$rwDM3_8h.html" title="rwDM3.h" alt="" coords="1373,408,1448,435"/>
+<area shape="rect" id="node41" href="$rwDM4_8h.html" title="rwDM4.h" alt="" coords="1472,408,1547,435"/>
+<area shape="rect" id="node42" href="$rwIMAGIC_8h.html" title="rwIMAGIC.h" alt="" coords="1571,408,1666,435"/>
+<area shape="rect" id="node43" href="$rwMRC_8h.html" title="rwMRC.h" alt="" coords="1690,408,1769,435"/>
+<area shape="rect" id="node48" href="$kerdensom_8h.html" title="kerdensom.h" alt="" coords="190,557,287,584"/>
+<area shape="rect" id="node49" href="$base__algorithm_8h.html" title="base_algorithm.h" alt="" coords="194,632,315,659"/>
+<area shape="rect" id="node50" href="$map_8h.html" title="map.h" alt="" coords="111,632,169,659"/>
+</map>
