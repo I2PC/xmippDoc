@@ -1,0 +1,13 @@
+<map id="xmipp/libraries/data/alignment_result.h" name="xmipp/libraries/data/alignment_result.h">
+<area shape="rect" id="node2" href="$local__alignment__result_8h.html" title="xmipp/libraries/data\l/local_alignment_result.h" alt="" coords="377,95,543,136"/>
+<area shape="rect" id="node5" href="$movie__alignment__correlation__base_8h.html" title="xmipp/libraries/reconstruction\l/movie_alignment_correlation_base.h" alt="" coords="449,273,687,315"/>
+<area shape="rect" id="node3" href="$bspline__helper_8h.html" title="xmipp/libraries/reconstruction\l/bspline_helper.h" alt="" coords="301,184,493,225"/>
+<area shape="rect" id="node4" href="$bspline__helper_8cpp.html" title="xmipp/libraries/reconstruction\l/bspline_helper.cpp" alt="" coords="168,273,360,315"/>
+<area shape="rect" id="node10" href="$movie__alignment__correlation__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.h" alt="" coords="278,363,477,419"/>
+<area shape="rect" id="node6" href="$movie__alignment__correlation_8h.html" title="xmipp/libraries/reconstruction\l/movie_alignment_correlation.h" alt="" coords="501,370,704,411"/>
+<area shape="rect" id="node9" href="$movie__alignment__correlation__base_8cpp.html" title="xmipp/libraries/reconstruction\l/movie_alignment_correlation\l_base.cpp" alt="" coords="728,363,920,419"/>
+<area shape="rect" id="node7" href="$applications_2programs_2movie__alignment__correlation_2movie__alignment__correlation_8cpp.html" title="xmipp/applications\l/programs/movie_alignment\l_correlation/movie_alignment\l_correlation.cpp" alt="" coords="506,467,697,537"/>
+<area shape="rect" id="node8" href="$libraries_2reconstruction_2movie__alignment__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l/movie_alignment_correlation.cpp" alt="" coords="721,481,937,523"/>
+<area shape="rect" id="node11" href="$cuda__movie__alignment__correlation_8cpp.html" title="xmipp/applications\l/programs/cuda_movie\l_alignment_correlation\l/cuda_movie_alignment_correlation.cpp" alt="" coords="5,467,256,537"/>
+<area shape="rect" id="node12" href="$movie__alignment__correlation__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.cpp" alt="" coords="281,474,479,530"/>
+</map>
