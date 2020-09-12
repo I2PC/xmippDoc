@@ -1,0 +1,10 @@
+<map id="xmipp/libraries/reconstruction/reconstruct_art.h" name="xmipp/libraries/reconstruction/reconstruct_art.h">
+<area shape="rect" id="node2" href="$reconstruct__art__main_8cpp.html" title="xmipp/applications\l/programs/reconstruct\l_art/reconstruct_art_main.cpp" alt="" coords="5,95,200,151"/>
+<area shape="rect" id="node3" href="$mpi__reconstruct__art_8h.html" title="xmipp/libraries/parallel\l/mpi_reconstruct_art.h" alt="" coords="224,102,376,143"/>
+<area shape="rect" id="node6" href="$idr__xray__tomo_8cpp.html" title="xmipp/libraries/reconstruction\l/idr_xray_tomo.cpp" alt="" coords="400,102,592,143"/>
+<area shape="rect" id="node7" href="$ml__refine3d_8cpp.html" title="xmipp/libraries/reconstruction\l/ml_refine3d.cpp" alt="" coords="616,102,808,143"/>
+<area shape="rect" id="node8" href="$reconstruct__art_8cpp.html" title="xmipp/libraries/reconstruction\l/reconstruct_art.cpp" alt="" coords="832,102,1024,143"/>
+<area shape="rect" id="node9" href="$resolution__ssnr_8cpp.html" title="xmipp/libraries/reconstruction\l/resolution_ssnr.cpp" alt="" coords="1048,102,1240,143"/>
+<area shape="rect" id="node4" href="$mpi__reconstruct__art__main_8cpp.html" title="xmipp/applications\l/programs/mpi_reconstruct\l_art/mpi_reconstruct_art\l_main.cpp" alt="" coords="113,199,290,269"/>
+<area shape="rect" id="node5" href="$mpi__reconstruct__art_8cpp.html" title="xmipp/libraries/parallel\l/mpi_reconstruct_art.cpp" alt="" coords="314,213,481,255"/>
+</map>
