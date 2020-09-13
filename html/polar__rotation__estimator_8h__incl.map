@@ -1,0 +1,30 @@
+<map id="xmipp/libraries/reconstruction/polar_rotation_estimator.h" name="xmipp/libraries/reconstruction/polar_rotation_estimator.h">
+<area shape="rect" id="node2" href="$arotation__estimator_8cpp.html" title="arotation_estimator.cpp" alt="" coords="445,95,603,121"/>
+<area shape="rect" id="node17" href="$cpu_8h.html" title="data/cpu.h" alt="" coords="625,617,708,644"/>
+<area shape="rect" id="node20" href="$polar_8h.html" title="data/polar.h" alt="" coords="1329,95,1420,121"/>
+<area shape="rect" id="node3" href="$arotation__estimator_8h.html" title="arotation_estimator.h" alt="" coords="355,617,499,644"/>
+<area shape="rect" id="node4" href="$hw_8h.html" title="data/hw.h" alt="" coords="497,692,575,719"/>
+<area shape="rect" id="node7" href="$dimensions_8h.html" title="data/dimensions.h" alt="" coords="5,692,133,719"/>
+<area shape="rect" id="node9" href="$xmipp__error_8h.html" title="core/xmipp_error.h" alt="" coords="733,692,864,719"/>
+<area shape="rect" id="node14" href="$align__type_8h.html" title="align_type.h" alt="" coords="158,692,250,719"/>
+<area shape="rect" id="node11" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="1619,767,1733,793"/>
+<area shape="rect" id="node21" href="$xmipp__funcs_8h.html" title="core/xmipp_funcs.h" alt="" coords="1208,617,1344,644"/>
+<area shape="rect" id="node33" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="1593,393,1740,420"/>
+<area shape="rect" id="node40" href="$transformations_8h.html" title="core/transformations.h" alt="" coords="1775,169,1927,196"/>
+<area shape="rect" id="node48" href="$xmipp__fftw_8h.html" title="core/xmipp_fftw.h" alt="" coords="1311,244,1438,271"/>
+<area shape="rect" id="node26" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1333,692,1457,719"/>
+<area shape="rect" id="node29" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1533,692,1651,719"/>
+<area shape="rect" id="node34" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="1913,468,2042,495"/>
+<area shape="rect" id="node35" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1643,468,1738,495"/>
+<area shape="rect" id="node36" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="1564,543,1647,569"/>
+<area shape="rect" id="node39" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="1417,468,1500,495"/>
+<area shape="rect" id="node38" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="1521,617,1660,644"/>
+<area shape="rect" id="node41" href="$tboundaryconvention_8h.html" title="bilib/tboundaryconvention.h" alt="" coords="2178,319,2358,345"/>
+<area shape="rect" id="node42" href="$kerneldiff1_8h.html" title="bilib/kerneldiff1.h" alt="" coords="1743,244,1863,271"/>
+<area shape="rect" id="node43" href="$changebasis_8h.html" title="bilib/changebasis.h" alt="" coords="2259,244,2392,271"/>
+<area shape="rect" id="node44" href="$pyramidtools_8h.html" title="bilib/pyramidtools.h" alt="" coords="1938,244,2073,271"/>
+<area shape="rect" id="node45" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="1583,319,1750,345"/>
+<area shape="rect" id="node46" href="$geometry_8h.html" title="geometry.h" alt="" coords="2097,244,2183,271"/>
+<area shape="rect" id="node47" href="$metadata_8h.html" title="metadata.h" alt="" coords="1894,543,1981,569"/>
+<area shape="rect" id="node50" href="$xmipp__fft_8h.html" title="xmipp_fft.h" alt="" coords="1233,319,1319,345"/>
+</map>
