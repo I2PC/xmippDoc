@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classClassificationAlgorithm.html" title="ClassificationAlgorithm\l\&lt; ClassificationMap \&gt;" alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$classSOM.html" title="SOM" alt="" coords="209,13,261,39"/>
+<area shape="rect" id="node3" href="$classBatchSOM.html" title="BatchSOM" alt="" coords="309,13,396,39"/>
+</map>
