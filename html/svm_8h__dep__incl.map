@@ -1,0 +1,10 @@
+<map id="xmipp/libraries/classification/svm.h" name="xmipp/libraries/classification/svm.h">
+<area shape="rect" id="node2" href="$svm_8cpp.html" title="xmipp/libraries/classification\l/svm.cpp" alt="" coords="49,95,236,136"/>
+<area shape="rect" id="node3" href="$svm__classifier_8h.html" title="xmipp/libraries/classification\l/svm_classifier.h" alt="" coords="260,95,447,136"/>
+<area shape="rect" id="node4" href="$svm__classifier_8cpp.html" title="xmipp/libraries/classification\l/svm_classifier.cpp" alt="" coords="147,184,333,225"/>
+<area shape="rect" id="node5" href="$micrograph__automatic__picking2_8h.html" title="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.h" alt="" coords="358,184,578,225"/>
+<area shape="rect" id="node6" href="$micrograph__automatic__picking__main_8cpp.html" title="xmipp/applications\l/programs/micrograph\l_automatic_picking/micrograph\l_automatic_picking_main.cpp" alt="" coords="5,273,208,344"/>
+<area shape="rect" id="node7" href="$micrograph__automatic__picking2_8cpp.html" title="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.cpp" alt="" coords="232,288,467,329"/>
+<area shape="rect" id="node8" href="$program__extension_8cpp.html" title="xmipp/libraries/reconstruction\l/program_extension.cpp" alt="" coords="491,288,683,329"/>
+<area shape="rect" id="node9" href="$xmipp__PickingClassifier_8cpp.html" title="xmippViz/bindings/java\l/xmipp_PickingClassifier.cpp" alt="" coords="707,288,898,329"/>
+</map>
