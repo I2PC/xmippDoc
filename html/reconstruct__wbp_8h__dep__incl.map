@@ -1,7 +1,0 @@
-<map id="xmipp/libraries/reconstruction/reconstruct_wbp.h" name="xmipp/libraries/reconstruction/reconstruct_wbp.h">
-<area shape="rect" id="node2" href="$reconstruct__wbp__main_8cpp.html" title="xmipp/applications\l/programs/reconstruct\l_wbp/reconstruct_wbp_main.cpp" alt="" coords="5,95,219,151"/>
-<area shape="rect" id="node3" href="$mpi__reconstruct__wbp_8h.html" title="xmipp/libraries/parallel\l/mpi_reconstruct_wbp.h" alt="" coords="243,102,405,143"/>
-<area shape="rect" id="node6" href="$reconstruct__wbp_8cpp.html" title="xmipp/libraries/reconstruction\l/reconstruct_wbp.cpp" alt="" coords="429,102,621,143"/>
-<area shape="rect" id="node4" href="$mpi__reconstruct__wbp__main_8cpp.html" title="xmipp/applications\l/programs/mpi_reconstruct\l_wbp/mpi_reconstruct_wbp\l_main.cpp" alt="" coords="132,199,313,269"/>
-<area shape="rect" id="node5" href="$mpi__reconstruct__wbp_8cpp.html" title="xmipp/libraries/parallel\l/mpi_reconstruct_wbp.cpp" alt="" coords="338,213,513,255"/>
-</map>

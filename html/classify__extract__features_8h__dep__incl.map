@@ -1,8 +1,0 @@
-<map id="xmipp/libraries/reconstruction/classify_extract_features.h" name="xmipp/libraries/reconstruction/classify_extract_features.h">
-<area shape="rect" id="node2" href="$classify__extract__features__main_8cpp.html" title="xmipp/applications\l/programs/classify_extract\l_features/classify_extract\l_features_main.cpp" alt="" coords="5,95,181,165"/>
-<area shape="rect" id="node3" href="$classify__extract__features_8cpp.html" title="xmipp/libraries/reconstruction\l/classify_extract_features.cpp" alt="" coords="205,109,403,151"/>
-<area shape="rect" id="node4" href="$classify__kmeans__2d_8h.html" title="xmipp/libraries/reconstruction\l/classify_kmeans_2d.h" alt="" coords="427,109,619,151"/>
-<area shape="rect" id="node7" href="$image__eliminate__empty__particles_8cpp.html" title="xmipp/libraries/reconstruction\l/image_eliminate_empty_particles.cpp" alt="" coords="643,109,887,151"/>
-<area shape="rect" id="node5" href="$classify__kmeans__2d__main_8cpp.html" title="xmipp/applications\l/programs/classify_kmeans\l_2d/classify_kmeans_2d_main.cpp" alt="" coords="292,213,519,269"/>
-<area shape="rect" id="node6" href="$classify__kmeans__2d_8cpp.html" title="xmipp/libraries/reconstruction\l/classify_kmeans_2d.cpp" alt="" coords="543,221,735,262"/>
-</map>
