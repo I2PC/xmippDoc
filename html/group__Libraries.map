@@ -1,0 +1,10 @@
+<map id="Libraries" name="Libraries">
+<area shape="rect" id="node1" href="$group__ParallelLibrary.html" title="Parallel library" alt="" coords="155,5,259,32"/>
+<area shape="rect" id="node2" href="$group__DataLibrary.html" title="Basic data library" alt="" coords="145,56,268,83"/>
+<area shape="rect" id="node3" href="$group__ClassificationLibrary.html" title="Classification library" alt="" coords="137,107,277,133"/>
+<area shape="rect" id="node5" href="$group__InterfaceLibrary.html" title="Interface library" alt="" coords="151,157,263,184"/>
+<area shape="rect" id="node6" href="$group__ReconsLibrary.html" title="Reconstruction library" alt="" coords="132,208,281,235"/>
+<area shape="rect" id="node7" href="$group__DimRedLibrary.html" title="Dimensionality reduction\l library" alt="" coords="124,259,289,301"/>
+<area shape="rect" id="node8" href="$group__BilibLibrary.html" title="Bilib library" alt="" coords="163,325,250,352"/>
+<area shape="rect" id="node9" href="$group__GraphicsLibrary.html" title="Graphics library" alt="" coords="150,376,263,403"/>
+</map>

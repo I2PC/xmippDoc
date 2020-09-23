@@ -1,0 +1,4 @@
+<map id="ThreadTaskDistributor" name="ThreadTaskDistributor">
+<area shape="rect" id="node2" href="$classParallelTaskDistributor.html" title="ParallelTaskDistributor" alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node3" href="$classMutex.html" title="Mutex" alt="" coords="184,5,243,32"/>
+</map>
