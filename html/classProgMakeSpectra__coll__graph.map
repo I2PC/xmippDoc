@@ -1,0 +1,12 @@
+<map id="ProgMakeSpectra" name="ProgMakeSpectra">
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="213,288,321,315"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="221,199,313,225"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="56,95,135,121"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,5,183,32"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="224,95,324,121"/>
+<area shape="rect" id="node8" href="$classRotational__Spectrum.html" title="Rotational_Spectrum" alt="" coords="346,288,490,315"/>
+<area shape="rect" id="node9" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="337,199,501,225"/>
+<area shape="rect" id="node10" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="353,95,485,121"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="515,288,593,315"/>
+</map>
