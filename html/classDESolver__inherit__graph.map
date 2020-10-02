@@ -1,0 +1,4 @@
+<map id="DESolver" name="DESolver">
+<area shape="rect" id="node2" href="$classEulerSolver.html" title="EulerSolver" alt="" coords="5,80,95,107"/>
+<area shape="rect" id="node3" href="$classWedgeSolver.html" title="WedgeSolver" alt="" coords="119,80,219,107"/>
+</map>
