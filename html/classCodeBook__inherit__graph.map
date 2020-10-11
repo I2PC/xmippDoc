@@ -1,0 +1,7 @@
+<map id="CodeBook" name="CodeBook">
+<area shape="rect" id="node4" href="$classClassificationMap.html" title="ClassificationMap" alt="" coords="351,21,477,47"/>
+<area shape="rect" id="node5" href="$classFuzzyCodeBook.html" title="FuzzyCodeBook" alt="" coords="355,71,473,98"/>
+<area shape="rect" id="node2" href="$classClassificationDataSet.html" title="ClassificationDataSet\l\&lt; FeatureVector, Label \&gt;" alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node3" href="$classClassificationTrainingSet.html" title="ClassificationTrainingSet\l\&lt; FeatureVector, Label \&gt;" alt="" coords="5,71,172,112"/>
+<area shape="rect" id="node6" href="$classFuzzyMap.html" title="FuzzyMap" alt="" coords="525,71,608,98"/>
+</map>
