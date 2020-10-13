@@ -1,0 +1,10 @@
+<map id="Delaunay_T" name="Delaunay_T">
+<area shape="rect" id="node2" href="$structGraph__T.html" title="Graph_T" alt="" coords="43,273,115,300"/>
+<area shape="rect" id="node3" href="$structNode__T.html" title="Node_T" alt="" coords="45,184,113,211"/>
+<area shape="rect" id="node4" href="$structDCEL__T.html" title="DCEL_T" alt="" coords="153,184,226,211"/>
+<area shape="rect" id="node9" href="$structVoronoi__T.html" title="Voronoi_T" alt="" coords="217,273,298,300"/>
+<area shape="rect" id="node5" href="$structDcel__Vertex__T.html" title="Dcel_Vertex_T" alt="" coords="5,95,115,121"/>
+<area shape="rect" id="node6" href="$structPoint__T.html" title="Point_T" alt="" coords="27,5,93,32"/>
+<area shape="rect" id="node7" href="$structDcel__Edge__T.html" title="Dcel_Edge_T" alt="" coords="139,95,240,121"/>
+<area shape="rect" id="node8" href="$structDcel__Face__T.html" title="Dcel_Face_T" alt="" coords="265,95,365,121"/>
+</map>
