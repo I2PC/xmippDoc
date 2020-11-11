@@ -1,0 +1,7 @@
+<map id="xmipp/libraries/reconstruction/nma_alignment_vol.h" name="xmipp/libraries/reconstruction/nma_alignment_vol.h">
+<area shape="rect" id="node2" href="$nma__alignment__vol__main_8cpp.html" title="xmipp/applications\l/programs/nma_alignment\l_vol/nma_alignment_vol\l_main.cpp" alt="" coords="5,95,177,165"/>
+<area shape="rect" id="node3" href="$mpi__nma__alignment__vol_8h.html" title="xmipp/libraries/parallel\l/mpi_nma_alignment_vol.h" alt="" coords="201,109,379,151"/>
+<area shape="rect" id="node6" href="$nma__alignment__vol_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment_vol.cpp" alt="" coords="403,109,595,151"/>
+<area shape="rect" id="node4" href="$mpi__nma__alignment__vol__main_8cpp.html" title="xmipp/applications\l/programs/mpi_nma_alignment\l_vol/mpi_nma_alignment_vol\l_main.cpp" alt="" coords="79,213,279,284"/>
+<area shape="rect" id="node5" href="$mpi__nma__alignment__vol_8cpp.html" title="xmipp/libraries/parallel\l/mpi_nma_alignment_vol.cpp" alt="" coords="304,228,495,269"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MDValueRelational" name="MDValueRelational">
+<area shape="rect" id="node3" href="$classMDValueEQ.html" title="MDValueEQ" alt="" coords="5,155,100,181"/>
+<area shape="rect" id="node4" href="$classMDValueGE.html" title="MDValueGE" alt="" coords="124,155,219,181"/>
+<area shape="rect" id="node5" href="$classMDValueGT.html" title="MDValueGT" alt="" coords="243,155,337,181"/>
+<area shape="rect" id="node6" href="$classMDValueLE.html" title="MDValueLE" alt="" coords="361,155,453,181"/>
+<area shape="rect" id="node7" href="$classMDValueLT.html" title="MDValueLT" alt="" coords="478,155,569,181"/>
+<area shape="rect" id="node8" href="$classMDValueNE.html" title="MDValueNE" alt="" coords="593,155,688,181"/>
+<area shape="rect" id="node2" href="$classMDQuery.html" title="MDQuery" alt="" coords="309,5,388,32"/>
+</map>
