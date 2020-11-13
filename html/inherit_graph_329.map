@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classHW.html" title="HW" alt="" coords="5,31,51,57"/>
+<area shape="rect" id="node2" href="$classCPU.html" title="CPU" alt="" coords="99,5,149,32"/>
+<area shape="rect" id="node3" href="$classGPU.html" title="GPU" alt="" coords="99,56,149,83"/>
+</map>

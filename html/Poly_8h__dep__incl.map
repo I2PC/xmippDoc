@@ -1,0 +1,13 @@
+<map id="xmipp/external/condor/Poly.h" name="xmipp/external/condor/Poly.h">
+<area shape="rect" id="node2" href="$IntPoly_8h.html" title="xmipp/external/condor\l/IntPoly.h" alt="" coords="407,95,557,136"/>
+<area shape="rect" id="node8" href="$IntPoly_8cpp.html" title="xmipp/external/condor\l/IntPoly.cpp" alt="" coords="581,184,732,225"/>
+<area shape="rect" id="node10" href="$Poly_8cpp.html" title="xmipp/external/condor\l/Poly.cpp" alt="" coords="756,184,907,225"/>
+<area shape="rect" id="node11" href="$MSSolver_8cpp.html" title="xmipp/external/condor\l/MSSolver.cpp" alt="" coords="745,95,896,136"/>
+<area shape="rect" id="node12" href="$UTRSSolver_8cpp.html" title="xmipp/external/condor\l/UTRSSolver.cpp" alt="" coords="920,95,1071,136"/>
+<area shape="rect" id="node3" href="$Solver_8h.html" title="xmipp/external/condor\l/Solver.h" alt="" coords="407,184,557,225"/>
+<area shape="rect" id="node4" href="$CNLSolver_8cpp.html" title="xmipp/external/condor\l/CNLSolver.cpp" alt="" coords="252,273,403,315"/>
+<area shape="rect" id="node7" href="$CTRSSolver_8cpp.html" title="xmipp/external/condor\l/CTRSSolver.cpp" alt="" coords="5,184,156,225"/>
+<area shape="rect" id="node9" href="$parallel_8cpp.html" title="xmipp/external/condor\l/parallel.cpp" alt="" coords="180,184,331,225"/>
+<area shape="rect" id="node5" href="$nma__alignment_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment.cpp" alt="" coords="643,273,835,315"/>
+<area shape="rect" id="node6" href="$nma__alignment__vol_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment_vol.cpp" alt="" coords="427,273,619,315"/>
+</map>
