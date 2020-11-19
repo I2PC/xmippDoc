@@ -1,7 +1,0 @@
-<map id="xmipp/libraries/reconstruction/movie_filter_dose.h" name="xmipp/libraries/reconstruction/movie_filter_dose.h">
-<area shape="rect" id="node2" href="$applications_2programs_2movie__filter__dose_2movie__filter__dose_8cpp.html" title="xmipp/applications\l/programs/movie_filter\l_dose/movie_filter_dose.cpp" alt="" coords="5,102,193,158"/>
-<area shape="rect" id="node3" href="$movie__optical__alignment__cpu_8cpp.html" title="xmipp/applications\l/programs/movie_optical\l_alignment_cpu/movie_optical\l_alignment_cpu.cpp" alt="" coords="218,95,415,165"/>
-<area shape="rect" id="node5" href="$test__movie__filter__dose_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_movie_filter_dose.cpp" alt="" coords="440,102,623,158"/>
-<area shape="rect" id="node6" href="$libraries_2reconstruction_2movie__filter__dose_8cpp.html" title="xmipp/libraries/reconstruction\l/movie_filter_dose.cpp" alt="" coords="647,109,839,151"/>
-<area shape="rect" id="node4" href="$movie__optical__alignment__gpu_8cpp.html" title="xmipp/applications\l/programs/movie_optical\l_alignment_gpu/movie_optical\l_alignment_gpu.cpp" alt="" coords="218,213,415,284"/>
-</map>
