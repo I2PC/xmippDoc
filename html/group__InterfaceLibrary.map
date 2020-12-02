@@ -1,0 +1,6 @@
+<map id="Interface library" name="Interface library">
+<area shape="rect" id="node1" href="$group__SpiderInterface.html" title="Spider" alt="" coords="284,5,343,32"/>
+<area shape="rect" id="node2" href="$group__VirusInterface.html" title="Virus" alt="" coords="287,56,339,83"/>
+<area shape="rect" id="node3" href="$group__PDBinterface.html" title="PDB" alt="" coords="288,107,339,133"/>
+<area shape="rect" id="node4" href="$group__Libraries.html" title="Libraries" alt="" coords="5,56,76,83"/>
+</map>
