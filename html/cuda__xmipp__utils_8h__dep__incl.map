@@ -1,0 +1,28 @@
+<map id="xmipp/libraries/reconstruction_cuda/cuda_xmipp_utils.h" name="xmipp/libraries/reconstruction_cuda/cuda_xmipp_utils.h">
+<area shape="rect" id="node2" href="$xmipp__gpu__utils_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/xmipp_gpu_utils.h" alt="" coords="133,213,339,255"/>
+<area shape="rect" id="node5" href="$cuda__gpu__correlation_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_correlation.h" alt="" coords="384,102,579,143"/>
+<area shape="rect" id="node7" href="$cuda__gpu__geo__shift__transformer_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_shift_transformer.h" alt="" coords="1651,102,1912,143"/>
+<area shape="rect" id="node12" href="$cuda__xmipp__utils_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_xmipp_utils.cpp" alt="" coords="1985,102,2177,143"/>
+<area shape="rect" id="node13" href="$cuda__gpu__geo__transformer_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_transformer.h" alt="" coords="1100,102,1329,143"/>
+<area shape="rect" id="node17" href="$cuda__gpu__movie__alignment__correlation_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_movie_alignment\l_correlation.h" alt="" coords="1405,95,1627,151"/>
+<area shape="rect" id="node20" href="$cuda__gpu__reconstruct__fourier_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_reconstruct\l_fourier.h" alt="" coords="2369,95,2561,151"/>
+<area shape="rect" id="node3" href="$xmipp__gpu__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/xmipp_gpu_correlation.cpp" alt="" coords="249,332,503,373"/>
+<area shape="rect" id="node4" href="$xmipp__gpu__utils_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/xmipp_gpu_utils.cpp" alt="" coords="5,332,224,373"/>
+<area shape="rect" id="node6" href="$cuda__gpu__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_correlation.cpp" alt="" coords="414,213,623,255"/>
+<area shape="rect" id="node8" href="$movie__alignment__correlation__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.h" alt="" coords="1361,206,1559,262"/>
+<area shape="rect" id="node11" href="$cuda__gpu__geo__shift__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_shift_transformer.cpp" alt="" coords="2043,213,2317,255"/>
+<area shape="rect" id="node9" href="$cuda__movie__alignment__correlation_8cpp.html" title="xmipp/applications\l/programs/cuda_movie\l_alignment_correlation\l/cuda_movie_alignment_correlation.cpp" alt="" coords="1459,317,1709,388"/>
+<area shape="rect" id="node10" href="$movie__alignment__correlation__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.cpp" alt="" coords="1235,325,1434,381"/>
+<area shape="rect" id="node14" href="$test__cuda__geo__transformer__apply__bspline__transform_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_geo_transformer\l_apply_bspline_transform.cpp" alt="" coords="648,199,843,269"/>
+<area shape="rect" id="node15" href="$test__cuda__geo__transformer__produce__and__load__coeffs_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_geo_transformer\l_produce_and_load_coeffs.cpp" alt="" coords="867,199,1069,269"/>
+<area shape="rect" id="node16" href="$cuda__gpu__geo__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_transformer.cpp" alt="" coords="1093,213,1336,255"/>
+<area shape="rect" id="node18" href="$test__cuda__movie__alignment__correlation__gpu_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_movie_alignment\l_correlation_gpu.cpp" alt="" coords="1583,199,1771,269"/>
+<area shape="rect" id="node19" href="$cuda__gpu__movie__alignment__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_movie_alignment\l_correlation.cpp" alt="" coords="1795,206,2018,262"/>
+<area shape="rect" id="node21" href="$reconstruct__fourier__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/reconstruct_fourier_gpu.h" alt="" coords="2342,213,2589,255"/>
+<area shape="rect" id="node27" href="$cuda__gpu__reconstruct__fourier_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_reconstruct\l_fourier.cpp" alt="" coords="2613,206,2805,262"/>
+<area shape="rect" id="node22" href="$cuda__reconstruct__fourier__main_8cpp.html" title="xmipp/applications\l/programs/cuda_reconstruct\l_fourier/cuda_reconstruct\l_fourier_main.cpp" alt="" coords="2160,317,2344,388"/>
+<area shape="rect" id="node23" href="$mpi__reconstruct__fourier__gpu_8h.html" title="xmipp/libraries/parallel\l_adapt_cuda/mpi_reconstruct\l_fourier_gpu.h" alt="" coords="2369,325,2562,381"/>
+<area shape="rect" id="node26" href="$reconstruct__fourier__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/reconstruct_fourier_gpu.cpp" alt="" coords="2587,332,2848,373"/>
+<area shape="rect" id="node24" href="$mpi__cuda__reconstruct__fourier__main_8cpp.html" title="xmipp/applications\l/programs/mpi_cuda_reconstruct\l_fourier/mpi_cuda_reconstruct\l_fourier_main.cpp" alt="" coords="2246,436,2458,507"/>
+<area shape="rect" id="node25" href="$mpi__reconstruct__fourier__gpu_8cpp.html" title="xmipp/libraries/parallel\l_adapt_cuda/mpi_reconstruct\l_fourier_gpu.cpp" alt="" coords="2482,443,2675,499"/>
+</map>
