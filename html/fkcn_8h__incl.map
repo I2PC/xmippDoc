@@ -1,0 +1,17 @@
+<map id="xmipp/libraries/classification/fkcn.h" name="xmipp/libraries/classification/fkcn.h">
+<area shape="rect" id="node4" href="$fcmeans_8h.html" title="fcmeans.h" alt="" coords="1155,95,1237,121"/>
+<area shape="rect" id="node5" href="$base__algorithm_8h.html" title="base_algorithm.h" alt="" coords="987,244,1109,271"/>
+<area shape="rect" id="node36" href="$fuzzy__code__book_8h.html" title="fuzzy_code_book.h" alt="" coords="1229,169,1363,196"/>
+<area shape="rect" id="node6" href="$training__set_8h.html" title="training_set.h" alt="" coords="1294,393,1394,420"/>
+<area shape="rect" id="node25" href="$data__set_8h.html" title="data_set.h" alt="" coords="1085,319,1168,345"/>
+<area shape="rect" id="node26" href="$xmipp__funcs_8h.html" title="core/xmipp_funcs.h" alt="" coords="499,393,635,420"/>
+<area shape="rect" id="node11" href="$data__types_8h.html" title="data_types.h" alt="" coords="1138,468,1235,495"/>
+<area shape="rect" id="node16" href="$vector__ops_8h.html" title="vector_ops.h" alt="" coords="1447,468,1545,495"/>
+<area shape="rect" id="node21" href="$args_8h.html" title="core/args.h" alt="" coords="641,468,727,495"/>
+<area shape="rect" id="node22" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="543,617,657,644"/>
+<area shape="rect" id="node24" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="317,543,419,569"/>
+<area shape="rect" id="node30" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="751,468,875,495"/>
+<area shape="rect" id="node34" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="951,468,1070,495"/>
+<area shape="rect" id="node37" href="$code__book_8h.html" title="code_book.h" alt="" coords="1296,244,1392,271"/>
+<area shape="rect" id="node38" href="$training__vector_8h.html" title="training_vector.h" alt="" coords="1285,319,1403,345"/>
+</map>
