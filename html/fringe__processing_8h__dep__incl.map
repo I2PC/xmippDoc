@@ -1,0 +1,10 @@
+<map id="xmipp/libraries/reconstruction/fringe_processing.h" name="xmipp/libraries/reconstruction/fringe_processing.h">
+<area shape="rect" id="node2" href="$test__fringe__processing__main_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_fringe_processing\l_main.cpp" alt="" coords="5,95,163,165"/>
+<area shape="rect" id="node3" href="$test__wavelets__main_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_wavelets_main.cpp" alt="" coords="187,102,354,158"/>
+<area shape="rect" id="node4" href="$ctf__estimate__from__psd_8cpp.html" title="xmipp/libraries/reconstruction\l/ctf_estimate_from_psd.cpp" alt="" coords="379,109,571,151"/>
+<area shape="rect" id="node5" href="$fringe__processing_8cpp.html" title="xmipp/libraries/reconstruction\l/fringe_processing.cpp" alt="" coords="595,109,787,151"/>
+<area shape="rect" id="node6" href="$image__sort__by__statistics_8h.html" title="xmipp/libraries/reconstruction\l/image_sort_by_statistics.h" alt="" coords="811,109,1003,151"/>
+<area shape="rect" id="node9" href="$score__micrograph_8cpp.html" title="xmipp/libraries/reconstruction\l/score_micrograph.cpp" alt="" coords="1027,109,1219,151"/>
+<area shape="rect" id="node7" href="$image__sort__by__statistics__main_8cpp.html" title="xmipp/applications\l/programs/image_sort\l_by_statistics/image\l_sort_by_statistics_main.cpp" alt="" coords="701,213,893,284"/>
+<area shape="rect" id="node8" href="$image__sort__by__statistics_8cpp.html" title="xmipp/libraries/reconstruction\l/image_sort_by_statistics.cpp" alt="" coords="918,228,1114,269"/>
+</map>
