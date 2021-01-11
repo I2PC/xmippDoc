@@ -1,0 +1,6 @@
+<map id="xmipp/libraries/reconstruction/volume_segment.h" name="xmipp/libraries/reconstruction/volume_segment.h">
+<area shape="rect" id="node2" href="$volume__segment__main_8cpp.html" title="xmipp/applications\l/programs/volume_segment\l/volume_segment_main.cpp" alt="" coords="5,95,191,151"/>
+<area shape="rect" id="node3" href="$tom__xmipp__volume__segment_8cpp.html" title="xmipp/bindings/matlab\l/tom_xmipp_volume_segment.cpp" alt="" coords="215,102,437,143"/>
+<area shape="rect" id="node4" href="$ml__refine3d_8cpp.html" title="xmipp/libraries/reconstruction\l/ml_refine3d.cpp" alt="" coords="461,102,653,143"/>
+<area shape="rect" id="node5" href="$volume__segment_8cpp.html" title="xmipp/libraries/reconstruction\l/volume_segment.cpp" alt="" coords="677,102,869,143"/>
+</map>
