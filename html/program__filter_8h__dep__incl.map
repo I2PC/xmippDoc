@@ -1,6 +1,0 @@
-<map id="xmipp/libraries/reconstruction/program_filter.h" name="xmipp/libraries/reconstruction/program_filter.h">
-<area shape="rect" id="node2" href="$mpi__transform__filter__main_8cpp.html" title="xmipp/applications\l/programs/mpi_transform\l_filter/mpi_transform_filter\l_main.cpp" alt="" coords="5,95,179,165"/>
-<area shape="rect" id="node3" href="$transform__filter__main_8cpp.html" title="xmipp/applications\l/programs/transform\l_filter/transform_filter\l_main.cpp" alt="" coords="203,95,349,165"/>
-<area shape="rect" id="node4" href="$program__extension_8cpp.html" title="xmipp/libraries/reconstruction\l/program_extension.cpp" alt="" coords="373,109,565,151"/>
-<area shape="rect" id="node5" href="$program__filter_8cpp.html" title="xmipp/libraries/reconstruction\l/program_filter.cpp" alt="" coords="589,109,781,151"/>
-</map>
