@@ -1,8 +1,0 @@
-<map id="xmipp/libraries/reconstruction/program_extension.h" name="xmipp/libraries/reconstruction/program_extension.h">
-<area shape="rect" id="node2" href="$flexible__alignment_8cpp.html" title="xmipp/libraries/reconstruction\l/flexible_alignment.cpp" alt="" coords="5,95,197,136"/>
-<area shape="rect" id="node3" href="$nma__alignment_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment.cpp" alt="" coords="221,95,413,136"/>
-<area shape="rect" id="node4" href="$nma__alignment__vol_8cpp.html" title="xmipp/libraries/reconstruction\l/nma_alignment_vol.cpp" alt="" coords="437,95,629,136"/>
-<area shape="rect" id="node5" href="$program__extension_8cpp.html" title="xmipp/libraries/reconstruction\l/program_extension.cpp" alt="" coords="653,95,845,136"/>
-<area shape="rect" id="node6" href="$volumeset__align_8cpp.html" title="xmipp/libraries/reconstruction\l/volumeset_align.cpp" alt="" coords="869,95,1061,136"/>
-<area shape="rect" id="node7" href="$xmipp__Program_8cpp.html" title="xmippViz/bindings/java\l/xmipp_Program.cpp" alt="" coords="1086,95,1242,136"/>
-</map>
