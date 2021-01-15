@@ -1,6 +1,0 @@
-<map id="xmipp/libraries/data/xmipp_image_convert.h" name="xmipp/libraries/data/xmipp_image_convert.h">
-<area shape="rect" id="node2" href="$image__convert__main_8cpp.html" title="xmipp/applications\l/programs/image_convert\l/image_convert_main.cpp" alt="" coords="5,95,176,151"/>
-<area shape="rect" id="node3" href="$test__metadata__main_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_metadata_main.cpp" alt="" coords="201,95,370,151"/>
-<area shape="rect" id="node4" href="$xmipp__image__convert_8cpp.html" title="xmipp/libraries/data\l/xmipp_image_convert.cpp" alt="" coords="395,102,573,143"/>
-<area shape="rect" id="node5" href="$idr__xray__tomo_8cpp.html" title="xmipp/libraries/reconstruction\l/idr_xray_tomo.cpp" alt="" coords="597,102,789,143"/>
-</map>

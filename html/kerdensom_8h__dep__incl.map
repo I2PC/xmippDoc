@@ -1,7 +1,0 @@
-<map id="xmipp/libraries/classification/kerdensom.h" name="xmipp/libraries/classification/kerdensom.h">
-<area shape="rect" id="node2" href="$gaussian__kerdensom_8h.html" title="xmipp/libraries/classification\l/gaussian_kerdensom.h" alt="" coords="112,95,299,136"/>
-<area shape="rect" id="node6" href="$kerdensom_8cpp.html" title="xmipp/libraries/classification\l/kerdensom.cpp" alt="" coords="323,95,509,136"/>
-<area shape="rect" id="node3" href="$gaussian__kerdensom_8cpp.html" title="xmipp/libraries/classification\l/gaussian_kerdensom.cpp" alt="" coords="5,184,192,225"/>
-<area shape="rect" id="node4" href="$classify__kerdensom_8cpp.html" title="xmipp/libraries/reconstruction\l/classify_kerdensom.cpp" alt="" coords="216,184,408,225"/>
-<area shape="rect" id="node5" href="$classify__kerdensom__main_8cpp.html" title="xmipp/applications\l/programs/classify_kerdensom\l/classify_kerdensom_main.cpp" alt="" coords="211,273,413,329"/>
-</map>
