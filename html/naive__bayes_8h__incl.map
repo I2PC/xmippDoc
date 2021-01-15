@@ -1,0 +1,19 @@
+<map id="xmipp/libraries/classification/naive_bayes.h" name="xmipp/libraries/classification/naive_bayes.h">
+<area shape="rect" id="node4" href="$matrix2d_8h.html" title="core/matrix2d.h" alt="" coords="1151,319,1263,345"/>
+<area shape="rect" id="node19" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="1569,393,1652,420"/>
+<area shape="rect" id="node31" href="$histogram_8h.html" title="core/histogram.h" alt="" coords="351,95,470,121"/>
+<area shape="rect" id="node8" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="1357,393,1491,420"/>
+<area shape="rect" id="node9" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1602,543,1721,569"/>
+<area shape="rect" id="node11" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1070,543,1194,569"/>
+<area shape="rect" id="node17" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="525,617,627,644"/>
+<area shape="rect" id="node14" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="332,692,447,719"/>
+<area shape="rect" id="node22" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="864,468,971,495"/>
+<area shape="rect" id="node26" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="1357,468,1496,495"/>
+<area shape="rect" id="node28" href="$xmipp__memory_8h.html" title="xmipp_memory.h" alt="" coords="1368,543,1491,569"/>
+<area shape="rect" id="node32" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="239,244,358,271"/>
+<area shape="rect" id="node35" href="$multidim__array__generic_8h.html" title="multidim_array_generic.h" alt="" coords="181,169,347,196"/>
+<area shape="rect" id="node37" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="375,393,497,420"/>
+<area shape="rect" id="node33" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="234,319,363,345"/>
+<area shape="rect" id="node34" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="43,319,138,345"/>
+<area shape="rect" id="node36" href="$xmipp__datatype_8h.html" title="xmipp_datatype.h" alt="" coords="5,244,131,271"/>
+</map>

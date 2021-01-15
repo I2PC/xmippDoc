@@ -1,0 +1,19 @@
+<map id="ProgMLRefine3D" name="ProgMLRefine3D">
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="175,370,283,397"/>
+<area shape="rect" id="node12" href="$classML2DBaseProgram.html" title="ML2DBaseProgram" alt="" coords="482,600,618,627"/>
+<area shape="rect" id="node3" href="$classProgramDef.html" title="ProgramDef" alt="" coords="183,213,275,240"/>
+<area shape="rect" id="node4" href="$classASTNode.html" title="ASTNode" alt="" coords="56,95,135,121"/>
+<area shape="rect" id="node5" href="$classArgToken.html" title="ArgToken" alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node6" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,5,183,32"/>
+<area shape="rect" id="node7" href="$classCommentList.html" title="CommentList" alt="" coords="224,95,324,121"/>
+<area shape="rect" id="node8" href="$classMetaData.html" title="MetaData" alt="" coords="721,370,800,397"/>
+<area shape="rect" id="node9" href="$classMDSql.html" title="MDSql" alt="" coords="629,213,692,240"/>
+<area shape="rect" id="node10" href="$classFileName.html" title="FileName" alt="" coords="757,213,836,240"/>
+<area shape="rect" id="node16" href="$classSampling.html" title="Sampling" alt="" coords="897,370,973,397"/>
+<area shape="rect" id="node13" href="$classModelML2D.html" title="ModelML2D" alt="" coords="605,370,697,397"/>
+<area shape="rect" id="node14" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="307,370,471,397"/>
+<area shape="rect" id="node15" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="323,213,455,240"/>
+<area shape="rect" id="node17" href="$classSymList.html" title="SymList" alt="" coords="965,213,1036,240"/>
+<area shape="rect" id="node18" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="891,95,1028,121"/>
+<area shape="rect" id="node19" href="$classMatrix1D.html" title="Matrix1D\&lt; int \&gt;" alt="" coords="1052,95,1165,121"/>
+</map>

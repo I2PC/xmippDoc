@@ -1,0 +1,15 @@
+<map id="MpiProgReconstructSignificant" name="MpiProgReconstructSignificant">
+<area shape="rect" id="node2" href="$classProgReconstructSignificant.html" title="ProgReconstructSignificant" alt="" coords="370,453,551,480"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="200,326,308,353"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="171,199,263,225"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="56,95,135,121"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,5,183,32"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="224,95,324,121"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="369,326,448,353"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="287,199,349,225"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="416,199,495,225"/>
+<area shape="rect" id="node13" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="600,326,764,353"/>
+<area shape="rect" id="node14" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="616,199,748,225"/>
+<area shape="rect" id="node15" href="$classMpiNode.html" title="MpiNode" alt="" coords="575,453,650,480"/>
+</map>

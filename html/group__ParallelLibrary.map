@@ -1,0 +1,10 @@
+<map id="Parallel library" name="Parallel library">
+<area shape="rect" id="node1" href="$group__MpiProgVolumeHomogenizer.html" title="(MPI)" alt="" coords="484,5,539,32"/>
+<area shape="rect" id="node2" href="$group__MpiProgAngularAccuracyPCA.html" title="Determine the angular\l determination accuracy\l of a set of particles\l and a 3D reconstruction (MPI)" alt="" coords="411,57,612,127"/>
+<area shape="rect" id="node4" href="$group__Threads.html" title="Threads" alt="" coords="477,152,546,179"/>
+<area shape="rect" id="node5" href="$group__MpiProgValidationNonTilt.html" title="validate a volume analyzing\l the clusterability of each\l projection image (MPI)" alt="" coords="420,203,603,259"/>
+<area shape="rect" id="node6" href="$group__MPIReconstructSignificant.html" title="Reconstruct multiple\l volumes analyzing significant\l correlations (MPI)" alt="" coords="413,283,610,339"/>
+<area shape="rect" id="node7" href="$group__MPIReconstructADMM.html" title="Reconstruct using ADMM\l (MPI)" alt="" coords="425,362,598,403"/>
+<area shape="rect" id="node9" href="$group__MPI.html" title="MPI" alt="" coords="488,428,535,455"/>
+<area shape="rect" id="node8" href="$group__Libraries.html" title="Libraries" alt="" coords="5,196,76,223"/>
+</map>

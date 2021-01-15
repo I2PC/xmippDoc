@@ -1,0 +1,13 @@
+<map id="MpiProgVolumeHomogenizer" name="MpiProgVolumeHomogenizer">
+<area shape="rect" id="node2" href="$classProgVolumeHomogenizer.html" title="ProgVolumeHomogenizer" alt="" coords="277,424,447,451"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="175,319,283,345"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="171,199,263,225"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="56,95,135,121"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="109,5,183,32"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="224,95,324,121"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="323,319,401,345"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="287,199,349,225"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="416,199,495,225"/>
+<area shape="rect" id="node13" href="$classMpiNode.html" title="MpiNode" alt="" coords="471,424,546,451"/>
+</map>

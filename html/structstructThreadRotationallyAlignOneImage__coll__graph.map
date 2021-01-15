@@ -1,0 +1,21 @@
+<map id="structThreadRotationallyAlignOneImage" name="structThreadRotationallyAlignOneImage">
+<area shape="rect" id="node2" href="$classProgAngularProjectionMatching.html" title="ProgAngularProjectionMatching" alt="" coords="1028,393,1232,420"/>
+<area shape="rect" id="node3" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="760,111,868,137"/>
+<area shape="rect" id="node4" href="$classProgramDef.html" title="ProgramDef" alt="" coords="485,95,577,121"/>
+<area shape="rect" id="node5" href="$classASTNode.html" title="ASTNode" alt="" coords="205,44,284,71"/>
+<area shape="rect" id="node6" href="$classArgToken.html" title="ArgToken" alt="" coords="5,19,84,45"/>
+<area shape="rect" id="node7" href="$classArgLexer.html" title="ArgLexer" alt="" coords="7,69,82,96"/>
+<area shape="rect" id="node8" href="$classCommentList.html" title="CommentList" alt="" coords="195,95,295,121"/>
+<area shape="rect" id="node9" href="$classMetaData.html" title="MetaData" alt="" coords="775,321,853,348"/>
+<area shape="rect" id="node10" href="$classMDSql.html" title="MDSql" alt="" coords="500,400,563,427"/>
+<area shape="rect" id="node11" href="$classFileName.html" title="FileName" alt="" coords="492,287,571,313"/>
+<area shape="rect" id="node14" href="$classPolar.html" title="Polar\&lt; std::complex\l\&lt; double \&gt; \&gt;" alt="" coords="745,373,883,414"/>
+<area shape="rect" id="node18" href="$classSampling.html" title="Sampling" alt="" coords="776,164,852,191"/>
+<area shape="rect" id="node13" href="$structmybarrier__t.html" title="mybarrier_t" alt="" coords="771,439,857,465"/>
+<area shape="rect" id="node15" href="$classPolar__fftw__plans.html" title="Polar_fftw_plans" alt="" coords="755,489,873,516"/>
+<area shape="rect" id="node16" href="$classMultidimArray.html" title="MultidimArray\&lt; double \&gt;" alt="" coords="732,565,896,592"/>
+<area shape="rect" id="node17" href="$classMultidimArrayBase.html" title="MultidimArrayBase" alt="" coords="465,565,597,592"/>
+<area shape="rect" id="node19" href="$classSymList.html" title="SymList" alt="" coords="496,169,567,196"/>
+<area shape="rect" id="node20" href="$classMatrix2D.html" title="Matrix2D\&lt; double \&gt;" alt="" coords="176,169,313,196"/>
+<area shape="rect" id="node21" href="$classMatrix1D.html" title="Matrix1D\&lt; int \&gt;" alt="" coords="188,220,301,247"/>
+</map>
