@@ -1,0 +1,25 @@
+<map id="xmipp/libraries/parallel/mpi_classify_CL2D_core_analysis.cpp" name="xmipp/libraries/parallel/mpi_classify_CL2D_core_analysis.cpp">
+<area shape="rect" id="node2" href="$mpi__classify__CL2D__core__analysis_8h.html" title="mpi_classify_CL2D_core\l_analysis.h" alt="" coords="1077,109,1245,151"/>
+<area shape="rect" id="node48" href="$analyze__cluster_8h.html" title="classification/analyze\l_cluster.h" alt="" coords="1267,199,1414,240"/>
+<area shape="rect" id="node3" href="$xmipp__mpi_8h.html" title="parallel/xmipp_mpi.h" alt="" coords="279,206,421,233"/>
+<area shape="rect" id="node19" href="$metadata_8h.html" title="metadata.h" alt="" coords="1019,587,1105,613"/>
+<area shape="rect" id="node10" href="$xmipp__threads_8h.html" title="core/xmipp_threads.h" alt="" coords="46,288,193,315"/>
+<area shape="rect" id="node12" href="$xmipp__program_8h.html" title="core/xmipp_program.h" alt="" coords="403,288,553,315"/>
+<area shape="rect" id="node13" href="$argsprinter_8h.html" title="argsprinter.h" alt="" coords="528,363,623,389"/>
+<area shape="rect" id="node14" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="646,885,747,912"/>
+<area shape="rect" id="node15" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="526,960,641,987"/>
+<area shape="rect" id="node41" href="$xmipp__image_8h.html" title="xmipp_image.h" alt="" coords="647,363,757,389"/>
+<area shape="rect" id="node47" href="$xmipp__program__sql_8h.html" title="xmipp_program_sql.h" alt="" coords="405,437,551,464"/>
+<area shape="rect" id="node27" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="1611,811,1718,837"/>
+<area shape="rect" id="node38" href="$metadata__sql_8h.html" title="metadata_sql.h" alt="" coords="759,661,869,688"/>
+<area shape="rect" id="node32" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="1847,885,1971,912"/>
+<area shape="rect" id="node34" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="1605,885,1724,912"/>
+<area shape="rect" id="node40" href="$metadata__label_8h.html" title="metadata_label.h" alt="" coords="1161,736,1283,763"/>
+<area shape="rect" id="node42" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="719,512,864,539"/>
+<area shape="rect" id="node43" href="$multidim__array_8h.html" title="multidim_array.h" alt="" coords="592,587,711,613"/>
+<area shape="rect" id="node45" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="740,437,899,464"/>
+<area shape="rect" id="node46" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="316,587,419,613"/>
+<area shape="rect" id="node44" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="503,661,632,688"/>
+<area shape="rect" id="node49" href="$metadata__extension_8h.html" title="core/metadata_extension.h" alt="" coords="1421,288,1599,315"/>
+<area shape="rect" id="node50" href="$basic__pca_8h.html" title="data/basic_pca.h" alt="" coords="1300,512,1421,539"/>
+</map>
