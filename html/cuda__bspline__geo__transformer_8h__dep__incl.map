@@ -1,7 +1,0 @@
-<map id="xmipp/libraries/reconstruction_cuda/cuda_bspline_geo_transformer.h" name="xmipp/libraries/reconstruction_cuda/cuda_bspline_geo_transformer.h">
-<area shape="rect" id="node2" href="$test__cuda__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_iterative_alignment\l_estimator.cpp" alt="" coords="5,95,204,165"/>
-<area shape="rect" id="node3" href="$align__significant__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.h" alt="" coords="229,109,461,151"/>
-<area shape="rect" id="node6" href="$cuda__bspline__geo__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_bspline_geo_transformer.cpp" alt="" coords="485,109,748,151"/>
-<area shape="rect" id="node4" href="$cuda__align__significant_8cpp.html" title="xmipp/applications\l/programs/cuda_align\l_significant/cuda_align\l_significant.cpp" alt="" coords="155,213,310,284"/>
-<area shape="rect" id="node5" href="$align__significant__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.cpp" alt="" coords="333,228,580,269"/>
-</map>
