@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classFeature.html" title="Feature" alt="" coords="5,81,72,108"/>
+<area shape="rect" id="node2" href="$classBlob.html" title="Blob" alt="" coords="157,5,205,32"/>
+<area shape="rect" id="node3" href="$classGaussian.html" title="Gaussian" alt="" coords="143,56,220,83"/>
+<area shape="rect" id="node4" href="$classOriented__Feature.html" title="Oriented_Feature" alt="" coords="120,107,243,133"/>
+<area shape="rect" id="node10" href="$classSphere.html" title="Sphere" alt="" coords="150,157,213,184"/>
+<area shape="rect" id="node5" href="$classCone.html" title="Cone" alt="" coords="304,5,357,32"/>
+<area shape="rect" id="node6" href="$classCube.html" title="Cube" alt="" coords="304,56,357,83"/>
+<area shape="rect" id="node7" href="$classCylinder.html" title="Cylinder" alt="" coords="295,107,366,133"/>
+<area shape="rect" id="node8" href="$classDCylinder.html" title="DCylinder" alt="" coords="291,157,371,184"/>
+<area shape="rect" id="node9" href="$classEllipsoid.html" title="Ellipsoid" alt="" coords="295,208,366,235"/>
+</map>
