@@ -1,0 +1,13 @@
+<map id="XmippMpiProgram" name="XmippMpiProgram">
+<area shape="rect" id="node3" href="$classMpiMetadataProgram.html" title="MpiMetadataProgram" alt="" coords="363,101,510,127"/>
+<area shape="rect" id="node8" href="$classMpiProgAngularClassAverage.html" title="MpiProgAngularClassAverage" alt="" coords="339,151,535,178"/>
+<area shape="rect" id="node9" href="$classProgMPIRecFourier.html" title="ProgMPIRecFourier" alt="" coords="368,202,505,229"/>
+<area shape="rect" id="node10" href="$classProgMPIRecFourierAccel.html" title="ProgMPIRecFourierAccel" alt="" coords="351,253,522,279"/>
+<area shape="rect" id="node11" href="$classProgMPIRecFourierGPU.html" title="ProgMPIRecFourierGPU" alt="" coords="353,303,520,330"/>
+<area shape="rect" id="node12" href="$classProgMPIReconsArt.html" title="ProgMPIReconsArt" alt="" coords="369,354,504,381"/>
+<area shape="rect" id="node2" href="$classXmippProgram.html" title="XmippProgram" alt="" coords="5,227,113,254"/>
+<area shape="rect" id="node4" href="$classMpiProgAngularContinuousAssign2.html" title="MpiProgAngularContinuous\lAssign2" alt="" coords="590,5,770,47"/>
+<area shape="rect" id="node5" href="$classMpiProgAngularSphAlignment.html" title="MpiProgAngularSphAlignment" alt="" coords="583,71,777,98"/>
+<area shape="rect" id="node6" href="$classMpiProgTransformImageGreyLevels.html" title="MpiProgTransformImageGrey\lLevels" alt="" coords="583,123,777,164"/>
+<area shape="rect" id="node7" href="$classProgMPIRecWbp.html" title="ProgMPIRecWbp" alt="" coords="618,189,742,215"/>
+</map>
