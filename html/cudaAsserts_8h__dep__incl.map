@@ -1,0 +1,30 @@
+<map id="cuFFTAdvisor/cudaAsserts.h" name="cuFFTAdvisor/cudaAsserts.h">
+<area shape="rect" id="node2" href="$cudaUtils_8h.html" title="cuFFTAdvisor/cudaUtils.h" alt="" coords="479,87,654,114"/>
+<area shape="rect" id="node13" href="$cudaAsserts_8cpp.html" title="cuFFTAdvisor/cudaAsserts.cpp" alt="" coords="1285,87,1491,114"/>
+<area shape="rect" id="node14" href="$cuda__asserts_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_asserts.h" alt="" coords="2240,80,2432,121"/>
+<area shape="rect" id="node3" href="$benchmarker_8h.html" title="cuFFTAdvisor/benchmarker.h" alt="" coords="221,184,416,211"/>
+<area shape="rect" id="node11" href="$validator_8h.html" title="cuFFTAdvisor/validator.h" alt="" coords="483,184,651,211"/>
+<area shape="rect" id="node4" href="$advisor_8h.html" title="cuFFTAdvisor/advisor.h" alt="" coords="451,363,613,389"/>
+<area shape="rect" id="node8" href="$sizeOptimizer_8h.html" title="cuFFTAdvisor/sizeOptimizer.h" alt="" coords="13,281,211,307"/>
+<area shape="rect" id="node10" href="$benchmarker_8cpp.html" title="cuFFTAdvisor/benchmarker.cpp" alt="" coords="285,281,493,307"/>
+<area shape="rect" id="node5" href="$advisor_8cpp.html" title="cuFFTAdvisor/advisor.cpp" alt="" coords="541,445,715,471"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="cuFFTAdvisor/main.cpp" alt="" coords="355,445,517,471"/>
+<area shape="rect" id="node7" href="$cuda__fft_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_fft.cpp" alt="" coords="2236,437,2428,479"/>
+<area shape="rect" id="node9" href="$sizeOptimizer_8cpp.html" title="cuFFTAdvisor/sizeOptimizer.cpp" alt="" coords="5,363,219,389"/>
+<area shape="rect" id="node12" href="$validator_8cpp.html" title="cuFFTAdvisor/validator.cpp" alt="" coords="518,281,701,307"/>
+<area shape="rect" id="node15" href="$cuda__bspline__geo__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_bspline_geo_transformer.cpp" alt="" coords="3866,177,4129,218"/>
+<area shape="rect" id="node16" href="$cuda__cdf_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_cdf.cpp" alt="" coords="675,177,867,218"/>
+<area shape="rect" id="node17" href="$cuda__correlation__computer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_correlation_computer.cpp" alt="" coords="891,177,1133,218"/>
+<area shape="rect" id="node18" href="$cuda__gpu__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_correlation.cpp" alt="" coords="1158,177,1367,218"/>
+<area shape="rect" id="node19" href="$cuda__xmipp__utils_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_xmipp_utils.cpp" alt="" coords="1392,177,1584,218"/>
+<area shape="rect" id="node21" href="$cuda__gpu__geo__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_transformer.cpp" alt="" coords="1608,177,1851,218"/>
+<area shape="rect" id="node22" href="$cuda__gpu__movie__alignment__correlation_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_movie_alignment\l_correlation.cpp" alt="" coords="1875,169,2098,225"/>
+<area shape="rect" id="node23" href="$cuda__gpu__reconstruct__fourier_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_reconstruct\l_fourier.cpp" alt="" coords="2123,169,2315,225"/>
+<area shape="rect" id="node24" href="$cuda__rot__polar__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_rot_polar_estimator.cpp" alt="" coords="2339,177,2571,218"/>
+<area shape="rect" id="node25" href="$cuda__shift__corr__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_shift_corr_estimator.cpp" alt="" coords="2595,177,2831,218"/>
+<area shape="rect" id="node26" href="$cuda__single__extrema__finder_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_single_extrema\l_finder.cpp" alt="" coords="2856,169,3048,225"/>
+<area shape="rect" id="node27" href="$cuda__volume__halves__restorator_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_volume_halves_restorator.cpp" alt="" coords="3073,177,3343,218"/>
+<area shape="rect" id="node28" href="$cuda__volume__restoration__kernels_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_volume_restoration\l_kernels.cpp" alt="" coords="3367,169,3574,225"/>
+<area shape="rect" id="node29" href="$gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/gpu.cpp" alt="" coords="3599,177,3791,218"/>
+<area shape="rect" id="node20" href="$cuda__gpu__geo__shift__transformer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_geo_shift_transformer.cpp" alt="" coords="1351,273,1625,315"/>
+</map>

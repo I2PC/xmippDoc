@@ -1,0 +1,12 @@
+<map id="cuFFTAdvisor/cudaUtils.h" name="cuFFTAdvisor/cudaUtils.h">
+<area shape="rect" id="node2" href="$benchmarker_8h.html" title="cuFFTAdvisor/benchmarker.h" alt="" coords="276,80,471,107"/>
+<area shape="rect" id="node10" href="$validator_8h.html" title="cuFFTAdvisor/validator.h" alt="" coords="527,80,695,107"/>
+<area shape="rect" id="node3" href="$advisor_8h.html" title="cuFFTAdvisor/advisor.h" alt="" coords="401,229,562,256"/>
+<area shape="rect" id="node7" href="$sizeOptimizer_8h.html" title="cuFFTAdvisor/sizeOptimizer.h" alt="" coords="13,155,211,181"/>
+<area shape="rect" id="node9" href="$benchmarker_8cpp.html" title="cuFFTAdvisor/benchmarker.cpp" alt="" coords="236,155,444,181"/>
+<area shape="rect" id="node4" href="$advisor_8cpp.html" title="cuFFTAdvisor/advisor.cpp" alt="" coords="202,311,377,338"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="cuFFTAdvisor/main.cpp" alt="" coords="401,311,562,338"/>
+<area shape="rect" id="node6" href="$cuda__fft_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_fft.cpp" alt="" coords="587,304,779,345"/>
+<area shape="rect" id="node8" href="$sizeOptimizer_8cpp.html" title="cuFFTAdvisor/sizeOptimizer.cpp" alt="" coords="5,229,219,256"/>
+<area shape="rect" id="node11" href="$validator_8cpp.html" title="cuFFTAdvisor/validator.cpp" alt="" coords="519,155,702,181"/>
+</map>
