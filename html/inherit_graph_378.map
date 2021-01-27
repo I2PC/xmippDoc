@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMDQuery.html" title="MDQuery" alt="" coords="5,81,84,108"/>
+<area shape="rect" id="node2" href="$classMDExpression.html" title="MDExpression" alt="" coords="145,5,253,32"/>
+<area shape="rect" id="node3" href="$classMDMultiQuery.html" title="MDMultiQuery" alt="" coords="146,56,253,83"/>
+<area shape="rect" id="node4" href="$classMDValueRange.html" title="MDValueRange" alt="" coords="142,107,257,133"/>
+<area shape="rect" id="node5" href="$classMDValueRelational.html" title="MDValueRelational" alt="" coords="132,157,267,184"/>
+<area shape="rect" id="node6" href="$classMDValueEQ.html" title="MDValueEQ" alt="" coords="315,31,409,57"/>
+<area shape="rect" id="node7" href="$classMDValueGE.html" title="MDValueGE" alt="" coords="315,81,409,108"/>
+<area shape="rect" id="node8" href="$classMDValueGT.html" title="MDValueGT" alt="" coords="315,132,409,159"/>
+<area shape="rect" id="node9" href="$classMDValueLE.html" title="MDValueLE" alt="" coords="316,183,408,209"/>
+<area shape="rect" id="node10" href="$classMDValueLT.html" title="MDValueLT" alt="" coords="317,233,407,260"/>
+<area shape="rect" id="node11" href="$classMDValueNE.html" title="MDValueNE" alt="" coords="315,284,409,311"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="xmipp/libraries/reconstruction_cuda/cuda_gpu_reconstruct_fourier.h" name="xmipp/libraries/reconstruction_cuda/cuda_gpu_reconstruct_fourier.h">
+<area shape="rect" id="node2" href="$reconstruct__fourier__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/reconstruct_fourier_gpu.h" alt="" coords="187,117,434,158"/>
+<area shape="rect" id="node8" href="$cuda__gpu__reconstruct__fourier_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_gpu_reconstruct\l_fourier.cpp" alt="" coords="459,109,651,165"/>
+<area shape="rect" id="node3" href="$cuda__reconstruct__fourier__main_8cpp.html" title="xmipp/applications\l/programs/cuda_reconstruct\l_fourier/cuda_reconstruct\l_fourier_main.cpp" alt="" coords="5,213,189,284"/>
+<area shape="rect" id="node4" href="$mpi__reconstruct__fourier__gpu_8h.html" title="xmipp/libraries/parallel\l_adapt_cuda/mpi_reconstruct\l_fourier_gpu.h" alt="" coords="214,221,407,277"/>
+<area shape="rect" id="node7" href="$reconstruct__fourier__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/reconstruct_fourier_gpu.cpp" alt="" coords="432,228,693,269"/>
+<area shape="rect" id="node5" href="$mpi__cuda__reconstruct__fourier__main_8cpp.html" title="xmipp/applications\l/programs/mpi_cuda_reconstruct\l_fourier/mpi_cuda_reconstruct\l_fourier_main.cpp" alt="" coords="91,332,303,403"/>
+<area shape="rect" id="node6" href="$mpi__reconstruct__fourier__gpu_8cpp.html" title="xmipp/libraries/parallel\l_adapt_cuda/mpi_reconstruct\l_fourier_gpu.cpp" alt="" coords="327,339,521,395"/>
+</map>
