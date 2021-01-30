@@ -1,0 +1,21 @@
+<map id="xmipp/applications/tests/function_tests/test_polynomials_main.cpp" name="xmipp/applications/tests/function_tests/test_polynomials_main.cpp">
+<area shape="rect" id="node2" href="$xmipp__polynomials_8h.html" title="data/xmipp_polynomials.h" alt="" coords="663,259,836,285"/>
+<area shape="rect" id="node3" href="$multidim__array_8h.html" title="core/multidim_array.h" alt="" coords="999,333,1145,360"/>
+<area shape="rect" id="node10" href="$matrix1d_8h.html" title="matrix1d.h" alt="" coords="697,483,780,509"/>
+<area shape="rect" id="node26" href="$matrix2d_8h.html" title="matrix2d.h" alt="" coords="480,408,563,435"/>
+<area shape="rect" id="node31" href="$xmipp__image_8h.html" title="core/xmipp_image.h" alt="" coords="1004,109,1143,136"/>
+<area shape="rect" id="node36" href="$xmipp__fft_8h.html" title="core/xmipp_fft.h" alt="" coords="861,259,977,285"/>
+<area shape="rect" id="node37" href="$gtest_8h.html" title="gtest/gtest.h" alt="" coords="1445,632,1539,659"/>
+<area shape="rect" id="node4" href="$tsplinebasis_8h.html" title="bilib/tsplinebasis.h" alt="" coords="1007,408,1137,435"/>
+<area shape="rect" id="node5" href="$kernel_8h.html" title="bilib/kernel.h" alt="" coords="1161,408,1255,435"/>
+<area shape="rect" id="node6" href="$xmipp__strings_8h.html" title="xmipp_strings.h" alt="" coords="625,707,740,733"/>
+<area shape="rect" id="node14" href="$xmipp__funcs_8h.html" title="xmipp_funcs.h" alt="" coords="673,557,780,584"/>
+<area shape="rect" id="node25" href="$numerical__recipes_8h.html" title="numerical_recipes.h" alt="" coords="460,557,599,584"/>
+<area shape="rect" id="node18" href="$xmipp__filename_8h.html" title="xmipp_filename.h" alt="" coords="407,632,531,659"/>
+<area shape="rect" id="node22" href="$xmipp__macros_8h.html" title="xmipp_macros.h" alt="" coords="161,632,279,659"/>
+<area shape="rect" id="node23" href="$xmipp__error_8h.html" title="xmipp_error.h" alt="" coords="705,632,807,659"/>
+<area shape="rect" id="node28" href="$linearalgebra_8h.html" title="bilib/linearalgebra.h" alt="" coords="331,483,464,509"/>
+<area shape="rect" id="node32" href="$xmipp__image__base_8h.html" title="xmipp_image_base.h" alt="" coords="1001,259,1146,285"/>
+<area shape="rect" id="node33" href="$xmipp__image__generic_8h.html" title="xmipp_image_generic.h" alt="" coords="994,184,1153,211"/>
+<area shape="rect" id="node34" href="$xmipp__color_8h.html" title="xmipp_color.h" alt="" coords="1305,632,1407,659"/>
+</map>
