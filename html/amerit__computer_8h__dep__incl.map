@@ -1,0 +1,14 @@
+<map id="xmipp/libraries/reconstruction/amerit_computer.h" name="xmipp/libraries/reconstruction/amerit_computer.h">
+<area shape="rect" id="node2" href="$aiterative__alignment__tests_8h.html" title="xmipp/applications\l/tests/function_tests\l/aiterative_alignment\l_tests.h" alt="" coords="244,184,387,255"/>
+<area shape="rect" id="node5" href="$correlation__computer_8h.html" title="xmipp/libraries/reconstruction\l/correlation_computer.h" alt="" coords="27,95,219,136"/>
+<area shape="rect" id="node7" href="$iterative__alignment__estimator_8h.html" title="xmipp/libraries/reconstruction\l/iterative_alignment_estimator.h" alt="" coords="401,95,608,136"/>
+<area shape="rect" id="node12" href="$cuda__correlation__computer_8h.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_correlation_computer.h" alt="" coords="679,95,907,136"/>
+<area shape="rect" id="node3" href="$test__cuda__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_cuda_iterative_alignment\l_estimator.cpp" alt="" coords="257,303,456,373"/>
+<area shape="rect" id="node4" href="$test__iterative__alignment__estimator_8cpp.html" title="xmipp/applications\l/tests/function_tests\l/test_iterative_alignment\l_estimator.cpp" alt="" coords="9,303,173,373"/>
+<area shape="rect" id="node6" href="$correlation__computer_8cpp.html" title="xmipp/libraries/reconstruction\l/correlation_computer.cpp" alt="" coords="27,199,219,240"/>
+<area shape="rect" id="node8" href="$iterative__alignment__estimator_8cpp.html" title="xmipp/libraries/reconstruction\l/iterative_alignment_estimator.cpp" alt="" coords="411,199,633,240"/>
+<area shape="rect" id="node9" href="$align__significant__gpu_8h.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.h" alt="" coords="707,199,939,240"/>
+<area shape="rect" id="node10" href="$cuda__align__significant_8cpp.html" title="xmipp/applications\l/programs/cuda_align\l_significant/cuda_align\l_significant.cpp" alt="" coords="633,303,787,373"/>
+<area shape="rect" id="node11" href="$align__significant__gpu_8cpp.html" title="xmipp/libraries/reconstruction\l_adapt_cuda/align_significant_gpu.cpp" alt="" coords="812,317,1059,359"/>
+<area shape="rect" id="node13" href="$cuda__correlation__computer_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_correlation_computer.cpp" alt="" coords="963,199,1206,240"/>
+</map>
