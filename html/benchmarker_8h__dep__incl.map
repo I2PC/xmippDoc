@@ -1,9 +1,0 @@
-<map id="cuFFTAdvisor/benchmarker.h" name="cuFFTAdvisor/benchmarker.h">
-<area shape="rect" id="node2" href="$advisor_8h.html" title="cuFFTAdvisor/advisor.h" alt="" coords="204,155,365,181"/>
-<area shape="rect" id="node6" href="$sizeOptimizer_8h.html" title="cuFFTAdvisor/sizeOptimizer.h" alt="" coords="321,80,520,107"/>
-<area shape="rect" id="node8" href="$benchmarker_8cpp.html" title="cuFFTAdvisor/benchmarker.cpp" alt="" coords="545,80,753,107"/>
-<area shape="rect" id="node3" href="$advisor_8cpp.html" title="cuFFTAdvisor/advisor.cpp" alt="" coords="5,237,180,263"/>
-<area shape="rect" id="node4" href="$main_8cpp.html" title="cuFFTAdvisor/main.cpp" alt="" coords="204,237,365,263"/>
-<area shape="rect" id="node5" href="$cuda__fft_8cpp.html" title="xmipp/libraries/reconstruction\l_cuda/cuda_fft.cpp" alt="" coords="390,229,582,271"/>
-<area shape="rect" id="node7" href="$sizeOptimizer_8cpp.html" title="cuFFTAdvisor/sizeOptimizer.cpp" alt="" coords="390,155,603,181"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="xmippCore/core/alglib/optimization.cpp" name="xmippCore/core/alglib/optimization.cpp">
-<area shape="rect" id="node2" href="$stdafx_8h.html" title="stdafx.h" alt="" coords="307,95,376,121"/>
-<area shape="rect" id="node3" href="$optimization_8h.html" title="optimization.h" alt="" coords="401,95,503,121"/>
-<area shape="rect" id="node4" href="$ap_8h.html" title="ap.h" alt="" coords="402,468,449,495"/>
-<area shape="rect" id="node15" href="$alglibinternal_8h.html" title="alglibinternal.h" alt="" coords="463,393,569,420"/>
-<area shape="rect" id="node16" href="$linalg_8h.html" title="linalg.h" alt="" coords="351,244,414,271"/>
-<area shape="rect" id="node17" href="$alglibmisc_8h.html" title="alglibmisc.h" alt="" coords="425,319,516,345"/>
-<area shape="rect" id="node18" href="$solvers_8h.html" title="solvers.h" alt="" coords="489,169,564,196"/>
-</map>
