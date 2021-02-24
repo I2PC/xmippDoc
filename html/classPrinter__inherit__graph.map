@@ -1,7 +1,0 @@
-<map id="Printer" name="Printer">
-<area shape="rect" id="node2" href="$classAutocompletePrinter.html" title="AutocompletePrinter" alt="" coords="5,80,145,107"/>
-<area shape="rect" id="node3" href="$classConsolePrinter.html" title="ConsolePrinter" alt="" coords="169,80,277,107"/>
-<area shape="rect" id="node4" href="$classProgramDb.html" title="ProgramDb" alt="" coords="302,80,390,107"/>
-<area shape="rect" id="node5" href="$classTkPrinter.html" title="TkPrinter" alt="" coords="414,80,489,107"/>
-<area shape="rect" id="node6" href="$classWikiPrinter.html" title="WikiPrinter" alt="" coords="513,80,600,107"/>
-</map>
