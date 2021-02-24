@@ -1,0 +1,46 @@
+digraph "ThreadComputeTransformParams"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ThreadComputeTransformParams",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node2 [label="ProgTomographAlignment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classProgTomographAlignment.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XmippProgram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXmippProgram.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" progDef" ,fontname="Helvetica"];
+  Node4 [label="ProgramDef",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classProgramDef.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ASTNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classASTNode.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" token" ,fontname="Helvetica"];
+  Node6 [label="ArgToken",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgToken.html"];
+  Node7 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pLexer" ,fontname="Helvetica"];
+  Node7 [label="ArgLexer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgLexer.html"];
+  Node5 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" usageComments\nexamples" ,fontname="Helvetica"];
+  Node8 [label="CommentList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCommentList.html"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" bestPreviousAlignment" ,fontname="Helvetica"];
+  Node9 [label="Alignment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAlignment.html"];
+  Node2 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prm" ,fontname="Helvetica"];
+  Node10 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" allLandmarksPredictedY\nallLandmarksPredictedX\nBinvraxis" ,fontname="Helvetica"];
+  Node10 [label="Matrix2D\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix2D.html"];
+  Node11 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" psi\nraxis" ,fontname="Helvetica"];
+  Node11 [label="Matrix1D\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix1D.html"];
+  Node12 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" errorLandmark" ,fontname="Helvetica"];
+  Node12 [label="MultidimArray\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="MultidimArrayBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArrayBase.html"];
+  Node14 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" SF\nSForig" ,fontname="Helvetica"];
+  Node14 [label="MetaData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMetaData.html"];
+  Node15 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" myMDSql" ,fontname="Helvetica"];
+  Node15 [label="MDSql",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMDSql.html"];
+  Node16 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" eFilename\ninFile" ,fontname="Helvetica"];
+  Node16 [label="FileName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFileName.html"];
+  Node17 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="String",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" allLandmarksX\nallLandmarksY" ,fontname="Helvetica"];
+  Node11 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" avgBackwardPatchCorr\navgForwardPatchCorr" ,fontname="Helvetica"];
+  Node18 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" ni\nisOutlier" ,fontname="Helvetica"];
+  Node18 [label="Matrix1D\< int \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix1D.html"];
+  Node16 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fnRoot\nfnSel\nfnSelOrig" ,fontname="Helvetica"];
+}
