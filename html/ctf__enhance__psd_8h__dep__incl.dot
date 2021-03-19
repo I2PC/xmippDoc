@@ -1,0 +1,18 @@
+digraph "xmipp/libraries/reconstruction/ctf_enhance_psd.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node16 [label="xmipp/libraries/reconstruction\l/ctf_enhance_psd.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node16 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="xmipp/applications\l/programs/ctf_enhance\l_psd/ctf_enhance_psd_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__enhance__psd__main_8cpp.html"];
+  Node16 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="xmipp/bindings/matlab\l/tom_xmipp_psd_enhance.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tom__xmipp__psd__enhance_8cpp.html"];
+  Node16 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="xmipp/libraries/reconstruction\l/ctf_enhance_psd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__enhance__psd_8cpp.html"];
+  Node16 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="xmipp/libraries/reconstruction\l/ctf_estimate_from_micrograph.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__estimate__from__micrograph_8cpp.html"];
+  Node16 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="xmipp/libraries/reconstruction\l/ctf_estimate_from_psd_base.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__estimate__from__psd__base_8cpp.html"];
+  Node16 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="xmipp/libraries/reconstruction\l/ctf_sort_psds.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ctf__sort__psds_8cpp.html"];
+}
