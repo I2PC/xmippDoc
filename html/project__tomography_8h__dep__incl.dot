@@ -1,0 +1,10 @@
+digraph "xmipp/libraries/reconstruction/project_tomography.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node69 [label="xmipp/libraries/reconstruction\l/project_tomography.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node69 -> Node70 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node70 [label="xmipp/applications\l/programs/tomo_project\l/tomo_project_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tomo__project__main_8cpp.html"];
+  Node69 -> Node71 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node71 [label="xmipp/libraries/reconstruction\l/project_tomography.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$project__tomography_8cpp.html"];
+}
