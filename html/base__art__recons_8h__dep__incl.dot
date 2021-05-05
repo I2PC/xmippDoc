@@ -1,0 +1,18 @@
+digraph "xmipp/libraries/reconstruction/base_art_recons.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node77 [label="xmipp/libraries/reconstruction\l/base_art_recons.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node77 -> Node78 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node78 [label="xmipp/libraries/parallel\l/mpi_reconstruct_art.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__reconstruct__art_8cpp.html"];
+  Node77 -> Node79 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node79 [label="xmipp/libraries/reconstruction\l/art_crystal.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$art__crystal_8h.html"];
+  Node79 -> Node80 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="xmipp/libraries/reconstruction\l/art_crystal.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$art__crystal_8cpp.html"];
+  Node79 -> Node81 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="xmipp/libraries/reconstruction\l/project_crystal.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$project__crystal_8cpp.html"];
+  Node79 -> Node82 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 [label="xmipp/libraries/reconstruction\l/reconstruct_art.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$reconstruct__art_8cpp.html"];
+  Node77 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="xmipp/libraries/reconstruction\l/base_art_recons.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$base__art__recons_8cpp.html"];
+}
