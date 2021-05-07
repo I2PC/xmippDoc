@@ -1,0 +1,38 @@
+digraph "xmipp/libraries/reconstruction/ml2d.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node89 [label="xmipp/libraries/reconstruction\l/ml2d.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node89 -> Node90 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node90 [label="xmipp/libraries/reconstruction\l/ml2d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ml2d_8cpp.html"];
+  Node89 -> Node91 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node91 [label="xmipp/libraries/reconstruction\l/ml_align2d.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ml__align2d_8h.html"];
+  Node91 -> Node92 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node92 [label="xmipp/applications\l/programs/ml_align2d\l/ml_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ml__align2d__main_8cpp.html"];
+  Node91 -> Node93 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node93 [label="xmipp/libraries/parallel\l/mpi_ml_align2d.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d_8h.html"];
+  Node93 -> Node94 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node94 [label="xmipp/applications\l/programs/mpi_ml_align2d\l/mpi_ml_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d__main_8cpp.html"];
+  Node93 -> Node95 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node95 [label="xmipp/applications\l/programs/mpi_ml_refine3d\l/mpi_ml_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__refine3d__main_8cpp.html"];
+  Node93 -> Node96 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node96 [label="xmipp/applications\l/programs/mpi_ml_tomo\l/mpi_ml_tomo_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__tomo__main_8cpp.html"];
+  Node93 -> Node97 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node97 [label="xmipp/applications\l/programs/mpi_mlf_align2d\l/mpi_mlf_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__mlf__align2d__main_8cpp.html"];
+  Node93 -> Node98 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node98 [label="xmipp/applications\l/programs/mpi_mlf_refine3d\l/mpi_mlf_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__mlf__refine3d__main_8cpp.html"];
+  Node93 -> Node99 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node99 [label="xmipp/libraries/parallel\l/mpi_ml_align2d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d_8cpp.html"];
+  Node91 -> Node100 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node100 [label="xmipp/libraries/reconstruction\l/ml_align2d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ml__align2d_8cpp.html"];
+  Node91 -> Node101 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node101 [label="xmipp/libraries/reconstruction\l/ml_refine3d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ml__refine3d_8cpp.html"];
+  Node89 -> Node102 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node102 [label="xmipp/libraries/reconstruction\l/mlf_align2d.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mlf__align2d_8h.html"];
+  Node102 -> Node103 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node103 [label="xmipp/applications\l/programs/mlf_align2d\l/mlf_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mlf__align2d__main_8cpp.html"];
+  Node102 -> Node93 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node102 -> Node101 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node102 -> Node104 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node104 [label="xmipp/libraries/reconstruction\l/mlf_align2d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mlf__align2d_8cpp.html"];
+}
