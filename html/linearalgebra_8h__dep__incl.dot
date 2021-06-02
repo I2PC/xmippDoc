@@ -1,0 +1,12 @@
+digraph "xmippCore/core/bilib/linearalgebra.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="xmippCore/core/bilib\l/linearalgebra.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="xmipp/libraries/reconstruction\l/angular_continuous_assign.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$angular__continuous__assign_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="xmipp/libraries/reconstruction\l/flexible_alignment.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$flexible__alignment_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="xmippCore/core/matrix2d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$matrix2d_8cpp.html"];
+}
