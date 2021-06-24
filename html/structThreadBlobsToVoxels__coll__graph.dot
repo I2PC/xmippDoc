@@ -1,0 +1,19 @@
+digraph "ThreadBlobsToVoxels"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="ThreadBlobsToVoxels",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" blob" ,fontname="Helvetica"];
+  Node2 [label="blobtype",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structblobtype.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" D" ,fontname="Helvetica"];
+  Node3 [label="Matrix2D\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix2D.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" vol_voxels\nvol_mask\nvol_blobs\nvol_corr" ,fontname="Helvetica"];
+  Node4 [label="MultidimArray\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="MultidimArrayBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArrayBase.html"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" grid" ,fontname="Helvetica"];
+  Node6 [label="SimpleGrid",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSimpleGrid.html"];
+  Node3 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" basis\ninv_basis" ,fontname="Helvetica"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" highest\nlowest\norigin" ,fontname="Helvetica"];
+  Node7 [label="Matrix1D\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix1D.html"];
+}
