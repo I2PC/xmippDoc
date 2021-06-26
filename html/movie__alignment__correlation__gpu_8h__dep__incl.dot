@@ -1,0 +1,10 @@
+digraph "xmipp/libraries/reconstruction_adapt_cuda/movie_alignment_correlation_gpu.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node89 [label="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node89 -> Node90 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node90 [label="xmipp/applications\l/programs/cuda_movie\l_alignment_correlation\l/cuda_movie_alignment_correlation.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cuda__movie__alignment__correlation_8cpp.html"];
+  Node89 -> Node91 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node91 [label="xmipp/libraries/reconstruction\l_adapt_cuda/movie_alignment\l_correlation_gpu.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$movie__alignment__correlation__gpu_8cpp.html"];
+}
