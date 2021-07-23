@@ -1,0 +1,12 @@
+digraph "xmipp/libraries/data/transform_geometry.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node85 [label="xmipp/libraries/data\l/transform_geometry.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node85 -> Node86 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node86 [label="xmipp/applications\l/programs/mpi_transform\l_geometry/mpi_transform\l_geometry_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__transform__geometry__main_8cpp.html"];
+  Node85 -> Node87 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 [label="xmipp/applications\l/programs/transform\l_geometry/transform_geometry\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__geometry__main_8cpp.html"];
+  Node85 -> Node88 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node88 [label="xmipp/libraries/data\l/transform_geometry.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__geometry_8cpp.html"];
+}
