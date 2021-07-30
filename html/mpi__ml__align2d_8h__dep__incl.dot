@@ -1,0 +1,18 @@
+digraph "xmipp/libraries/parallel/mpi_ml_align2d.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node121 [label="xmipp/libraries/parallel\l/mpi_ml_align2d.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node121 -> Node122 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node122 [label="xmipp/applications\l/programs/mpi_ml_align2d\l/mpi_ml_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d__main_8cpp.html"];
+  Node121 -> Node123 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node123 [label="xmipp/applications\l/programs/mpi_ml_refine3d\l/mpi_ml_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__refine3d__main_8cpp.html"];
+  Node121 -> Node124 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node124 [label="xmipp/applications\l/programs/mpi_ml_tomo\l/mpi_ml_tomo_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__tomo__main_8cpp.html"];
+  Node121 -> Node125 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node125 [label="xmipp/applications\l/programs/mpi_mlf_align2d\l/mpi_mlf_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__mlf__align2d__main_8cpp.html"];
+  Node121 -> Node126 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node126 [label="xmipp/applications\l/programs/mpi_mlf_refine3d\l/mpi_mlf_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__mlf__refine3d__main_8cpp.html"];
+  Node121 -> Node127 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node127 [label="xmipp/libraries/parallel\l/mpi_ml_align2d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d_8cpp.html"];
+}
