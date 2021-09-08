@@ -1,0 +1,12 @@
+digraph "ProjectionData"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="ProjectionData",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" img" ,fontname="Helvetica"];
+  Node2 [label="Array2D\< std::complex\l\< float \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structArray2D.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" localAInv" ,fontname="Helvetica"];
+  Node3 [label="Matrix2D\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix2D.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" modulator\nCTF" ,fontname="Helvetica"];
+  Node4 [label="Array2D\< float \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structArray2D.html"];
+}
