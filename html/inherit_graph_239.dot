@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node745 [label="logic_error",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node745 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="ColumnDoesNotExist",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classColumnDoesNotExist.html"];
+  Node745 -> Node747 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node747 [label="NotImplemented",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNotImplemented.html"];
+  Node745 -> Node748 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node748 [label="ObjectDoesNotExist",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classObjectDoesNotExist.html"];
+}
