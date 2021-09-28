@@ -1,0 +1,26 @@
+digraph "xmipp/external/sh_alignment/SpharmonicKit27/FST_semi_memo.cpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="xmipp/external/sh_alignment\l/SpharmonicKit27/FST_semi\l_memo.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="math.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="stdio.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="stdlib.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="string.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node0 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="cospmls.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cospmls_8h.html"];
+  Node0 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="fft_grids.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$fft__grids_8h.html"];
+  Node0 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="naive_synthesis.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$naive__synthesis_8h.html"];
+  Node0 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="primitive.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$primitive_8h.html"];
+  Node0 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="primitive_FST.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$primitive__FST_8h.html"];
+  Node0 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="seminaive.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$seminaive_8h.html"];
+}
