@@ -1,0 +1,16 @@
+digraph "xmipp/libraries/reconstruction/volumeset_align.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node43 [label="xmipp/libraries/reconstruction\l/volumeset_align.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node43 -> Node44 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node44 [label="xmipp/applications\l/programs/volumeset\l_align/volumeset_align\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$volumeset__align__main_8cpp.html"];
+  Node43 -> Node45 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node45 [label="xmipp/libraries/parallel\l/mpi_volumeset_align.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__volumeset__align_8h.html"];
+  Node45 -> Node46 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node46 [label="xmipp/applications\l/programs/mpi_volumeset\l_align/mpi_volumeset_align\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__volumeset__align__main_8cpp.html"];
+  Node45 -> Node47 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node47 [label="xmipp/libraries/parallel\l/mpi_volumeset_align.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__volumeset__align_8cpp.html"];
+  Node43 -> Node48 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node48 [label="xmipp/libraries/reconstruction\l/volumeset_align.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$volumeset__align_8cpp.html"];
+}
