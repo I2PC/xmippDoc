@@ -1,0 +1,23 @@
+digraph "XmippMetadataProgram"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node50 [label="XmippMetadataProgram",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node51 -> Node50 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node51 [label="XmippProgram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXmippProgram.html"];
+  Node52 -> Node51 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" progDef" ,fontname="Helvetica"];
+  Node52 [label="ProgramDef",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classProgramDef.html"];
+  Node53 -> Node52 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node53 [label="ASTNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classASTNode.html"];
+  Node54 -> Node53 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" token" ,fontname="Helvetica"];
+  Node54 [label="ArgToken",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgToken.html"];
+  Node55 -> Node53 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pLexer" ,fontname="Helvetica"];
+  Node55 [label="ArgLexer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgLexer.html"];
+  Node53 -> Node53 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node56 -> Node52 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" usageComments\nexamples" ,fontname="Helvetica"];
+  Node56 [label="CommentList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCommentList.html"];
+  Node57 -> Node50 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" baseName\noext\nfn_out\nfn_in\noextBaseName\noroot\npathBaseName" ,fontname="Helvetica"];
+  Node57 [label="FileName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFileName.html"];
+  Node58 -> Node57 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node58 [label="String",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}
