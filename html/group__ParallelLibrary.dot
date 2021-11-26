@@ -1,0 +1,30 @@
+digraph "Parallel library"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node6 [label="NMA Alignment for volumes\l with  MPI parallelization",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MpiProgNMAVol.html"];
+  Node2 [label="(MPI)",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MpiProgVolumeHomogenizer.html"];
+  Node3 [label="Determine the angular\l determination accuracy\l of a set of particles\l and a 3D reconstruction (MPI)",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MpiProgAngularAccuracyPCA.html"];
+  Node0 [label="Parallel library",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node11 [label="Threads",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__Threads.html"];
+  Node5 [label="validate a volume analyzing\l the clusterability of each\l projection image (MPI)",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MpiProgValidationNonTilt.html"];
+  Node7 [label="MPI Performance Test",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ProgPerformanceTest.html"];
+  Node4 [label="MPI Angular Class Average",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MpiProgAngularClassAverage.html"];
+  Node9 [label="Reconstruct multiple\l volumes analyzing significant\l correlations (MPI)",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MPIReconstructSignificant.html"];
+  Node8 [label="Reconstruct using ADMM\l (MPI)",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MPIReconstructADMM.html"];
+  Node1 [label="Libraries",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__Libraries.html"];
+  Node10 [label="MPI",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__MPI.html"];
+  Node1->Node0 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node5 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node6 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node7 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node8 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node9 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node10 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node11 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node11 [shape=plaintext, label="ParallelTaskDistributor", color="orange", dir="none", style="dashed"];
+}

@@ -1,0 +1,11 @@
+digraph "xmipp/applications/programs/metadata_utilities" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_592b16dc4070b933e5655da2b0d20bbb {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_592b16dc4070b933e5655da2b0d20bbb.html"]
+  dir_6173da876c91a047f57099306e248417 [shape=box, label="metadata_utilities", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_6173da876c91a047f57099306e248417.html"];
+  }
+  dir_29dba3f3840f20df3b04d1972e99046b [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_29dba3f3840f20df3b04d1972e99046b.html"];
+  dir_6173da876c91a047f57099306e248417->dir_29dba3f3840f20df3b04d1972e99046b [headlabel="1", labeldistance=1.5 headhref="dir_000106_000091.html"];
+}

@@ -1,0 +1,26 @@
+digraph "libsvm/svm.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="libsvm/svm.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="libsvm/svm-toy/qt/svm\l-toy.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$qt_2svm-toy_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="libsvm/svm-toy/windows\l/svm-toy.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$windows_2svm-toy_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="libsvm/svm.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$svm_8cpp.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="xmipp/libraries/classification\l/svm_classifier.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$svm__classifier_8h.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="xmipp/libraries/classification\l/svm_classifier.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$svm__classifier_8cpp.html"];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__automatic__picking2_8h.html"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="xmipp/applications\l/programs/micrograph\l_automatic_picking/micrograph\l_automatic_picking_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__automatic__picking__main_8cpp.html"];
+  Node7 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__automatic__picking2_8cpp.html"];
+  Node7 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="xmipp/libraries/reconstruction\l/program_extension.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$program__extension_8cpp.html"];
+  Node7 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="xmippViz/bindings/java\l/xmipp_PickingClassifier.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__PickingClassifier_8cpp.html"];
+}
