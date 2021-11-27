@@ -1,0 +1,10 @@
+digraph "xmipp/libraries/reconstruction/coordinates_noisy_zones_filter.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node91 [label="xmipp/libraries/reconstruction\l/coordinates_noisy_zones_filter.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node91 -> Node92 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node92 [label="xmipp/applications\l/programs/coordinates\l_noisy_zones_filter/coordinates\l_noisy_zones_filter_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$coordinates__noisy__zones__filter__main_8cpp.html"];
+  Node91 -> Node93 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node93 [label="xmipp/libraries/reconstruction\l/coordinates_noisy_zones_filter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$coordinates__noisy__zones__filter_8cpp.html"];
+}
