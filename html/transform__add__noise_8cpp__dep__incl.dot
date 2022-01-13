@@ -1,8 +1,0 @@
-digraph "xmipp/libraries/reconstruction/transform_add_noise.cpp"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node82 [label="xmipp/libraries/reconstruction\l/transform_add_noise.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node82 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node83 [label="xmipp/applications\l/programs/transform\l_add_noise/transform\l_add_noise_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__add__noise__main_8cpp.html"];
-}
