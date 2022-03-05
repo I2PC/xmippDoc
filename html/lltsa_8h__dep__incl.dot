@@ -1,0 +1,22 @@
+digraph "xmipp/libraries/dimred/lltsa.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node22 [label="xmipp/libraries/dimred\l/lltsa.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node22 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="xmipp/applications\l/tests/function_tests\l/test_dimred_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$test__dimred__main_8cpp.html"];
+  Node22 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="xmipp/libraries/dimred\l/lltsa.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$lltsa_8cpp.html"];
+  Node22 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="xmipp/libraries/dimred\l/matrix_dimred.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$matrix__dimred_8h.html"];
+  Node25 -> Node26 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="xmipp/applications\l/programs/matrix_dimred\l/matrix_dimred_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$matrix__dimred__main_8cpp.html"];
+  Node25 -> Node27 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="xmipp/libraries/dimred\l/matrix_dimred.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$matrix__dimred_8cpp.html"];
+  Node25 -> Node28 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="xmipp/libraries/dimred\l/transform_dimred.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__dimred_8h.html"];
+  Node28 -> Node29 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node29 [label="xmipp/applications\l/programs/transform\l_dimred/transform_dimred\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__dimred__main_8cpp.html"];
+  Node28 -> Node30 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node30 [label="xmipp/libraries/dimred\l/transform_dimred.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__dimred_8cpp.html"];
+}
