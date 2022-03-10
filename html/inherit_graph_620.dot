@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node343 [label="true_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node343 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="testing::internal::\lLosslessArithmeticConvertible\lImpl\< kBool, bool, kBool,\l bool \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structtesting_1_1internal_1_1LosslessArithmeticConvertibleImpl_3_01kBool_00_01bool_00_01kBool_00_01bool_01_4.html"];
+  Node343 -> Node345 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node345 [label="testing::internal::\lLosslessArithmeticConvertible\lImpl\< kBool, bool, kFloatingPoint, To \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structtesting_1_1internal_1_1LosslessArithmeticConvertibleImpl_3_01kBool_00_01bool_00_01kFloatingPoint_00_01To_01_4.html"];
+  Node343 -> Node346 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node346 [label="testing::internal::\lLosslessArithmeticConvertible\lImpl\< kBool, bool, kInteger, To \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structtesting_1_1internal_1_1LosslessArithmeticConvertibleImpl_3_01kBool_00_01bool_00_01kInteger_00_01To_01_4.html"];
+}
