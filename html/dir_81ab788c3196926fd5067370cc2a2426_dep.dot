@@ -1,0 +1,15 @@
+digraph "xmippViz/bindings/java" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_6c850e09e636f23306e5d3c0c6e8c219 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="bindings" fontname="Helvetica", fontsize="10", URL="dir_6c850e09e636f23306e5d3c0c6e8c219.html"]
+  dir_81ab788c3196926fd5067370cc2a2426 [shape=box, label="java", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_81ab788c3196926fd5067370cc2a2426.html"];
+  }
+  dir_5bce755d3f27cf36e7d1a940cfd4182d [shape=box label="xmipp" fillcolor="white" style="filled" color="red" URL="dir_5bce755d3f27cf36e7d1a940cfd4182d.html"];
+  dir_ce4d0d8fc85c2c70612466225bfce71d [shape=box label="xmippCore" fillcolor="white" style="filled" color="red" URL="dir_ce4d0d8fc85c2c70612466225bfce71d.html"];
+  dir_5bce755d3f27cf36e7d1a940cfd4182d->dir_ce4d0d8fc85c2c70612466225bfce71d [headlabel="1276", labeldistance=1.5 headhref="dir_000026_000271.html"];
+  dir_81ab788c3196926fd5067370cc2a2426->dir_5bce755d3f27cf36e7d1a940cfd4182d [headlabel="11", labeldistance=1.5 headhref="dir_000294_000026.html"];
+  dir_81ab788c3196926fd5067370cc2a2426->dir_ce4d0d8fc85c2c70612466225bfce71d [headlabel="20", labeldistance=1.5 headhref="dir_000294_000271.html"];
+  dir_ce4d0d8fc85c2c70612466225bfce71d->dir_5bce755d3f27cf36e7d1a940cfd4182d [headlabel="5", labeldistance=1.5 headhref="dir_000271_000026.html"];
+}
