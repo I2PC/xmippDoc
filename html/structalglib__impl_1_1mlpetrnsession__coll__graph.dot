@@ -1,0 +1,36 @@
+digraph "alglib_impl::mlpetrnsession"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="alglib_impl::mlpetrnsession",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mlprep" ,fontname="Helvetica"];
+  Node2 [label="alglib_impl::mlpreport",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1mlpreport.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" trnsubset\nvalsubset" ,fontname="Helvetica"];
+  Node3 [label="alglib_impl::ae_vector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__vector.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node4 [label="alglib_impl::ae_dyn\l_block",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__dyn__block.html"];
+  Node4 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p_next" ,fontname="Helvetica"];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p_complex" ,fontname="Helvetica"];
+  Node5 [label="alglib_impl::ae_complex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__complex.html"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" network" ,fontname="Helvetica"];
+  Node6 [label="alglib_impl::multilayerperceptron",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1multilayerperceptron.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" err" ,fontname="Helvetica"];
+  Node7 [label="alglib_impl::modelerrors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1modelerrors.html"];
+  Node3 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" columnsigmas\nhlconnections\nintegerbuf\nx\nxyrow\ny\nneurons\nhllayersizes\nderror\nnwbuf\n..." ,fontname="Helvetica"];
+  Node8 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" xy\ndummydxy" ,fontname="Helvetica"];
+  Node8 [label="alglib_impl::ae_matrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__matrix.html"];
+  Node4 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node5 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pp_complex" ,fontname="Helvetica"];
+  Node9 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" gradbuf\nbuf\ndummypool" ,fontname="Helvetica"];
+  Node9 [label="alglib_impl::ae_shared_pool",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__shared__pool.html"];
+  Node10 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pool_lock" ,fontname="Helvetica"];
+  Node10 [label="alglib_impl::ae_lock",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__lock.html"];
+  Node11 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" recycled_entries\nrecycled_objects\nenumeration_counter" ,fontname="Helvetica"];
+  Node11 [label="alglib_impl::ae_shared\l_pool_entry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__shared__pool__entry.html"];
+  Node4 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" frame_entry" ,fontname="Helvetica"];
+  Node12 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" dummysxy" ,fontname="Helvetica"];
+  Node12 [label="alglib_impl::sparsematrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1sparsematrix.html"];
+  Node3 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" vals\nidx\nuidx\ndidx\nridx" ,fontname="Helvetica"];
+  Node9 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mlpsessions" ,fontname="Helvetica"];
+}
