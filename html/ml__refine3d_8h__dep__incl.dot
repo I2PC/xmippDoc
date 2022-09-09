@@ -1,0 +1,26 @@
+digraph "xmipp/libraries/reconstruction/ml_refine3d.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node60 [label="xmipp/libraries/reconstruction\l/ml_refine3d.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node60 -> Node61 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 [label="xmipp/applications\l/programs/ml_refine3d\l/ml_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ml__refine3d__main_8cpp.html"];
+  Node60 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node62 [label="xmipp/applications\l/programs/mlf_refine3d\l/mlf_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mlf__refine3d__main_8cpp.html"];
+  Node60 -> Node63 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node63 [label="xmipp/libraries/parallel\l/mpi_ml_align2d.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d_8h.html"];
+  Node63 -> Node64 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node64 [label="xmipp/applications\l/programs/mpi_ml_align2d\l/mpi_ml_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d__main_8cpp.html"];
+  Node63 -> Node65 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node65 [label="xmipp/applications\l/programs/mpi_ml_refine3d\l/mpi_ml_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__refine3d__main_8cpp.html"];
+  Node63 -> Node66 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 [label="xmipp/applications\l/programs/mpi_ml_tomo\l/mpi_ml_tomo_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__tomo__main_8cpp.html"];
+  Node63 -> Node67 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node67 [label="xmipp/applications\l/programs/mpi_mlf_align2d\l/mpi_mlf_align2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__mlf__align2d__main_8cpp.html"];
+  Node63 -> Node68 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node68 [label="xmipp/applications\l/programs/mpi_mlf_refine3d\l/mpi_mlf_refine3d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__mlf__refine3d__main_8cpp.html"];
+  Node63 -> Node69 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node69 [label="xmipp/libraries/parallel\l/mpi_ml_align2d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__ml__align2d_8cpp.html"];
+  Node60 -> Node70 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node70 [label="xmipp/libraries/reconstruction\l/ml_refine3d.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ml__refine3d_8cpp.html"];
+}
