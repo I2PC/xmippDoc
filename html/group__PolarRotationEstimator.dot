@@ -1,0 +1,27 @@
+digraph "Polar Rotation Estimator"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node10 [label="CudaShiftCorrEstimator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__CudaShiftCorrEstimator.html"];
+  Node7 [label="Shift Correlation Estimator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ShiftCorrEstimator.html"];
+  Node8 [label="Align Significant GPU",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ProgAlignSignificantGPU.html"];
+  Node6 [label="Iterative Alignment\l Estimator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__IterativeAlignmentEstimator.html"];
+  Node5 [label="AShiftEstimator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__AShiftEstimator.html"];
+  Node3 [label="Rotation Estimation\l Setting",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__RotationEstimationSetting.html"];
+  Node9 [label="Cuda Rotation Polar\l Estimator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__CudaRotPolarEstimator.html"];
+  Node1 [label="Reconstruction library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ReconsLibrary.html"];
+  Node4 [label="AShiftCorrEstimator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__AShiftCorrEstimator.html"];
+  Node0 [label="Polar Rotation Estimator",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 [label="Alignment Estimation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__Alignment.html"];
+  Node1->Node0 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node2 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node3 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node4 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node5 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node6 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node7 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node8 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node9 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+  Node0->Node10 [shape=plaintext, label="Alignment", color="blueviolet", dir="none", style="dashed"];
+}
