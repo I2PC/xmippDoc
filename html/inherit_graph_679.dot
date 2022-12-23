@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node720 [label="MockClass",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node720 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="testing::NaggyMock\l\< MockClass \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classtesting_1_1NaggyMock.html"];
+  Node720 -> Node722 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node722 [label="testing::NiceMock\<\l MockClass \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classtesting_1_1NiceMock.html"];
+  Node720 -> Node723 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node723 [label="testing::StrictMock\l\< MockClass \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classtesting_1_1StrictMock.html"];
+}
