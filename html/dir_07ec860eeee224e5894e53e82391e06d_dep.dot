@@ -1,0 +1,11 @@
+digraph "xmipp/applications/programs/mrc_create_metadata" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_592b16dc4070b933e5655da2b0d20bbb {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_592b16dc4070b933e5655da2b0d20bbb.html"]
+  dir_07ec860eeee224e5894e53e82391e06d [shape=box, label="mrc_create_metadata", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_07ec860eeee224e5894e53e82391e06d.html"];
+  }
+  dir_ce4d0d8fc85c2c70612466225bfce71d [shape=box label="xmippCore" fillcolor="white" style="filled" color="red" URL="dir_ce4d0d8fc85c2c70612466225bfce71d.html"];
+  dir_07ec860eeee224e5894e53e82391e06d->dir_ce4d0d8fc85c2c70612466225bfce71d [headlabel="3", labeldistance=1.5 headhref="dir_000190_000288.html"];
+}
