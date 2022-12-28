@@ -1,0 +1,14 @@
+digraph "xmippCore/bindings/python" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a2056f6b2a33d9286a94da4743652b84 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="bindings" fontname="Helvetica", fontsize="10", URL="dir_a2056f6b2a33d9286a94da4743652b84.html"]
+  dir_16252896b1439a234823b87c64e67050 [shape=box, label="python", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_16252896b1439a234823b87c64e67050.html"];
+  }
+  dir_5bce755d3f27cf36e7d1a940cfd4182d [shape=box label="xmipp" fillcolor="white" style="filled" color="red" URL="dir_5bce755d3f27cf36e7d1a940cfd4182d.html"];
+  dir_7b263f08efd4b5bafd60790250e211a5 [shape=box label="core" fillcolor="white" style="filled" color="red" URL="dir_7b263f08efd4b5bafd60790250e211a5.html"];
+  dir_5bce755d3f27cf36e7d1a940cfd4182d->dir_7b263f08efd4b5bafd60790250e211a5 [headlabel="1343", labeldistance=1.5 headhref="dir_000026_000299.html"];
+  dir_16252896b1439a234823b87c64e67050->dir_5bce755d3f27cf36e7d1a940cfd4182d [headlabel="5", labeldistance=1.5 headhref="dir_000290_000026.html"];
+  dir_16252896b1439a234823b87c64e67050->dir_7b263f08efd4b5bafd60790250e211a5 [headlabel="5", labeldistance=1.5 headhref="dir_000290_000299.html"];
+}
