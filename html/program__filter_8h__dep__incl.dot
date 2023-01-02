@@ -1,0 +1,14 @@
+digraph "xmipp/libraries/reconstruction/program_filter.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node70 [label="xmipp/libraries/reconstruction\l/program_filter.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node70 -> Node71 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node71 [label="xmipp/applications\l/programs/mpi_transform\l_filter/mpi_transform_filter\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__transform__filter__main_8cpp.html"];
+  Node70 -> Node72 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node72 [label="xmipp/applications\l/programs/transform\l_filter/transform_filter\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__filter__main_8cpp.html"];
+  Node70 -> Node73 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node73 [label="xmipp/libraries/reconstruction\l/program_extension.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$program__extension_8cpp.html"];
+  Node70 -> Node74 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node74 [label="xmipp/libraries/reconstruction\l/program_filter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$program__filter_8cpp.html"];
+}

@@ -1,0 +1,10 @@
+digraph "xmipp/legacy/libraries/parallel/mpi_reconstruct_admm.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node101 [label="xmipp/legacy/libraries\l/parallel/mpi_reconstruct\l_admm.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node101 -> Node102 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node102 [label="xmipp/legacy/applications\l/programs/mpi_reconstruct\l_admm/mpi_reconstruct_admm\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__reconstruct__admm__main_8cpp.html"];
+  Node101 -> Node103 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node103 [label="xmipp/legacy/libraries\l/parallel/mpi_reconstruct\l_admm.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__reconstruct__admm_8cpp.html"];
+}

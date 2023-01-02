@@ -1,0 +1,16 @@
+digraph "RotationalCorrelationAux"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="RotationalCorrelationAux",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" local_transformer" ,fontname="Helvetica"];
+  Node2 [label="FourierTransformer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFourierTransformer.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fReal" ,fontname="Helvetica"];
+  Node3 [label="MultidimArray\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="MultidimArrayBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArrayBase.html"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fComplex\nfFourier" ,fontname="Helvetica"];
+  Node5 [label="MultidimArray\< std\l::complex\< double \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" Fsum" ,fontname="Helvetica"];
+}

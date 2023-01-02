@@ -1,0 +1,11 @@
+digraph "xmipp/libraries/reconstruction_starpu/mpi" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_6b129a60ca9bd264678b4ace681dc7e5 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="reconstruction_starpu" fontname="Helvetica", fontsize="10", URL="dir_6b129a60ca9bd264678b4ace681dc7e5.html"]
+  dir_ab45d7b88f3e275bfbb9ab8cff27341a [shape=box, label="mpi", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_ab45d7b88f3e275bfbb9ab8cff27341a.html"];
+  }
+  dir_5ee8c3a986de9cbc18000e453191b32c [shape=box label="legacy" fillcolor="white" style="filled" color="red" URL="dir_5ee8c3a986de9cbc18000e453191b32c.html"];
+  dir_ab45d7b88f3e275bfbb9ab8cff27341a->dir_5ee8c3a986de9cbc18000e453191b32c [headlabel="1", labeldistance=1.5 headhref="dir_000314_000250.html"];
+}

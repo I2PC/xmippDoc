@@ -1,0 +1,12 @@
+digraph "xmipp/libraries/reconstruction/volume_subtraction.cpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node90 [label="xmipp/libraries/reconstruction\l/volume_subtraction.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node90 -> Node91 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node91 [label="xmipp/applications\l/programs/volume_subtraction\l/volume_subtraction_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$volume__subtraction__main_8cpp.html"];
+  Node90 -> Node92 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node92 [label="xmipp/applications\l/tests/function_tests\l/test_pocs_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$test__pocs__main_8cpp.html"];
+  Node90 -> Node93 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node93 [label="xmipp/applications\l/tests/function_tests\l/test_volume_subtraction\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$test__volume__subtraction__main_8cpp.html"];
+}
