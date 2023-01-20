@@ -1,0 +1,12 @@
+digraph "xmippCore/core/xmipp_program_sql.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node22 [label="xmippCore/core/xmipp\l_program_sql.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node22 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="xmippCore/core/xmipp\l_program.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__program_8cpp.html"];
+  Node22 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="xmippCore/core/xmipp\l_program_sql.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__program__sql_8cpp.html"];
+  Node22 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="xmippViz/bindings/java\l/xmipp_MetaData.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bindings_2java_2xmipp__MetaData_8cpp.html"];
+}
