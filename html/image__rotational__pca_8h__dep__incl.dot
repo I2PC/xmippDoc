@@ -1,0 +1,26 @@
+digraph "xmipp/libraries/reconstruction/image_rotational_pca.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node75 [label="xmipp/libraries/reconstruction\l/image_rotational_pca.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node75 -> Node76 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node76 [label="xmipp/applications\l/programs/image_rotational\l_pca/image_rotational_pca\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$image__rotational__pca__main_8cpp.html"];
+  Node75 -> Node77 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node77 [label="xmipp/libraries/parallel\l/mpi_image_rotational_pca.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__image__rotational__pca_8h.html"];
+  Node77 -> Node78 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node78 [label="xmipp/applications\l/programs/mpi_image\l_rotational_pca/mpi_image\l_rotational_pca_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__image__rotational__pca__main_8cpp.html"];
+  Node77 -> Node79 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node79 [label="xmipp/libraries/parallel\l/mpi_image_rotational_pca.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__image__rotational__pca_8cpp.html"];
+  Node75 -> Node80 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node80 [label="xmipp/libraries/reconstruction\l/image_rotational_pca.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$image__rotational__pca_8cpp.html"];
+  Node75 -> Node81 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node81 [label="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__automatic__picking2_8h.html"];
+  Node81 -> Node82 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node82 [label="xmipp/applications\l/programs/micrograph\l_automatic_picking/micrograph\l_automatic_picking_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__automatic__picking__main_8cpp.html"];
+  Node81 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="xmipp/libraries/reconstruction\l/micrograph_automatic_picking2.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__automatic__picking2_8cpp.html"];
+  Node81 -> Node84 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node84 [label="xmipp/libraries/reconstruction\l/program_extension.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$program__extension_8cpp.html"];
+  Node81 -> Node85 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node85 [label="xmippViz/bindings/java\l/xmipp_PickingClassifier.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__PickingClassifier_8cpp.html"];
+}

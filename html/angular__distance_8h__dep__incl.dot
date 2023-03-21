@@ -1,0 +1,20 @@
+digraph "xmipp/libraries/reconstruction/angular_distance.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node59 [label="xmipp/libraries/reconstruction\l/angular_distance.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node59 -> Node60 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node60 [label="xmipp/applications\l/programs/angular_distance\l/angular_distance_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$angular__distance__main_8cpp.html"];
+  Node59 -> Node61 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node61 [label="xmipp/libraries/reconstruction\l/angular_discrete_assign.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$angular__discrete__assign_8h.html"];
+  Node61 -> Node62 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node62 [label="xmipp/applications\l/programs/angular_discrete\l_assign/angular_discrete\l_assign_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$angular__discrete__assign__main_8cpp.html"];
+  Node61 -> Node63 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node63 [label="xmipp/applications\l/programs/mpi_angular\l_discrete_assign/mpi_angular\l_discrete_assign_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__angular__discrete__assign__main_8cpp.html"];
+  Node61 -> Node64 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node64 [label="xmipp/libraries/reconstruction\l/angular_discrete_assign.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$angular__discrete__assign_8cpp.html"];
+  Node61 -> Node65 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node65 [label="xmipp/libraries/reconstruction\l/program_extension.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$program__extension_8cpp.html"];
+  Node59 -> Node66 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node66 [label="xmipp/libraries/reconstruction\l/angular_distance.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$angular__distance_8cpp.html"];
+}

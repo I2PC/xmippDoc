@@ -1,0 +1,11 @@
+digraph "xmipp/legacy/applications/programs/mpi_mlf_refine3d" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a205c211814f26c7bbd02dbfc70fcda8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_a205c211814f26c7bbd02dbfc70fcda8.html"]
+  dir_7b0bd72bdb64f07fb02802d9a21fe72d [shape=box, label="mpi_mlf_refine3d", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_7b0bd72bdb64f07fb02802d9a21fe72d.html"];
+  }
+  dir_29dba3f3840f20df3b04d1972e99046b [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_29dba3f3840f20df3b04d1972e99046b.html"];
+  dir_7b0bd72bdb64f07fb02802d9a21fe72d->dir_29dba3f3840f20df3b04d1972e99046b [headlabel="1", labeldistance=1.5 headhref="dir_000274_000027.html"];
+}

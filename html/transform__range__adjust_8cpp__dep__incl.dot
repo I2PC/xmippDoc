@@ -1,0 +1,8 @@
+digraph "xmipp/legacy/libraries/reconstruction/transform_range_adjust.cpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node82 [label="xmipp/legacy/libraries\l/reconstruction/transform\l_range_adjust.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node82 -> Node83 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node83 [label="xmipp/legacy/applications\l/programs/transform_range\l_adjust/transform_range_adjust\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__range__adjust__main_8cpp.html"];
+}
