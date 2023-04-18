@@ -1,0 +1,11 @@
+digraph "xmipp/applications/programs/movie_optical_alignment_gpu" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_592b16dc4070b933e5655da2b0d20bbb {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_592b16dc4070b933e5655da2b0d20bbb.html"]
+  dir_ba24cc3726e06fc9b29efb717ff123ed [shape=box, label="movie_optical_alignment_gpu", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_ba24cc3726e06fc9b29efb717ff123ed.html"];
+  }
+  dir_c6755d8752d785ba2488bd866c822fed [shape=box label="movie_optical_alignment_cpu" URL="dir_c6755d8752d785ba2488bd866c822fed.html"];
+  dir_ba24cc3726e06fc9b29efb717ff123ed->dir_c6755d8752d785ba2488bd866c822fed [headlabel="1", labeldistance=1.5 headhref="dir_000115_000114.html"];
+}
