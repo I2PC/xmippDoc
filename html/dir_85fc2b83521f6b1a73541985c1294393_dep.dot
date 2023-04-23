@@ -1,0 +1,11 @@
+digraph "xmipp/applications/programs/transform_mirror" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_592b16dc4070b933e5655da2b0d20bbb {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_592b16dc4070b933e5655da2b0d20bbb.html"]
+  dir_85fc2b83521f6b1a73541985c1294393 [shape=box, label="transform_mirror", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_85fc2b83521f6b1a73541985c1294393.html"];
+  }
+  dir_ce4d0d8fc85c2c70612466225bfce71d [shape=box label="xmippCore" fillcolor="white" style="filled" color="red" URL="dir_ce4d0d8fc85c2c70612466225bfce71d.html"];
+  dir_85fc2b83521f6b1a73541985c1294393->dir_ce4d0d8fc85c2c70612466225bfce71d [headlabel="2", labeldistance=1.5 headhref="dir_000227_000258.html"];
+}

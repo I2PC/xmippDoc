@@ -1,0 +1,13 @@
+digraph "Basis function"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node0 [label="Basis function",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 [label="Blobs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__Blobs.html"];
+  Node1 [label="Basic data library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__DataLibrary.html"];
+  Node3 [label="Splines",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__Splines.html"];
+  Node1->Node0 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node3 [shape=plaintext, dir="back", style="solid"];
+}
