@@ -1,0 +1,11 @@
+digraph "xmipp/legacy/applications/programs/ctf_create_ctfdat" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a205c211814f26c7bbd02dbfc70fcda8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_a205c211814f26c7bbd02dbfc70fcda8.html"]
+  dir_12644043139a07c4a84e1e4c9337cc8b [shape=box, label="ctf_create_ctfdat", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_12644043139a07c4a84e1e4c9337cc8b.html"];
+  }
+  dir_ec5db26cfb72886407809adaaec84b8a [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_ec5db26cfb72886407809adaaec84b8a.html"];
+  dir_12644043139a07c4a84e1e4c9337cc8b->dir_ec5db26cfb72886407809adaaec84b8a [headlabel="1", labeldistance=1.5 headhref="dir_000271_000316.html"];
+}
