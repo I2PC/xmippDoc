@@ -1,0 +1,23 @@
+digraph "Delaunay_T"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Delaunay_T",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" graph" ,fontname="Helvetica"];
+  Node2 [label="Graph_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structGraph__T.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" nodes" ,fontname="Helvetica"];
+  Node3 [label="Node_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structNode__T.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" dcel" ,fontname="Helvetica"];
+  Node4 [label="DCEL_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structDCEL__T.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" vertex" ,fontname="Helvetica"];
+  Node5 [label="Dcel_Vertex_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structDcel__Vertex__T.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" vertex" ,fontname="Helvetica"];
+  Node6 [label="Point_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structPoint__T.html"];
+  Node7 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" edges" ,fontname="Helvetica"];
+  Node7 [label="Dcel_Edge_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structDcel__Edge__T.html"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" faces" ,fontname="Helvetica"];
+  Node8 [label="Dcel_Face_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structDcel__Face__T.html"];
+  Node9 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" voronoi" ,fontname="Helvetica"];
+  Node9 [label="Voronoi_T",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structVoronoi__T.html"];
+  Node4 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" dcel" ,fontname="Helvetica"];
+}
