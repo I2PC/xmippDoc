@@ -1,0 +1,8 @@
+digraph "xmipp/libraries/reconstruction/transform_center_image.cpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node85 [label="xmipp/libraries/reconstruction\l/transform_center_image.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node85 -> Node86 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node86 [label="xmipp/applications\l/programs/transform\l_center_image/transform\l_center_image_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform__center__image__main_8cpp.html"];
+}
