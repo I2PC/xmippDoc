@@ -1,0 +1,31 @@
+digraph "alglib::lrreport"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="alglib::lrreport",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="alglib::_lrreport_owner",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classalglib_1_1__lrreport__owner.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p_struct" ,fontname="Helvetica"];
+  Node4 [label="alglib_impl::lrreport",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1lrreport.html"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" cvdefects" ,fontname="Helvetica"];
+  Node5 [label="alglib_impl::ae_vector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__vector.html"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node6 [label="alglib_impl::ae_dyn\l_block",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__dyn__block.html"];
+  Node6 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p_next" ,fontname="Helvetica"];
+  Node7 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p_complex" ,fontname="Helvetica"];
+  Node7 [label="alglib_impl::ae_complex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__complex.html"];
+  Node8 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" c" ,fontname="Helvetica"];
+  Node8 [label="alglib_impl::ae_matrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__matrix.html"];
+  Node6 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node7 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pp_complex" ,fontname="Helvetica"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" cvdefects" ,fontname="Helvetica"];
+  Node9 [label="alglib::integer_1d\l_array",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classalglib_1_1integer__1d__array.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="alglib::ae_vector_wrapper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classalglib_1_1ae__vector__wrapper.html"];
+  Node5 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" vec\np_vec" ,fontname="Helvetica"];
+  Node11 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" c" ,fontname="Helvetica"];
+  Node11 [label="alglib::real_2d_array",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classalglib_1_1real__2d__array.html"];
+  Node12 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="alglib::ae_matrix_wrapper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classalglib_1_1ae__matrix__wrapper.html"];
+  Node8 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mat\np_mat" ,fontname="Helvetica"];
+}
