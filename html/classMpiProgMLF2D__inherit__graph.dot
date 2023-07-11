@@ -1,0 +1,14 @@
+digraph "MpiProgMLF2D"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="MpiProgMLF2D",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="ProgMLF2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classProgMLF2D.html"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ML2DBaseProgram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classML2DBaseProgram.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XmippProgram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXmippProgram.html"];
+  Node4 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="MpiML2DBase\< MpiProgMLF2D \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMpiML2DBase.html"];
+}
