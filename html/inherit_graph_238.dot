@@ -1,0 +1,27 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node631 [label="Remark3Parser",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node631 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="cif::pdb::BUSTER_TNT\l_Remark3Parser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1BUSTER__TNT__Remark3Parser.html"];
+  Node631 -> Node633 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node633 [label="cif::pdb::CNS_Remark3Parser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1CNS__Remark3Parser.html"];
+  Node631 -> Node634 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node634 [label="cif::pdb::NUCLSQ_Remark3\lParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1NUCLSQ__Remark3Parser.html"];
+  Node631 -> Node635 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node635 [label="cif::pdb::PHENIX_Remark3\lParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1PHENIX__Remark3Parser.html"];
+  Node631 -> Node636 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node636 [label="cif::pdb::PROLSQ_Remark3\lParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1PROLSQ__Remark3Parser.html"];
+  Node631 -> Node637 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node637 [label="cif::pdb::REFMAC5_Remark3\lParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1REFMAC5__Remark3Parser.html"];
+  Node631 -> Node638 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node638 [label="cif::pdb::REFMAC_Remark3\lParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1REFMAC__Remark3Parser.html"];
+  Node631 -> Node639 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node639 [label="cif::pdb::SHELXL_Remark3\lParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1SHELXL__Remark3Parser.html"];
+  Node631 -> Node640 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node640 [label="cif::pdb::TNT_Remark3Parser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1TNT__Remark3Parser.html"];
+  Node631 -> Node641 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node641 [label="cif::pdb::XPLOR_Remark3Parser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcif_1_1pdb_1_1XPLOR__Remark3Parser.html"];
+}

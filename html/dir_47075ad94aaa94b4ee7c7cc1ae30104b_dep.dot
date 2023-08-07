@@ -1,0 +1,11 @@
+digraph "xmipp/applications/programs/volume_apply_coefficient_zernike3d" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_592b16dc4070b933e5655da2b0d20bbb {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_592b16dc4070b933e5655da2b0d20bbb.html"]
+  dir_47075ad94aaa94b4ee7c7cc1ae30104b [shape=box, label="volume_apply_coefficient_zernike3d", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_47075ad94aaa94b4ee7c7cc1ae30104b.html"];
+  }
+  dir_29dba3f3840f20df3b04d1972e99046b [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_29dba3f3840f20df3b04d1972e99046b.html"];
+  dir_47075ad94aaa94b4ee7c7cc1ae30104b->dir_29dba3f3840f20df3b04d1972e99046b [headlabel="1", labeldistance=1.5 headhref="dir_000240_000042.html"];
+}
