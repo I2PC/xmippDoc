@@ -1,0 +1,16 @@
+digraph "xmipp/libraries/reconstruction/volume_from_pdb.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node66 [label="xmipp/libraries/reconstruction\l/volume_from_pdb.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node66 -> Node67 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node67 [label="xmipp/applications\l/programs/volume_from\l_pdb/volume_from_pdb_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$volume__from__pdb__main_8cpp.html"];
+  Node66 -> Node68 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node68 [label="xmipp/libraries/reconstruction\l/nma_alignment.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$nma__alignment_8cpp.html"];
+  Node66 -> Node69 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node69 [label="xmipp/libraries/reconstruction\l/nma_alignment_vol.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$nma__alignment__vol_8cpp.html"];
+  Node66 -> Node70 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node70 [label="xmipp/libraries/reconstruction\l/program_extension.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$program__extension_8cpp.html"];
+  Node66 -> Node71 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node71 [label="xmipp/libraries/reconstruction\l/volume_from_pdb.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$volume__from__pdb_8cpp.html"];
+}
