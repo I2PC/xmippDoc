@@ -1,0 +1,11 @@
+digraph "xmipp/legacy/libraries/data" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_ec5db26cfb72886407809adaaec84b8a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="libraries" fontname="Helvetica", fontsize="10", URL="dir_ec5db26cfb72886407809adaaec84b8a.html"]
+  dir_5c13c26fc278f1da52b6a82a44e960f7 [shape=box, label="data", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_5c13c26fc278f1da52b6a82a44e960f7.html"];
+  }
+  dir_ce4d0d8fc85c2c70612466225bfce71d [shape=box label="xmippCore" fillcolor="white" style="filled" color="red" URL="dir_ce4d0d8fc85c2c70612466225bfce71d.html"];
+  dir_5c13c26fc278f1da52b6a82a44e960f7->dir_ce4d0d8fc85c2c70612466225bfce71d [headlabel="8", labeldistance=1.5 headhref="dir_000320_000261.html"];
+}
