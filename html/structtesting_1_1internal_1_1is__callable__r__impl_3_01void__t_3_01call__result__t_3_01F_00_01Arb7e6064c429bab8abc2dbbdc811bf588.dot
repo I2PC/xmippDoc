@@ -1,9 +1,0 @@
-digraph "testing::internal::is_callable_r_impl&lt; void_t&lt; call_result_t&lt; F, Args... &gt; &gt;, R, F, Args... &gt;"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node2 [label="testing::internal::\lis_callable_r_impl\<\l void_t\< call_result\l_t\< F, Args... \> \>, R,\l F, Args... \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node3 [label="std::conditional::type\l\< std::is_void\< R \>::value,\l std::true_type, is_implicitly\l_convertible\< call_result_t\<\l F, Args... \>, R \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
-}
