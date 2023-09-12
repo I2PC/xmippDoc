@@ -1,0 +1,29 @@
+digraph "xmipp/legacy/applications/programs/classify_kmeans_2d/classify_kmeans_2d_main.cpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="xmipp/legacy/applications\l/programs/classify_kmeans\l_2d/classify_kmeans_2d_main.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="reconstruction/classify\l_kmeans_2d.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classify__kmeans__2d_8h.html"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="core/xmipp_program.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__program_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="map",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="comment_list.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$comment__list_8h.html"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="xmipp_strings.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__strings_8h.html"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="vector",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="string.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="core/xmipp_filename.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__filename_8h.html"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="unistd.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="fcntl.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}
