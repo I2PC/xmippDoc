@@ -1,0 +1,11 @@
+digraph "xmipp/legacy/applications/programs/image_common_lines" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a205c211814f26c7bbd02dbfc70fcda8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_a205c211814f26c7bbd02dbfc70fcda8.html"]
+  dir_1642fa5c8912232c41fb4fa632fcc718 [shape=box, label="image_common_lines", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_1642fa5c8912232c41fb4fa632fcc718.html"];
+  }
+  dir_ec5db26cfb72886407809adaaec84b8a [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_ec5db26cfb72886407809adaaec84b8a.html"];
+  dir_1642fa5c8912232c41fb4fa632fcc718->dir_ec5db26cfb72886407809adaaec84b8a [headlabel="1", labeldistance=1.5 headhref="dir_000281_000320.html"];
+}
