@@ -1,0 +1,44 @@
+digraph "ProgRecFourierGPU"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="ProgRecFourierGPU",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ProgReconsBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classProgReconsBase.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XmippProgram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXmippProgram.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" progDef" ,fontname="Helvetica"];
+  Node7 [label="ProgramDef",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classProgramDef.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="ASTNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classASTNode.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" token" ,fontname="Helvetica"];
+  Node9 [label="ArgToken",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgToken.html"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pLexer" ,fontname="Helvetica"];
+  Node10 [label="ArgLexer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgLexer.html"];
+  Node8 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node11 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" usageComments\nexamples" ,fontname="Helvetica"];
+  Node11 [label="CommentList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCommentList.html"];
+  Node12 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" SF" ,fontname="Helvetica"];
+  Node12 [label="MetaDataDb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMetaDataDb.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="MetaData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMetaData.html"];
+  Node14 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _inFile" ,fontname="Helvetica"];
+  Node14 [label="FileName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFileName.html"];
+  Node15 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="String",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node16 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" myMDSql" ,fontname="Helvetica"];
+  Node16 [label="MDSql",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMDSql.html"];
+  Node17 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" workThreads" ,fontname="Helvetica"];
+  Node17 [label="RecFourierWorkThread",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structRecFourierWorkThread.html"];
+  Node4 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node12 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" selFile" ,fontname="Helvetica"];
+  Node18 -> Node17 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" buffer" ,fontname="Helvetica"];
+  Node18 [label="RecFourierBufferData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structRecFourierBufferData.html"];
+  Node19 -> Node18 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" spaces" ,fontname="Helvetica"];
+  Node19 [label="RecFourierProjectionTraverse\lSpace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structRecFourierProjectionTraverseSpace.html"];
+  Node20 -> Node19 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" topOrigin\nunitNormal\nbottomOrigin" ,fontname="Helvetica"];
+  Node20 [label="Point3D\< float \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPoint3D.html"];
+  Node21 -> Node20 [dir="back",color="firebrick4",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="Point",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classPoint.html"];
+  Node14 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fn_out\nfn_in" ,fontname="Helvetica"];
+}
