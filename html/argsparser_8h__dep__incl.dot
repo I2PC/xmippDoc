@@ -1,0 +1,30 @@
+digraph "xmippCore/core/argsparser.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node8 [label="xmippCore/core/argsparser.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="xmipp/bindings/python\l/python_program.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$python__program_8cpp.html"];
+  Node8 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="xmipp/libraries/reconstruction\l/micrograph_scissor.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__scissor_8cpp.html"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="xmipp/applications\l/programs/micrograph\l_scissor/micrograph_scissor\l_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$micrograph__scissor__main_8cpp.html"];
+  Node8 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="xmipp/libraries/reconstruction\l_adapt_cuda/reconstruct_fourier_gpu.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$reconstruct__fourier__gpu_8cpp.html"];
+  Node8 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="xmippCore/core/argsparser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$argsparser_8cpp.html"];
+  Node8 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="xmippCore/core/argsprinter.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$argsprinter_8h.html"];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="xmippCore/core/argsprinter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$argsprinter_8cpp.html"];
+  Node14 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="xmippCore/core/xmipp\l_program_sql.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__program__sql_8h.html"];
+  Node16 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="xmippCore/core/xmipp\l_program.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__program_8cpp.html"];
+  Node16 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="xmippCore/core/xmipp\l_program_sql.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$xmipp__program__sql_8cpp.html"];
+  Node16 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="xmippViz/bindings/java\l/xmipp_MetaData.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bindings_2java_2xmipp__MetaData_8cpp.html"];
+  Node14 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}
