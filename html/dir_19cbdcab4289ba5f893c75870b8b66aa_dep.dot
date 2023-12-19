@@ -1,0 +1,9 @@
+digraph "xmippCore/core/utils" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_7b263f08efd4b5bafd60790250e211a5 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="core" fontname="Helvetica", fontsize="10", URL="dir_7b263f08efd4b5bafd60790250e211a5.html"]
+  dir_19cbdcab4289ba5f893c75870b8b66aa [shape=box, label="utils", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_19cbdcab4289ba5f893c75870b8b66aa.html"];
+  }
+}
