@@ -1,0 +1,48 @@
+digraph "ProgML2D"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node4 [label="ProgML2D",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ML2DBaseProgram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classML2DBaseProgram.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XmippProgram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classXmippProgram.html"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" progDef" ,fontname="Helvetica"];
+  Node7 [label="ProgramDef",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classProgramDef.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="ASTNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classASTNode.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" token" ,fontname="Helvetica"];
+  Node9 [label="ArgToken",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgToken.html"];
+  Node10 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pLexer" ,fontname="Helvetica"];
+  Node10 [label="ArgLexer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classArgLexer.html"];
+  Node8 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node11 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" usageComments\nexamples" ,fontname="Helvetica"];
+  Node11 [label="CommentList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCommentList.html"];
+  Node12 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" current_model\nmodel" ,fontname="Helvetica"];
+  Node12 [label="ModelML2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classModelML2D.html"];
+  Node13 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" MDref\nMDimg\nMDlog" ,fontname="Helvetica"];
+  Node13 [label="MetaDataDb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMetaDataDb.html"];
+  Node14 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="MetaData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMetaData.html"];
+  Node15 -> Node14 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _inFile" ,fontname="Helvetica"];
+  Node15 [label="FileName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classFileName.html"];
+  Node16 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="String",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node17 -> Node13 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" myMDSql" ,fontname="Helvetica"];
+  Node17 [label="MDSql",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMDSql.html"];
+  Node18 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" spectral_signal\ndocfiledata\nMr2\nP_phi" ,fontname="Helvetica"];
+  Node18 [label="MultidimArray\< double \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node19 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="MultidimArrayBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArrayBase.html"];
+  Node15 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" fn_oext\nfn_doc\nfn_control\nfn_sig\nfn_frac\nfn_ref\nfn_img\nfn_scratch\nfn_root" ,fontname="Helvetica"];
+  Node20 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" barrier2\nbarrier\nbarrier3" ,fontname="Helvetica"];
+  Node20 [label="mybarrier_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structmybarrier__t.html"];
+  Node18 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pfs_maxweight\nMimg\npfs_weight" ,fontname="Helvetica"];
+  Node21 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" omask\nmask\nMsignificant" ,fontname="Helvetica"];
+  Node21 [label="MultidimArray\< int \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMultidimArray.html"];
+  Node19 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" threads_d" ,fontname="Helvetica"];
+  Node22 [label="structThreadTasks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structstructThreadTasks.html"];
+  Node4 -> Node22 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" prm" ,fontname="Helvetica"];
+}
