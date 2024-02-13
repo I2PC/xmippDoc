@@ -1,9 +1,0 @@
-digraph "Determine the angular determination accuracy of a set of particles and a 3D reconstruction (MPI)"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir=LR;
-  Node0 [label="Determine the angular\l determination accuracy\l of a set of particles\l and a 3D reconstruction (MPI)",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node1 [label="Parallel library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ParallelLibrary.html"];
-  Node1->Node0 [shape=plaintext, dir="back", style="solid"];
-}
