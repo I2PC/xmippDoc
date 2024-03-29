@@ -1,0 +1,14 @@
+digraph "libsvm/svm-toy" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_c08c9061cc7872941f9641f7df432896 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="libsvm" fontname="Helvetica", fontsize="10", URL="dir_c08c9061cc7872941f9641f7df432896.html"]
+  subgraph clusterdir_10c80797785219e6c6560469a61bb950 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_10c80797785219e6c6560469a61bb950.html"];
+    dir_10c80797785219e6c6560469a61bb950 [shape=plaintext label="svm-toy"];
+    dir_c22da0207eaf8572e89e8730f3c78eee [shape=box label="qt" color="black" fillcolor="white" style="filled" URL="dir_c22da0207eaf8572e89e8730f3c78eee.html"];
+    dir_6322c6620948e63c97a9eabd520d2cd9 [shape=box label="windows" color="black" fillcolor="white" style="filled" URL="dir_6322c6620948e63c97a9eabd520d2cd9.html"];
+  }
+  }
+}
