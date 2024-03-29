@@ -1,9 +1,0 @@
-digraph "MRC File format"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir=LR;
-  Node0 [label="MRC File format",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node1 [label="Image Formats",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ImageFormats.html"];
-  Node1->Node0 [shape=plaintext, dir="back", style="solid"];
-}
