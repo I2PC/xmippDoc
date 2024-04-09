@@ -1,0 +1,12 @@
+digraph "xmipp/legacy/libraries/reconstruction/tomo_extract_subvolume.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node108 [label="xmipp/legacy/libraries\l/reconstruction/tomo_extract\l_subvolume.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node108 -> Node109 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node109 [label="xmipp/legacy/applications\l/programs/mpi_tomo_extract\l_subvolume/mpi_tomo_extract\l_subvolume.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__tomo__extract__subvolume_8cpp.html"];
+  Node108 -> Node110 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node110 [label="xmipp/legacy/applications\l/programs/tomo_extract\l_subvolume/tomo_extract\l_volume_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tomo__extract__volume__main_8cpp.html"];
+  Node108 -> Node111 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node111 [label="xmipp/legacy/libraries\l/reconstruction/tomo_extract\l_subvolume.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$tomo__extract__subvolume_8cpp.html"];
+}
