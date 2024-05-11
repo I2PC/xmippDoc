@@ -1,0 +1,14 @@
+digraph "xmipp/libraries/reconstruction/forward_zernike_images.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node104 [label="xmipp/libraries/reconstruction\l/forward_zernike_images.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node104 -> Node105 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node105 [label="xmipp/applications\l/programs/forward_zernike\l_images/forward_zernike\l_images_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$forward__zernike__images__main_8cpp.html"];
+  Node104 -> Node106 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node106 [label="xmipp/libraries/parallel\l/mpi_forward_zernike_images.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__forward__zernike__images_8cpp.html"];
+  Node106 -> Node107 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node107 [label="xmipp/applications\l/programs/mpi_forward\l_zernike_images/mpi_forward\l_zernike_images_main.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mpi__forward__zernike__images__main_8cpp.html"];
+  Node104 -> Node108 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node108 [label="xmipp/libraries/reconstruction\l/forward_zernike_images.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$forward__zernike__images_8cpp.html"];
+}
