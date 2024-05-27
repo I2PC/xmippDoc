@@ -1,0 +1,14 @@
+digraph "rfs_data"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="rfs_data",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" workers" ,fontname="Helvetica"];
+  Node2 [label="worker_data",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structworker__data.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" queue" ,fontname="Helvetica"];
+  Node3 [label="rfs::queue_bag\< task\l_data *\>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classrfs_1_1queue__bag.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" deviceKey" ,fontname="Helvetica"];
+  Node4 [label="timing_device_key",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structtiming__device__key.html"];
+  Node5 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" timing" ,fontname="Helvetica"];
+  Node5 [label="timing",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structtiming.html"];
+}
