@@ -1,0 +1,11 @@
+digraph "xmipp/legacy/applications/programs/parallel_forward_art_zernike3d" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a205c211814f26c7bbd02dbfc70fcda8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_a205c211814f26c7bbd02dbfc70fcda8.html"]
+  dir_3177b9a8982c94f1923245c1b5cb6f83 [shape=box, label="parallel_forward_art_zernike3d", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_3177b9a8982c94f1923245c1b5cb6f83.html"];
+  }
+  dir_ec5db26cfb72886407809adaaec84b8a [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_ec5db26cfb72886407809adaaec84b8a.html"];
+  dir_3177b9a8982c94f1923245c1b5cb6f83->dir_ec5db26cfb72886407809adaaec84b8a [headlabel="1", labeldistance=1.5 headhref="dir_000299_000325.html"];
+}
