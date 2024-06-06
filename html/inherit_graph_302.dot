@@ -1,7 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node0 [label="cuda_forward_art_zernike3\lD::Program\< PrecisionType\l \>::AngleParameters",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcuda__forward__art__zernike3D_1_1Program_1_1AngleParameters.html"];
-}
