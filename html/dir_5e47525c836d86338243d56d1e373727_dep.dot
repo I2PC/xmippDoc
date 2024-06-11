@@ -1,0 +1,11 @@
+digraph "xmipp/legacy/applications/programs/image_rotational_spectra" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_a205c211814f26c7bbd02dbfc70fcda8 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="programs" fontname="Helvetica", fontsize="10", URL="dir_a205c211814f26c7bbd02dbfc70fcda8.html"]
+  dir_5e47525c836d86338243d56d1e373727 [shape=box, label="image_rotational_spectra", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_5e47525c836d86338243d56d1e373727.html"];
+  }
+  dir_ec5db26cfb72886407809adaaec84b8a [shape=box label="libraries" fillcolor="white" style="filled" color="red" URL="dir_ec5db26cfb72886407809adaaec84b8a.html"];
+  dir_5e47525c836d86338243d56d1e373727->dir_ec5db26cfb72886407809adaaec84b8a [headlabel="1", labeldistance=1.5 headhref="dir_000286_000324.html"];
+}
