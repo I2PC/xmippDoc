@@ -1,9 +1,0 @@
-digraph "libsvm/svm-toy/windows" {
-  compound=true
-  node [ fontsize="10", fontname="Helvetica"];
-  edge [ labelfontsize="10", labelfontname="Helvetica"];
-  subgraph clusterdir_10c80797785219e6c6560469a61bb950 {
-    graph [ bgcolor="#ddddee", pencolor="black", label="svm-toy" fontname="Helvetica", fontsize="10", URL="dir_10c80797785219e6c6560469a61bb950.html"]
-  dir_6322c6620948e63c97a9eabd520d2cd9 [shape=box, label="windows", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_6322c6620948e63c97a9eabd520d2cd9.html"];
-  }
-}
