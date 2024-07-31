@@ -1,0 +1,32 @@
+digraph "alglib_impl::minbleicstate"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="alglib_impl::minbleicstate",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rstate" ,fontname="Helvetica"];
+  Node2 [label="alglib_impl::rcommstate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1rcommstate.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" ra\nia\nca\nba" ,fontname="Helvetica"];
+  Node3 [label="alglib_impl::ae_vector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__vector.html"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node4 [label="alglib_impl::ae_dyn\l_block",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__dyn__block.html"];
+  Node4 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p_next" ,fontname="Helvetica"];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" p_complex" ,fontname="Helvetica"];
+  Node5 [label="alglib_impl::ae_complex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__complex.html"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" lstate" ,fontname="Helvetica"];
+  Node6 [label="alglib_impl::linminstate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1linminstate.html"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" solver" ,fontname="Helvetica"];
+  Node7 [label="alglib_impl::snnlssolver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1snnlssolver.html"];
+  Node3 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" g\nrowmap\ndx\ncolumnmap\ncx\nxn\ntmpcholesky\ndiagaa\nr\nb\n..." ,fontname="Helvetica"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" densea\ntmpz\ntmpca" ,fontname="Helvetica"];
+  Node8 [label="alglib_impl::ae_matrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1ae__matrix.html"];
+  Node4 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node5 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pp_complex" ,fontname="Helvetica"];
+  Node9 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" sas" ,fontname="Helvetica"];
+  Node9 [label="alglib_impl::sactiveset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structalglib__impl_1_1sactiveset.html"];
+  Node7 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" solver" ,fontname="Helvetica"];
+  Node3 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" tmpfeas\nhasbndu\nh\nrctmpg\nbndl\nrctmpconstraintidx\nmtas\nactiveset\nscntmp\nhasbndl\n..." ,fontname="Helvetica"];
+  Node8 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" cleic\nibasis\ntmpbasis\nrctmpdense0\nrctmpdense1\ntmpm0\nsbasis\npbasis" ,fontname="Helvetica"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" g\nx\nrho\nwork\nhasbndu\nbndl\ntmpprec\ngn\nxn\ndiagh\n..." ,fontname="Helvetica"];
+  Node8 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" cleic\nyk\nsk" ,fontname="Helvetica"];
+}
