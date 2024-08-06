@@ -1,0 +1,16 @@
+digraph "ObjectiveFunction"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node5 [label="ObjectiveFunction",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" bu\nxBest\nbl\nb\nxStart\nxOptimal" ,fontname="Helvetica"];
+  Node6 [label="Vector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector.html"];
+  Node6 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" emptyVector" ,fontname="Helvetica"];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" d" ,fontname="Helvetica"];
+  Node7 [label="Vector::VectorDataTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structVector_1_1VectorDataTag.html"];
+  Node8 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data\nA" ,fontname="Helvetica"];
+  Node8 [label="Matrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classMatrix.html"];
+  Node9 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" d" ,fontname="Helvetica"];
+  Node9 [label="Matrix::MatrixDataTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structMatrix_1_1MatrixDataTag.html"];
+  Node8 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" emptyMatrix" ,fontname="Helvetica"];
+}
