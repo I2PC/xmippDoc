@@ -1,0 +1,23 @@
+digraph "Libraries"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node7 [label="Parallel library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ParallelLibrary.html"];
+  Node1 [label="Basic data library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__DataLibrary.html"];
+  Node3 [label="Classification library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ClassificationLibrary.html"];
+  Node0 [label="Libraries",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 [label="Interface library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__InterfaceLibrary.html"];
+  Node2 [label="Reconstruction library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__ReconsLibrary.html"];
+  Node8 [label="Dimensionality reduction\l library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__DimRedLibrary.html"];
+  Node6 [label="Bilib library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__BilibLibrary.html"];
+  Node4 [label="Graphics library",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group__GraphicsLibrary.html"];
+  Node0->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node5 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node6 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node7 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node8 [shape=plaintext, dir="back", style="solid"];
+}
